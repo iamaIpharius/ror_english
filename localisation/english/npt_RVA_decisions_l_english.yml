@@ -1,0 +1,64 @@
+﻿l_english:
+ RCW_liberate_CRI_from_commies:0 "Liberation of the Crimea"
+
+ rcw_RVA_unification_of_south_whites_decisions:0 "South Whites Unification"
+ rcw_RVA_unification_of_south_whites_decisions_desc:0 "Victory in the Civil War is unthinkable without the unification of all the healthy forces of the vast southern region of our Motherland. Only under the united control can goals that lie far beyond the basins of the Don, Volga and Dnieper be achieved. To establish such a lasting alliance, many more negotiations will have to be held, but a start has been made and work is already underway. \n[Root.DON_RVA_unification_var][Root.KUB_RVA_unification_var][Root.UKR_RVA_unification_var][Root.CRI_RVA_unification_var][Root.CPG_RVA_unification_var][Root.MRC_RVA_unification_var]"
+
+ DON_RVA_unification_var_less_neg1:0 "\n§Y[DON.GetName]§! does not negotiate"
+ DON_RVA_unification_var_neg1:0 "\n§Y[DON.GetName]§! suffers from independence"
+ DON_RVA_unification_var_0_to_2:0 "\n§Y[DON.GetName]§! shows indifference"
+ DON_RVA_unification_var_3_to_5:0 "\n§Y[DON.GetName]§! seeks our support"
+ DON_RVA_unification_var_true:0 "\n§Y[DON.GetName]§! trusts us completely"
+ 
+ KUB_RVA_unification_var_less_neg1:0 "\n§R[KUB.GetName]§! does not negotiate"
+ KUB_RVA_unification_var_neg1:0 "\n§R[KUB.GetName]§! suffers from independence"
+ KUB_RVA_unification_var_0_to_2:0 "\n§R[KUB.GetName]§! shows indifference"
+ KUB_RVA_unification_var_3_to_5:0 "\n§R[KUB.GetName]§! seeks our support"
+ KUB_RVA_unification_var_true:0 "\n§R[KUB.GetName]§! trusts us completely"
+ 
+ UKR_RVA_unification_var_less_neg1:0 "\n§G[UKR.GetName]§! does not negotiate"
+ UKR_RVA_unification_var_neg1:0 "\n§G[UKR.GetName]§! suffers from independence"
+ UKR_RVA_unification_var_0_to_2:0 "\n§G[UKR.GetName]§! shows indifference"
+ UKR_RVA_unification_var_3_to_5:0 "\n§G[UKR.GetName]§! seeks our support"
+ UKR_RVA_unification_var_true:0 "\n§G[UKR.GetName]§! trusts us completely"
+
+ CRI_RVA_unification_var_less_neg1:0 "\n§M[CRI.GetName]§! does not negotiate"
+ CRI_RVA_unification_var_neg1:0 "\n§M[CRI.GetName]§! suffers from autonomy"
+ CRI_RVA_unification_var_0_to_2:0 "\n§M[CRI.GetName]§! shows indifference"
+ CRI_RVA_unification_var_3_to_5:0 "\n§M[CRI.GetName]§! seeks our support"
+ CRI_RVA_unification_var_true:0 "\n§M[CRI.GetName]§! fully trusts us"
+ 
+ CPG_RVA_unification_var_less_neg1:0 "\n§L[CPG.GetName]§! does not negotiate"
+ CPG_RVA_unification_var_neg1:0 "\n§L[CPG.GetName]§! suffers from independence"
+ CPG_RVA_unification_var_0_to_2:0 "\n§L[CPG.GetName]§! shows indifference"
+ CPG_RVA_unification_var_3_to_5:0 "\n§L[CPG.GetName]§! seeks our support"
+ CPG_RVA_unification_var_true:0 "\n§L[CPG.GetName]§! fully trusts us"
+ 
+ MRC_RVA_unification_var_less_neg1:0 "\n§g[MRC.GetName]§! does not negotiate"
+ MRC_RVA_unification_var_neg1:0 "\n§g[MRC.GetName]§! suffers from independence"
+ MRC_RVA_unification_var_0_to_2:0 "\n§g[MRC.GetName]§! shows indifference"
+ MRC_RVA_unification_var_3_to_5:0 "\n§g[MRC.GetName]§! seeks our support"
+ MRC_RVA_unification_var_true:0 "\n§g[MRC.GetName]§! trusts us completely"
+
+ RVA_unification_var_2_or_more:0 "country seeks our support"
+ RVA_unification_var_5_or_more:0 "country has full confidence in us"
+ RVA_unification_var_7_or_more:0 "administration is sufficiently integrated"
+ 
+ RVA_show_army_superiority:0 "Show military superiority to §Y[FROM.GetName]§!"
+ RVA_establish_diplomatic_relations:0 "Establish diplomatic relations with §Y[FROM.GetName]§!"
+ RVA_seeking_for_support_of_militaries:0 "Seek support from the military circles of §Y[FROM.GetName]§!"
+ RVA_support_hawks:0 "Support the hawks in §Y[FROM.GetName]§!"
+ RVA_establish_recruiting_network:0 "Establish a recruiting network in §Y[FROM.GetName]§!"
+ RVA_call_to_union:0 "Call §Y[FROM.GetName]§ to an alliance!"
+ RVA_prepare_coup:0 "Prepare a coup in §Y[FROM.GetName]§!"
+ RVA_integrate_administration:0 "Integrate civil and military administration with §Y[FROM.GetName]§!"
+ RVA_annex_ally:0 "Full union with §Y[FROM.GetName]§!"
+
+ RVA_struggle_aganest_RVA_influence:0 "Struggle against [RVA.GetAdjective]his influence"
+ 
+ rcw_RVA_savinkov_missions_decisions:0 "Savinkov's Mission"
+ rcw_RVA_savinkov_missions_decisions_desc:0 "After organizing the uprisings behind the Red lines, Savinkov's authority in the eyes of the white leaders has risen somewhat. And since he has a wide circle of acquaintances, we have the opportunity to use him for diplomatic purposes."
+ NWA_savinkov_mission_progress:0 "Savinkov is not on a trip"
+ RVA_savinkov_missions_in_NWA:0 "Visit to the Northwest Region"
+ RVA_savinkov_missions_in_CCA:0 "Visit to [CCA.GetName]"
+ RVA_savinkov_missions_in_POL:0 "Visit to Poland"

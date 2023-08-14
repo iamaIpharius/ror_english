@@ -1,0 +1,162 @@
+﻿l_english:
+ SIB_CCA_border:0 "Border Proceedings"
+ 
+ CCA_replace_soviets_on_zemstvos_idea:0 "Replacing the Soviets with new Zemstvos"
+ 
+ CCA_workers_questions_idea:0 "Solution of the Work Question"
+ 
+ CCA_mobilization_idea:0 "Mobilization to the «People's Army»"
+ 
+ CCA_consular_citizen_idea:0 "Citizen-Consul"
+ CCA_hunta_idea:0 "Military Protectorate"
+ CCA_stolypin_really_god_man_idea:0 "Stolypin's Method"
+ CCA_new_feudal_lord_idea:0 "New Nobility"
+ 
+ SIB_right_oficers:0 "Inflow of Right-wing Officers"
+ SIB_right_oficers_desc:0 "The backbone of the officers of the Siberian army is made up of various opponents «revolutions», therefore, the influence of the right on politics is growing. But our government will take care of maintaining stability."
+ meeting_fail:0 "The meeting could not take place"
+ 
+ SIB_siberian_army_idea:0 "Mobilization to the Siberian Army"
+ SIB_russian_politburo_idea:0 "Russian Political Bureau"
+ SIB_liberty_loan_idea:0 "Freedom Loan"
+ SIB_siberian_consessions:0 "Siberian Concessions"
+ SIB_USA_economic_intervention:0 "American Intervention in the Economy"
+ 
+ SIB_antibolshevik_crusade_idea:0 "Crusade Against Bolshevism"
+ SIB_antibolshevik_crusade_idea_desc:0 "The atheists seek to trample on our Faith, but we are the army of Christ and will not give them rest either on earth or in heaven. Armed with holy scripture, the Squads of the Holy Cross are preparing to turn the tide of war and history. The beast will fall, Babylon will be destroyed! Deus Vult!"
+ SIB_to_the_last_sea_idea:0 "To the Last Sea"
+ SIB_to_the_last_sea_idea_desc:0 "The great march predicted by many sages at the turn of the twentieth century begins. Yellow Asia is now going to subside and destroy White Europe. Mighty hordes of nomads cross the Urals, spitting out lead, side by side. This is a new migration of peoples. Tremble the stupid old world!"
+ SIB_quotas_for_russian_immigrants_idea:0 "Resettlement Quotas"
+ SIB_quotas_for_russian_immigrants_idea_desc:0 "The peasants of central Russia are still in an oppressed state, while the endless expanses of their native Siberia are still waiting for their colonizer. These two circumstances are simply vital to connect. Quotas, allocation of vacant land, financial support, inclusion in cooperatives - will create an inexhaustible source of the emergence of new citizens of Siberia."
+ SIB_eastern_universities_idea:0 "Eastern Universities"
+ SIB_siberian_bread_idea:0 "Siberian Bread"
+ SIB_transmongolian_road_building_idea:0 "Construction of the Trans-Mongolian road"
+ SIB_trade_unionism_idea:0 "Trade Unionism"
+ SIB_trade_unionism_idea_desc:0 ""
+ SIB_new_russian_capital_is_Siberia_idea:0 "New Russian Capital"
+ SIB_new_russian_capital_is_Siberia_idea_desc:0 "Under our wise leadership, a new country has been built - Siberia, free both from officials from Moscow, all kinds of dangerous dreamers and foreign invaders. And therefore the new country needs a worthy capital. However, we should not forget about our Russian brothers... From now on, Sibi will become the center of Russian civilization, we deserve it!"
+ SIB_police_reform_idea:0 "Police Reform"
+ SIB_cooperative_meeting_idea:0 "Cooperatives"
+ 
+ SIB_transsib:0 "Transsib"
+ 
+ RSS_emergency_economic_meeting_idea:0 "Extraordinary Economic Meeting"
+ RSS_working_cash_idea:0 "Workers' Cash Desks"
+ RSS_domobilization_idea:0 "Additional Mobilisation"
+ RSS_militar_field_courts_idea:0 "Court-martial"
+ RSS_general_appeal_cossack_idea:0 "General Appeal of the Cossacks"
+ RSS_atamanshina:0 "Atamanschina"
+ RSS_atamanshina_volkov:0 "Atamanschina"
+ RSS_atamanshina_ivanov_rinov:0 "Atamanschina"
+ RSS_disjointed_government:0 "Divided Government"
+ RSS_disjointed_government_after:0 "Divided Government"
+ 
+ 
+ BKL_russian_volunteers_idea:0 "Inflow of Russian Volunteers"
+ 
+ BKL_right_oficers:0 "Inflow of Right-wing Officers"
+ BKL_right_oficers_desc:0 "Right-wing officers from Russia flock to the CER zone, hard-core reactionaries who will stop at nothing to fight the revolution, so the influence of these sentiments on politics is growing."
+ BKL_japanese_loans_idea:0 "Japanese Loans"
+ BKL_special_manchu_squad_idea:0 "Special Manchu Squad"
+ BKL_confiscation_idea:0 "Confiscations"
+ BKL_counterrevolutionary_army_idea:0 "Counterrevolutionary Army"
+ BKL_far_east_cossacks_idea:0 "Far Eastern Cossacks"
+ BKL_BRY_units_idea:0 "Buryat Detachments"
+ BKL_BRY_units_2_idea:0 "Buryat Detachments"
+ BKL_balagat_movement:0 "Balagat Movement"
+ BKL_balagat_movement_1:0 "Balagat Movement"
+ BKL_quotas_for_russian_immigrants_idea:0 "Resettlement Quotas"
+ BKL_okazachivanie_idea:0 "Rendering"
+ BKL_BRY_zemstos_idea:0 "Buryat Zemstvos"
+ BKL_controll_over_buddhism_idea:0 "Central Buddhist Office"
+ BKL_sedarization_idea:0 "Sedentarization"
+ 
+ BKL_subsidies_from_SIB_idea:0 "Government Sponsorship"
+ SIB_subsidies_for_BKL_idea:0 "Subsidies to Transbaikal Residents"
+ 
+ BKL_antibolshevik_crusade_idea:0 "Crusade Against Bolshevism"
+ BKL_antibolshevik_crusade_idea_desc:0 "The atheists seek to trample on our Faith, but we are the army of Christ and will not give them rest either on earth or in heaven. Armed with holy scripture, the Squads of the Holy Cross are preparing to turn the tide of war and history. The beast will fall, Babylon will be destroyed! Deus Vult!"
+ 
+ BKL_Peoples_army_presence_idea:0 "The Presence of the People's Army"
+ BKL_replace_soviets_on_zemstvos_idea:0 "Replacing the Soviets with new Zemstvos"
+ 
+ BKL_equipment_sabotage:0 "Sabotage"
+ 
+ 
+ 
+ OCH_burnt_villages_1:0 "Burned Villages"
+ OCH_burnt_villages_2:0 "Burned Villages"
+ OCH_burnt_villages_3:0 "Burned Villages"
+ OCH_low_discipline_idea:0 "Low Discipline"
+ OCH_divided_host_idea:0 "Divided Army"
+ OCH_subsidies_idea:0 "Subsidies"
+ OCH_substandard_ammunition_idea:0 "Poor Quality Cartridges"
+ OCH_osvedstep_idea:0 "Osvedstep"
+ OCH_wide_offensive_idea:0 "Decisive Offensive"
+ OCH_replace_soviets_on_zemstvos_idea:0 "Replacing the Soviets with New Zemstvos"
+ 
+ OCH_urban_resistance_idea:0 "Urban Resistance"
+ OCH_uncontrol_uncontrolled_robbery_idea:0 "Uncontrolled Robbery"
+ OCH_cossack_convertion_idea:0 "Transition to the Cossacks"
+ OCH_cossack_cavalry_idea:0 "Cossack Cavalry"
+ OCH_cossack_infantry_idea:0 "Cossack Infantry"
+ OCH_forced_relocation_idea:0 "Forced Relocation"
+ OCH_military_class_expansion_idea:0 "Expansion of the Military Class"
+ OCH_spirit_of_freedom_idea:0 "Spirit of Freedom"
+ 
+ Ivan_Akulinin_1:0 "Ivan Akulinin"
+ Ivan_Akulinin_high_command:0 "Ivan Akulinin"
+ Ivan_Akulinin_dead:0 "Dead"
+ Ivan_Akulinin_dismissed:0 "Fired"
+ Ivan_Akulinin_is_here:0 "Here"
+ 
+ Alexandr_Dutov_1:0 "Alexander Dutov"
+ Alexandr_Dutov_army_chief:0 "Alexander Dutov"
+ Alexandr_Dutov_dead:0 "Dead"
+ Alexandr_Dutov_dismissed:0 "Fired"
+ Alexandr_Dutov_is_here:0 "Here"
+ 
+ Alexandr_Ivanov_2:0 "Alexander Ivanov"
+ Alexandr_Ivanov_dead:0 "Dead"
+ 
+ Vasiliy_Rudakov_3:0 "Vasily Rudakov"
+ Vasiliy_Rudakov_dead:0 "Dead"
+ 
+ Grigoriy_Shangin_4:0 "Grigory Shangin"
+ Grigoriy_Shangin_dead:0 "Dead"
+ 
+ Ivan_Shivtsov_5:0 "Ivan Shivtsov"
+ Ivan_Shivtsov_dead:0 "Dead"
+ 
+ Vasiliy_Polovnikov_6:0 "Vasily Polovnikov"
+ Vasiliy_Polovnikov_dead:0 "Dead"
+ Vasiliy_Polovnikov_dismissed:0 "Fired"
+
+ UCH_gorynichi:0 "Gorynychi"
+ UCH_gorynichi_desc:0 "The Urals in their structure and position differ from the rest of the Cossack troops, deeply conservative and Old Believers, they are able to show miracles of solidarity, courage and initiative in war. "
+ UCH_dvoevlastie:0 "Dual Power"
+ UCH_dvoevlastie_desc:0 "The Cossacks unconditionally obey the military congress, while among the non-Cossack (primarily non-Russian) population, the congress of peasant and nonresident deputies is popular, challenging the power in the region."
+ 
+ Guryan_Fomichev_1:0 "Guryan Fomichev"
+ Guryan_Fomichev_dead:0 "Dead"
+ Feofan_Eremin_3:0 "Feofan Eremin"
+ Feofan_Eremin_dead:0 "Dead"
+ Vladimir_Akutin_6:0 "Vladimir Akutin"
+ Vladimir_Akutin_army_chief:0 "Vladimir Akutin"
+ Vladimir_Akutin_dead:0 "Dead"
+ Mokiy_Kabaev_without_briefcase:0 "Mokiy Kabaev"
+ Mokiy_Kabaev_dead:0 "Dead"
+ Matvey_Martynov_army_chief:0 "Matvey Martynov"
+ Matvey_Martynov_dead:0 "Dead"
+ Matvey_Martynov_dismissed:0 "Fired"
+ Mikhail_Borodin_high_command:0 "Mikhail Borodin"
+ Mikhail_Borodin_dead:0 "Dead"
+ Sergey_Kirillov_high_command:0 "Sergey Kirillov"
+ Sergey_Kirillov_dead:0 "Dead"
+ Sergey_Shepekhin_high_command:0 "Sergey Shchepikhin"
+ Sergey_Shepekhin_dead:0 "Dead"
+
+ ACH_troevlastie:0 "Trial Power"
+ ACH_troevlastie_desc:0 "Power in the Astrakhan province is divided among themselves by military rule, moderate socialist temporary workers and radical leftist Soviets."
+ ACH_right_oficers:0 "Inflow of Right-wing Officers"
+ ACH_right_oficers_desc:0 "Officers persecuted by the Soviets from all over the lower Volga region flock to Astrakhan."

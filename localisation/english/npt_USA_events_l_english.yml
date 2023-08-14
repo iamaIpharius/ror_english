@@ -1,0 +1,279 @@
+﻿l_russian:
+ USA_ROR.1.t: "US Proposal"
+ USA_ROR.1.desc: "Our American colleagues, fearing the threat from the UK and its possible expansion, offer us protection."
+ USA_ROR.1.a: "We're on our way with the USA"
+ USA_ROR.1.b: "Nice try, Uncle Sam......"
+ 
+ USA_ROR.2.t: "Saudi agree"
+ USA_ROR.2.desc: "Having understood what we wanted to convey to them, they agree to a partial transfer of power to us."
+ USA_ROR.2.a: "This is an important victory for us"
+ 
+ USA_ROR.3.t: "Saudi refuse"
+ USA_ROR.3.desc: "Saudi Arabia refuses our offer, saying that we ourselves want to seize their wealth"
+ USA_ROR.3.a: "How dare they!"
+
+ USA_ROR.4.t: "President's speech in Texas"
+ USA_ROR.4.desc: "Our President spoke today in Texas, where residents are demanding more autonomy. What will we offer them in return?"
+ USA_ROR.4.a: "Pledge to make Texas the main US military base"
+ USA_ROR.4.b: "Turn Texas into an industrial paradise"
+ USA_ROR.4.c: "Promise new rail tracks"
+ USA_ROR.4.d: "Let's increase investment in Texas"
+ 
+ USA_ROR.5.t: "Ultimatum from USA"
+ USA_ROR.5.desc: "The United States has given us an ultimatum, demanding that we join them peacefully. If we refuse, war awaits us."
+ USA_ROR.5.a: "Better give up"
+ USA_ROR.5.b: "We will stand until the end"
+ 
+ USA_ROR.6.t: "Cuba accepts ultimatum"
+ USA_ROR.6.desc: "It became clear today that Cuba has accepted the ultimatum and is asking our troops to enter Havana."
+ USA_ROR.6.a: "They made the right choice"
+ 
+ USA_ROR.7.t: "Cuba refuses"
+ USA_ROR.7.desc: "Cuba has refused and is mobilizing its troops."
+ USA_ROR.7.a: "For the sake of the USA!"
+ 
+ USA_ROR.8.t: "End of occupation of the Dominican Republic"
+ USA_ROR.8.desc: "July 12, 1924, the term of the US military administration in the Dominican Republic ended. In this regard, the question arose of transferring the powers of government of the Republic to the Dominican administration."
+ USA_ROR.8.a: "Time to set them free!"
+ USA_ROR.8.b: "What? What treaty?"
+ 
+ USA_ROR.9.t: "Reforms done"
+ USA_ROR.9.desc: "Reforms have been carried out, laws have been approved, seals and signatures have been placed. It remains only to see the reaction of society."
+ USA_ROR.9.a: "Let's hope for the best..."
+ 
+ USA_ROR.10.t: "Civil War!"
+ USA_ROR.10.d: "Opinions in the government have changed drastically, after a failed attempt at reforming politics, people began to lean towards the communist left and take up arms! We still have a chance to keep the peace by creating a social democratic government."
+ USA_ROR.10.a: "Support Democracy"
+ USA_ROR.10.b: "Support authoritarian government"
+ USA_ROR.10.c: "Support the communist regime"
+ 
+ USA_ROR.11.t: "US demands referendum"
+ USA_ROR.11.d: "The US thinks we should hold a referendum in Baja California. There are enough English-speaking people there that we need to consider whether to hold it at all..."
+ USA_ROR.11.a: "Let's do it!"
+ USA_ROR.11.b: "The Americans are clearly up to something..."
+ 
+ USA_ROR.12.t: "Mexico refused"
+ USA_ROR.12.d: "Believing that we were going to influence the results of the referendum, Mexico refused to hold it. The war will be just!"
+ USA_ROR.12.a: "God save America!"
+ 
+ USA_ROR.13.t: "Victory in the referendum"
+ USA_ROR.13.desc: "Before the elections, we launched a big propaganda campaign in Baja California: the promise of a better life, benefits for the population, free food, even had to use weapons in some regions. The results are clear, Mexico lost the elections by a huge margin!"
+ USA_ROR.13.a: "So much spending is not in vain"
+ 
+ USA_ROR.15.t: "Lost in referendum"
+ USA_ROR.15.desc: "The Americans did not even hide the presence of propaganda. They openly called for a vote to join the United States. We lost the referendum miserably."
+ USA_ROR.15.a: "Someday we will have our revenge..."
+ 
+ USA_ROR.14.t: "Lost in referendum"
+ USA_ROR.14.desc: "Before the election, we launched a big propaganda campaign in Baja California: the promise of a better life, benefits for the population, free food, even had to use weapons in some regions. But alas, the people of Baja California voted to stay in part of Mexico."
+ USA_ROR.14.a: "The people have made their choice"
+ USA_ROR.14.b: "We all knew this plan was a big risk..."
+ 
+ USA_ROR.16.t: "Victory in the referendum"
+ USA_ROR.16.desc: "We were able to hold Baja California!"
+ USA_ROR.16.a: "The people were right"
+ 
+ USA_ROR.17.t: "Denationalization of failed enterprises"
+ USA_ROR.17.desc: "We have some state-owned companies that don't bring in much profit and are expensive. We can sell them to young talented investors, of course, if we want..."
+ USA_ROR.17.a: "Sell"
+ USA_ROR.17.b: "We do not trade with the state"
+ 
+ USA_ROR.18.t: "Denationalization of unsuccessful military enterprises"
+ USA_ROR.18.desc: "We have some military corporations that don't bring in much profit and are expensive. We can sell them to young talented investors, of course, if we want..."
+ USA_ROR.18.a: "Sell"
+ USA_ROR.18.b: "We do not trade with the state"
+ 
+ USA_ROR.19.t: "US joins the Entente"
+ USA_ROR.19.desc: "Seeing how hell is going on in Europe, the US decides to support the Entente in this war, because if this is not done, it will either lose or the war will drag on indefinitely."
+ USA_ROR.19.a: "Forward!"
+ 
+ USA_ROR.22.t: "Light of Freedom"
+ USA_ROR.22.desc: "The USA decides to help us in the fight for independence, but for this we must fight on their side..."
+ USA_ROR.22.a: "Thanks to the ambassador, no words for the British!"
+ 
+ USA_ROR.26.t: "Croatian uprising!"
+ USA_ROR.26.desc: "Croats dissatisfied with the regime have revolted! According to the latest reports, they control Croatia and Sarajevo."
+ USA_ROR.26.a: "Damn!"
+ 
+ USA_ROR.27.t: "Formation of Volunteer Regiments"
+ USA_ROR.27.desc: "The new conscripts formed an army."
+ USA_ROR.27.a: "Forward!"
+ 
+ USA_ROR.28.t: "General Putsch"
+ USA_ROR.28.desc: "Today the generals took over the US."
+ USA_ROR.28.a: "This is a new path for all of America!"
+ 
+ USA_ROR.29.t: "The fate of Woodrow Wilson"
+ USA_ROR.29.desc: "After seizing power, we must decide what to do with former President Woodrow Wilson."
+ USA_ROR.29.a: "Shooting"
+ USA_ROR.29.b: "Let him live his own life"
+ USA_ROR.29.c: "He will stay in the White House"
+ 
+ USA_ROR.33.t: "US demands Canada"
+ USA_ROR.33.desc: "Communists who have come to power in the US demand that Canada be handed over to them."
+ USA_ROR.33.a: "Let them take"
+ USA_ROR.33.b: "Never"
+ USA_ROR.33.c: "Let's give Canadians a choice"
+ 
+ USA_ROR.34.t: "Canada agrees"
+ USA_ROR.34.desc: "Starting at us, the Canadians immediately surrendered!"
+ USA_ROR.34.a: "Forward!"
+ 
+ USA_ROR.36.t: "Communists gain popularity"
+ USA_ROR.36.desc: "Today it became clear that communist movements have become very popular in France! Some people think that outside forces could not have done here..."
+ USA_ROR.36.a: "Hopefully it's all about popularity!"
+ 
+ USA_ROR.35.t: "US demands obedience"
+ USA_ROR.35.desc: "Communists who have come to power in the USA demand submission."
+ USA_ROR.35.a: "We'll have to"
+ USA_ROR.35.b: "Never"
+ 
+ USA_ROR.39.t: "Spain agreed"
+ USA_ROR.39.desc: "After much negotiation, Spain finally agreed to join the Central Powers."
+ USA_ROR.39.a: "The Entente will fall!"
+ 
+ USA_ROR.40.t: "Spain joins the Central Powers"
+ USA_ROR.40.desc: "Spain, with US support, decides to join the Central Powers."
+ USA_ROR.40.a: "The Entente will fall!"
+ 
+ USA_ROR.41.t: "Spain refuses to join the Central Powers"
+ USA_ROR.41.desc: "No matter how hard our ambassadors tried, Spain never joined the Central Powers."
+ USA_ROR.41.a: "It didn't hurt and I wanted to"
+ 
+ USA_ROR.42.t: "Offer for Spain"
+ USA_ROR.42.desc: "Spain agreed to join the Central Powers, but they asked for investment. Note: if Spain agrees, plants, factories or divisions will be built in it, and 100 political power will be taken from you."
+ USA_ROR.42.a: "Civil Industry Aid"
+ USA_ROR.42.b: "Aid to the military industry"
+ USA_ROR.42.c: "Helping Army Formation"
+
+ USA_ROR.43.t: "Investments"
+ USA_ROR.43.desc: "The US has offered us investment in civilian industry."
+ USA_ROR.43.a: "It's different!"
+ USA_ROR.43.b: "Still no"
+ 
+ USA_ROR.61.t: "Ultimatum"
+ USA_ROR.61.desc: "US demands immediate submission!"
+ USA_ROR.61.a: "We'll have to"
+ USA_ROR.61.b: "Never!"
+ 
+ USA_ROR.62.t: "Mexico surrenders"
+ USA_ROR.62.desc: "Having learned about the ultimatum, the Mexicans immediately surrendered!"
+ USA_ROR.62.a: "Forward!"
+ 
+ USA_ROR.44.t: "Investments"
+ USA_ROR.44.desc: "The US has offered us investment in the military industry."
+ USA_ROR.44.a: "It's different!"
+ USA_ROR.44.b: "Still no"
+ 
+ USA_ROR.45.t: "Investments"
+ USA_ROR.45.desc: "The US has offered us an investment in the military."
+ USA_ROR.45.a: "It's different!"
+ USA_ROR.45.b: "Still no"
+ 
+ USA_ROR.49.t: "Invitation to CAR"
+ USA_ROR.49.desc: "The US has offered to join the CAR."
+ USA_ROR.49.a: "Together we are stronger!"
+ USA_ROR.49.b: "Still no"
+ 
+ USA_ROR.54.t: "Invitation"
+ USA_ROR.54.desc: "We are being asked to unite with Argentina."
+ USA_ROR.54.a: "Together we are stronger!"
+ USA_ROR.54.b: "Still no"
+ 
+ USA_ROR.58.t: "US demands obedience"
+ USA_ROR.58.desc: "US demands immediate autonomy."
+ USA_ROR.58.a: "We'll have to"
+ USA_ROR.58.b: "Never!"
+ 
+ USA_ROR.59.t: "Brazil agrees"
+ USA_ROR.59.desc: "Brazil agreed to autonomy."
+ USA_ROR.59.a: "We're one step closer"
+ 
+ USA_ROR.60.t: "Brazil refuses"
+ USA_ROR.60.desc: "Brazil has refused autonomy."
+ USA_ROR.60.a: "We've gone too far..."
+ USA_ROR.60.b: "Their choice means nothing"
+ 
+ USA_ROR.63.t: "Impeachment of Woodrow Wilson"
+ USA_ROR.63.desc: "Woodrow Wilson announced today that he is stepping down as president. Early elections will be held."
+ USA_ROR.63.a: "What will this mean for us?"
+ 
+ USA_ROR.64.t: "US proposes to unite"
+ USA_ROR.64.desc: "The United States proposes to unite, forgetting grudges."
+ USA_ROR.64.a: "Yes"
+ USA_ROR.64.b: "None"
+ 
+ USA_ROR.65.t: "Question two-party system"
+ USA_ROR.65.desc: "The people are hungry for change. It's time to decide what our political system will be."
+ USA_ROR.65.a: "The two-party system remains!"
+ USA_ROR.65.b: "Let's start partial reforms on this"
+ USA_ROR.65.c: "Dissolve the system immediately!"
+ 
+ USA_ROR.50.t: "Colombia Agrees"
+ USA_ROR.50.desc: "After lengthy negotiations, it has been decided that Colombia is part of the CAR."
+ USA_ROR.50.a: "Together we are stronger!"
+ 
+ USA_ROR.57.t: "Unification of Chile and Argentina"
+ USA_ROR.57.desc: "For our future plans, we need Argentina and Chile to be united."
+ USA_ROR.57.a: "Let's try..."
+ 
+ USA_ROR.53.t: "Unification with Chile"
+ USA_ROR.53.desc: "For our future plans, we need Chile and us to be united."
+ USA_ROR.53.a: "Let's try..."
+ 
+ USA_ROR.51.t: "Colombia refused"
+ USA_ROR.51.desc: "After lengthy negotiations, it has been decided that Colombia is not part of the CAR."
+ USA_ROR.51.a: "They'll get in anyway, no one gave them a choice"
+
+ 
+ USA_ROR.46.t: "Formation of the CAR"
+ USA_ROR.46.desc: "The US decided to create one big country in Central America. They offered us to be the basis of a new state."
+ USA_ROR.46.a: "Time to reclaim our former glory!"
+ 
+ USA_ROR.47.t: "Question about the transfer of Panama"
+ USA_ROR.47.desc: "We recently occupied Panama. If we want to continue the campaign to form the CAR, we need to turn it over; the Panama Canal will remain under our control anyway."
+ USA_ROR.47.a: "Yes"
+ USA_ROR.47.b: "No"
+ 
+ USA_ROR.38.t: "War?"
+ USA_ROR.38.desc: "A war is raging in Europe, and the US has made its choice in favor of the Central Powers. They are proposing to leave neutrality and unite."
+ USA_ROR.38.a: "Let's build a new world!"
+ USA_ROR.38.b: "Never"
+ USA_ROR.38.c: "What will they offer us?"
+ 
+ USA_ROR.37.t: "Communist uprising!"
+ USA_ROR.37.desc: "A group of powerful army generals has issued a proclamation denouncing the incumbent French government! They staged a leftist coup with the support of the US and the Russian Communists. Most of the army joined the Communists, but so far they have not been able to capture any of the major French cities, except for Bordeaux. \n\nThe battlefield is drawn, so which faction should we support?"
+ USA_ROR.37.a: "Democratic Regime"
+ USA_ROR.37.b: "Communist Regime"
+ 
+ USA_ROR.30.t: "US demands obedience"
+ USA_ROR.30.desc: "We are an important foothold for the US in Africa, so they are offering to peacefully join them."
+ USA_ROR.30.a: "It's better for everyone"
+ USA_ROR.30.b: "We will keep our freedom!"
+ 
+ USA_ROR.32.t: "Communist wing selection"
+ USA_ROR.32.desc: "We need to choose whether we need radicalization to start a World Revolution."
+ USA_ROR.32.a: "Radicalization!"
+ USA_ROR.32.b: "We will remain moderate communists"
+ 
+ USA_ROR.31.t: "Liberia Surrenders"
+ USA_ROR.31.desc: "Upon learning of our ultimatum, the Liberian government immediately recognized our authority and surrendered!"
+ USA_ROR.31.a: "It's better for everyone"
+ 
+ LON.1.t: "Invitation to the League of Nations"
+ LON.1.desc: "After the Great War, many countries of the second world were on the verge, many new states appeared, many rose from the ashes. To prevent this from happening again, the United States will organize the League of Nations - a formal alliance of the strongest states that will maintain peace in all the world."
+ LON.1.a: "For Peace"
+ LON.1.b: "This will hinder our further ambitions!"
+ 
+ LON.2.t: "Consent"
+ LON.2.desc: "We have received consent to join the League of Nations."
+ LON.2.a: "We will try to keep the peace"
+ 
+ LON.3.t: "Rejection"
+ LON.3.desc: "We have received a refusal to join the League of Nations"
+ LON.3.a: "We will try to keep the peace"
+ 
+ USA_ROR.20.t: "US joins the Entente"
+ USA_ROR.20.desc: "Seeing how hell is going on in Europe, the US decides to support the Entente in this war, because if this is not done, it will either lose or the war will drag on indefinitely."
+ USA_ROR.20.a: "Big brother is with us now!"
+ 

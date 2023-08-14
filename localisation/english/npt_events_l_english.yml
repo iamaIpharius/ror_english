@@ -1,0 +1,254 @@
+﻿l_english:
+ 
+ annexs_u_puppets.3.t:0 "Diploma of the Belarusian Rada"
+ annexs_u_puppets.3.d:0 "The self-proclaimed governing body of the Belarusian people expresses their gratitude to Germany for liberation from centuries of Russian oppression and asks for our help in building a new statehood."
+ annexs_u_puppets.3.a:0 "Worth helping them build their nation."
+ annexs_u_uppets.3.b:0 "Who is it? These lands belong to Germany, period."
+ 
+ annexs_u_puppets.4.t:0 "One German Baltic"
+ annexs_u_puppets.4.d:0 "After our complete control of the Baltics is established, the local Germans ask us to establish a unified authority. Perhaps a vassal duchy would be a better choice than occupation or many puppets."
+ annexs_u_puppets.4.a:0 "Unite the lands."
+ 
+ npt.political.1.t:0 "Leftists in government."
+ npt.political.1.d:0 "Leftist ideas are gaining popularity in the government, leftist opposition is increasing and may become a real threat to the current system, their initiatives are finding popularity among the people, maybe we should prevent further growth of their popularity."
+ npt.political.1.a:0 "They are not dangerous."
+ npt.political.1.b:0 "Resist that."
+ 
+ npt.political.2.t:0 "Liberals in government."
+ npt.political.2.d:0 "Liberal ideas are gaining popularity in government, liberal opposition is increasing and could be a real threat to the current system, parties are campaigning and gaining more support, maybe they should be stopped."
+ npt.political.2.a:0 "They are not dangerous."
+ npt.political.2.b:0 "Resist that."
+ 
+ npt.political.3.t:0 "Conservatives in government."
+ npt.political.3.d:0 "Conservative ideas are gaining popularity in government, conservative opposition is increasing and could be a real threat to the current system, frustration with our government by a portion of the population is causing them to turn their eyes back, maybe conservatives should be thwarted."
+ npt.political.3.a:0 "They are not dangerous."
+ npt.political.3.b:0 "Resist that."
+ 
+ npt.political.4.t:0 "Right-wingers in government."
+ npt.political.4.d:0 "Right-wing ideas are gaining popularity in the government, right-wing opposition is increasing and may become a real threat to the current system, nationalist slogans sound nice to the common man, xenophobia is growing, maybe the right-wingers should be stopped."
+ npt.political.4.a:0 "They are not dangerous."
+ npt.political.4.b:0 "Resist that."
+ 
+ npt.political.5.t:0 "Coalition of Communists and Radical Socialists."
+ npt.political.5.d:0 "The radical socialist parties and the communists have announced a bloc, they will contest the elections together and can form a coalition government if they get a majority of votes.Despite their differences, they hope to come to power peacefully or not so peacefully."
+ npt.political.5.a:0 "Got it."
+ 
+ npt.political.6.t:0 "Coalition of Communists and Social Democrats."
+ npt.political.6.d:0 "The Communists and Social Democrats have announced a bloc; they will run together in the elections and can form a coalition government if they get a majority of votes. Despite their differences, they hope that they will be able to come to power peacefully or not so peacefully."
+ npt.political.6.a:0 "Got it."
+ 
+ npt.political.7.t:0 "Coalition of radical socialists and social democrats."
+ npt.political.7.d:0 "The radical socialist parties and the social democrats have announced a bloc, they will stand together in the elections and can form a coalition government if they get a majority of votes.Despite their differences, they hope that they will succeed in coming to power peacefully or not so peacefully."
+ npt.political.7.a:0 "Got it."
+ 
+ npt.political.8.t:0 "The liberal socialists are entering into a coalition with the social democrats."
+ npt.political.8.d:0 "To overcome the crisis situation in the country, the liberal socialists have decided to enter into a coalition with the moderate socialists. This fragile alliance is likely to be broken once the difficult situation has been overcome."
+ npt.political.8.a:0 "I see."
+ 
+ npt.political.9.t:0 "Coalition breakdown."
+ npt.political.9.d:0 "After a series of events, the left-liberal parties decided to break their alliance with the Socialists, they announced that they would join a coalition with the right-liberals to establish democracy."
+ npt.political.9.a:0 "Got it."
+ 
+ npt.political.10.t:0 "Socialist coalition split."
+ npt.political.10.d:0 "There has long been a split in the coalition of Marxist parties, it has been exacerbated by one party gaining a majority and the weakening threat of reactionary forces and has finally resulted in a conflict, the left forces are divided and weakened. Perhaps right-wing forces can still get their revenge."
+ npt.political.10.a:0 "I see."
+ 
+ npt.political.11.t:0 "Conservatives are on the side of democracy."
+ npt.political.11.d:0 "Social conservatives have entered into a coalition with the liberal and democratic parties, no longer willing to tolerate a regime unwanted by them, radicalized to big changes in the current world order forces."
+ npt.political.11.a:0 "Got it."
+ 
+ npt.political.12.t:0 "Threat to democracy."
+ npt.political.12.d:0 "Social conservatives are no longer willing to maintain the current regime and are withdrawing from the coalition with the liberal parties, ending support for democratic forces, turning their eyes to the old order."
+ npt.political.12.a:0 "Got it."
+ 
+ npt.political.20.t:0 "Reds at the helm."
+ npt.political.20.d:0 "The Socialist coalition, having gained wide support among the people and the government, has been able to gain enough influence to seize power, the telegraph has been cut, units of the people's militia are occupying the administrative buildings, soldiers are being agitated."
+ npt.political.20.a:0 "All power to the Soviets!"
+ npt.political.20.b:0 "Death to the Reds!"
+ 
+ npt.political.21.t:0 "The Communist faction outnumbered."
+ npt.political.21.d:0 "The Communists got the majority in the party."
+ npt.political.21.a:0 "I see."
+ 
+ npt.political.22.t:0 "The Social Democrat faction outnumbered"
+ npt.political.22.d:0 "The Social Democrats got the majority in the party."
+ npt.political.22.a:0 "I see."
+ 
+ npt.political.23.t:0 "The radical socialist faction is outnumbered."
+ npt.political.23.d:0 "Radical Socialists gained a majority in the party."
+ npt.political.23.a:0 "I see."
+ 
+ npt.political.24.t:0 "Socialists got a majority."
+ npt.political.24.d:0 "The radical socialists, having gained broad popular support, are demanding a referendum to revise the constitution, resign the government and a host of reforms, strikers in various cities are blocking squares and intersections, factories are standing down, police are inactive, the army has partially supported the people."
+ npt.political.24.a:0 "Nothing more can be done."
+ npt.political.24.b:0 "Death to the red plague!"
+ 
+ npt.political.25.t:0 "Socialists got a majority."
+ npt.political.25.d:0 "The Communists, having received broad popular support, are demanding a referendum to revise the constitution, resign the government and a host of reforms, strikers in various cities are blocking squares and intersections, factories are standing down, the police are inactive, the army has partially supported the people."
+ npt.political.25.a:0 "Nothing more can be done."
+ npt.political.25.b:0 "Death to the red plague!"
+ 
+ npt.political.26.t:0 "The Social Democrats got a majority."
+ npt.political.26.d:0 "Social Democrats demand a referendum to revise the constitution and a host of reforms. Numerous demonstrations in support of the initiative, single pickets, strikes, and police switching to the side of the protesters show that their support is very broad."
+ npt.political.26.a:0 "We shouldn't expect much of a change of course, should we?"
+ 
+ npt.political.27.t:0 "The liberal socialists got a majority."
+ npt.political.27.d:0 "The Liberal Socialists, having gained wide support, are demanding a special election."
+ npt.political.27.a:0 "Good."
+ 
+ npt.political.28.t:0 "Market liberals got a majority."
+ npt.political.28.d:0 "Market liberals, after gaining broad support, demand a special election."
+ npt.political.28.a:0 "Good."
+ 
+ npt.political.29.t:0 "Social conservatives got a majority."
+ npt.political.29.d:0 "The Social Conservatives, having received broad support, are demanding a special election."
+ npt.political.29.a:0 "Good."
+ 
+ npt.political.30.t:0 "Authoritarians got a majority."
+ npt.political.30.d:0 "Storm troopers and masses of protesters occupy the streets and administration buildings, the country is seething, reactionary forces demand a referendum to change the constitution and revise many laws, and to resign the current government."
+ npt.political.30.a:0 "This is the will of the people."
+ npt.political.30.b:0 "The reactionaries will not pass!"
+ 
+ npt.political.31.t:0 "The paternalists got the majority."
+ npt.political.31.d:0 "Storm troopers and masses of protesters occupy the streets and administration buildings, the country is seething, reactionary forces demand a referendum to change the constitution and revise a host of laws, and to resign the current government."
+ npt.political.31.a:0 "This is the will of the people."
+ npt.political.31.b:0 "The reactionaries will not pass!"
+ 
+ npt.political.32.t:0 "National-Syndicalists got a majority."
+ npt.political.32.d:0 "Storm troopers and masses of protesters occupy the streets and administration buildings, the country is boiling, nationalist-syndicalists demand a referendum to change the constitution and revise many laws, and to resign the current government."
+ npt.political.32.a:0 "This is the will of the people."
+ npt.political.32.b:0 "Death to Syndicalism!"
+ 
+ npt.political.33.t:0 "Fascists got the majority."
+ npt.political.33.d:0 "Fascist storm troopers and masses of protesters under nationalist slogans occupy the streets and administration buildings, the army partially takes their side, the fascists demand a referendum to change the constitution and revise many laws, and to resign the current government."
+ npt.political.33.a:0 "This is the will of the people."
+ npt.political.33.b:0 "Death to Fascism!"
+ 
+ npt.political.50.t:0 "Fascists demand a referendum."
+ npt.political.50.d:0 "The rapidly growing [Root.GetAdjective] fascist movement never claimed to need majority support to seize power, and expected to unite the nation already after the change of the ruling regime. Nevertheless, the public increasingly supports it. Fascists call the leader [Root.GetLeader] a hypocrite, because you cannot claim to express the will of the people and not hear their voices. \n\nThe call for a referendum has so far been dismissed as a typical attempt by party members [Root.GetRulingParty] to break the system, but it is at least a political measure. If nothing at all is done, the fascists may decide that it is better to seize power by force."
+ npt.political.50.a:0 "Suppress this hateful movement!"
+ npt.political.50.b:0 "Ignore them."
+ npt.political.50.c:0 "If the people want it, we'll hold a referendum."
+ 
+ npt.political.51.t:0 "Civil War for Fascism."
+ npt.political.51.d:0 "Fascist attempts to revive the nationalist spirit in the people have had some success, but resistance to such ideas is still great. The generals who plan to overthrow the current government are frustrated by the fact that [Root.GetAdjective]their citizens themselves have little confidence in [Root.GetFascistParty]. \n\they remain convinced that [Root.GetLeader] will soon lose popular support, but are unsure which course is best chosen. Some are calling for an immediate coup before the weakness of the [Root.GetName] state is exploited by enemies. Given the limited popular support, however, this is likely to ignite a bonfire of civil war."
+ npt.political.51.a:0 "One should not desire power unless one is prepared to seize it."
+ npt.political.51.b:0 "You should unite the people first, and then rule them."
+ 
+ npt.political.52.t:0 "Support fascists in the military."
+ npt.political.52.d:0 "Some high-ranking military officers in the [Root.GetAdjective]army, some tacitly and some publicly, have expressed support for the fascist movement in the [Root.GetName] state. They believe that the [Root.GetRulingParty] has forgotten the importance of military force for the preservation of power. Many are annoyed by the treatment of the military as a tool rather than as one of the pillars of the state. Some even claim that the state [Root.GetName] needs a new government to move steadily into the second half of the century. \nIn this faction there are not many politicians, but there are officials from the Ministry of Defense. They could gain enough political weight to stage a coup if events continue in this vein."
+ npt.political.52.a:0 "National spirit is more important than government."
+ 
+ npt.political.53.t:0 "Fascist coup."
+ npt.political.53.d:0 "Some claim they saw it coming. Both those who warned of the threat and those who called for fascism to save the state [Root.GetName] have seen their prophecies fulfilled today: the military in the city [Root.Capital.GetName] overthrew the government formed by the [Root.GetRulingParty] and seized power. [Root.GetLeader] disappeared and is rumored to have fled the country, so no one resisted the conspirators.{n\nThe new [Root.GetAdjective] government is not going to give the discontented a chance to prove themselves somehow. Martial law has been declared. Given the speed of all these changes, it looks like the country will change very soon."
+ npt.political.53.a:0 "A strong state is necessary to protect people from themselves."
+ 
+ npt.political.54.t:0 "Fascists Form Assault Divisions."
+ npt.political.54.d:0 "Politics and military force have always been intertwined in fascism. Simultaneously with the expansion of political influence, fascists began to create paramilitary organizations to defend themselves against both external and internal threats, the latter of which they refer to their political opponents. This development worries many, but in the wake of the militarist upsurge more and more volunteers are joining our armed forces. \n\nThe political leaders of the movement have shown that their opponents are not wary of them for nothing. When the army becomes politicized at every level, the enemies of the state [Root.GetName] and the enemies of fascism begin to look very similar."
+ npt.political.54.a:0 "Only traitors to the nation have anything to fear."
+ 
+ npt.political.55.t:0 "National-Syndicalists Demand Referendum"
+ npt.political.55.d:0 "The rapidly growing [Root.GetAdjective] socialist national-syndicalist movement never claimed to need majority support to seize power, and expected to unite the nation already after the change of the ruling regime. Nevertheless, the public increasingly supports it. Fascists call the leader [Root.GetLeader] a hypocrite, because you cannot claim to express the will of the people and not hear their voices. \n\nThe call for a referendum has so far been dismissed as a typical attempt by [Root.GetRulingParty] members to break the system, but it is at least a political measure. If nothing at all is done, national-syndicalists may decide that it is better to seize power by force."
+ npt.political.55.a:0 "Suppress this hateful movement!"
+ npt.political.55.b:0 "Ignore them."
+ npt.political.55.c:0 "If the people want it, we'll hold a referendum."
+ 
+ npt.political.60.t:0 "Reactionaries demand a referendum."
+ npt.political.60.d:0 "The rapidly growing [Root.GetAdjective]right-wing movement never claimed to need majority support to seize power, and expected to unite the nation already after the change of the ruling regime. Nevertheless, the public increasingly supports it. Right-wing reactionaries call the [Root.GetLeader] leader a hypocrite because you cannot claim to express the will of the people and not hear their voices. \n\nThe call for a referendum has so far been dismissed as a typical attempt by [Root.GetRulingParty] members to break the system, but it is at least a political measure. If nothing at all is done, the reenactors may decide that it is better to seize power by force."
+ npt.political.60.a:0 "Suppress this hateful movement!"
+ npt.political.60.b:0 "Ignore them."
+ npt.political.60.c:0 "If the people want it, we'll hold a referendum."
+ 
+ npt.political.63.t:0 "The paternalists have started a civil war."
+ npt.political.63.d:0 "Some claim they saw it coming. Both those who warned of the threat and those who called for paternalism to save the state [Root.GetName] have seen their prophecies fulfilled today: the military in the city [Root.Capital.GetName] overthrew the government formed by the [Root.GetRulingParty] and seized power. [Root.GetLeader] disappeared and is rumored to have fled the country, so no one resisted the conspirators.{n\nThe new [Root.GetAdjective] government is not going to give the discontented a chance to prove themselves somehow. Martial law has been declared. Given the speed of all these changes, it looks like the country is going to change very soon."
+ npt.political.63.a:0 "You shouldn't want power if you're not prepared to take it."
+ npt.political.63.b:0 "You should bring people together first, and then control them."
+ 
+ npt.political.64.t:0 "Authoritarians started a civil war."
+ npt.political.64.d:0 "Some claim they saw it coming. Both those who warned of the threat and those who called for authoritarianism to save the state [Root.GetName] have seen their prophecies fulfilled today: the military in the city [Root.Capital.GetName] overthrew the government formed by the [Root.GetRulingParty] and seized power. [Root.GetLeader] disappeared and is rumored to have fled the country, so no one resisted the conspirators.{n\nThe new [Root.GetAdjective] government is not going to give the discontented a chance to prove themselves somehow. Martial law has been declared. Given the speed of all these changes, it looks like the country will change very soon."
+ npt.political.64.a:0 "You shouldn't want power if you're not prepared to take it."
+ npt.political.64.b:0 "You should unite the people first, and then rule them."
+ 
+ npt.political.65.t:0 "Support paternalists in government."
+ npt.political.65.d:0 "Some high-ranking military officers in the [Root.GetAdjective], some tacitly and some publicly, have expressed support for the fascist movement in the [Root.GetName] state. They believe that the [Root.GetRulingParty] has forgotten the importance of military force for the preservation of power. Many are annoyed by the treatment of the military as a tool rather than as one of the pillars of the state. Some even claim that the state [Root.GetName] needs a new government to move steadily into the second half of the century. \nIn this faction there are not many politicians, but there are officials from the Ministry of Defense. They could gain enough political weight to stage a coup if events continue in this vein."
+ npt.political.65.a:0 "The government cares about you."
+ 
+ npt.political.66.t:0 "Support authoritarians in government."
+ npt.political.66.d:0 "Some high-ranking military officers in the [Root.GetAdjective], some tacitly and some publicly, have expressed support for the fascist movement in the [Root.GetName] state. They believe that the [Root.GetRulingParty] has forgotten the importance of military force for the preservation of power. Many are annoyed by the treatment of the military as a tool rather than as one of the pillars of the state. Some even claim that the state [Root.GetName] needs a new government to move steadily into the second half of the century. \nIn this faction there are not many politicians, but there are officials from the Ministry of Defense. They could gain enough political weight to stage a coup if events continue in this vein."
+ npt.political.66.a:0 "We need a strong hand."
+ 
+ npt.political.68.t:0 "A paternalistic coup."
+ npt.political.68.d:0 "Some claim they saw it coming. Both those who warned of the threat and those who called for paternalism to save the state [Root.GetName] have seen their prophecies fulfilled today: the military in the city [Root.Capital.GetName] overthrew the government formed by the [Root.GetRulingParty] and seized power. [Root.GetLeader] disappeared and is rumored to have fled the country, so no one resisted the conspirators.{n\nThe new [Root.GetAdjective] government is not going to give the discontented a chance to prove themselves somehow. Martial law has been declared. Given the speed of all these changes, it looks like the country will change very soon."
+ npt.political.68.a:0 "A strong state is necessary to protect people from themselves."
+ 
+ npt.political.69.t:0 "Authoritarian coup."
+ npt.political.69.d:0 "Some claim they saw it coming. Both those who warned of the threat and those who called for authoritarianism to save the state [Root.GetName] have seen their prophecies fulfilled today: the military in the city [Root.Capital.GetName] overthrew the government formed by the [Root.GetRulingParty] and seized power. [Root.GetLeader] disappeared and is rumored to have fled the country, so no one resisted the conspirators.{n\nThe new [Root.GetAdjective] government is not going to give the discontented a chance to prove themselves somehow. Martial law has been declared. Given the speed of all these changes, it looks like the country will change very soon."
+ npt.political.69.a:0 "A strong state is necessary to protect people from themselves."
+ 
+ npt.political.70.t:0 "Forming a democratic opposition."
+ npt.political.70.d:0 "As might be expected, after the easing of restrictions on public anti-government propaganda, the voices of discontent have become louder. So far, organized protests and pamphlets have been prevalent mainly at universities or in poor areas of the state [Root.GetName], but the movement is spreading, of that there is no doubt. \n\nThe opinion of the nation's leaders is divided. [Root.GetLeader], the inflexible leader of the ruling party, does not want any public debate. And yet the first steps have been taken, there is no turning back."
+ npt.political.70.a:0 "In the absence of repression, this movement manifests itself naturally."
+ 
+ npt.political.71.t:0 "Democrats demand a referendum."
+ npt.political.71.d:0 "It is no surprise that the idea of the people running their own country has gained popularity in society. Of course, the [Root.GetRulingParty] sees democratic ideas-freedom of speech, general elections, a free press-as nothing more than populist rhetoric designed to weaken the government led by [Root.GetLeader]. \n\nbut it is hard to deny that such ideas found support in [Root.GetAdjective] society. In accordance with democratic tradition, their supporters demand a referendum to overthrow the ruling regime. This can be ignored, but such ideas are quite resilient. What will happen to us if a peaceful revolution proves impossible?"
+ npt.political.71.a:0 "This has to stop."
+ npt.political.71.b:0 "Let's live as usual."
+ npt.political.71.c:0 "If we agree to a referendum, we can still preserve our heritage."
+ 
+ npt.political.72.t:0 "[Root.GetAdjective]a spring."
+ npt.political.72.d:0 "After the people did not get the referendum and democratic change they wanted, the people behind the idea of reform felt that the regime whose head is [Root.GetLeader] could no longer do better. A coalition of rebel groups united by the common goal of democratizing the political system in the state [Root.GetName] took up arms and declared that it would not rest as long as [Root.GetRulingParty] was in power."
+ npt.political.72.a:0 "We don't need to be ruled by the mob!"
+ npt.political.72.b:0 "[Root.GetName] is finally free!"
+ 
+ npt.political.73.t:0 "The Communists are pulling off a coup."
+ npt.political.73.d:0 "The people have been demanding so fiercely and vociferously for a socialist revolution that many political currents have lurked in anticipation. Now the waiting is over: while the [Root.GetRulingParty] and the army were preparing to suppress the popular uprising, [Root.GetLeader] was placed under house arrest by several members of the [Root.GetAdjective] government, after which they began negotiations with the rebels. \n\nThese negotiations were conducted under the pretext of maintaining public order, but in reality their task was to distribute positions in the new socialist state to those who were willing to cooperate. The coup took place swiftly, and anyone who might have opposed the new regime was executed, arrested, or sent into exile."
+ npt.political.73.a:0 "The waves of history wash away the past."
+ 
+ npt.political.74.t:0 "Radical Socialists are making a coup."
+ npt.political.74.d:0 "The people have demanded a socialist revolution so vehemently and vociferously that many political currents have lurked in anticipation. Now the waiting is over: while the [Root.GetRulingParty] and the army were preparing to suppress the popular uprising, [Root.GetLeader] was placed under house arrest by several members of the [Root.GetAdjective] government, after which they began negotiations with the rebels. \n\nThese negotiations were conducted under the pretext of maintaining public order, but in reality their task was to distribute positions in the new socialist state to those who were willing to cooperate. The coup took place swiftly, and anyone who might have opposed the new regime was executed, arrested, or sent into exile."
+ npt.political.74.a:0 "The waves of history wash away the past."
+ 
+ npt.political.75.t:0 "Supporters of Marxism in government."
+ npt.political.75.d:0 "Although in general the ruling party [Root.GetRulingParty] is categorically opposed to revolutionary socialism and vigilantly watches over the radical left, there are persons in the government who are willing, at a minimum, to consider the opinion of that part of the population which sees in socialist ideologies the solution to all problems, and yet not to lead the situation into civil war. \n\nHowever [Root.GetLeader] and his supporters may consider them traitors, these are the very people who can make the revolution bloodless if it finally comes."
+ npt.political.75.a:0 "We'll keep an eye on them too - for a number of reasons."
+ npt.political.75.b:0 "This is a sad trend."
+ 
+ npt.political.77.t:0 "[GetMonth] is a time of revolution."
+ npt.political.77.d:0 "Increasingly widespread in the state [Root.GetName] is the notion that the Communist movement meets the aspirations of the people, and support for the Communists has grown significantly in recent months. But those now calling for revolution are no longer just militants or disgruntled union members. The movement is led by a group organized enough to form a government if the coup succeeds. \n\nbut if the revolution starts now, it is likely that the state [Root.GetName] will be plunged into civil war. Are the revolutionaries so impatient that they will risk tearing the country in two, or should they wait for a better opportunity?"
+ npt.political.77.a:0 "We need to act today to make history!"
+ npt.political.77.b:0 "Revolution is inevitable. The inevitable can wait."
+ 
+ npt.political.79.t:0 "Communists demand referendum."
+ npt.political.79.d:0 "Marxist ideas have been entrenched in the state [Root.GetName] for quite some time and are gaining support. It is no longer just a political theory, but a real movement that has united both disaffected workers and some celebrities. Communists call it class consciousness. The [Root.GetRulingParty] calls it a direct path to rebellion and treason. \n\nThe Communists have no faith that the leader [Root.GetLeader] will want to carry out the reforms they propose, so they demand an immediate referendum on a change of power. We can still try to pull public opinion to our side, but if the attempt fails, it could lead to revolution."
+ npt.political.79.a:0 "Any anti-[Root.GetAdjective]activity must be suppressed!"
+ npt.political.79.b:0 "You should ignore the chatterboxes."
+ npt.political.79.c:0 "Better a referendum than a bloody riot."
+ 
+ npt.political.80.t:0 "Socialists demand a referendum."
+ npt.political.80.d:0 "Marxist ideas have been entrenched in the [Root.GetName] state for quite some time and are gaining support. It is no longer just a political theory, but a real movement that has united both disaffected workers and some celebrities. Communists call it class consciousness. The [Root.GetRulingParty] calls it a direct path to rebellion and treason. \n\nThe Communists have no faith that the leader [Root.GetLeader] will want to carry out the reforms they propose, so they demand an immediate referendum on a change of power. We can still try to pull public opinion to our side, but if the attempt fails, it could lead to revolution."
+ npt.political.80.a:0 "Any anti-[Root.GetAdjective]activity must be suppressed!"
+ npt.political.80.b:0 "You should ignore the chatterboxes."
+ npt.political.80.c:0 "Better a referendum than a bloody riot."
+ 
+ npt.political.81.t:0 "Mass strike."
+ npt.political.81.d:0 "Factories stand still, workers didn't go to work today. Near the factories, in the streets and squares, proletarians are on strike. They demand higher wages, safety standards, and various social guarantees. The police force can handle everyone, but it will not be easy to make the workers work."
+ npt.political.81.a:0 "Disband."
+ npt.political.81.b:0 "Comply."
+ 
+ npt.political.82.t:0 "Raid Military Depots"
+ npt.political.82.d:0 "Right-wing radical paramilitary organizations and army units loyal to them have long been engaged in subversive activities in the country [Root.GetName]. One of their most recent subversions has been raiding army depots to seize equipment and, if possible, machinery. The attempt, oddly enough, succeeded. An inventory of missing and stolen but abandoned equipment will be made shortly, reinforcements have inflicted little damage on enemy units."
+ npt.political.82.a:0 "Bad. Very bad."
+ 
+ FIN_ROR.2.t: "Occupation by Sweden of the Aland Islands."
+ FIN_ROR.2.d: "Recently the Schutzkorps (Finnish Security Corps ) under Captain Fabricius landed on the Alands and quickly disarmed both individual Russian units and several garrisons of the coastal fortifications. From Stockholm the Finns' chartered steamship Heero with volunteers, arms and ammunition left for Åland. However, at the very beginning of the journey, the steamer was stopped by the Swedish authorities, as the Swedish government decided to send its own expeditionary corps to the Åland Islands "to stop the violence against the inhabitants. On February 15, three Swedish warships anchored near Eckero. A Swedish officer went ashore to persuade both warring parties to leave the Åland Islands. It turned out that by this time a truce had been concluded between the Schutzkor and the Russian troops to exchange prisoners of war; in view of the new circumstances the truce was extended. Soon the White Finns received word that the ice-breaker Murtaja with Red Guardsmen on board was headed from Turku toward the islands. Captain Fabritzius thought the agreement was broken and on February 17 the Schutzkorps attacked the garrison in Godby, forcing the Russian unit to lay down their arms. On February 19 the Schutzkorians succeeded in repulsing an attack by the Red Guards and Russian units arriving from Turku. These events were considered in Stockholm as an aggression against the population of Aland Islands and began to exert strong pressure on the Schutzkorps. Not having contacts with the Stavka, Captain Fabritius, having received false information from the Swedes, signed a "cooperation agreement", according to which the Schutzkorps had to surrender all weapons to the Swedes, leave the Åland Islands, travel by Swedish ships to Stockholm and return to Finland via Haparanda, where the Schutzkorps could get their weapons back. The Russians were also to leave the Åland Islands, but had 5 weeks to do so, with the opportunity to move their military stores to Turku. Now we have to choose how to proceed."
+ FIN_ROR.2.a: "Come on, let's do it!"
+ FIN_ROR.2.b: "We'd better warn....."
+ 
+ FIN_ROR.4.t: "Successful occupation."
+ FIN_ROR.4.d: "Our troops have hastily occupied the Åland Islands. They are now part of Sweden!"
+ FIN_ROR.4.a: "Welcome home!"
+ 
+ FIN_ROR.3.t: "The Swedes occupy Åland."
+ FIN_ROR.3.d: "The Swedish occupation corps recently landed in Åland on February 22. They have taken over Åland and are not going to give it back. Should we take action?"
+ FIN_ROR.3.b: "We don't have time for that now.
+ FIN_ROR.3.a: "How dare they!"

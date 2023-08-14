@@ -1,0 +1,218 @@
+﻿l_english:
+ RESISTANCE_TARGET_VALUE:0 "Resistance target: $VALUE|H%0$"
+ RESISTANCE_TARGET_VALUE_CAPPED:0 "Resistance target: $VALUE|H%0$ (limit from $VALUE_NON_CAPPED|H%0$)"
+ RESISTANCE_TARGET_MODIFIER_HAS_CLAIM:0 "Controlling state claim: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_IS_AT_PEACE:0 "Controlling State at Peace: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_OCCUPIED_CAPITULATED:1 "The government of the occupied region has surrendered: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_OCCUPIED_IS_EXILE:1 "The government of the occupied region in exile: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_POP_LOW:0 "Sparsely populated region: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_POP_VERY_LOW:0 "Very sparsely populated region: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_PER_STABILITY_LOSS:0 "Low stability: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_PER_COMPLIANCE:0 "Compliance: $VALUE|-%0$"
+ RESISTANCE_TARGET_MODIFIER_STATE_VP:0 "Region £victory_points£: $VALUE|-%0$"
+ RESISTANCE_TARGET_CAP_FOR_NON_COMPLIANCE:0 "The resistance target limit is from $CUR_TARGET|%0H$ to $CAP|%0H$. To lower it even further, it requires §HCompliance§!"
+
+ RESISTANCE_DECAY_MODIFIER_HAS_CLAIM:0 "Controlling state claim: $VALUE|+%0$"
+ RESISTANCE_DECAY_MODIFIER_LOW_RESISTANCE:0 "Low resistance: $VALUE|+%0$"
+ RESISTANCE_DECAY_VALUE:0 "Resistance drop: §G$VALUE||3$%§!"
+ RESISTANCE_DECAY_VALUE_CAPPED:0 "Resistance drop: §G$VALUE|3$%§! (limit from §G$VALUE_NON_CAPPED|3$%§!)"
+ 
+ RESISTANCE_GROWTH_VALUE:0 "Resistance growth: §R$VALUE|3$%§!"
+ RESISTANCE_GROWTH_VALUE_CAPPED:0 "Resistance growth: §R$VALUE|3$%§! (limit from §R$VALUE_NON_CAPPED|3$%§!)"
+ 
+ RESISTANCE_STRENGTH:1 "Resistance strength: $TOT|%2-$"
+ RESISTANCE_EFFECTS:1 "Resistance effects:"
+ COMPLIANCE_EFFECTS:0 "Compliance Effects:"
+ 
+ COMPLIANCE_STRENGTH:0 "Compliance Power: $TOT|%2+$"
+ 
+ COMPLIANCE_GROWTH_VALUE:0 "Compliance Growth: §G$VALUE||3$%§!"
+ COMPLIANCE_GROWTH_VALUE_CAPPED:0 "Compliance Growth: §G$VALUE|3$%§! (limit from §G$VALUE_NON_CAPPED|3$%§!)"
+ 
+ COMPLIANCE_DECAY_VALUE:0 "Compliance Growth: §R$VALUE|3$%§!"
+ COMPLIANCE_DECAY_VALUE_CAPPED:0 "Compliance Growth: §R$VALUE|3$%§! (limit from §R$VALUE_NON_CAPPED|3$%§!)"
+ 
+ COMPLIANCE_GROWTH_HAS_CLAIM:0 "Controlling State Claim: $VALUE|+%0$"
+ COMPLIANCE_GROWTH_IS_AT_PEACE:0 "Controlling State at Peace: $VALUE|+%0$"
+ 
+ COMPLIANCE_DECAY_INFO:0 "Additional Compliance change:"
+ COMPLIANCE_DECAY_DUE_TO_COMPLIANCE:0 "High Compliance: §R$VALUE|3$%§!"
+ COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY:1 "Government of occupied region in exile: §R$VALUE|3$%§!"
+ 
+ RESISTANCE:0 "Resistance"
+ COMPLIANCE:0 "Compliance"
+ 
+ LOCAL_RESISTANCE:0 "Local Resistance"
+ LOCAL_COMPLIANCE:0 "Local Compliance"
+ 
+ ADDITIONAL_RECRUITABLE_POPULATION_ENTRY:0 "Additional military conscription: $VALUE|+%3$"
+ RECRUITABLE_POPULATION_ENTRY:0 "The military conscription factor: $VALUE|+%0$"
+ 
+ RESISTANCE_TARGET_FLOW:0 "Spread of resistance from the $STATE|H$ region: $FLOW|-%1$"
+ RESISTANCE_DISABLED_INFO:1 "Resistance is currently being successfully suppressed and will not be able to increase until the resistance§! target reaches $LIMIT|%0H$."
+ 
+ OCCUPATION_POLICY_AVAILABLE:0 "Available:"
+ OCCUPATION_POLICY_STATE_MODIFIER:0 "Region Factor:"
+ OCCUPATION_POLICY_SUPRESSED_STATE_MODIFIER:0 "Suppressed Region Factor:"
+ OCCUPATION_POLICY_COMPARED_TO_LAW:0 " (vs: $NAME|H$)"
+ OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0 "Hold §GControl§! to show a comparison to the current law."
+
+ COUNTRY_OCCUPATION_TITLE:0 "Occupied Territories"
+ OCCUPATION_MODIFIER_ACTIVE:0 "The factor is now active. It will be disabled when $TYPE|H$ falls below $TO_DISABLE|%0H$"
+ OCCUPATION_MODIFIER_ACTIVE_WITH_TRIGGER:0 "Factor is now active. It will be disabled when $TYPE|H$ falls below $TO_DISABLE|%0H$ or the following conditions are not met:"
+
+ OCCUPATION_MODIFIER_NOT_ACTIVE:0 "The factor is now §R inactive! It will be turned on when $TYPE|H$ rises above $TO_ENABLE|0H$"
+ OCCUPATION_MODIFIER_NOT_ACTIVE_WITH_TRIGGER:1 "The factor is now §R inactive! It will be turned on when $TYPE|H$ falls below $TO_ENABLE|%0H$ and the following conditions are met:"
+ 
+ OCCUPATION_MODIFIERS_ON_ENABLE:0 "The following effects will take effect when the factor is activated:"
+ OCCUPATION_MODIFIERS_ON_DISABLE:0 "The following effects will take effect when the factor is deactivated:"
+ OCCUPATION_MODIFIERS_TOOLTIP:0 "The following coefficients will take effect as long as the factor is active:"
+ 
+ no_garrison:1 "No garrison"
+ autonomous_occupation:1 "Local autonomy"
+ foreign_civilian_oversight:1 "Civil Oversight"
+ secret_police_oversight:1 "Secret Police"
+ local_police_force_garrison:1 "Local Police Force"
+ RSS_eser_police_garrison:1 "Police garrisons"
+ liberate_workers_occupation:1 "Liberated Workers"
+ military_governor_occupation:1 "Military Governor"
+ martial_law_occupation:1 "Martial law"
+ forced_labor_occupation:1 "Forced Labor"
+ harsh_quotas_occupation:1 "Hard quotas"
+ brutally_oppressive_occupation:1 "Brutally Occupation"
+ reconciliation:0 "Reconciliation"
+ colonial_police:0 "Colonial Police"
+ colonial_police_improved:0 "$colonial_police$"
+ colonial_police_final:0 "$colonial_police$"
+ 
+ COMPLIANCE_ADDITIONAL_DAILY_GAIN:0 "Daily surge in submission: $GAIN$"
+ COMPLIANCE_GAIN_IS_DISABLED:1 "§RNot valid: Garrison too small!"
+ COMPLIANCE_GAIN_IS_SCALED:0 "Reduced by $RATIO|R.0%$: Garrison too small!"
+ 
+ OCCUPIED_COUNTRY_CORE_COUNT_TOOLTIP:0 "The total number of national territories the state has is $NUM_CORES|H$, you control $NUM_CONTROLLED_CORES|H$ of them."
+ OCCUPIED_COUNTRY_MANPOWER_TOOLTIP:0 "The population in the territories you control is $NUM_TOTAL_MANPOWER|*H$, your current laws and other factors give you access to $RATIO|.1H%$ ($NUM_ACCESSED_MANPOWER|*H$) of these human resources."
+ OCCUPIED_COUNTRY_RESOURCES_TOOLTIP:0 "The number of resources ($RESOURCES$) in the territories you control is $NUM_TOTAL_RESOURCES|0H$, your current laws and other ratios give you access to $RATIO|.1H%$ ($NUM_ACCESSED_RESOURCES|1H$) from those resources."
+ OCCUPIED_COUNTRY_INDUSTRIAL_CAPACITY_TOOLTIP:0 "Factory numbers ($NUM_TOTAL_CIV_FACTORIES|.0$£civ_factory£ $NUM_TOTAL_MIL_FACTORIES|. 0$£mil_factory£) in the territories you control are $NUM_TOTAL_FACTORIES|0H$, your current laws and other factors give you access to $RATIO|.1H%$ ($NUM_ACCESSED_FACTORIES|1H$) of these factories."
+ OCCUPIED_COUNTRY_NO_MANPOWER_TOOLTIP:0 "There is no population in the territories you control."
+ OCCUPIED_COUNTRY_NO_RESOURCES_TOOLTIP:0 "There are no resources in the territories you control."
+ OCCUPIED_COUNTRY_NO_INDUSTRIAL_CAPACITY_TOOLTIP:0 "There are no factories in the territories you control."
+ OCCUPATION_BAR_CORE_RESISTANCE_TOOLTIP:0 "The average resistance level of all national territories of the $COUNTRY|H$ state you control is $RESISTANCE|1%H$."
+ OCCUPATION_BAR_CORE_COMPLIANCE_TOOLTIP:0 "The average level of submission of all national territories of the state $COUNTRY|H$ controlled by you is $COMPLIANCE|1%H$."
+ 
+ resource_is_sabotaged:0 "The resource has been sabotaged."
+ building_is_sabotaged:0 "A building has been sabotaged
+ sabotaged_resources:0 "Resources have been sabotaged.
+ 
+ OCCUPATION_SORT_NAME:0 "Name"
+ OCCUPATION_SORT_GARRISON:0 "Garrisons"
+ OCCUPATION_SORT_ECONOMY:0 "Economy"
+ OCCUPATION_SORT_RESISTANCE:0 "Resistance"
+ OCCUPATION_SORT_COMPLIANCE:0 "Resistance
+
+ OCCUPATION_SORT_NAME_TOOLTIP:0 "Sort by Name"
+ OCCUPATION_SORT_GARRISON_TOOLTIP:0 "Sort by Garrison Requirements"
+ OCCUPATION_SORT_ECONOMY_TOOLTIP:0 "Sort by total number of factories"
+ OCCUPATION_SORT_RESISTANCE_TOOLTIP:0 "Sort by resistance"
+ OCCUPATION_SORT_COMPLIANCE_TOOLTIP:0 "Sort by Subordination"
+ OCCUPATION_PRIMARY_GARRISON_TITLE:0 "Basic Garrison Template"
+ OCCUPATION_CHANGE_GARRISON_DEFAULT_TEMPLATE_TOOLTIP:0 "$SELECTED_TEMPLATE|H${nChange Garrison Division Template for All Occupied Territories"
+ OCCUPATION_CHANGE_GARRISON_COUNTRY_TEMPLATE_TOOLTIP:0 "$SELECTED_TEMPLATE|H$nChange the Garrison Division template for all occupied regions in the state $OCCUPIED_COUNTRY|H$"
+ OCCUPATION_CHANGE_GARRISON_STATE_TEMPLATE_TOOLTIP:0 "$SELECTED_TEMPLATE|H$nChange Garrison Division Template for Region $OCCUPIED_STATE|H$"
+ OCCUPATION_GARRISON_STRENGTH_TOOLTIP:2 "We need $NUMBER|H$ division. ($SELECTED_TEMPLATE|H$) as a garrison to defend against local resistance.{nThis garrison is now effective at $PERCENTAGE|H0%$."
+ OCCUPATION_GARRISON_STRENGTH_VARIOUS_TOOLTIP:2 "We need $NUMBER|H$ divisions. of different templates as a garrison to defend against local resistance. \nThis garrison is now effective at $PERCENTAGE|H0%$."
+ OCCUPATION_USE_DEFAULT_TEMPLATE:0 "§Use the default template!"
+ OCCUPATION_BAD_GARRISON_SPECIAL_FORCES:0 "§RHave not selected this template because it contains a special forces battalion.§!"
+ OCCUPATION_BAD_GARRISON_NO_SUPPRESSION:0 "§RUnable to select this pattern because its suppression value is §H0§!.§!"
+ OCCUPATION_NO_GARRISON_NEEDED:0 "Garrison is not needed.
+ OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION:0 "§RThe suppression value of the garrison template is §H0§! Choose another template.§!"
+ GARRISON_ENTRY_MANPOWER_TOOLTIP:0 "Human resources per suppression: $MANPOWER|*H$\n Human resources per division: $MANPOWERDIV|*H$"
+ GARRISON_ENTRY_IC_TOOLTIP:0 "Production cost per suppression: £production_cost£$IC|*H$\nProduction cost per division: £production_cost£$ICDIV|*H$"
+ GARRISON_HARDNESS_TOOLTIP:0 "§Complicity§!\nThe complexity of the pattern will reduce losses in Resistance actions."
+ LAW_BONUS_SCALED:0 "§RThis law will not take full effect until garrison needs are met.§!"
+ 
+ GARRISON_LOG:0 "Garrison Log"
+ GARRISON_LOG_LOSS_IN_IC:0 "§NProduction_cost£££! £production_cost£$NUM|*$"
+ GARRISON_LOG_RESISTANCE_ACTIVITY:0 "resistance activity"
+ GARRISON_LOG_EMPTY_ACTIVITY:0 "No activity for $TIME$."
+ GARRISON_LOG_ACTIVITY_STOPPED:0 "Activity stopped by Garrison"
+ GARRISON_LOG_ACTIVITY_SUCCES:0 "Activity not stopped: $ACTIVITY|R$"
+
+ OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP:0 "Change standard garrison law"
+ OCCUPATION_RESISTANCE_TAB_TOOLTIP:0 "Show §H Resistance§ on the map!"
+ OCCUPATION_COMPLIANCE_TAB_TOOLTIP:0 "Show §Subordination§ on the map!"
+ OCCUPATION_ZOOM_TO_STATE_TOOLTIP:0 "§Glick§! - approach the occupied regions."
+ 
+ resistance_25:0 "Organized resistance"
+ resistance_50:0 "Reinforced Resistance"
+ resistance_75:0 "Uprising"
+ resistance_90:0 "Rebellion"
+ 
+ resistance_15:0 "Informers"
+ resistance_25:0 "Local Police"
+ compliance_40:0 "Reorganized Labor Force"
+ compliance_60:0 "Volunteer Program"
+ compliance_80:0 "New Regime"
+ 
+ resistance_90_effect_tooltip:0 "Resistance will declare independence in occupied national territories."
+ 
+ sabotage_arms_factory:0 "Sabotage a military factory."
+ sabotage_infrastructure:0 "Sabotage the infrastructure.
+ sabotage_industrial_complex:0 "Sabotage a civilian factory"
+ sabotage_air_base:0 "Sabotage an airbase"
+ sabotage_dockyard:0 "Sabotage the shipyards"
+ sabotage_anti_air_building:0 "Sabotage an air defense complex
+ sabotage_synthetic_refinery:0 "Sabotage an oil refinery"
+ sabotage_fuel_silo:0 "Sabotage a fuel depot"
+ sabotage_radar_station:0 "Sabotage a radar station"
+ sabotage_rocket_site:0 "Sabotage a missile site"
+ sabotage_nuclear_reactor:0 "Sabotage a nuclear reactor"
+ sabotage_oil:0 "Sabotage oil production"
+ sabotage_aluminium:0 "Sabotage aluminum production"
+ sabotage_rubber:0 "Disrupt rubber production"
+ sabotage_tungsten:0 "Disrupt tungsten mining"
+ sabotage_steel:0 "Disrupt steel production"
+ sabotage_chromium:0 "Disrupt chromium mining"
+ 
+ RESISTANCE_CHANCE_FOR_ACTIVITY:0 "Chance of resistance activity: $CHANCE|%.1H$"
+ RESISTANCE_CHANCE_FOR_GARRISON_PENETRATE:0 "Chance of resistance infiltration in garrisons: $CHANCE|%.0H$"
+ RESISTANCE_ACTIVITY_LIST_TITLE:0 "When resistance penetrates garrisons, one of the following effects will take effect:"
+ RESISTANCE_ACTIVITY_LIST_ENTRY:0 " $NAME$: $CHANCE|%.0H$"
+
+ OCCUPATION_NOT_ALL_COUNTRIES_CAN_HAVE_THIS_LAW:0 "§RThis standard law does not apply to some occupied territories. They will default to "No Garrison".§!"
+ OCCUPATION_INVALID_DEFAULT_LAW:0 "§RThe standard law you selected is not valid for this occupied territory. It will default to "No Garrison".§!"
+ 
+ DEFAULT_LAW_ENTRY:0 "Use standard ($LAW_NAME$)"
+ LAW_IS_OVERRIDDEN_TOOLTIP:0 "In the following territories this law is replaced by:"
+ GARRISON_IS_OVERRIDDEN_TOOLTIP:0 "In the following territories, this pattern is replaced by:"
+ 
+ CLEAR_ALL_OVERRIDE_LAWS_TITLE:0 "Remove replacement laws"
+ CLEAR_ALL_OVERRIDE_LAWS_DESC:0 "Do you really want to remove the replacement laws and replace them with the standard law?"
+ CLEAR_ALL_OVERRIDE_LAWS_AUTO_DESC:0 "Do you want to remove the replacement laws and use the new standard law instead?"
+ CLEAR_ALL_OVERRIDE_GARRISON_TITLE:0 "Remove replacement garrison pattern"
+ CLEAR_ALL_OVERRIDE_GARRISON_DESC:0 "Do you really want to remove all replacement garrison templates and use the standard one instead?"
+ CLEAR_ALL_OVERRIDE_GARRISON_AUTO_DESC:0 "Do you really want to remove the replacement garrison templates and use the new standard template instead?"
+ CLEAR_OVERRIDE:0 "Remove replacements"
+ CLEAR_OVERRIDE_TOOLTIP:0 "Remove laws replacing current law choices."
+ CLEAR_OVERRIDE_GARRISON_TOOLTIP:0 "Remove garrison pattern replacing current choice."
+ 
+ SCALED_LAW_MODIFIER:1 "$LAW$ (effect is multiplied by $RATIO|R.0%$ due to garrison satisfaction)"
+ 
+ STABILITY_RESISTANCE_PENALTY:0 "Resistance target in occupied territories: $PENALTY|%%.0R$"
+ 
+ MAIN_GARRISON_TEMPLATE:1 "Territory Management"
+ OCCUPATION_SHOW_NO_RESISTING_COUNTRIES:1 "Show Non-Resisting Countries ($NUM$)
+ DEFAULT_LAW_SELECTION:0 "Standard Law"
+ FOREIGN_SUPPORT:0 "Support from Abroad"
+ FOREIGN_SUPPORT_TOOLTIP:0 "Human resources provided by other states."
+ FOREIGN_SUPPORT_IN_GARRISON:0 "$NUMBER|H*$ in garrisons:"
+ FOREIGN_SUPPORT_IN_RESERVE:0 "$NUMBER|H*$ in reserves:"
+ 
+ # disabled for now
+ OCCUPATION_STATE_OCCUPATION_INFO:0 ""
+ OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE:0 ""
+ 
+ #OCCUPATION_STATE_OCCUPATION_INFO:0 "The state has a resistance from $COUNTRY|H$"
+ #OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE:0 "There is no resistance in the state"
+ non_core_controller:0 "Controlling state is not a national province"
+ non_core_controller_desc:0 "Region controlled by a non-national state"
+ 

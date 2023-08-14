@@ -1,0 +1,104 @@
+﻿l_english:
+ rcw_nc.1.t:0 "Mountain Government"
+ rcw_nc.1.desc:0 "The Union of the United Mountaineers of the North Caucasus and Dagestan was created by the First Mountain Congress back in May 1917, its predecessor was the Provisional Central Committee of the United Mountaineers, and after the proletarian revolution, the Central Committee of the Union of the United Mountaineers decided to create the Mountain Autonomy ( Mountain Republic) on the territory of Dagestan and the mountain districts of the Terek region and on the transformation of the Central Committee into the Mountain government.
+ rcw_nc.1.a:0 "They won't be there for long"
+ rcw_nc.1.b:0 "Soon the whole Caucasus will be free"
+ 
+ rcw_nc.2.t:0 "Arrival of Ataman Karaulov"
+ rcw_nc.2.desc:0 "Independent authorities of the Terek Cossacks, represented by the military government, launched a fight against the Bolsheviks and are creating the Provisional Terek-Dagestan government."
+ rcw_nc.2.a:0 "Let's see what they can do"
+ rcw_nc.2.b:0 "I'm with him"
+ 
+ rcw_nc.3.t:0 "Martial law"
+ rcw_nc.3.desc:0 "After the news of the seizure of power by the Bolsheviks in Petrograd, ataman M.A. Karaulov announced that he was taking control of the Terek Territory "with the fullness of state power", in view of the need to combat anarchy, robberies and robberies. It was announced the introduction of martial law throughout the former province and the formation of the Provisional Terek-Dagestan government to counter the Bolsheviks, who still have parallel authorities in the region, such as the Vladikavkaz Soviet. \nAlso, problems with transport prevent soldiers returning from the Caucasian front to move on inland, and they settle in the region, forming gangs and units, instigated by local Soviets."
+ rcw_nc.3.a:0 "Let's see what happens"
+ 
+ rcw_nc.4.t:0 "The Capture of Grozny by the Chechens"
+ rcw_nc.4.desc:0 "The enemy throughout the border area has been driven back and put to flight. There is no reason to believe that he will return to adventurous plans any time soon."
+ rcw_nc.4.desc_1:0 "Unfortunately, our units deployed to the border turned out to be much weaker than the enemy troops. During the fighting, he was able to break through the defenses and occupy the entire territory of the disputed area."
+ rcw_nc.4.a:0 "Bury the dead, spoil the distinguished"
+ rcw_nc.4.b:0 "We avoided a major war anyway"
+ rcw_nc.5.t:0 "Highlanders attack on Grozny repulsed"
+ rcw_nc.5.desc:0 "Unfortunately, our units deployed to the border turned out to be much weaker than the enemy troops. During the fighting, he was able to break through the defenses and occupy the entire territory of the disputed area."
+ rcw_nc.5.desc_1:0 "The enemy throughout the border area has been driven back and put to flight. There is no reason to believe that he will return to adventurous plans any time soon."
+ rcw_nc.5.a:0 "Anyway, we avoided a major war"
+ rcw_nc.5.b:0 "Bury the dead, spoil the distinguished"
+ 
+ rcw_nc.6.t:0 "People of the Mountains"
+ rcw_nc.6.desc:0 "Attacks by armed groups and intra-tribal strife among the peoples of the North Caucasus have been a long-standing scourge of this region, which was held back by a once strong central government. \nNow, nothing stops the highlanders from raiding and plundering Cossack villages. The Caucasian peoples are getting stronger fall under the influence of Soviet power and thus giving the opportunity to establish this force in the region.The situation is aggravated by weapons from the Caucasian front, which are increasingly in the hands of armed gangs.
+ rcw_nc.6.a:0 "Nothing can be done about it now"
+ 
+ rcw_nc.7.t:0 "Arrival of Frontline Soldiers"
+ rcw_nc.7.desc:0 "The 1st Volga Cossack Regiment arrived from the front, Ataman went to personally greet him in the Pyatigorsk department. Ataman's car stopped at the Prokhladnaya station, waiting for a train in the direction of Vladikavkaz. Suddenly, a crowd of armed soldiers surrounded the car. Incited by the Bolsheviks agents, they began to demand explanations about the incessant attacks of the Ingush and Chechens on Russian villages. Soon the threats escalated into an open clash. Excited soldiers dragged the car away from the station and shot it with rifles. Help from the village came too late. Ataman Karaulov and his companions died. "
+ rcw_nc.7.desc_1:0 "The 1st Volga Cossack Regiment arrived from the front, Ataman went to personally greet him in the Pyatigorsk department. Ataman's car stopped at the Prokhladnaya station, waiting for a train in the direction of Vladikavkaz. Suddenly, a crowd of armed soldiers surrounded the car. Incited by the Bolsheviks agents, they began to demand explanations about the incessant attacks of the Ingush and Chechens on Russian villages. Soon the threats escalated into an open clash. Excited soldiers pulled the car from the station and shot it with rifles. The Cossack brigade stationed nearby managed to arrive in time to help and drive away the angry soldiers. Ataman escaped with a wound, who knows what would have happened if help had not arrived in time.
+ rcw_nc.7.a:0 "A tragedy..."
+ rcw_nc.7.b:0 "Double guard, reward the Cossacks, punish the guilty"
+ rcw_nc_7_tt:0 "The 1st Volga Regiment of the Terek Cossack Host is arriving (three thousand sabers). \n"
+ 
+ rcw_nc.8.t:0 "Vladikavkaz pogrom"
+ rcw_nc.8.desc:0 "In response to killing atAman Karaulov, troops loyal to the Terek-Dagestan government dispersed by force the soviets in Vladikavkaz and Grozny, created during the period of the interim government, scattering the Bolsheviks around the region. This temporarily solved the problem of dual power, but the strength and determination are not enough to completely expel the Soviets from the region.
+ rcw_nc.8.a:0 "Are we just delaying the inevitable?"
+ 
+ rcw_nc.9.t:0 "1st Congress of the Working Peoples of the Terek"
+ rcw_nc.9.desc:0 "Today, the so-called "Congress of the Peoples of the Terek" was held in Mozdok. The congress elected a temporary people's Soviet of the Terek region. The congress appealed to the peoples of the Terek with an appeal calling for the formation of new authorities. At the final meeting, the composition Terek Regional People's Soviet, which on a proportional basis included representatives of all the peoples of the region. Kirov and Buachidze were elected members of the Soviet. The Left Socialist-Revolutionary Yu. G. Pashkovsky became the Chairman of the Soviet. "
+ rcw_nc.9.a:0 "The Soviets rear their heads again"
+ 
+ rcw_nc.10.t:0 "2nd Congress of the Working Peoples of the Terek"
+ rcw_nc.10.desc:0 "Today the Congress of the Working Peoples of the Terek announced the creation of the Terek Soviet Republic and overwhelmingly recognized the power of the Soviet of People's Commissars of the RSFSR. Seeing no opportunity to oppose and support, and the opportunity to rely on, the Terek-Dagestan government dissolved itself, proposing to the congress move to Vladikavkaz.
+ rcw_nc.10.desc_1:0 "bruh"
+ rcw_nc.10.a:0 "The region is now under Soviet control"
+ rcw_nc.10.b:0 "bruh"
+ rcw_nc.10.c:0 "we are bruh"
+ 
+ rcw_nc.11.t:0 "Honor Guard"
+ rcw_nc.11.desc:0 "The last remnants of the Bolshevik instigators and other semi-independent formations born of the revolution have finally been eliminated. From now on, Ataman Karaulov is in many ways the sole ruler of the North Caucasus. arrangements have been made."
+ rcw_nc.11.a:0 "A long work ahead..."
+ 
+ rcw_nc.12.t:0 "Oil Field Defense"
+ rcw_nc.12.desc:0 "No sooner had the armed detachments begun guarding the key oilfields, than today they were attacked by the mountaineers. Without expecting defense and hoping for easy prey, they made a reckless attack and were soundly defeated, and their leaders were captured and shot."
+ rcw_nc.12.a:0 "One less gang"
+ 
+ rcw_nc.13.t:0 "Search for a Patron"
+ rcw_nc.13.desc:0 "The forces of the Terek Cossacks, led by Mikhail Karaulov, managed to drive the Bolsheviks out of the North Caucasus. However, further actions cannot be limited to the forces of local Cossacks. We need to turn to the local regional governments, which have additional resources. Perhaps with their help will completely stabilize the region."
+ rcw_nc.13.a:0 "Time to join forces"
+ 
+ 
+ 
+ MRC_attack_Grozny:0 "Attack Grozny"
+ 
+ TCH_martial_law:0 "Martial law"
+ TCH_martial_law_desc:0 "Martial law should be declared first."
+ TCH_cossack_mobilization:0 "Mobilization of Cossack units"
+ TCH_cossack_mobilization_desc:0 "You need an army to counter your enemies. I think it's stupid to argue with that."
+ TCH_cossack_mobilization_tt:0 "Five Irregular Cavalry units of three demi-regiments each. \n"
+ TCH_deserters_of_caucasian_front:0 "Deserters of the Caucasian Front"
+ TCH_deserters_of_caucasian_front_desc:0 "We need to do our agitation among the units returning from the front."
+ TCH_deserters_of_caucasian_front_tt:0 "Two militia squads of four half-regiments each. \n"
+ TCH_road_patrols:0 "Road Patrols"
+ TCH_road_patrols_desc:0 "Frequent robberies prevent people from moving normally on the roads, although we have few forces, some we will detach to protect the roads."
+ TCH_disperse_vladikavkazian_soviet:0 "Disperse the Vladikavkazian Soviet"
+ TCH_disperse_vladikavkazian_soviet_desc:0 "There are still Bolshevik governments parallel to ours, something needs to be done about it. Let's send armed squads to arrest."
+ TCH_finishing_survivors:0 "Finish Survivors"
+ TCH_finishing_survivors_desc:0 "The Soviets are scattered throughout the area, but over time they may grow stronger and challenge our hold on the region again. We must end them once and for all."
+ TCH_punishment_raids_in_mountains:0 "punishment raids in the mountains"
+ TCH_punishment_raids_in_mountains_desc:0 "We need to show the mountaineers that there is strong power in the region and fight back against their raids. This will not completely solve the problem, but perhaps they will act more carefully."
+ TCH_secure_oil:0 "Secure oil fields"
+ TCH_secure_oil_desc:0 "Oil is one of the main natural resources of the region. Cossack units should be sent to guard."
+ TCH_osetian_peoples_soviet:0 "Ossetian People's Soviet"
+ TCH_osetian_peoples_soviet_desc:0 "Although Ossetia has your socialist intelligentsia and land disputes with the Cossacks, the general population still strongly distrusts the Bolsheviks. Probably. We can try to involve them in the work of ensuring order in the region by creating an alternative body to the Bolshevik Soviets."
+ TCH_osetian_cossakian_units:0 "Ossetian-Cossack units"
+ TCH_osetian_cossakian_units_desc:0 "A proposal has been received from the People's Soviet of Ossetia to create joint Ossetian-Cossack units."
+ TCH_osetian_cossakian_units_tt:0 "Two Ossetian-Cossack irregular cavalry regiments (two half-regiments each). \n"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TCH_vladikavkazian_soviet:0 "Vladikavkaz Soviet"
+ TCH_dvoevlastie:0 "Dual power"
+ TCH_soldiers_from_Caucasian_front:0 "Arrival of soldiers from the Caucasian front"
+ TCH_unpunished_bandit_raids:0 "Unpunished Highland Raids"
+ TCH_bandit_raids:0 "Highlander Raids"
+ TCH_dysfunctional_government:0 "Dysfunctional government"

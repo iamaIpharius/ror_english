@@ -1,0 +1,138 @@
+﻿l_english:
+ 
+ SOV_czechs_evac_desisions:0 "Evacuation of the Czechoslovak Corps"
+ SOV_czechs_evac_desisions_desc:0 "The Czechoslovaks are henceforth the Entente army, that is, foreign soldiers. See to it that their evacuation [Root.SOV_czechs_evac_way_scr_loc] goes without too much trouble."
+ SOV_czechs_evac_way_north:0 "from north ports"
+ SOV_czechs_evac_way_east:0 "from Vladivostok"
+ SOV_czechs_evac_way_south:0 "from southern ports"
+ 
+ SOV_czechs_evac_first_echelon_mission:0 "first echelon movement"
+ SOV_czechs_evac_echelons_loading_mission:0 "Echelon loading"
+ SOV_czechs_evac_last_echelon_mission:0 "Last Echelon Movement"
+ SOV_czechs_evac_ships_loading_mission:0 "Loading on ships"
+ 
+ rcw_czechs.1.t:0 "The Czechoslovak National Soviet creates a branch in Russia"
+ rcw_czechs.1.desc:0 "The Czech National Committee, settled in Paris, declared itself an organ of the liberation struggle of the Czech people against the Habsburg dynasty. In this struggle, the leaders of the committee intend to win independence, based on Slavic brotherhood and republican principles. But the committee does not have enough independent troops (most Czechs are drafted into the Austrian army), so the Parisian emigrants do not lose hope of using the Czechoslovak Rifle Brigade deployed in Russia. They also intend to recruit compatriots who have been taken prisoner in Russia. Until recently, the Czechoslovakian brigade proved to be excellent at the front - its fighters are ideological enemies of the Habsburgs. Now we can allow the committee to expand the brigade by trusting it and in a few months we will have excellent units at our disposal, perhaps a division or even a corps. Well a corps is unlikely."
+ rcw_czechs.1.a:0 "Republic in Bohemia? We have our own plans."
+ rcw_czechs.1.b:0 "We will provide everything the Slavic brothers need."
+ 
+ rcw_czechs.3.t:0 "The Czechoslovak Corps is formed."
+ rcw_czechs.3.desc:0 "After a long period of fruitful work by the Czech committees in Russia, solid reinforcements for the Czechoslovak brigade were recruited from among the prisoners of war of compatriots and emigrants. Gradually the incoming recruits made it possible to develop the brigade into two divisions, the first and the second Hussite division. At the same time individual regiments of the Czech brigade were present at the front and took part in real battles. Now a corps of two divisions is at our disposal."
+ rcw_czechs.3.a:0 "Let's send them to storm Vienna."
+ rcw_czechs.3.t_1:0 "Arrival of Czech corps from Russia."
+ rcw_czechs.3.desc_1:0 "The brave Czech divisions, once established under the patronage of the Russian army, are now at our disposal."
+ rcw_czechs.3.a_1:0 "Hail the patriots of Czechoslovakia!"
+ 
+ rcw_czechs.4.t:0 "Situation of the Czechoslovak Corps."
+ rcw_czechs.4.desc:0 "Since the deployment of the Czechoslovak Brigade into the corps, the situation in Russia has had time to change several times. The Czechs see this and understand how unstable their position here is. Meanwhile, the Western Allies offer to transfer the corps to their front, where Czechs will receive everything they need and can take part in the defeat of the German empires. It could be suggested that the Czechs continue to serve with us if the government intends to continue fighting, or we should think about evacuating them. Especially since they have already received weapons."
+ rcw_czechs.4.a:0 "The war is not over. Let's convince the Czechs to stay here."
+ rcw_czechs.4.b:0 "Let the Entente take care of the Czechs."
+ 
+ rcw_czechs.5.t:0 "Corps Evacuation Route"
+ rcw_czechs.5.desc:0 "The Czech legionnaires have several ways to leave Russia. However, it is worth bearing in mind that our roads are congested as it is, and undesirable incidents may occur on the way. In addition, the city where they will reach before they are sent west by sea must be ready to meet and accommodate this forty-thousand-strong army."
+ rcw_czechs_5_tt_north:0 "From the northern ports the Entente cargoes come to us. This route for British ships is well known. It is also known how firmly it can freeze, and how weak the capacity of the northern railroads is. Under the Czar, most of the supplies simply did not have time to be shipped out and they were embedded in the land of the port cities. Now we must realize that concentrating the corps at a stone's throw from the center of Russia might not be desirable if relations with Entente deteriorate."
+ rcw_czechs_5_tt_south:0 "In view of recent events on the Black Sea, an opportunity opens up to get the Czechs out by the fastest route, through the southern ports. The problem is that for our government, these regions are now a "gray zone". There are reports that a new insurgency is being prepared there, and it would be foolish to place a foreign military corps right in the middle of it."
+ rcw_czechs_5_tt_east:0 "It seems safest to send the Czechs to Vladivostok. It is a very long and extremely long route, but stretching into a thin string of echelons all over Siberia the legionnaires would hardly pose a problem, even if they wanted to. We would have enough troops in each city to stop any misunderstanding. From Vladivostok itself the Czechs can also be released in batches, without allowing them to gather together at one point."
+ rcw_czechs_5_tt_UKR:0 "As a last resort, the Czechs can be turned over to the Ukrainian authorities. Ukraine has both its own front with Germany and access to the Black Sea."
+ rcw_czechs_5_tt_no_direction:0 "...however, we have nowhere to send them. If you see this message, please report the error to https://vk.com/ror_civilwar."
+ rcw_czechs.5.a:0 "Send hull across north"
+ rcw_czechs.5.b:0 "The Czechs will travel through Siberia"
+ rcw_czechs.5.c:0 "Let's send the corps south"
+ rcw_czechs.5.d:0 "The authorities in Kiev will sort out what to do with the corps"
+ rcw_czechs.5.e:0 "Unfortunately, you cannot be taken out. I ask you to take it with understanding."
+ 
+ rcw_czechs.6.t:0 "Ships for the Czech Corps."
+ rcw_czechs.6.desc:0 "The Czech Legionnaires in full arrived at the port from which they are ordered to evacuate to the west. However, an unexpected problem arose in providing ships to transport the Czechs by sea. We can provide our own or wait for the Entente to take care of the matter."
+ rcw_czechs.6.a:0 "Provide whatever is necessary."
+ rcw_czechs.6.b:0 "Inform the Allies of the problem."
+ 
+ rcw_czechs.7.t:0 "Problems with the evacuation of the Czech Corps"
+ rcw_czechs.7.desc:0 "A Czech corps formed in Russia is to arrive on the western front. The Russians refused to maintain it and turned over all leadership over it to the Entente. Now the Czechs are stationed in a Russian port city and cannot leave it because of the small number of ships, suitable for the transport of troops. We are asked to provide our convoys for the duration of the evacuation."
+ rcw_czechs.7.a:0 "Now we need convoys ourselves."
+ rcw_czechs.7.b:0 "All right, send ships."
+ 
+ rcw_czechs.8.t:0 "Czechs in Ukraine"
+ rcw_czechs.8.desc:0 "The Russian authorities transferred the Czechoslovak Rifle Corps to our responsibility. This is a significant force on which the Entente countries are counting. More importantly, we, too, can count on the Czechs if we make an agreement with the Allies to keep the corps on the southwestern front."
+ rcw_czechs.8.a:0 "We will take care of moving the Czechs west."
+ rcw_czechs.8.b:0 "We'll try to negotiate."
+ 
+ rcw_czechs.9.t:0 "Ukraine asks to keep the Czech Corps"
+ rcw_czechs.9.desc:0 "The Czech corps was formed in Russia, but it became difficult for the Russians to maintain it. According to an agreement with us, the Czechs became part of the Entente armies and had to go by sea to our front, after which the Russians transported them to the Ukraine. Now the Ukrainian command wants to negotiate about leaving the corps on their land for the sake of preserving the Eastern anti-German front. Transporting the Czechs would be very costly and, all things considered, they could help the Ukrainian army for a while."
+ rcw_czechs.9.a:0 "We agree with the Ukrainian proposal."
+ rcw_czechs.9.b:0 "This is unacceptable."
+ 
+ rcw_czechs.10.t:0 "Entente refusal"
+ rcw_czechs.10.desc:0 "[From.GetName] does not give permission to keep the Czech Corps, and that their ships themselves will take the Czechoslovaks to the Western Front."
+ rcw_czechs.10.a:0 "Wonderful."
+ 
+ rcw_czechs.13.t:0 "Clashes between the Czechs and the Internationalists."
+ rcw_czechs.13.desc:0 "Recently we began creating internationalist units from former captive Austrian and German soldiers. Most of them were in Siberian camps and are now being taken to central Russia. At the same time, the railroads are loaded with trains evacuating the Czechoslovak Corps. Random encounters between Hungarian and German interbrigadists and Czechs have more than once escalated into clashes. The Czechs are armed, they make no secret of their dislike for our new comrades and take every opportunity to humiliate them."
+ rcw_czechs.13.a:0 "Make sure this does not happen again."
+ 
+ rcw_czechs.14.t:0 "Czechs do not obey."
+ rcw_czechs.14.desc:0 "During the last period, the cases of violations of the orders of the local authorities by the evacuated Czechs became more frequent. With rifles, grenades and machine guns, Czechs feel they have the right to dispose of all spheres of their life independently. On several occasions the situation escalated to the point that the Czechs were ordered to surrender their weapons, and of course they did not comply. Meanwhile we have an order in the corps specifying that in each echelon there should be only one armed company with 300 pieces of ammunition per rifle, and that all the armaments above that were to be handed over back in Penza. The Czechs did not carry out this order."
+ rcw_czechs.14.a:0 "Every Czechoslovak found armed on the railroad line must be shot."
+ rcw_czechs.14.b:0 "Our forces are too weak to act decisively."
+ 
+ rcw_czechs.15.t:0 "Mutiny of the Czechoslovak Corps"
+ rcw_czechs.15.desc:0 "Outraged at the necessity of surrendering their surplus arms and complying with the regulations laid down by our government, the Czechoslovak Legionnaires began a coordinated action. It is not yet clear whether their purpose is to overturn Russia or to obtain a lasting corridor for evacuation from it. Nor is it possible to say whether the Entente is coordinating the actions of the Czechs, and what their relations are with political circles hostile to our government. The fact is that the internal enemies, having learned of the Czech adventure, hastened to start their own insurrections. As a consequence, chaos reigns on the railroads."
+ SOV_czechs_uprising_position_1_1_tt:0 "According to the latest information, the forces of the Czechoslovak corps are stretched from Penza to Vologda. The Czechs control almost all the railroads along this line. A "northern government" is proclaimed in Vologda, and the Northern Volunteer Army is proclaimed in Nizhniy Novgorod."
+ SOV_czechs_uprising_position_1_2_tt:0 "According to the latest information the Czechoslovak Corps forces are stretched from Penza to Arkhangelsk. The Czechs control almost all the railroads along this line. A "northern government" has been proclaimed in Arkhangelsk, and the Northern Volunteer Army in Nizhniy Novgorod."
+ SOV_czechs_uprising_position_1_3_tt:0 "According to the latest information the Czechoslovak Corps forces are stretched from Nizhniy Novgorod to Arkhangelsk. The Czechs control almost all the railroads along this line. A "northern government" is proclaimed in Arkhangelsk, and the Northern Volunteer Army is proclaimed in Nizhniy Novgorod."
+ SOV_czechs_uprising_position_1_4_tt:0 "According to the latest information the forces of the Czechoslovak Corps have already concentrated in Arkhangelsk and Murmansk. Apparently, in the near future the whole of northern Russia will go under the control of the rebels - we simply have nothing to stop the forty-thousand strong corps."
+ SOV_czechs_uprising_position_2_1_tt:0 "According to the latest information the forces of the Czechoslovak corps are stretched from Penza to Irkutsk. The main fighting is now taking place near Novo-Nikolayevsk. All the roads necessary for the transfer of forces loyal to us to Siberia have already been taken by the Czechs."
+ SOV_czechs_uprising_position_2_2_tt:0 "According to the latest information the Czechoslovak Corps forces are stretched from Penza to Vladivostok. The main fighting is now taking place near Novo-Nikolayevsk. All the roads necessary for the transfer of forces loyal to us to Siberia have already been taken by the Czechs."
+ SOV_czechs_uprising_position_2_3_tt:0 "According to the latest information the Czechoslovak Corps forces are stretched from Chelyabinsk to Vladivostok. The main fighting is now taking place near Novo-Nikolayevsk. All the roads necessary for the transfer of forces loyal to us to Siberia have already been taken by the Czechs."
+ SOV_czechs_uprising_position_2_4_tt:0 "According to the latest information the forces of the Czechoslovak Corps have already concentrated at Vladivostok. Apparently, in the near future the entire Primor'ye Territory will go under the control of the rebels - we simply have nothing to stop the forty-thousand strong corps."
+ SOV_czechs_uprising_position_3_1_tt:0 "According to the latest information the forces of the Czechoslovak corps are stretched from Tambov to Rostov. The Czechs control almost all the railroads along this line. Everywhere they support local rebel formations, in some places they help organize new governments hostile to us."
+ SOV_czechs_uprising_position_3_2_tt:0 "According to the latest information the Czechoslovak Corps forces are stretched from Tambov to Sevastopol and Novorossiysk. The Czechs control almost all the railroads along this line. Everywhere they support local rebel formations, in some places they help organize new governments hostile to us."
+ SOV_czechs_uprising_position_3_3_tt:0 "According to the latest information the Czechoslovak Corps forces are stretched from Rostov to Sevastopol and Novorossiysk. The Czechs control almost all the railroads along this line. Everywhere they support local rebel formations, in some places they help organize new governments hostile to us."
+ SOV_czechs_uprising_position_3_4_tt:0 "According to the latest information the forces of the Czechoslovak corps have already concentrated in Sevastopol and Novorossiysk. The loss of the southern ports was a strategic defeat for us, but there is simply nothing to stop the 40,000-strong corps now."
+ rcw_czechs.15.a:0 "Any mutiny will be crushed."
+ rcw_czechs.15.b:0 "Long live the Russian and Czech democrats!"
+ rcw_czechs.15.c:0 "Long live free Siberia!"
+ rcw_czechs.15.d:0 "The hour of Don's liberation has come!"
+ rcw_czechs.15.e:0 "Long live the Northern Government and the Czechoslovak Legion!"
+ rcw_czechs.15.f:0 "Long live Free Primor'ye!"
+ rcw_czechs.15.g:0 "Long live free Kuban!"
+ 
+ rcw_czechs.16.t:0 "Lose the Volga Region."
+ rcw_czechs.16.desc:0 "The mutinous Czechoslovak units, despite all the efforts of the local Red Guard units, continue to gain more victories. Today Colonel Checek's units entered Samara during a stubborn battle, where they were actively supported by the Social Revolutionary Revolutionary Guards and the white officer underground. The local Communist Kuibyshev had fled earlier and ordinary Soviet servicemen were left to be massacred by the victors. It is said that some of them were torn apart by the mad mob. Truly civil war does terrible things to people's souls.n For the overall situation, the loss of Samara was not the worst news, much more terrible is the fact that a new all-Russian government, the Committee of Members of the Constituent Assembly, was proclaimed in the city taken by the Czechs. It positions itself as the successor to the Constituent Assembly and has a strikingly pro-Esserian coloring. KOMUCH also announced the creation of the so-called People's Army, which is already usurping power in many cities along the Volga. Who knows, maybe tomorrow it will march on Moscow..."
+ rcw_czechs.16.desc_1:0 "The insurgent Czechoslovak units, despite the best efforts of the local Red Guard units, continue to gain more victories. Today Colonel Checek's units entered Samara during a stubborn battle, where they were actively supported by the Social Revolutionary Revolutionary Guards and the white officer underground. The local Communist Kuibyshev had fled earlier and ordinary Soviet servicemen were left to be massacred by the victors. It is said that some of them were torn apart by the mad mob. Truly civil war does terrible things to people's souls.n For the overall situation, the loss of Samara was not the worst news, but the fact that a new all-Russian government, the Constitutional Assembly Committee, was proclaimed in the Czech-taken city is much more frightening. It is positioning itself as the successor to the Constituent Assembly, allegedly rigged, and has a striking pro-Kadet coloration. KOMCONSOV has also announced the creation of the so-called People's Army, which is already usurping power in many cities along the Volga. Who knows, maybe tomorrow it will march on Moscow..."
+ rcw_czechs.16.a:0 "All reserves against the rebels!"
+ rcw_czechs.16.b:0 "I think I was elected to the assembly too... Or that friend of mine."
+ 
+ rcw_czechs.17.t:0 "Loss of the Urals."
+ rcw_czechs.17.desc:0 "The rebellious Czechoslovaks continue to gain new victories. Today, during a stubborn battle, Colonel Checek's units entered Chelyabinsk, where they were actively supported by the Siberian underground. At the same time, the Legionnaires were able to establish a strong link between their echelons and overthrow the legitimate authority along the whole length of the railroad from Chelyabinsk to Irkutsk. Now a government in Siberia, hostile to us, has been created, which aims to overthrow the central government and has already started mobilizing fresh troops. The civil war is burning hotter and hotter."
+ rcw_czechs.17.a:0 "All reserves against the rebels!"
+ rcw_czechs.17.b:0 "Siberia is also a Russian country..."
+ 
+ 
+ rcw_czechs.18.t:0 "Mutiny in Primor'ye"
+ rcw_czechs.18.desc:0 "Caldwell-Lassing. [GetDateText], Vladivostok. \nThe Czechs gave the Soviet an ultimatum at 10 a.m. today, demanding a reply in 30 minutes, but received none. The Czechs then occupied the Soviet's residence and forcibly disarmed the Red Guard, which offered no resistance, except for a group gathered in the fortress headquarters... This group surrendered after two hours of fighting with rifles, machine guns and hand grenades. No exact casualty figures are available yet, but it appears that no more than 15 men were killed and about 40 wounded. The Japanese and British have landed large armed landing parties in the town, but they did not take part in the fighting. Admiral Knight tonight landed a small unit of sailors for the sole purpose of protecting the consulate. At the request of the Czechs, Japanese and British patrols were withdrawn everywhere except the consulates, and the Czechs themselves took to the streets, which saved the city from annexation by foreign interventionists, but resulted in the final establishment of white power in the city, friendly to the interventionists and hostile to the workers' and peasants' government."
+ rcw_czechs.18.a:0 "And this rebellion will be suppressed."
+ rcw_czechs.18.b:0 "Another piece of free land!"
+ 
+ rcw_czechs.19.t:0 "The loss of the North"
+ rcw_czechs.19.desc:0 "The rebellious Czechoslovaks continue to score new victories. General Dieterichs' units entered Arkhangelsk today in a stubborn battle, where they were actively supported by the officers' underground. At the same time the Legionnaires were able to establish a strong link between their echelons and overthrow the legitimate authority throughout the railroads from Arkhangelsk to Vologda. There was also an anti-government rebellion in Murmansk. \now in the north a government hostile to us has been created, which aims to capture Moscow and has already started mobilizing fresh troops. The civil war is burning hotter and hotter."
+ rcw_czechs.19.a:0 "All reserves against the rebels!"
+ rcw_czechs.19.b:0 "Long live the Northern Government and the Czechoslovak Legion!"
+ 
+ rcw_czechs.20.t:0 "Mutiny in the Crimea"
+ rcw_czechs.20.desc:0 "The mutinous Czechoslovaks continue to score new victories. General Dieterichs' units occupied Sevastopol today in a stubborn battle, where they were actively supported by the officers' underground. The loss of Crimea is a serious blow to us, now the rebels can receive ammunition by sea and threaten Odessa and Donbass."
+ rcw_czechs.20.a:0 "All reserves against rebels!"
+ rcw_czechs.20.b:0 "Sooner or later they will be crushed, and I want a steamer too..."
+ 
+ 
+ red_czechs_recruitment_desisions:0 "Recruitment of the Czechoslovak Corps"
+ red_czechs_recruitment_desisions_desc:0 "The Czechoslovaks in the present realities are a formidable force, and the opportunity should not be neglected to sway the Czechs to stay in Russia and serve the cause of the revolution here, and perhaps in the future at home."
+ 
+ red_czechs_democratic_propaganda:0 "Democratic Propaganda."
+ red_czechs_exile_of_tsarists_officers:0 "Expulsion of Czarist officers"
+ red_czechs_attestation:0 "Oath-taking"
+ 
+ 
+ rcw_czechs.41.t:0 "red_czechs"
+ rcw_czechs.41.desc:0 "The successful agitation among the soldiers of the Czechoslovak Corps showed our Slavic brothers that the Russian revolutionaries were not at all agents of German imperialism, not at all enemies of true popular democracy. Thousands of Czechs expressed their desire to remain in the Red Army and continue the war for their and our freedom. Of course, many soldiers still remain distrustful and somewhat hostile to us, but the bulk of them follow us."
+ rcw_czechs.41.a:0 "Prudence will prevail."
+ 

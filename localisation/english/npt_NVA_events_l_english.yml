@@ -1,0 +1,540 @@
+﻿l_english:
+ Volga_Front:0 "Volga Front"
+ NVA_RSS_refuse:0 "Non-cooperation"
+ patriots_savinkov:0 "§ҮSavinkov should be in touch with us soon! "
+ general_stogov_arrives:0 "§ҮNikolay Stogov§! will become available as a general."
+ NVA_byvshyye:0 "Administration made out of the Old Cadres"
+
+ rcw_nva.1.t:0 "An appeal to the inhabitants of the city [Root.Capital.GetName] about the overthrow of the Bolsheviks and their program"
+ rcw_nva.1.desc:0 "Citizens, the Bolshevik power in [Root.Capital.GetName] has been overthrown. Those who a few months ago seized power by deception and then held it in their hands by unheard-of violence and mockery over the healthy will of the people, those who led the people to hunger and unemployment, restored brother upon brother, divided the people's treasury into pockets - now sit in prison and await retribution.The people who overthrew this power have as their aim to establish forms of broad state law, the National Assembly, legally and normally elected, must establish the foundations of the state system, establish political All obstacles to trade and movement will be removed and private trading capital will be involved in the business of supplying the population with food.The long war and the rule of the hooligans have exhausted the people's wealth, but even now we still have plenty of bread both along the Volga and in Siberia. To get this bread, to defeat hunger, we need only order, tranquility and labor discipline.The new government will firmly demand the unconditional execution of all its orders and will mercilessly prosecute all violators of the correct course of work in all institutions and enterprises.What happened in [Root.Capital.GetName] happened the same day and hour throughout the Volga.We act together with the Siberian and Samara governments and are subject to a common commander in chief, the old General Alexeyev. The Northern Army is commanded by the old revolutionary Boris Savinkov. Moscow is now surrounded by a tight ring. A little more effort - and the traitors, who have settled in the Kremlin, ruining the country and starving the people, will be swept from the face of the Russian land. All who are able to bear arms, let them join the volunteer army. As three hundred years ago our ancestors in the high patriotic enthusiasm managed to heal the wounds of the torn homeland, so we in a friendly burst will now save our homeland and our people from disgrace, slavery and hunger."
+ rcw_nva.1.a:0 "Russia will be free! "
+ 
+ rcw_nva.2.t:0 "Support the church."
+ rcw_nva.2.desc:0 "Not much time has passed since the Bolsheviks seized power, and the Orthodox people have already suffered great damage, and it is increasing every day, with every hour of anti-Christian rule - persecution of the church, brutal killings of defenseless priests and looting of churches, expulsion of the Christian faith from everywhere. Not surprisingly, our power to expel the damned demons was received with open arms by Orthodox pastors, giving us the support of this important segment of society. Now we need to define more precisely our cooperation with spiritual authority by resolving a number of important issues in this stratum."
+ rcw_nva.2.a:0 "God bless!"
+ 
+ rcw_nva.3.t:0 "The Politics of Mobilization."
+ rcw_nva.3.desc:0 "Mobilization is an unavoidable process for building an army, so our headquarters has developed two options for conducting it. The first involves compulsory conscription for officers and voluntary conscription for the rest of the population, especially the peasants. The second - compulsory conscription for all, within certain limits. Both variants have both their disadvantages and advantages - voluntary draft, even if the outcome is most favorable, we can't put many people in the ranks, but we will gain trust of the masses. By carrying out a broad mobilization we will definitely alienate a part of the population."
+ rcw_nva.3.a:0 "Voluntary mobilization."
+ rcw_nva.3.b:0 "Mandatory Conscription"
+
+ rcw_nva.4.t:0 "Army Organization"
+ rcw_nva.4.desc:0 "We managed to create some kind of armed forces and conduct mobilization, but the organization of the army is a mess - not even units are clearly divided into platoons, companies, etc., not to mention the smaller things like uniform identification and insignia and the attitude to shoulder straps with the old awards. It is necessary to adopt a plan as soon as possible, in the course of which the shape of our army will be clearly formed. There are two options: either we can try to move towards the so-called 'People's' Army, of course, without breeding kerenshchina, but with a softer and more controllable structure than under the tsar; or we can try not to repeat others' mistakes and organize our army with a glance at the Volunteer Army, even if it has its own flavor."
+ rcw_nva.4.a:0 "Need control over officers."
+ rcw_nva.4.b:0 "Only steely discipline will lead to victory."
+ 
+ rcw_nva.5.t:0 "Address the issue of free grain trade"
+ rcw_nva.5.desc:0 "We have no internal disagreement about the ownership of arable land - it should be owned by the one who works it - the peasant. Nevertheless, another problem has arisen - whether to allow free trade in grain or to introduce regulation. On the one hand, free bread would definitely put the peasants on our side, for the prohibition of such is one of the most important reasons of dissatisfaction of the population with the Soviet rule. On the other hand, we do not have a single 'bread' province under our control, so temporary regulation will help to halt the development of the almost inevitable food crisis."
+ rcw_nva.5.a:0 "Bread - free circulation."
+ rcw_nva.5.b:0 "It is worth introducing regulation."
+ 
+ rcw_nva.7.t:0 "Whistleblowers' work"
+ rcw_nva.7.desc:0 "Propaganda is a thing greatly underestimated in Tsarist Russia, as in revolutionary Russia. For it is not only posters and similar propaganda material, it is first of all the communication of one's position to the broadest possible masses, the constant explanation of what and why we are fighting for and why our enemies are evil. Only the Bolsheviks appreciated this power and are actively using it to strengthen their position. If we want to win, we need to counter their agitation machine with our own."
+ rcw_nva.7.a:0 "Our cause is right."
+ 
+ rcw_nva.8.t:0 "Organizing Peasant Revolts"
+ rcw_nva.8.desc:0 "Betting on drawing the peasantry to our side to raise a mass uprising against the Bolsheviks has not justified itself. Perhaps it is the fault of our policy, or perhaps the peasants have not yet suffered enough from the Commissar's power".
+ rcw_nva.8.a:0 "This failure may cost us victory."
+ 
+ rcw_nva.9.t:0 "Organization of peasant uprisings"
+ rcw_nva.9.desc:0 "The bet on drawing the peasantry to our side to raise a mass uprising against the Bolsheviks has only partially justified itself. The peasants are openly sympathetic to us and hostile to Soviet power, but they are in no hurry to raise a general uprising and enlist in our army in large numbers, although they are ready to defend their villages against the Prodotryad and other Red bandits, if only in words."
+ rcw_nva.9.a:0 "This is not what we were counting on."
+ 
+ rcw_nva.10.t:0 "Organization of peasant uprisings"
+ rcw_nva.10.desc:0 "The bet on drawing the peasantry to our side to raise a mass uprising against the Bolsheviks has justified itself, though to a lesser extent than we wished. In all the provinces in which we have taken the cities, the peasants are rising and, most importantly, they are asking to be taken under our command."
+ rcw_nva.10.a:0 "It is worthwhile to engage them immediately."
+ 
+ rcw_nva.11.t:0 "Our position."
+ rcw_nva.11.desc:0 "At last our troops have met Volunteer Army units from the south. This raises the question of the necessity of the existence of our government, for we originally proclaimed ourselves the northern part of the Dobro-Army and the general supreme commander for us was General Alexeyev. On the other hand, [Root.GetLeader] wants to put himself at the forefront of the White movement, and for all the time since the uprising we have established our own authorities and army, and our political activities have differences with those of the Whites from the south."
+ rcw_nva.11.a:0 "Propose a command under Southern hand, but with a civilian government based on the NWR&S."
+ rcw_nva.11.11.b:0 "All questions about creating a unified government will be decided at the National Assembly."
+ rcw_nva.11.c:0 "We will join the forces of southern Russia on their terms"
+ 
+ rcw_nva.12.t:0 "Offer from the north"
+ rcw_nva.12.desc:0 "We have received an offer from the SDA leadership to unite our armies even before the National Assembly, under our command, but subject to the establishment of a civilian government based on the NWR&S."
+ rcw_nva.12.desc_rnp:0 "We have received a proposal from the SDA leadership to merge our armies even before the national convention, under our command, but subject to the establishment of a civilian government based on the RNP."
+ rcw_nva.12.a:0 "We agree to these terms."
+ rcw_nva.12.b:0 "This proposal is unacceptable."
+ 
+ rcw_nva.16.t:0 "Response from the South"
+ rcw_nva.16.desc:0 "The Volunteer Army has found our offer unacceptable."
+ rcw_nva.16.a:0 "Sad."
+ 
+ rcw_nva.13.t:0 "Message from the Volga."
+ rcw_nva.13.desc:0 "Messengers from our neighboring, friendly Northern Good Army who have rebelled on the Volga have contacted us. They suggest that we establish extensive cooperation with them for the speedy crushing of the Bolshevik plague, up to and including uniting our formations for a more effective struggle."
+ rcw_nva.13.a:0 "Unity is absolutely necessary."
+ rcw_nva.13.b:0 "It is worth coordinating our forces."
+ rcw_nva.13.c:0 "We don't need that."
+ 
+ rcw_nva.78.t: "Response from the north."
+ rcw_nva.78.desc: "The northern government has agreed to unite our entities for victory."
+ rcw_nva.78.a: "Hooray!"
+ 
+ rcw_nva.14.t:0 "Response from the north."
+ rcw_nva.14.desc:0 "The government of northern Russia has agreed to coordinate our troops."
+ rcw_nva.14.a:0 "Together to Victory"
+ 
+ rcw_nva.15.t:0 "Response from the north"
+ rcw_nva.15.desc:0 "The northern government has refused to make any agreements with us."
+ rcw_nva.15.a:0 "But we have the same goals!"
+ 
+ rcw_nva.17.t:0 "Treaty with the SDA."
+ rcw_nva.17.desc:0 "Today we have a messenger from [FROM.Country.GetName], who has revolted in several cities in central Russia. He offers to document the preliminary agreements made by Fortunatov, creating a united front for the victory over Bolshevism. In addition, he asks for food aid, for, he says, because of the barbarous policy of the Commissars toward the countryside, the population is in danger of starvation."
+ rcw_nva.17.a:0 "We agree to everything."
+ rcw_nva.17.b:0 "We'll form an alliance, but we won't give bread."
+ rcw_nva.17.c:0 "We will not cooperate with these rebels"
+ 
+ rcw_nva.18.t:0 "Response from the east"
+ rcw_nva.18.desc:0 "Our messenger has returned with encouraging news - all tentative arrangements will be confirmed and in addition, we will be shared with the Volga bread."
+ rcw_nva.18.a:0 "Prudence prevailed."
+ 
+ rcw_nva.19.t:0 "Answer from the east"
+ rcw_nva.19.desc:0 "Our messenger has returned with some good news - all tentative arrangements will be confirmed, but our request for bread has been denied, citing our own problems."
+ rcw_nva.19.a:0 "We can only hope for a quick victory over the Bolsheviks."
+ 
+ rcw_nva.20.t:0 "Response from the east."
+ rcw_nva.20.desc:0 "Our messenger returned with nothing, in [FROM.Country.GetName] refused to cooperate with us in any form."
+ rcw_nva.20.a:0 "This is treason!"
+ 
+ rcw_nva.21.t:0 "Former Commander-in-Chief."
+ rcw_nva.21.desc:0 "In Moscow under our control we were able to mobilize quite a few officers for our army without unnecessary delay, but there is an individual whose fate must be considered separately - Alexei Brusilov. He was an old army general, thanks to whom perhaps the greatest victory of the Russian arms during the Second World War was made, the Lutsk breakthrough, the Supreme Commander-in-Chief under the Provisional Government in May-July 1917, a man in whose excellent military talents it is difficult to doubt. But at the same time he was remarkably mild toward all sorts of committees and Soviets that ruined the army in 1917, unlike many military leaders, and he did not join the White movement at the Don, where many patriotic officers had gathered. We must decide whether to alarm Brusilov and try to persuade him to join the ranks of our armed forces, which clearly lack an experienced high command, or to leave the suspicious general alone."
+ rcw_nva.21.a:0 "Such cadres are not to be scattered!"
+ rcw_nva.21.b:0 "Let him live like an ordinary citizen."
+ 
+ rcw_nva.22.t:0 "Cooperation with Moscow organizations"
+ rcw_nva.22.desc:0 "In order to realize our pretensions to all-Russian power, to strengthen the administrative apparatus and the general situation, we have to, one way or another, closely cooperate with other anti-Bolshevik parties and organizations, of which there are several in Moscow, besides the half-decayed Right Center, with which the Soviet of Public Figures and the Union of Landowners are connected, which at present have a German orientation and are therefore useless for us in the current situation. Of those with which it makes sense to cooperate, two formations are of interest - the Union of Revival (Left Center), which includes all socialist parties (Enes, Essers, Mensheviks, Unity) and leftist Cadets and also the National Center, which includes all right-wing parties and organizations (including leftist K-d), except the extreme right and pro-German ones. We can either resort to preferential cooperation with one of the associations, or we can try to continue to carry out the "sacred mission" of uniting both the right and the left, although if we gain real power, we should certainly expect conflicts from them."
+ rcw_nva.22.desc_rnp:0 "To realize our claim to all-Russian power, to strengthen the administrative apparatus and the general situation, we must in one way or another, closely cooperate with other anti-Bolshevik parties and organizations, of which there are several in Moscow, except the half-decayed Right Center, with which the Soviet of Public Figures and the Union of Landowners are connected, which at present adhere to a German orientation and are therefore useless for us in the current situation. Of those with which it makes sense to cooperate, two formations are of interest - the Union of Revival (Left Center), which includes all socialist parties (Enes, Essers, Mensheviks, Unity) and leftist Cadets and also the National Center, which includes all right-wing parties and organizations (including leftist K-d), except the extreme right and pro-German ones. We can either resort to preferential cooperation with one of the associations, or we can try to continue the 'sacred mission' of uniting both the Right and the Left, but given the policy of our party, only the latter option can be considered completely satisfactory."
+ rcw_nva.22.a:0 "Socialists are closer to the people."
+ rcw_nva.22.b:0 "The Cadets know better what is needed for Russia."
+ rcw_nva.22.c:0 "Only unity will save us"
+ 
+ rcw_nva.23.t:0 "New Constituent Assembly"
+ rcw_nva.23.desc:0 "One of our key slogans is to hold a new Constituent Assembly to replace the one trampled and shot by the Bolsheviks, in order to learn the will of the people and put it into effect. Although we can not yet hold it in the whole of Russia, we are able to organize an institution in the territory under our control. Of course, the Bolsheviks and their accomplices, the Left Socialist Socialist Revolutionaries, will be barred from the election, and it may be more difficult for uncooperative parties to participate, but one way or another, the Russian people will have their say. In the current mess and whirlwind of change, the results may be quite...unexpected."
+ rcw_nva.23.a:0 "NWR&S has gained confidence."
+ rcw_nva.23.a_rnp:0 "RNP gained confidence"
+ rcw_nva.23.b:0 "The People's Freedom Party will lead us forward"
+ rcw_nva.23.c:0 "The Socialists are still the most popular"
+ rcw_nva.23.d:0 "The Social Democrats have performed well.
+ 
+ 
+ rcw_nva.24.t:0 "New Constituent Assembly"
+ rcw_nva.24.desc:0 "One of our key slogans is to hold a new Constituent Assembly to replace the one trampled and shot by the Bolsheviks, in order to learn the will of the people and put it into effect. Although we can not yet hold it in the whole of Russia, we are able to organize an institution in the territory under our control. Of course, the Bolsheviks and their accomplices, the Left Socialist Socialist Revolutionaries, will be barred from the election, and it may be more difficult for uncooperative parties to participate, but one way or another, the Russian people will have their say. In the current mess and whirlwind of change, the results may be quite...unexpected."
+ rcw_nva.24.a:0 "NWR&S gained confidence."
+ rcw_nva.24.a_rnp:0 "RNP gained confidence"
+ rcw_nva.24.b:0 "The People's Freedom Party will lead us forward"
+ rcw_nva.24.c:0 "Renaissance Union gains the upper hand"
+ 
+ 
+ rcw_nva.25.t:0 "New Constituent Assembly"
+ rcw_nva.25.desc:0 "One of our key slogans is to hold a new Constituent Assembly to replace the one trampled and shot by the Bolsheviks, in order to know the will of the people and put it into effect. Although we can not yet hold it in the whole of Russia, we are able to organize an institution in the territory under our control. Of course, the Bolsheviks and their accomplices, the Left Socialist Socialist Revolutionaries, will be barred from the election, and it may be more difficult for uncooperative parties to participate, but one way or another, the Russian people will have their say. In the current mess and whirlwind of change, the results may be quite...unexpected."
+ rcw_nva.25.a:0 "NWR&S has gained confidence."
+ rcw_nva.25.a_rnp:0 "RNP gained confidence"
+ rcw_nva.25.b:0 "The People's Freedom Party will lead us forward"
+ rcw_nva.25.c:0 "The Socialists are still the most popular"
+ rcw_nva.25.d:0 "The Enets have unexpectedly won.
+  
+ rcw_nva.26.t:0 "Choice of the head of the government"
+ rcw_nva.26.desc:0 "Our party won a landslide victory at the last constituent assembly; we should consolidate our success. We have decided on a general cabinet, with the exception of the head of government, for whose role there are several bright candidates."
+ rcw_nva.26.a:0 "It is worthwhile in our position to temporarily combine the two supreme offices."
+ rcw_nva.26.b:0 "Chernosvitov is doing an excellent job."
+ rcw_nva.26.c:0 "Shipov is authoritative enough"
+ rcw_nva.26.d:0 "Shchepkin will unite right and left"
+ rcw_nva.26.e:0 "Melgunov will be useful"
+ 
+ rcw_nva.27.t:0 "Leader of the People's Freedom Party"
+ rcw_nva.27.desc:0 "The Cadets won the last founding meeting, and now we are faced with the choice of whom to elect as leader from several bright candidates representing, among others, the various 'wings' of our party."
+ rcw_nva.27.a:0 "Nikolay Schepkin will be able to establish cooperation with the left as well."
+ rcw_nva.27.b:0 "Dmitry Shipov is the most authoritative"
+ rcw_nva.27.c:0 "Pavel Novgorodtsev as the de facto head of the right wing"
+ rcw_nva.27.d:0 "Nikolay Astrov is quite bright"
+ 
+ rcw_nva.28.t:0 "Unpleasant results"
+ rcw_nva.28.desc:0 "Although we favored right-wing parties in cooperation, the Socialists were able to unite and win the election with their bloc, thus putting us in a doubtful position. We can submit to the vote, but there is also the possibility of rigging the election results."
+ rcw_nva.28.a:0 "There is no escaping fate."
+ rcw_nva.28.b:0 "Let's fix the numbers"
+ 
+ rcw_nva.29.t:0 "Unpleasant results"
+ rcw_nva.29.desc:0 "Although we favored left-wing parties in cooperation, the cadets somehow won the election, thus putting us in a questionable position. We can submit to the vote, but there is also the possibility of rigging the election results."
+ rcw_nva.29.a:0 "There is no escaping fate."
+ rcw_nva.29.b:0 "Let's fix the numbers"
+
+ rcw_nva.30.t:0 "Crisis of confidence"
+ rcw_nva.30.desc:0 "We falsified the election results, but not all the tails were cleaned up, and now there are great doubts about the integrity of the election results. Our party will remain in power, but there will definitely be no cooperation with the 'true' winners any time soon."
+ rcw_nva.30.a:0 "Not a good outcome."
+  
+ rcw_nva.31.t:0 "Monetary policy" 
+ rcw_nva.31.desc:0 "Among the many ills the war has brought to Russia is also increased inflation. In our situation this phenomenon is even more dangerous, because its consequence is the distrust of the government and the inability of the government for this reason to establish a healthy state life. At the moment there are two solutions: "cavalry assault" to withdraw the devalued banknotes and other banknotes, replacing them with new rubles, or to gradually throw in the new gold backed banknotes. The solution is not obvious, because each option has both pluses and minuses. First of all, our small administrative capacity may simply not allow us to withdraw enough currency, which will eventually lead to even more inflation." 
+ rcw_nva.31.a:0 "Let's try to manage as soon as possible."
+ rcw_nva.31.b:0 "Let's be more careful." 
+  
+ rcw_nva.32.t:0 "Economic arrangement"
+ rcw_nva.32.desc:0 "Besides the financial question, our economic committee has another task - to choose the most suitable economic policy - in the mess of the uprising and the subsequent hard struggle the workers for the most part managed the enterprises themselves, and our state apparatus did not interfere much in this sphere, which to some extent increased the loyalty to us of this population group. Nevertheless, after the consolidation of power, it was time to get to the bottom of this matter."
+ rcw_nva.32.a:0 "Worker control is something that deserves encouragement."
+ rcw_nva.32.b:0 "A little intervention in the economy won't hurt."
+ rcw_nva.32.c:0 "A free market is something to strive for"
+ rcw_nva.32.d:0 "The state needs to keep its finger on the pulse."
+ rcw_nva.32.e:0 "A balanced approach is worth choosing"
+ 
+ rcw_nva.35.t:0 "Address of the Russian delegation"
+ rcw_nva.35.desc:0 "A Russian delegation from a government we recognize as having entered the war with Germany has come to us today. It demands participation in the conference which will determine the outcome of the Great War, as a full successor to the Russian Empire, which has fulfilled its allied duty to the end. There are also requests for additional arms and equipment, particularly tanks and planes."
+ rcw_nva.35.a:0 "Perhaps we should grant their requests."
+ rcw_nva.35.b:0 "Since they recognized and they fought, let them participate, but no weapons."
+ rcw_nva.35.c:0 "Let them get weapons, but answer the question about participation in the conference vaguely"
+ rcw_nva.35.d:0 "The delegation... from where?"
+ 
+ rcw_nva.36.t:0 "Appeal of the Great Russian Authority"
+ rcw_nva.36.desc:0 "In recent times a new All-Russian power has been formed in the center of Russia in the person of the Supreme Ruler and a government approved by the popular will. Recognizing our merits in the anti-Bolshevik struggle, [FROM.GetLeader] wishes in turn to recognize his authority as supreme and our accession to a federation with wide autonomy, for the sake of the speedy achievement of the unity of the country."
+ rcw_nva.36.a:0 "Our government needs no recognition."
+ rcw_nva.36.b:0 "We are willing to bend the knee to save the homeland."
+ 
+ rcw_nva.37.t:0 "Abolition of autonomy"
+ rcw_nva.37.desc:0 "The government of Great Russia has outlined a program of state reform, in which it has been decided to abolish our autonomy at the state level, but with local rights reserved. Whites do not want to hear anything about the full autonomy of the peoples of the Baltics. Our forces are not too great, and apparently we have either to submit or try to defend independence with an appeal to Berlin or London, Paris, Warsaw."
+ rcw_nva.37.a:0 "It is no use fighting now."
+ rcw_nva.37.b:0 "Send a delegation to London at once!"
+ rcw_nva.37.c:0 "Berlin can help us."
+ rcw_nva.37.d:0 "Warsaw and Paris will understand us."
+ 
+ rcw_nva.38.t:0 "Delegation from [FROM.GetName]"
+ rcw_nva.38.desc_ENG:0 "A delegation from the newly engulfed Baltics has come to us with an urgent message. They asked for all possible assistance as soon as possible in the struggle against the illegal acts of the Russian Government, promising to repay everything in the future and to give full openness to British capital, hinting at the necessity of a buffer for the rising Russia."
+ rcw_nva.38.desc_FRA:0 "A delegation from the newly engulfed Baltic came to us with an urgent message. They asked for all possible assistance as soon as possible in the struggle against the illegal acts of the Russian government, promising to repay everything in the future and to give full openness to French capital, hinting at the necessity of a buffer for the rising Russia."
+ rcw_nva.38.a:0 "We are not interested in the Baltics."
+ rcw_nva.38.b:0 "Send diplomatic protest"
+ rcw_nva.38.c:0 "Pressure the government in Moscow by threatening to sever relations"
+ 
+ rcw_nva.39.t:0 "Delegation from [FROM.GetName]"
+ rcw_nva.39.desc_ENG:0 "A delegation from the newly engulfed Baltics has come to us with an urgent message. They asked for all possible assistance as soon as possible in the struggle against the illegal acts of the Russian Government, promising to repay everything in the future and to give full openness to British capital, hinting at the necessity of a buffer for the rising Russia."
+ rcw_nva.39.desc_FRA:0 "A delegation from the newly engulfed Baltic came to us with an urgent message. They asked for all possible assistance as soon as possible in the struggle against the illegal acts of the Russian government, promising to repay everything in the future and to give full openness to French capital, hinting at the necessity of a buffer for the rising Russia."
+ rcw_nva.39.a:0 "We are not interested in the Baltics."
+ rcw_nva.39.b:0 "Send diplomatic protest"
+ rcw_nva.39.c:0 "Threaten the Russians with war"
+ 
+ rcw_nva.40.t:0 "Delegation from [FROM.GetName]"
+ rcw_nva.40.desc:0 "A delegation from the newly engulfed Baltics has come to us with an urgent message. They asked for all possible help as soon as possible in the struggle against the Russian invaders, promising to repay everything in the future and to give all rights to the Baltic Germans, promising full openness to German capital."
+ rcw_nva.40.a:0 "This is not our problem."
+ rcw_nva.40.b:0 "Send a diplomatic protest."
+ rcw_nva.40.c:0 "Send them old weapons"
+ rcw_nva.40.d:0 "Send them freikors to help them"
+ 
+ rcw_nva.41.t:0 "Delegation from [FROM.GetName]"
+ rcw_nva.41.desc:0 "We have an urgent message from a delegation from the newly engulfed Baltic. They have asked for all the help they can get in the fight against the Russian invaders as quickly as possible, promising to repay for everything in the future."
+ rcw_nva.41.a:0 "This is not our problem."
+ rcw_nva.41.b:0 "Send diplomatic protest."
+ rcw_nva.41.c:0 "Threaten the Russians with war for this"
+ rcw_nva.41.d:0 "This is our chance to create an Intersea!"
+ 
+ rcw_nva.42.t:0 "Power Pressure [FROM.GetName]"
+ rcw_nva.42.desc:0 "After one country refused peaceful centralization, their ambassadors were able to get through to Western diplomats, who are now threatening us with severing all relations with them if we don't get behind the Balts. However, the 'allies' may also give up if we show firmness."
+ rcw_nva.42.a:0 "We don't care about their threats."
+ rcw_nva.42.b:0 "This little thing is nothing but trouble."
+ 
+ rcw_nva.43.t:0 "Threat of war by the power [FROM.GetName]"
+ rcw_nva.43.desc:0 "After one country refused peaceful centralization, their ambassadors were able to get through to the Western government, which is now threatening us with war if we don't get behind the Balts. According to our diplomats, however, this is nothing more than a bluff."
+ rcw_nva.43.a:0 "We don't care about their threats."
+ rcw_nva.43.b:0 "This trifle is nothing but trouble."
+ 
+ #Savinkov's Rebellion
+ 
+ rcw_nva.44.t:0 "Savinkov's activities"
+ rcw_nva.44.desc:0 "One of the members of the Don Citizens' Soviet is Boris Savinkov, a former SR and terrorist as well as an important figure in the provisional government. Because of his controversial past, he does not find support among the right-wing circles, all his initiatives are rejected or ignored, and the officers of the volunteer army are rather set against him, as they consider him one of the culprits of the failure of Kornilov's speech. However, it seems that his terrorist past will now play to our advantage - Savinkov accepted Alexeyev's commission and left for Moscow to create an anti-Soviet underground."
+ rcw_nva.44.a:0 "No better candidate."
+ rcw_nva.44.b:0 "You couldn't find a better candidate."
+ 
+ rcw_nva.45.t:0 "Patriots Behind Enemy Lines"
+ rcw_nva.45.desc:0 "Savinkov, who has been sent to organize the anti-Bolshevik underground, has contacted us. He reports on the establishment of the "Union for the Defence of the Homeland and Freedom", cooperating with all the anti-Bolshevik parties and on the financial support of our Entente allies. According to him, there will soon be a large-scale uprising in the very center of the country."
+ rcw_nva.45.a:0 "This is good news."
+ 
+ rcw_nva.46.t_succ:0 "Success in Yaroslavl"
+ rcw_nva.46.t_fail:0 "Crash in Yaroslavl"
+ rcw_nva.46.desc_succ:0 "Tonight, a small handful of fighters led by Perkhurov managed to take control of all of Yaroslavl without any fighting - the local forces have either gone over to our side or are staying neutral."
+ rcw_nva.46.desc_fail:0 "Tonight our forces in Yaroslavl were defeated - the Chekists learned of the impending action and tried to raise a local regiment to defend their power. And, although they managed to send only one company consisting of German and Magyar internationalists into battle, it was enough to defeat a hundred almost unarmed men. "
+ rcw_nva.46.a:0 "We are one step closer to victory."
+ rcw_nva.46.b:0 "Control of the Volga will now be difficult to establish."
+ 
+ rcw_nva.47.t_succ:0 "Rostov victory"
+ rcw_nva.47.t_fail:0 "Rostov defeat"
+ rcw_nva.47.desc_succ:0 "This morning our little cell in Rostov took the city, with rather little resistance from the Bolshevik authorities. With the control of one of the oldest cities in Russia we have the road to the First Capital."
+ rcw_nva.47.desc_fail:0 "Just a few hours before the performance, the Rostov branch of the NWR&S was unexpectedly attacked by the Red Guards, thus preventing our revolt in that city."
+ rcw_nva.47.a:0 "A small but pleasant victory."
+ rcw_nva.47.b:0 "Unpleasant but not critical defeat."
+ 
+ rcw_nva.48.t_succ:0 "The capture of Rybinsk"
+ rcw_nva.48.t_fail:0 "Failure in Rybinsk"
+ rcw_nva.48.desc_succ:0 "One of our strongest cells, Rybinsk, brilliantly accomplished the task and took complete control of this strategically important city. We now have enough artillery at our disposal to destroy all the Bolshevik troops."
+ rcw_nva.48.desc_fail:0 "One of our cells, Rybinskaya, failed in its task - the Chekists, by some miracle, learned of our plans and met the rebels with rifle and machine-gun fire. A detachment led by Savinkov personally managed to break into the city, but in the absence of support, they had to retreat and begin guerrilla operations in the neighborhood."
+ rcw_nva.48.a:0 "Perfect."
+ rcw_nva.48.b:0 "This is very bad news for Yaroslavl."
+ 
+ rcw_nva.49.t:0 "Disaster in Rybinsk"
+ rcw_nva.49.desc:0 "One of our cells, Rybinskaya, failed in its task - the Chekists, by some miracle, learned of our plans and met the rebels with rifle and machine-gun fire. Not only that, Savinkov, who personally led the attack of one of the units, was killed by a random bullet, after which our troops dispersed into the nearby woods."
+ rcw_nva.49.a:0 "Worst possible outcome."
+ 
+ rcw_nva.50.t:0 "New Leadership"
+ rcw_nva.50.desc:0 "Savinkov is dead and now we need a new leader. We currently have two candidates for this position, Alexander Perkhurov and Alexander Dikgof-Derenthal. Perkhurov is a talented cadre officer and chief of staff in our army, he is devoted to the ideas of anti-Bolshevism, but has little understanding of politics. Dickhof-Derenthal, on the other hand, was the closest supporter and friend of the late Boris Viktorovich, fully sharing his ideas, in addition, he is now the only person who is privy to all negotiations with the Allies."
+ rcw_nva.50.a:0 "Dikgof-Derenthal."
+ rcw_nva.50.b:0 "Perkhurov"
+ 
+ rcw_nva.51.t_succ:0 "The Taking of Murom"
+ rcw_nva.51.t_fail:0 "Failure of Murom"
+ rcw_nva.51.desc_succ:0 "Our cell in Murom, under the leadership of Nikolay Sakharov, managed to take control of the entire city, now this important transport junction for the Bolshevik Eastern Front is in our hands. In addition, the notorious Bonch-Bruyevich and his headquarters were taken prisoner, which means that the control of the Red troops will be disrupted."
+ rcw_nva.51.desc_fail:0 "The leader of the Murom underground,Nikolay Sakharov, managed to take control of the city, but unfortunately, for less than a day - the population did not support the uprising and the small group of freedom fighters had to retreat under the onslaught of superior enemy forces."
+ rcw_nva.51.a:0 "Everything goes according to plan."
+ rcw_nva.51.b:0 "Curse!"
+ 
+ rcw_nva.52.t_succ:0 "Victory in Kazan"
+ rcw_nva.52.t_fail:0 "Failure in Kazan"
+ rcw_nva.52.desc_succ:0 "The NWRiS cell brilliantly completed its task and freed Kazan from the clutches of the Bolsheviks and now also has half of Russia's gold reserves under our control."
+ rcw_nva.52.desc_fail:0 "The cell which had inspired so much hope was defeated in its attempt to take control of Kazan and now the Bolsheviks are shooting all detained officers and just suspicious individuals on the spot."
+ rcw_nva.52.a:0 "We must urgently establish contact with our friends in the Volga and Siberia."
+ rcw_nva.52.b:0 "Disaster."
+ 
+ rcw_nva.53.t_succ:0 "Taking control of Nizhny Novgorod"
+ rcw_nva.53.t_fail:0 "Failure in Nizhniy Novgorod"
+ rcw_nva.53.desc_succ:0 "From Nizhniy Novgorod came the message about the complete victory of our forces in this city. Now one of the key cities on the Volga, in which nearly 300 years ago our valiant ancestors raised the banner of the People's Militia against the invaders and the rotten government, is in our hands."
+ rcw_nva.53.desc_fail:0 "Because of the failures of the local leadership, only part of the rebels in Nizhniy Novgorod were ready to march. These forces were insufficient to take control of key facilities in the city, which caused the Bolsheviks to raise the local troops and defeat the patriots."
+ rcw_nva.53.a:0 "We should issue a separate message about this."
+ rcw_nva.53.b:0 "Communication with the east will now be difficult to establish."
+ 
+ rcw_nva.54.t_succ:0 "Luck in Kostroma"
+ rcw_nva.54.t_fail:0 "Luck in Kostroma"
+ rcw_nva.54.desc_succ:0 "Our cell in Kostroma has fully accomplished all its tasks, taking control of the entire city and, most importantly, the large stores of weapons and equipment without a single shot being fired."
+ rcw_nva.54.desc_fail:0 "Our cell in Kostroma initially succeeded in taking control of most of the city, but the Bolsheviks managed to raise local units to counterattack, so with the numerical superiority of the enemy and under artillery fire our fighters were forced to abandon the city."
+ rcw_nva.54.a:0 "Everything goes according to plan."
+ rcw_nva.54.b:0 "These supplies would have come in handy."
+ 
+ rcw_nva.55.t_succ:0 "The capture of Vladimir"
+ rcw_nva.55.t_fail:0 "Defeat in Vladimir"
+ rcw_nva.55.desc_succ:0 "This night our forces made a successful seizure of power in Vladimir, defeating the Red Guard headquarters and its entire staff in the process. Local forces report that they are ready to march on Moscow."
+ rcw_nva.55.desc_fail:0 "Unfortunately, the Red Guards in Vladimir offered desperate resistance to our troops and drove them back outside the city."
+ rcw_nva.55.a:0 "Another victory"
+ rcw_nva.55.b:0 "Too bad, let them go to the territory under our control."
+ 
+ rcw_nva.56.t_succ:0 "Defeat in Vologda"
+ rcw_nva.56.t_fail:0 "Crash in the north"
+ rcw_nva.56.desc_succ:0 "Our forces in the north showed their best side - Vologda fell in a few hours and now the road to Arkhangelsk is open."
+ rcw_nva.56.desc_fail:0 "Our Vologda cell was unable to organize any meaningful action, so the local Reds are now ready to give an armed response to any of our attempts to take control of the city."
+ rcw_nva.56.a:0 "Prepare troops for action."
+ rcw_nva.56.b:0 "Allies will now have to fight this."
+ 
+ rcw_nva.57.t_succ:0 "Capture Ivanov-Voznesensk"
+ rcw_nva.57.t_fail:0 "Defeat at Ivanovo-Voznesensk"
+ rcw_nva.57.desc_succ:0 "In spite of the definitely pro-Bolshevik sentiment among the townspeople, our forces took control of the town, not without the help of the peasants from the surrounding villages who came to help."
+ rcw_nva.57.desc_fail:0 "Our cell in Ivanovo-Voznesenka succeeded in capturing the center of the city, but they were soon overrun by Red Guard units with the support of the townspeople, partly dispersing them, partly driving them out of town."
+ rcw_nva.57.a:0 "Moscow in the Ring of Fire!"
+ rcw_nva.57.b:0 "We'll be back."
+ 
+ rcw_nva.58.t_succ:0 "Taking of Moscow"
+ rcw_nva.58.t_fail:0 "Defeat in the capital"
+ rcw_nva.58.desc_succ:0 "Painstaking work on the formation of the white underground was fully justified today - several detachments unexpectedly struck at the Red strongholds, and part of the Soviet Latvian regiment in the city, thanks to secret propaganda work and the transition of their commander to our side along with the advanced company under the command of Friedrich Bredis, stormed into the Kremlin and captured the damn commissars on the spot. And although the fighting for the city is not yet over, its center is already completely under our control."
+ rcw_nva.58.desc_fail:0 "Our most important and largest cell, the Moscow cell, suffered a crushing defeat in its attempt to make an appearance in the city: literally a few hours before the decisive moment the Chekists managed to discover our plan and delivered a preemptive strike. Our fighters fought to the end, shedding much Communist blood, but they could not withstand an enemy numerically superior as well as armed."
+ rcw_nva.58.a:0 "Forward, only forward!"
+ rcw_nva.58.b:0 "Disaster."
+ 
+ rcw_nva.59.t:0 "Liberation from Within"
+ rcw_nva.59.desc:0 "Today the forces of the Union for the Defense of the Motherland and Freedom have successfully organized a series of uprisings in the heartland, possibly stabbing the Bolsheviks in the back fatally.  They are willing to do anything to defeat our enemy and are open to cooperation with all anti-Bolshevik forces."
+ rcw_nva.59.a:0 "We will fight our way to their aid."
+ rcw_nva.59.b:0 "For Russia!"
+ 
+ rcw_nva.60.t:0 "Defeat the White Guard Plot"
+ rcw_nva.60.desc:0 "Today our valiant Chekists dealt a final blow to the counterrevolutionary conspiracy which had spread its networks in the center of our country and aimed at overthrowing Soviet power. We succeeded in discovering the organization called "Union for the Defence of the Motherland and Freedom" a relatively long time ago, but thanks to skilful conspiracy the counterrevolutionaries avoided their final defeat until now. Unfortunately we were not able to apprehend its top brass, who fled in an unknown direction, but all the cells of the conspirators in several cities were destroyed."
+ rcw_nva.60.a:0 "Another victory over the white hydra"
+ 
+ rcw_nva.61.t:0 "Mutiny in Yaroslavl"
+ rcw_nva.61.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the city of Yaroslavl tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us are holding only the railway station, they have no possibility of suppressing the White Guards and are asking for immediate support."
+ rcw_nva.61.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.61.b:0 "For the Motherland!"
+ 
+ rcw_nva.62.t:0 "White in Moscow"
+ rcw_nva.62.desc:0 "Breaking news - tonight the White Guards have revolted in Moscow. In the capital some of the Latvian riflemen guarding the Kremlin joined the rebels - together they managed to capture the center of the city as well as [ROOT.GetLeader] and other SNK members, whose fate is unknown.  Loyal forces gather to storm the heart of the country and free the captive leadership."
+ rcw_nva.62.a:0 "This is a disaster!"
+ rcw_nva.62.b:0 "Russia will be free!"
+ 
+ rcw_nva.63.t:0 "Mutiny in Murom."
+ rcw_nva.63.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the town of Murom tonight. The infantry regiment stationed in the town is rumored to be holding neutral. A small number of troops loyal to us hold only the railway station, they have no possibility of suppressing the White Guards and ask for immediate support."
+ rcw_nva.63.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.63.b:0 "For the Motherland!"
+ 
+ rcw_nva.64.t:0 "Mutiny in Rybinsk"
+ rcw_nva.64.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the city of Rybinsk tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us are holding only the railway station; they have no possibility of suppressing the White Guards and are asking for immediate support."
+ rcw_nva.64.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.64.b:0 "For the Motherland!"
+ 
+ rcw_nva.65.t:0 "Mutiny in Kazan"
+ rcw_nva.65.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the city of Kazan tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us are holding only the railway station, they have no possibility of suppressing the White Guards and are asking for immediate support."
+ rcw_nva.65.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.65.b:0 "For the Motherland!"
+ 
+ rcw_nva.66.t:0 "Mutiny in Nizhny Novgorod"
+ rcw_nva.66.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the city of Nizhny Novgorod tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us are holding only the railway station, they have no possibility of suppressing the White Guards and are asking for immediate support."
+ rcw_nva.66.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.66.b:0 "For the Motherland!"
+ 
+ rcw_nva.67.t:0 "Mutiny in Kostroma"
+ rcw_nva.67.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the town of Kostroma tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us are holding only the railway station, they have no possibility of suppressing the White Guards and are asking for immediate support."
+ rcw_nva.67.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.67.b:0 "For the Motherland!"
+ 
+ rcw_nva.68.t:0 "Mutiny in Vladimir"
+ rcw_nva.68.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the city of Vladimir tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us are holding only the railway station; they have no possibility of suppressing the White Guards and are asking for immediate support."
+ rcw_nva.68.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.68.b:0 "For the Motherland!"
+ 
+ rcw_nva.69.t:0 "Mutiny in Rostov"
+ rcw_nva.69.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the city of Rostov tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us hold only the railway station, they have no possibility of suppressing the White Guards and ask for immediate support."
+ rcw_nva.69.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.69.b:0 "For the Motherland!"
+ 
+ rcw_nva.70.t:0 "Mutiny in Vologda."
+ rcw_nva.70.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the city of Vologda tonight. The infantry regiment stationed in the city is rumored to be holding neutral. A small number of troops loyal to us are holding only the railway station; they have no possibility of suppressing the White Guards and are asking for immediate support."
+ rcw_nva.70.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.70.b:0 "For the Motherland!"
+ 
+ rcw_nva.71.t:0 "Mutiny in Ivanovo-Voznesenka"
+ rcw_nva.71.desc:0 "Breaking news - Counter-revolutionary forces calling themselves the Northern Volunteer Army have seized the town of Ivanovo-Voznesenka tonight. The infantry regiment stationed in the town is rumored to be holding neutral. A small number of troops loyal to us hold only the railway station, they have no possibility of suppressing the White Guards and ask for immediate support."
+ rcw_nva.71.a:0 "Destroy the city if you must, but suppress this rebellion!"
+ rcw_nva.71.b:0 "For the Motherland!"
+ 
+ rcw_nva.72.t:0 "Destiny of the Commissars"
+ rcw_nva.72.desc:0 "We have succeeded in capturing the entire so-called 'Soviet of People's Commissars'; the entire Bolshevik leadership is now under safe watch. There are many people in our ranks who advocate their immediate execution, but there is an opinion that we should not resemble these bloodsuckers and when our power is consolidated it is necessary to hold an open people's trial against them.  We now have only two options before us: either we destroy on the spot according to the laws of wartime the commissars who caused so much harm to Russia, or we try to keep them for a show trial."
+ rcw_nva.72.a:0 "Shoot them like a pack of rabid dogs!"
+ rcw_nva.72.b:0 "Keep these traitors alive for now."
+ 
+ rcw_nva.73.t:0 "Visit officers"
+ rcw_nva.73.desc:0 "This morning a group of military men numbering at least a company suddenly appeared under the windows of the government building, and while people inside the building were trying to find a guard and figure out what it meant, a group of officers came forward and after a short introduction presented an ultimatum on behalf of "all armed forces" - to immediately declare war on Germany. In case of non-compliance with it in their presence and immediately, they intend to remove Savinkov from his post and take power into their own hands."
+ rcw_nva.73.a:0 "Talk them up and try to contact the loyal forces."
+ rcw_nva.73.b:0 "Talk them up while the leadership tries to leave through the emergency exit."
+ rcw_nva.73.c:0 "Have to do the will of the military"
+ 
+ rcw_nva.74.t:0 "Eastern Problem"
+ rcw_nva.74.desc:0 "The rebellious Whites took Moscow from the Bolsheviks and declared war on us, ridiculously declaring "restoration of the Eastern Front." And, although they can hardly do us any physical harm, morally it can shake our troops. That is why a number of our politicians are in favor of intervention in affairs inside Russia, speaking about the "declaration" as a serious reason for this, without even having to take troops away from the front - there are monarchist organizations in the state formation at war with us that are eager for our intervention, ready to form an alternative to the local white power, as well as organized prisoners of war from our army, who never took them home after the Brest peace. The only obstacle is their lack of weapons, but this can be dealt with."
+ rcw_nva.74.a:0 "It doesn't matter, we won't waste our strength over empty announcements."
+ rcw_nva.74.b:0 "Give the okay to go armed and try to hand over weapons."
+ rcw_nva.74.c:0 "Give the go-ahead for an armed show, but let them solve their own weapons problems."
+ 
+ rcw_nva.75.t:0 "Empire Strikes Back"
+ rcw_nva.75.desc:0 "Some time ago we found suspicious activity among German prisoners of war and members of the Right Center, as well as in the German embassy, but in the pile of problems we could not react to it properly. Now the damned Germans have revolted near Moscow, putting tens of thousands of Germans under a puppet government of monarchist traitors."
+ rcw_nva.75.a:0 "An old, undefeated enemy is worse than a new one."
+ rcw_nva.75.b:0 "For the Empire!"
+ 
+ rcw_nva.76.t:0 "Exodus"
+ rcw_nva.76.desc:0 "In spite of our victory over the revolutionaries, Germany, having lost its war, no longer has the desire or ability to support our government. The backbone and main force of our army is returning home, leaving us defenseless."
+ rcw_nva.76.a:0 "We must urgently change our policy."
+ 
+ rcw_nva.77.t:0 "Change of plans."
+ rcw_nva.77.desc:0 "Word has reached Union Defence Headquarters that a decision has been made to evacuate the Czechoslovak Corps through the northern ports, so that the route will include the areas where we are planning uprisings. After negotiations with the Allies, corps officers, and a meeting, it was decided to bet on acting simultaneously with the Czechoslovaks and in close cooperation with them."
+ rcw_nva.77.a:0 "You'll have to work hard."
+ 
+ rcw_nva.79.t:0 "Further fate of the NWRS"
+ rcw_nva.79.desc:0 "The Union for the Defence of the Motherland and Freedom has achieved very great success, giving liberation from radicals to millions of people, but with the achievement of the intermediate, but important goal of the old capital, the unity of its ranks, conditioned by the unifying goal of overthrowing Bolshevism, began to break down - moderate monarchists and just officers-unprecedents look with increasing suspicion on socialists and conversely, liberals are also contributing their share. If an agreement is reached with the Moscow centers, this process will only accelerate, which threatens the future disintegration of the organization as such. It is possible that if Boris Savinkov or a figure of his level were here, he might be able to place the Union in a new orbit, but alas, there is no second personality with the same kind of energy and authority in the organization. The only way out is to try to preserve at least some unity until a new legitimate authority is established, and to melt away hopes for future changes, carrying the banner of the original ideals to the end."
+ rcw_nva.79.a:0 "Foggy prospects."
+ 
+ rcw_nva.80.t:0 "NWRS Reorganization"
+ rcw_nva.80.desc:0 "From its very foundation, the core and basic mass of the Defense Union were officers - it was they who bore the brunt of underground existence and in small groups, often without a single shot, liberated towns and villages from the oppression of Bolshevism. However, until Savinkov ceased to lead the organization, the influence of the officers on aspects other than the military was very modest. When they came to power, the situation changed - and although the original ideals and goals of the organization remained the same, there was a noticeable drift of the Union toward uniting primarily the military, among whom moderate monarchists, often undecideds, predominated. Now, with the achievement of such an important stage as the return of order to the old capital and the consolidation of power over all the regions under its control, perhaps it is time to openly proclaim the NWR&S as an all-military union, in its own way a party defending the interests of United and Indivisible Russia at the hands of the military with a final recognition of the heritage of the fallen Empire, as well as further development of it."
+ rcw_nva.80.a:0 "For Faith and Fatherland!"
+ rcw_nva.80.b:0 "Undefeated to the end."
+ 
+ rcw_nva.81.t:0 "Cooperation with Moscow Organizations"
+ rcw_nva.81.desc:0 "In order to realize our claim to all-Russian power, to strengthen the administrative apparatus and the general situation, we must in one way or another, closely cooperate with other anti-Bolshevik parties and organizations, of which there are several in Moscow. Besides the Union of Revival (center-left), which includes all the socialist parties (Enes, Essers, Mensheviks, Unity) and the leftist Cadets, and the National Center, which includes all the right-wing parties and organizations (including the leftist K-d) except the extreme right, there are also relatively moderate monarchist groups, centered mainly in the now half-defunct Right Center and its associated Union of Landowners and Soviet of Public Figures. Although they have until recently maintained a Germanic orientation which reeked of betrayal, the circumstances have changed their minds and they are sincerely sorry for their mistakes. In fact we are faced with a choice between the post-revolutionary liberals and the local monarchists, who have in the very recent past had suspicious connections, attempts to combine both groups will definitely not end well."
+ rcw_nva.81.a:0 "The Cadets know better what is needed for Russia."
+ rcw_nva.81.b:0 "Monarchists look preferable."
+ 
+ rcw_nva.82.t:0 "Transfer of authority?"
+ rcw_nva.82.desc:0 "Cooperation with suitable civilian politicians has borne pleasing fruit, and though our struggle is not yet over, perhaps it is worthwhile to transfer power to a civilian government, though under the tacit supervision of the army, without letting all levers of power out of their hands?"
+ rcw_nva.82.a:0 "Yes, that time has come."
+ rcw_nva.82.b:0 "No, the army will do this duty until the assembly."
+ 
+ rcw_nva.83.t:0 "RNP expansion"
+ rcw_nva.83.desc:0 "After establishing interaction with the ex-underground centers, the freshly organized party has the opportunity to include many bright minds from the right wings of the SRs, Mensheviks, Enets and Left Cadets, who understand politics and at the same time are used to mixing ideologies over the long months of working together.  There are two options for their inclusion: the first implies the integration of a large number of ready-to-work figures at once with a certain inner-party autonomy, which, on the one hand will reduce the unity of the party, on the other - with a strong central line will increase its authority and allow to achieve real inner-party democracy, but at the same time will lead to a de facto monopolization of the position in the political field. The second approach implies a more cautious accession of political figures and in a much smaller volume, which, among other things, will not shake the position of the current leader."
+ rcw_nva.83.a:0 "The more patriots in the party, the better."
+ rcw_nva.83.b:0 "It's not worth rushing the horses."
+ 
+ rcw_nva.84.t:0 "A new page in Russian politics"
+ rcw_nva.84.desc:0 "One of the most important mechanisms of modernity, ensuring political change and state activity itself, are parties. The events of the revolution, the final break with the Party of Socialists-Revolutionaries, the uncertainty of the situation, the very need to give all forces to active struggle and real action, did not give the possibility of creation and a special need for this tool, but now everything has changed - Boris Savinkov, who owns the heart of Russia, definitely had a need for such a necessary tool. \The question of ideology arises. Savinkov is certainly a socialist, as are many of his comrades-in-arms, but he is not bound by the dogmas of old currents and is capable, as recent practice has shown, of uniting a wide range of patriots, from moderate monarchists to social democrats for the sake of fighting for a just cause. Real events have shown the possibility and even the necessity of fusing disparate ideologies into something new, having elements of both socialist and right-wing and even liberal doctrines, all of which are workable, and all that remains is to provide a theoretical basis and to finalize it. However, the rapid transformation of the supra-party SPR&S into a party will definitely alienate quite a few people from it, which could be dangerous in conditions of the ongoing war for survival, so perhaps we should not rush the political construction and transform the Defense Union, the good thing is that with some refinement it is still quite capable of handling the necessary load, although it will cause an increase in internal disagreements."
+ rcw_nva.84.a:0 "Russia has always had and will always have its own way."
+ rcw_nva.84.b:0 "The time for a full-fledged party has not yet come."
+ 
+ rcw_nva.85.t:0 "Completion of the service of the Czechoslovak Corps"
+ rcw_nva.85.desc:0 "From the moment the Czechoslovak Corps resisted the actions of the barbaric power and helped the Russian patriots to begin the liberation of the country on a large scale, the Czechs were an important strike force against the Red Army, fighting bravely and not sparing their bellies, in a manner foreign to them in a war. But with the end of the World War and the foundation of the independent state of the Czechs and Slovaks, the meaning of the further struggle against the Germans and their proxies in Russia was completely lost to them. With each passing day after receiving this news, the fighting spirit of the Slav brothers was dying out, they tried not to appear on the front lines anymore, the decay was growing, and their commanders were directly talking about the need to send the troops back to their homeland. Our leadership is ready to allow the entire corps to leave, except for those officers and soldiers who want to stay and fight on, but there is a question of disarming, though not completely, such a formidable force, which has much needed arms in its depots, but keeping in mind the causes of the uprising of the corps, it might be better not to touch the Czechoslovaks too much.
+ rcw_nva.85.a:0 "Bon voyage!"
+ rcw_nva.85.b:0 "Withdraw only after surrendering most weapons."
+ 
+ rcw_nva.86.t:0 "Insubordination"
+ rcw_nva.86.desc:0 "The Czechoslovaks rejoiced at the imminent withdrawal outside burning Russia, but the demand to surrender most of the weapons thwarted all joy and aroused numerous suspicions; the wildest rumors crept among the soldiers, including even the surrender of disarmed units to the Red Magyar and German internationalists.  As a result there were numerous conflicts, including those connected with the brazen hijacking of rolling stock by the Czechs. And although we managed to prevent the most dangerous variants of events and to get at least part of the armament, the revolt of the corps clearly did not have the best effect on the internal situation in the country."
+ rcw_nva.86.a:0 "Damn!"
+ 
+ rcw_nva.87.t:0 "Savinkov's death."
+ rcw_nva.87.desc:0 "Adventurism and the combination of several positions, combined with personal command of a number of units, caused Savinkov to make a fatal mistake - tired under heavy strain and arriving personally to conduct reconnaissance, Boris Viktorovich came under stray fire from enemy artillery, after which he was found dead."
+ rcw_nva.87.a:0 "Disaster!"
+ 
+ rcw_nva.88.t:0 "Liberation from within."
+ rcw_nva.88.desc:0 "Today the forces of the Union for the Defense of the Motherland and Freedom, together with the Czechoslovaks, have successfully organized a series of uprisings in the heartland, possibly stabbing the Bolsheviks in the back fatally.  They are willing to do anything to defeat our enemy and are open to cooperation with all anti-Bolshevik forces."
+ rcw_nva.88.a:0 "For Russia."
+ rcw_nva.88.b:0 "We will fight our way to their aid."
+ 
+ rcw_nva.89.t:0 "Unintended Consequences"
+ rcw_nva.89.desc:0 "It was a good idea to win over the railroad workers, giving them self-government again, but in Bolshevik Russia such freemen had been practiced for quite a long time. And it was one of the main causes of the crisis in transport and the economic crisis in general, because it was foolish to expect things to turn out differently on our side. One conscious service to the cause of fighting demons was not enough to organize a railway connection, and everything seems to be returning to the chaotic status quo."
+ rcw_nva.89.a:0 "No way back"
+ 
+ rcw_nva.90.t:0 "Expropriate Expropriators"
+ rcw_nva.90.desc:0 "Taking control of a number of key points in Central Russia is remarkable in itself. However, the problem is that these points are large cities, and after the Bolshevik coup and the establishment of commissar power and Soviet freemen there, all the assets of the bourgeoisie were expropriated and taken away pockets of the dregs of society, called conscious proletarians, and the old administration of the still temporary workers was removed from power.And it consisted for the most part of tsarist officials, who under the Bolsheviks began to be called "former", who had not yet had time to be shot for one reason or another, and along with them, officers are called “former” (they, however, are already following us, and do not relate to the current issue), as well as manufacturers. \n\nSince the commissars and Soviet deputies were either shot or fled, the personnel issue needs to be resolved, but contact with these reactionaries who want the restoration of rights to their candle factories will bind us with obligations."
+ rcw_nva.90.a:0 "The military administration will deal with recruitment"
+ rcw_nva.90.b:0 "Refusing the services of factory owners to restore economic life is stupid..."
+ 
+ #Suspicious activity
+ 
+ rcw_nva_sus.1.t:0 "Suspicious activity"
+ rcw_nva_sus.1.desc:0 "Suspicious activity has recently been noticed in Moscow - meetings of politically unreliable individuals have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.1.a:0 "A check must be made."
+ 
+ rcw_nva_sus.2.t:0 "Suspicious activity"
+ rcw_nva_sus.2.desc:0 "Suspicious activity has recently been noticed in Yaroslavl - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.2.a:0 "A check must be made."
+ 
+ rcw_nva_sus.3.t:0 "Suspicious activity"
+ rcw_nva_sus.3.desc:0 "Suspicious activity has recently been noticed in Murom - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.3.a:0 "A check should be made."
+ 
+ rcw_nva_sus.4.t:0 "Suspicious activity"
+ rcw_nva_sus.4.desc:0 "Suspicious activity has recently been noticed in Rybinsk - meetings of politically unreliable individuals have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.4.a:0 "It is necessary to conduct a check."
+ 
+ rcw_nva_sus.5.t:0 "Suspicious activity"
+ rcw_nva_sus.5.desc:0 "Suspicious activity has recently been noticed in Rostov - meetings of politically unreliable individuals have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.5.a:0 "A check should be made."
+ 
+ rcw_nva_sus.6.t:0 "Suspicious activity"
+ rcw_nva_sus.6.desc:0 "Suspicious activity has recently been noticed in Kazan - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.6.a:0 "A check should be made."
+ 
+ rcw_nva_sus.7.t:0 "Suspicious activity"
+ rcw_nva_sus.7.desc:0 "Suspicious activity has recently been noticed in Nizhniy Novgorod - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.7.a:0 "It is necessary to conduct a check"
+ 
+ rcw_nva_sus.8.t:0 "Suspicious activity"
+ rcw_nva_sus.8.desc:0 "Suspicious activity has recently been noticed in Kostroma - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.8.a:0 "A check should be made."
+ 
+ rcw_nva_sus.9.t:0 "Suspicious activity"
+ rcw_nva_sus.9.desc:0 "Suspicious activity has recently been noticed in Vladimir - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.9.a:0 "A check should be made."
+ 
+ rcw_nva_sus.10.t:0 "Suspicious activity"
+ rcw_nva_sus.10.desc:0 "Suspicious activity has recently been noticed in Vologda - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.10.a:0 "A check should be made."
+ 
+ rcw_nva_sus.11.t:0 "Suspicious activity"
+ rcw_nva_sus.11.desc:0 "Suspicious activity has recently been noticed in Ivanovo-Voznesenka - meetings of politically unreliable persons have become more frequent, there are rumors of counter-revolutionary organizations appearing."
+ rcw_nva_sus.11.a:0 "A check should be made."
+ 
+ #news
+ nva_news.1.t:0 "Revolt in Moscow"
+ nva_news.1.desc:0 "Breaking news: fighting has again broken out in the old capital - this time against the Reds were fighters of the freshly organized Northern Volunteer Army led by Boris Savinkov, who were rumored to have seized the city center along with the Latvian riflemen who had partially defected to their side, along with the leadership who were there. And although fighting on the outskirts is still going on, most of the Red troops are completely disorganized by the single moment loss of the command, the capital, and the wave of rumors of numerous uprisings throughout Russia."
+ nva_news.1.a:0 "We are one step away from victory."
+ nva_news.1.b:0 "The revolution is dying"
+ nva_news.1.c:0 "This is the death blow to Bolshevism."
+ 
+ nva_news.2.t:0 "'George' over the Kremlin"
+ nva_news.2.desc:0 "From the first days of the uprising organized by the Union for the Defence of the Motherland and Freedom, Moscow was threatened by the advance of the Northern Army, whose fighters have now entered the ancient capital on the backs of retreating Red Army soldiers and seized a large part of the city, despite the fierce resistance of individual Bolshevik units and attempts to use barricade street battles tactics. \The leadership of the victors carried out a direct analogy with the events of 300 years ago and the Second People's Militia, as well as preparing to move into the Kremlin, over which St. George and tricolor flags are already next to each other, while the Communists announce a quick counteroffensive, which will result in the defeat of the Whites in central Russia."
+ nva_news.2.a:0 "Turning Point."
+ nva_news.2.b:0 "Imperialist scum must be driven from the capital as soon as possible."
+ nva_news.2.c:0 "This is the death blow to Bolshevism"
+ 

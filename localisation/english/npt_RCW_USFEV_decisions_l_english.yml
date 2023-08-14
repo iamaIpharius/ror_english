@@ -1,0 +1,161 @@
+﻿l_english:
+ 
+ forming_ural_gonvernment:0 "Creation of the Provisional Regional Government of the Urals"
+ forming_ural_gonvernment_desc:0 "We can create a buffer government in Yekaterinburg that will do little but eliminate tensions on the border between the two anti-Bolshevik governments."
+ destruction_ural_gonvernment:0 "Integrate [URL.GetName]"
+ destruction_ural_gonvernment_desc:0 "Due to the changing foreign policy environment, this buffer no longer makes sense, so we must attach it."
+ whites_captured_TAN:0 "Capture Tannu-Tuva"
+ 
+ 
+ rcw_Caucasian_raids_DON_desisions:0 "Raids in Transcaucasia"
+ raid_to_Samur:0 "Samur to Raid"
+ raid_to_Kahetiya:0 "Invasion of Kakheti"
+ 
+ DON_peoples_education_dec_cat:0 "Elimination of Illiteracy"
+ DON_teachers_courses:0 "Create Teacher Courses"
+ not_any_anthtr_dec:0 "You can choose only one of the solutions"
+ DON_new_schools_church:0 "Support Parochial Schools"
+ DON_new_schools_zemstovs:0 "Open Zemsto Schools"
+ DON_new_schools_esers:0 "Opening Public Schools"
+ DON_likbez_propaganda:0 "Propaganda against Illiteracy"
+ DON_finish_ed_reform:0 "Completion of Education Reforms"
+ 
+ land_working:0 "Land Measurement"
+ 
+ defence_region:0 "Spasskiy Fortification District"
+ defense_region_desc:0 "Our generals consider it useful to cover the near approaches to Vladimostok in the northern direction with a special fortified area. The best place to build it for a number of strategic reasons is Spassk."
+ 
+ far_east_hectare:0 "Far East Hectare"
+ far_east_hectare_desc:0 "The law will allow any citizen of Russia once free of charge to receive one hectare in the Far East for residential construction, farming or business activities. However, not everyone will be happy with the arrival of new settlers."
+ 
+ ships_mobilization:0 "Mobilization of Ships of the \"Volunteer Fleet\""
+ ships_mobilization_desc:0 "The Vladivostok government, by its very nature, is obliged to have cargo ships at its disposal. Moreover, now there is a war going on and we need supplies from across the ocean. Confiscation of the Volunteer Fleet ships will solve this problem for a while."
+ 
+ korean_equipment:0 "Korean Equipment"
+ korean_equipment_desc:0 "The Koreans, even having moved to our territory, continue to hate the Japanese as invaders and tyrants of their historical homeland. Many of them themselves partisans across the border. The time has come to channel their patriotism in our favor."
+ 
+ AMR_horvat_collaborate:0 "Cooperation with Horvat"
+ AMR_horvat_collaborate_desc:0 "General Horvath is now one of the most sensible leaders in all of Russia, and his proclamation as Provisional Supreme Ruler cannot but rejoice. It is worth joining his government on the terms of maintaining broad autonomy."
+
+ BKL_AMR_intervention:0 "Amur Intervention"
+ BKL_AMR_intervention_desc:0 "Although Blagoveshchensk is not the largest or strategically important city in the Far East, the regional government of Alekseevsky creates many problems in establishing unity of command in the region. It is worth using authority and military force to persuade the Amur Region to cooperate."
+ 
+ RCW_AMR_russian_far_east:0 "Russian Far East"
+ RCW_AMR_russian_far_east_desc:0 "Let the Bolsheviks continue to talk about a federation under a dictatorship, and let the Cadets look for compromises between democracy and reaction. We know for sure that Russia must become a federation of states, and its first state will be the Far East, no matter what the Siberians think. "
+ 
+ FER_anarchist_unity:0 "Anarchist Unity"
+ FER_anarchist_unity_desc:0 "Anarchists of all countries, unite!"
+ 
+ RCW_AMR_constituent_assembly:0 "[ROOT.GetAdjective]constituent assembly"
+ RCW_AMR_constituent_assembly_desc:0 ""
+
+
+ BKL_strike_to_SIB_separatists:0 "Finish the Siberian Separatists"
+ BKL_call_BRY_migrants:0 "Attract Buryat Migrants"
+ flag_BKL_call_BRY_migrants:0 "Buryats have been Attracted"
+ BKL_reform_BRY_units:0 "Reform Buryat Units"
+ BKL_create_ZKL:0 "Support the Far Eastern Regional Soviet"
+ 
+ BKL_REO_integrate_PRM:0 "Integrate [PRM.GetName]"
+ 
+ BKL_eser_retreate_to_west:0 "Retreat to the West"
+ 
+ rcw_BKL_coup_in_PRM_decisions: "Coup in Vladivostok"
+ 
+ send_troops_to_PRM: "Deploy Soldiers to Primor'ye"
+ take_support_from_PRM_cossacks: "Get Cossacks' Support"
+ politactivities_in_PRM: "Political Work in Primor'ye"
+ call_JAP_support_for_PRM: "Request Support of Japanese Troops"
+ send_eq_to_ukranians_of_PRM: "Sponsor Ukrainians from Zakyitayshchina"
+ pressure_by_authority_to_PRM: "Pressure by Authority"
+ coup_in_PRM: "Coup!"
+ 
+ 
+ form_RF_category:0 "Federalisation"
+ form_RF_category_desc:0 "The civil war is coming to an end and the Committee is about to take over the powers of the central government and rule the country as legitimate representatives of the people. Unfortunately, this will be possible when most of Russia comes under our control, and especially its capital."
+ form_RF:0 "Federalisation"
+ 
+ form_RF_desc:0 "The civil war is coming to an end and the Committee is about to assume the powers of the central government and govern the country as legitimate representatives of the people. Unfortunately, this will be possible when most of Russia, and especially its capital, comes under our control.
+ 
+
+ delegatsia_CCA:0 "Delegation to \n§Y[CCA.GetName]§!"
+ delegatsia_SIB:0 "Delegation to \n§Y[SIB.GetName]§!"
+ delegatsia_RSS:0 "Delegation to \n§Y[RSS.GetName]§!"
+ delegatsia_DON:0 "Delegation to \n§Y[DON.GetName]§!"
+ delegatsia_RVA:0 "Delegation to \n§Y[RVA.GetName]§!"
+ delegatsia_OCH:0 "Delegation to \n§Y[OCH.GetName]§!"
+
+ OCH_bolsheviks_coup:0 "Red Coup"
+
+ OCH_preparation_to_uprising_decisions:0 "Preparation for the Uprising"
+ OCH_preparation_to_uprising_decisions_desc:0 ""
+ OCH_Volga_revolt_preparation_step1:0 "Negotiations with Leaders of the SR Underground"
+ OCH_Volga_revolt_preparation_step1_desc:0 ""
+ OCH_Volga_revolt_preparation_step2:0 "Forcing Cells Readiness"
+ OCH_Volga_revolt_preparation_step2_desc:0 ""
+ OCH_Volga_revolt_preparation_step3:0 "Final Preparations"
+ OCH_Volga_revolt_preparation_step3_desc:0 ""
+ OCH_Siberia_revolt_preparation_step1:0 "Negotiations with the Siberian Government"
+ OCH_Siberia_revolt_preparation_step1_desc:0 ""
+ OCH_Siberia_revolt_preparation_step2:0 "Forcing Cell Readiness"
+ OCH_Siberia_revolt_preparation_step2_desc:0 ""
+ OCH_Siberia_revolt_preparation_step3:0 "Last Peparations"
+ OCH_Siberia_revolt_preparation_step3_desc:0 ""
+ 
+ OCH_under_our_banners_uprising_decisions:0 "Uprising"
+ OCH_under_our_banners_uprising_decisions_desc:0 ""
+ OCH_Siberia_uprising_decision:0 "Rise in Siberia"
+ OCH_Siberia_uprising_decision_desc:0 ""
+ OCH_Volga_region_uprising_decision:0 "Rise in Povolzh'ye"
+ OCH_Volga_region_uprising_decision_desc:0 ""
+ 
+ OCH_help_villages_decisions:0 "Help for Fire Victims"
+ OCH_help_villages_create_special_office:0 "Create Special Office"
+ flag_OCH_help_villages_create_special_office:0 "Special Office has been Created"
+ flag_OCH_help_villages_delay:0 "Only one Event can be held at a Time"
+ OCH_help_villages_peoples_loan:0 "People's Loan"
+ OCH_help_villages_lottery:0 "Organize a Lottery for Help"
+ OCH_help_villages_ask_for_help:0 "Ask for Help from [From.GetName]"
+ 
+ 
+ OCH_west_n_east_expansion_decisions:0 "A Look Outside"
+ 
+ # Western extension
+ OCH_delegation_on_don:0 "Delegation to the Don"
+ OCH_kuban_chernomorets:0 "Kubantsy-Chernomortsy"
+ OCH_tertsy_accession:0 "Tertsy Accession"
+ OCH_agreement_with_the_urals:0 "Treaty with Uralians"
+ OCH_astrakhan_inclusion:0 "Inclusion of Astrakhans"
+
+ # Eastern extension
+ OCH_siberian_question:0 "Siberian Question"
+ OCH_semirechensy:0 "Semirechentsy"
+ OCH_west_siberian_cossacks:0 "Cossacks of Eastern Siberia"
+ OCH_primorie:0 "Primor'ye"
+
+ # Peace
+ OCH_peace_decisions:0 "Peace"
+ OCH_peace_decisions_desc:0 "Brothers, don't Shoot Each Other"
+ OCH_RGR_peace:0 "Peace with Rebel Movements"
+ OCH_RUS_peace:0 "Peace with the Soviets" # are they under this tag?
+ OCH_RVA_peace:0 "Peace with the Volunteer Army"
+ OCH_CCA_peace:0 "Peace with KOMUCH"
+ OCH_NVA_peace:0 "Peace with the Northern Volunteer Army"
+ OCH_RSS_peace:0 "Peace with the Russian Republic"
+ OCH_NWA_peace:0 "Peace with the Northwest Army"
+ OCH_NRR_peace:0 "Peace with Northern Russia"
+ OCH_UKR_peace:0 "Peace with Ukraine"
+ 
+ 
+ OCH_new_boundaries_decisions:0 "Extension"
+ 
+ OCH_committee_fate:0 "Committee Fate"
+ OCH_sight_on_turkestan:0 "Sight on Turkestan"
+ OCH_old_world_blues:0 "Shards of the Old World"
+ OCH_transcaspican_expedition:0 "Transcaspian Expedition"
+ OCH_negotiations_with_urals:0 "Negotiations with the Uralians"
+ OCH_siberian_conspiracy:0 "Siberian Conspiracy"
+
+ UCH_diplomat_decisions:0 "Diplomatic Missions"
+ UCH_ask_for_support:0 "Delegation to [FROM.GetName]"
+ UCH_ask_for_support_delay:0 "We have Recently sent a Delegation"

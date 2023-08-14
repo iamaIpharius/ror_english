@@ -1,0 +1,150 @@
+﻿l_english:
+ disorganization_of_army:0 "Disorganization of the army"
+ decentralization_of_goverment:0 "Decentralization of power
+ decentralization_of_army:0 "Decentralization of the army"
+ 
+ monocultural_agriculture_bananas:0 "Monocultural Banana Republic
+ monocultural_agriculture_bananas_0_66:0 "Banana Republic.
+ monocultural_agriculture_bananas_0_5:0 "Huge dependence on banana exports."
+ monocultural_agriculture_bananas_0_33:0 "Great dependence on banana exports."
+ monocultural_agriculture_bananas_0_25:0 "Dependence on banana exports.
+ monocultural_agriculture_pineapples:0 "Monocultural economy of pineapples.
+ monocultural_agriculture_pineapples_0_66:0 "Total dependence on pineapple exports.
+ monocultural_agriculture_pineapples_0_5:0 "Huge dependence on pineapple exports."
+ monocultural_agriculture_pineapples_0_33:0 "Great dependence on pineapple exports.
+ monocultural_agriculture_pineapples_0_25:0 "Dependence on pineapple exports"
+ monocultural_agriculture_sugar:0 "Monocultural sugar economy.
+ monocultural_agriculture_sugar_0_66:0 "Total dependence on sugar exports.
+ monocultural_agriculture_sugar_0_5:0 "Huge Dependence on Sugar Exports"
+ monocultural_agriculture_sugar_0_33:0 "Great dependence on sugar exports.
+ monocultural_agriculture_sugar_0_25:0 "Dependence on sugar exports.
+ monocultural_agriculture_coffee:0 "Monocultural coffee economy.
+ monocultural_agriculture_coffee_0_66:0 "Total Dependence on Coffee Exports.
+ monocultural_agriculture_coffee_0_5:0 "Huge Dependence on Coffee Exports"
+ monocultural_agriculture_coffee_0_33:0 "Great dependence on coffee exports.
+ monocultural_agriculture_coffee_0_25:0 "Dependence on coffee exports.
+ 
+ monocultural_agriculture_export_excess_profits_bananas:0 "Banana budget"
+ monocultural_agriculture_export_excess_profits_bananas_0_66:0 "Super profits from banana exports.
+ monocultural_agriculture_export_excess_profits_bananas_0_5:0 "Large profits from banana exports"
+ monocultural_agriculture_export_excess_profits_bananas_0_33:0 "Significant profits from banana exports"
+ monocultural_agriculture_export_excess_profits_bananas_0_25:0 "Income from banana exports"
+ monocultural_agriculture_export_excess_profits_pineapples:0 "Pineapple budget"
+ monocultural_agriculture_export_excess_profits_pineapples_0_66:0 "Super profits from pineapple exports"
+ monocultural_agriculture_export_excess_profits_pineapples_0_5:0 "Large profits from pineapple exports"
+ monocultural_agriculture_export_excess_profits_pineapples_0_33:0 "Significant profits from exporting pineapples"
+ monocultural_agriculture_export_excess_profits_pineapples_0_25:0 "Income from exporting pineapples"
+ monocultural_agriculture_export_excess_profits_sugar_0:0 "Sugar budget"
+ monocultural_agriculture_export_excess_profits_sugar_0_66:0 "Super profits from sugar exports"
+ monocultural_agriculture_export_excess_profits_sugar_0_5:0 "Large profits from sugar exports"
+ monocultural_agriculture_export_excess_profits_sugar_0_33:0 "Significant income from sugar exports"
+ monocultural_agriculture_export_excess_profits_sugar_0_25:0 "Income from sugar exports"
+ monocultural_agriculture_export_excess_profits_coffee_0:0 "Coffee budget"
+ monocultural_agriculture_export_excess_profits_coffee_0_66:0 "Super profits from coffee exports"
+ monocultural_agriculture_export_excess_profits_coffee_0_5:0 "Large profits from coffee exports"
+ monocultural_agriculture_export_excess_profits_coffee_0_33:0 "Large profits from coffee exports"
+ monocultural_agriculture_export_excess_profits_coffee_0_25:0 "Income from coffee exports"
+ 
+ monocultural_agriculture_drop_in_export_earnings:0 "Export Income Disappearing"
+ monocultural_agriculture_drop_in_export_earnings_0_66:0 "Total drop in export earnings"
+ monocultural_agriculture_drop_in_export_earnings_0_5:0 "Huge drop in export earnings"
+ monocultural_agriculture_drop_in_export_earnings_0_33:0 "Huge drop in export earnings"
+ monocultural_agriculture_drop_in_export_earnings_0_25:0 "Falling export earnings"
+ 
+ workers_of_bananas_company_unrest_1:0 "Banana strikes"
+ workers_of_bananas_company_unrest_2:0 "Banana strikes"
+ workers_of_bananas_company_unrest_3:0 "Banana Strikes"
+ workers_of_bananas_company_unrest_4:0 "Banana Strikes"
+ 
+ peasant_and_land_and_bread_question:0 "Land Question"
+ peasant_and_land_and_bread_question_desc:0 "[Root.peasant_and_land_and_bread_question_scr_loc]"
+ RUS_peasant_and_land_and_bread_question_desc:0 "The development of capitalist relations in the Russian countryside was much slower than in Europe. The abolition of serfdom in 1861 failed to solve the problem because of high redemption fees and credit obligations imposed on peasants; farms could not develop because the community became more and more united, preventing the concentration of capital. \nAfter the 1905 revolution, redemption fees were abolished, and in 1906, Pyotr Arkadyevich Stolypin launched his agrarian reform, which was aimed at destroying peasant communities, accelerating the development of capitalism in the village and eliminating zapotism - the mixing of land plots of different peasants and other peasants, which was a result of land distribution by the community. Despite the weakening of the community, the land issue has not yet been solved, and the vast majority of peasants still lead a subsistence economy. Social tensions are increasingly undermining the situation in the country."
+ not_RUS_peasant_and_land_and_bread_question_desc:0 ""
+ peasant_and_land_and_bread_question_0_5:0 "Land Question"
+ peasant_and_land_and_bread_question_0_5_desc:0 "[Root.peasant_and_land_and_bread_question_0_5_scr_loc]"
+ RUS_peasant_and_land_and_bread_question_0_5_desc:0 "The development of capitalist relations in the Russian countryside was much slower than in Europe, but the country managed to make a breakthrough and slightly reduce the gap. It does not allow modernization and reduces the efficiency of farming. This problem has existed since the time of Alexander II and was shat on up to Stolypin.\n At present, a large part of the peasants lead a subsistence economy and do not produce marketable bread. Social tension among the peasants is quite high.
+ not_RUS_peasant_and_land_and_bread_question_0_5_desc:0 ""
+ peasant_and_land_and_bread_question_0_25:0 "Peasant's lack of land"
+ peasant_and_land_and_bread_question_0_25_desc:0 "[Root.peasant_and_land_and_bread_question_0_25_scr_loc]"
+ RUS_peasant_and_land_and_bread_question_0_25_desc:0 "Although the problem has long been less acute than it was at the turn of the century, the small number of farms is still causing obstacles to modernization, increasing productivity in agriculture, mechanization of peasant labor. Farms need consolidation."
+ not_RUS_peasant_and_land_and_bread_question_0_25_desc:0 ""
+ peasant_and_land_and_bread_question_reformation_period:0 "Period of reformation"
+ peasant_and_land_and_bread_question_reformation_period_desc:0 "The government's rural improvement measures will not have an immediate effect."
+ 
+ 
+ collapse_of_railway_system_1:0 "Transportation Problems"
+ collapse_of_railway_system_2:0 "Transportation Challenges"
+ collapse_of_railway_system_3:0 "Transportation Crisis"
+ collapse_of_railway_system_4:0 "Transportation Disaster"
+ collapse_of_railway_system_5:0 "Transportation Collapse"
+ 
+ military_ministry_corruption_1:0 "Corruption in the military ministry"
+ military_ministry_corruption_1_desc:0 "Chairs of various commissions, subcommittees and meetings are mired in squabbles and accuse each other of disruption of supplies and corruption, while everyone takes bribes and panders to private industrialists who have no interest in really strengthening the army, but only think about super profits. No competent the body cannot take the situation under control, since the state apparatus is saturated to the ground with incompetent degenerate aristocrats."
+ military_ministry_corruption_2:0 "Corruption in the military ministry"
+ military_ministry_corruption_2_desc:0 "Chairs of various commissions, subcommittees and meetings are mired in squabbles and accuse each other of disruption of supplies and corruption, while everyone takes bribes and panders to private industrialists who have no interest in really strengthening the army, but only think about super profits. No competent the body cannot take the situation under control, since the state apparatus is saturated to the ground with incompetent degenerate aristocrats."
+ military_ministry_corruption_3:0 "Corruption in the military ministry"
+ military_ministry_corruption_3_desc:0 "Chairs of various commissions, subcommittees and meetings are mired in squabbles and accuse each other of disruption of supplies and corruption, while everyone takes bribes and panders to private industrialists who have no interest in really strengthening the army, but only think about super profits. No competent the body cannot take the situation under control, since the state apparatus is saturated to the ground with incompetent degenerate aristocrats."
+ military_ministry_corruption_4:0 "Corruption in the military ministry"
+ military_ministry_corruption_4_desc:0 "Chairs of various commissions, subcommittees and meetings are mired in squabbles and accuse each other of disruption of supplies and corruption, while everyone takes bribes and panders to private industrialists who have no interest in really strengthening the army, but only think about superprofits. No competent the body cannot take the situation under control, since the state apparatus is saturated to the ground with incompetent degenerate aristocrats."
+ military_ministry_corruption_5:0 "Corruption in the military ministry"
+ military_ministry_corruption_5_desc:0 "Chairs of various commissions, subcommittees and meetings are mired in squabbles and accuse each other of disruption of supplies and corruption, while everyone takes bribes and panders to private industrialists who have no interest in really strengthening the army, but only think about super profits. No competent the body cannot take the situation under control, since the state apparatus is saturated to the ground with incompetent degenerate aristocrats."
+ 
+ foodstuffs_supply_crisis_1:0 "Food Crisis"
+ foodstuffs_supply_crisis_1_desc:0 ""
+ foodstuffs_supply_crisis_2:0 "Food Crisis"
+ foodstuffs_supply_crisis_2_desc:0 ""
+ foodstuffs_supply_crisis_3:0 "Food Crisis"
+ foodstuffs_supply_crisis_3_desc:0 ""
+ foodstuffs_supply_crisis_4:0 "Food Crisis"
+ foodstuffs_supply_crisis_4_desc:0 ""
+ foodstuffs_supply_crisis_5:0 "Food Crisis"
+ foodstuffs_supply_crisis_5_desc:0 ""
+ hyper_inflation_1:0 "Hyperinflation"
+ hyper_inflation_2:0 "Hyperinflation"
+ hyper_inflation_3:0 "Hyperinflation"
+ hyper_inflation_4:0 "Hyperinflation"
+ hyper_inflation_5:0 "Hyperinflation"
+ 
+ WWI_cannot_guarantee:0 "Cannot guarantee"
+ 
+ 
+ lack_of_officers_1:0 "Lack of Officers"
+ lack_of_officers_2:0 "Lack of Officers"
+ lack_of_officers_3:0 "Lack of Officers"
+ lack_of_officers_4:0 "Lack of Officers"
+ lack_of_officers_5:0 "Lack of Officers"
+ lack_of_officers_6:0 "Lack of Officers"
+ lack_of_officers_7:0 "Lack of Officers"
+ lack_of_officers_8:0 "Lack of Officers"
+ lack_of_officers_9:0 "Lack of Officers"
+ lack_of_officers_10:0 "Lack of Officers"
+ 
+ wartime_officers_1:0 "Replacement of the command staff with officers from lower ranks"
+ wartime_officers_2:0 "Replacement of Officers from lower ranks"
+ wartime_officers_3:0 "Replacement of Officers from lower ranks"
+ wartime_officers_4:0 "Replacement of Officers from lower ranks"
+ wartime_officers_5:0 "Replacement of Officers from lower ranks"
+ wartime_officers_6:0 "Replacement of Officers from lower ranks"
+ wartime_officers_7:0 "Replacement of Officers from lower ranks"
+ wartime_officers_8:0 "Replacement of Officers from lower ranks"
+ wartime_officers_9:0 "Replacement of Officers from lower ranks"
+ wartime_officers_10:0 "Replacement of officers from lower ranks"
+ 
+ soldiers_fraternity_RUS_GER:0 "Fraternization on the German Front"
+ soldiers_fraternity_GER_RUS:0 "Fraternization on the Eastern Front"
+ soldiers_fraternity_RUS_AUH:0 "Fraternization on the Austro-Hungarian Front"
+ soldiers_fraternity_AUH_RUS:0 "Fraternization on the Eastern Front"
+ 
+ 
+ 
+ OV0_foreign_economic_exploitation:0 "[OV0.GetAdjective]"
+ OV0_foreign_economic_exploitation_0_66:0 "[OV0.GetAdjective]capital"
+ OV0_foreign_economic_exploitation_0_5:0 "[OV0.GetAdjective]capital"
+ OV0_foreign_economic_exploitation_0_33:0 "[OV0.GetAdjective]capital"
+ OV0_foreign_economic_exploitation_0_25:0 "[OV0.GetAdjective]capital"
+ 
+ 
+ spirit_of_independance_idea:0 "Spirit_of_independence"
+ spirit_of_independence_idea_desc:0 "In a hard struggle we were able to defend our independence. This victory now seems like a miracle - and it inspires the whole nation!"
+ nation_in_exile_idea:0 "A nation in exile"
+ nation_in_exile_idea_desc:0 "This nation lost its country, but saved its army, which means the war will continue."

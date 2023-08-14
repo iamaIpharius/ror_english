@@ -1,0 +1,267 @@
+﻿l_english:
+ DON_martial_law:0 "Martial Law"
+ DON_martial_law_desc:0 "The coup of the Bolsheviks led to the overthrow of the legitimate central government. Meanwhile, the soviets on the Don support a new revolution, which means they will soon try to repeat the success of their Petrograd comrades-in-arms. The Don is on the brink of a new war."
+
+ DON_invite_Provincial_government_members:0 "Invite Members of the Provisional Government"
+ DON_invite_Provincial_government_members_desc:0 "By inviting members of the former government, we can earn a reputation as democrats and defenders of the rule of law. "
+
+ DON_help_from_Alexeyevs_organisation:0 "Alexeyevites' Help"
+ DON_help_from_Alexeyevs_organisation_desc:0 "General Alekseev has created an officers' organization to counter the revolutionaries. Part of his organization is already on the Don and is able to help us as an armed force."
+
+ DON_appeal_the_cossacks:0 "Appeal to the Cossacks"
+ DON_appeal_the_cossacks_desc:0 "Cossacks are still passive in the fight against traitor revolutionaries. The Don chieftain must make an appeal. "
+
+ DON_The_don_civil_Council:0 "Don Civil Soviet"
+ DON_The_don_civil_Council_desc:0 "To coordinate the actions of the white forces, it is necessary to create a general advisory body. "
+
+ DON_constituent_assembly_defense_units:0 "Constituent Assembly Defense Units"
+ DON_constituent_assembly_defense_units_desc:0 "A democratic Constituent Assembly is to be convened in the center of the country in the near future. Rumor has it that the usurpers intend to disperse it. Under the slogan of "defending the constituent assembly" we are able to assemble new armed units. "
+
+ DON_creation_of_Peoples_Army:0 "Creation of the People's Army"
+ DON_creation_of_Peoples_Army_desc:0 "The forces of the Don Cossacks cannot equal the resources of the Reds. Fortunately, the Russian democrats who have found refuge on the Don are ready to organize a new army to liberate the entire country."
+
+ DON_moderate_land_reform:0 "Moderate Land Reform"
+ DON_moderate_land_reform_desc:0 "Contradictions between nonresidents and Cossacks lie in the area of the land issue. Some concessions to poor peasants will help to gain their loyalty."
+
+ DON_agreement_with_moderate_socialists:0 "Agreement with Moderate Socialists"
+ DON_agreement_with_moderate_socialists_desc:0 "The Menshevik and Socialist Revolutionary parties represent moderately socialist trends on the Don. An agreement with them will lead to the unification of all healthy forces in the anti-Bolshevik struggle.."
+
+ DON_south_russian_confederation_of_Constitutional_Democrats:0 "South Russian conference of cadets "
+ DON_south_russian_confederation_of_Constitutional_Democrats_desc:0 "The Cadets are the most influential liberal democratic party in Russia.."
+
+ DON_activation_of_southwestern_union:0 "Southwest Union Activation"
+ DON_activation_of_southwestern_union_desc:0 "Don representatives have been negotiating with the governments of Kuban and Ukraine for some time. Perhaps we will come to an agreement."
+
+ DON_triumvirate:0 "Triumvirate"
+ DON_triumvirate_desc:0 "White generals insist on the division of power between three persons, that is, on the establishment of a regime close to a dictatorial one. And apparently without their strength we cannot cope."
+
+ DON_Kornilovs_constitution:0 "Kornilov's Constitution"
+ DON_Kornilovs_constitution_desc:0 "General Kornilov has prepared a short program including fourteen points. The keynote of the document is the restoration of order and legality. Of course, this is not a constitution in the state sense, it is rather an allegorical expression."
+
+ DON_volunteer_recruitment_network:0 "Volunteers Recruitment Network"
+ DON_volunteer_recruitment_network_desc:0 "It is necessary to locate open and underground recruitment centers for the Alekseevsk organization in the nearest regions. "
+
+ DON_proclamation_of_Volunteer_Army:0 "Proclamation of the Volunteer Army"
+ DON_proclamation_of_Volunteer_Army_desc:0 "General Alekseev's organization rallied in battles and received the necessary reinforcements. It's time to deploy a real army from several battalions."
+
+ DON_Don_Rescue_Circle:0 "Don's Rescue Circle"
+ DON_Don_Rescue_Circle_desc:0 ""
+
+ DON_CoMotCA:0 "Committee of Members of the Constituent Assembly"
+ DON_CoMotCA_desc:0 "The Constituent Assembly was supposed to represent the will of the entire people. The Reds scoffed at this will. But democracy on the Don has become so strong that now we are able to become a springboard for a retaliatory strike on an all-Russian scale."
+ DON_CoMotCA_focus_tt:0 "Country changes to §YCommittee of Constituent Assembly Members§ !, KOMUCH eats Don. \n"
+
+ DON_young_army:0 "Young Army"
+ DON_young_army_desc:0 "Most of the front-line soldiers did not respond to the call for a new struggle. But thank God, Don has his brave eaglets. These are young people who have not been in the Russian-German war, not tired, not corrupted by Bolshevik propaganda, who did not know any committees , no commissars will form the backbone of the new army. "
+
+ DON_Armed_forces_of_South_of_Russia:0 "Armed Forces of the South of Russia"
+ DON_Armed_forces_of_South_of_Russia_desc:0 "General Alekseev's organization rallied in battles and received the necessary reinforcements. It's time to deploy a real army from several battalions. "
+ DON_Armed_forces_of_South_of_Russia_focus_tt:0 "The country changes to §YArmed forces of the South of Russia§!. \n"
+
+ DON_universal_government:0 "All-estate Representation"
+ DON_universal_government_desc:0 "All estates in the Don region have the right to get a vote in the new democratic government."
+
+ DON_equalization_of_rights:0 "Equalization in Rights"
+ DON_equalization_of_rights_desc:0 "It is worth finally discarding class prejudices, so defeated by the revolution."
+
+ DON_radical_land_reform:0 "Radical Land Reform"
+ DON_radical_land_reform_desc:0 "Land ownership controversies can be eliminated with one decisive reform."
+
+ DON_cossack_government:0 "Representation for the Cossacks "
+ DON_cossack_government_desc:0 "Only real Cossacks can participate in the administration of the region. The peasants and workers have already shown their insecurity."
+ DON_cossack_government_focus_tt:0 "National spirit §YCossack power§ !, until a regular army is created, will not allow draft laws higher than §YLimited Conscription§ !, and when it does, will not allow higher than §YExpanded Conscription§!. \N "
+
+ DON_recruitment_to_cossacks:0 "Recruitment to the Cossacks"
+ DON_recruitment_to_cossacks_desc:0 "Many representatives of other estates, along with the Cossacks, opposed the Red Devil's power. All of them have the right to join the Cossacks and will certainly use it. "
+
+ DON_okazachivanie:0 "Cossackisation"
+ DON_okazachivanie_desc:0 "The Cossack estate and the Cossack way of life should become dominant in the areas occupied by our troops. "
+
+ DON_treaty_with_KUB:0 "Treaty with the Kuban"
+ DON_treaty_with_KUB_desc:0 "Kuban is the closest Cossack region to us. Unification would be a saving step for both governments."
+
+ DON_appeal_to_mountain_nations:0 "Appeal the Mountaineers"
+ DON_appeal_to_mountain_nations_desc:0 "The isolated Mountainous Republic will either be swept away by the Reds or become economically incapacitated. There can be no other way for the Mountaineers but a strong alliance with the Cossacks."
+
+ DON_Don_Peoples_Republic:0 "Don People's Republic"
+ DON_Don_Peoples_Republic_desc:0 "Don is finally prepared to become a real republic with respect for the rights and freedoms of the entire population."
+
+ DON_amnesty_for_RCW_participants:0 "Amnesty for Participants of Civil War "
+ DON_amnesty_for_RCW_participants_desc:0 "The events of the civil war should eventually become a thing of the past. Many Donetsk residents who sided with our enemy were simply mistaken and can be forgiven."
+
+ DON_labor_legislation:0 "Labor Legislation"
+ DON_labor_legislation_desc:0 "The government has prepared a bill to improve labor legislation."
+
+ DON_attraction_of_technical_intelligentsia:0 "Attract Technical Intelligentsia"
+ DON_attraction_of_technical_intelligentsia_desc:0 "Don may become a new industrial center in the near future. The first step in this direction should be the involvement of technical specialists. We invite engineers, builders and skilled workers! "
+
+ DON_road_loan:0 "Road Loan"
+ DON_road_loan_desc:0 "The infrastructure has been damaged during the fighting and is largely outdated. The government felt it right to announce a road loan and thus fund new large-scale construction."
+
+ DON_peoples_education:0 "Public Education Program"
+ DON_peoples_education_desc:0 "The illiteracy of the population will soon be a thing of the past. Only an educated nation is capable of creating a powerful state. "
+ DON_peoples_education_focus_tt:0 "Opens education solutions. \N"
+
+ DON_new_time_of_Donbass_industrialisation:0 "A New Round of Donbass Industrialisation"
+ DON_new_time_of_Donbass_industrialisation_desc:0 "Donbass is the most industrialized region of the new republic. If you build new plants and factories, then it is there."
+
+ DON_tradeunionism:0 "Trade Unionism"
+ DON_tradeunionism_desc:0 "It is preferable for us to resolve the issue with trade unions in a civilized way, in the image of British trade unionism."
+
+ DON_workers_militia:0 "Workers' Squads of the Don People's Republic"
+ DON_workers_militia_desc:0 "The workers appreciated the government's concern. Now they are completely loyal and ready to defend the country from invasion in case of danger with weapons in hand."
+
+ DON_trading_company:0 "Don Trading Company"
+ DON_trading_company_desc:0 "Taking into account the favorable coastal position of the republic, it is worth investing resources to develop trade."
+
+ DON_south_ports:0 "Arrangement of Southern Ports "
+ DON_south_ports_desc:0 "Without properly equipped southern ports, there can be no talk of profitable trade or your own fleet."
+
+ DON_northern_cordon_line:0 "Construction of the Northern Border Line"
+ DON_northern_cordon_line_desc:0 "In the north, we have an area, in the opinion of the General Staff, convenient for creating fortifications. According to the plan, the fortifications will be located not far from Rostov, but a sharp reduction in the front will allow even retreating troops to firmly gain a foothold on the line."
+
+ DON_Don_Caucasian_Union:0 "Don-Caucasian Union"
+ DON_Don_Caucasian_Union_desc:0 "The original project of subjugating all areas south of the Volga and Don under the leadership of Novocherkassk now seems even more possible with the equal assistance of the Cossacks and the highlanders. "
+
+ DON_national_relationship_comission:0 "Commission on National Disputes"
+ DON_national_relationship_comission_desc:0 "To resolve conflicts between representatives of various peoples of our two-pronged state, the government decided to form a special commission with equal representation."
+
+ DON_anti_bolsheviks_jihad:0 "Anti-Bolshevik Jihad"
+ DON_anti_bolsheviks_jihad_desc:0 "With the support of the Muslim clergy, we can involve them in fomenting the struggle against the atheistic Bolshevik regime. "
+
+ DON_wild_division:0 "Don Wild Division"
+ DON_wild_division_desc:0 "In the Russian Imperial Army there was a division made up of volunteer mountaineers. These people became famous in several battles and some of them are now in the army of our state, or have returned to their homelands. We are quite capable of creating a new Wild Division."
+
+ DON_voluntary_mountaineers_mobilization:0 "Voluntary Mobilisation of Mountaineers"
+ DON_voluntary_mountaineers_mobilization_desc:0 "Highlanders can make excellent warriors, and many of them are willing to fight. By spreading more of our propaganda in the Caucasus, we will attract a significant number of volunteers. "
+
+ DON_regular_mountaineers_units:0 "Regular mountaineers"
+ DON_regular_mountaineers_units_desc:0 "Despite the fact that the idea of compulsory service is not clear to the mountaineers, in order to end the war we will have to move on to a massive conscription of the population of the Caucasus."
+
+ DON_Caucasus_raids:0 "Raids to Transcaucasia"
+ DON_Caucasus_raids_desc:0 "The peoples of Transcaucasia seem to believe that they were able to avoid the scourge of war and are ready to participate in any intrigues against us. Several raids will dampen the ardor of the Georgian and Azerbaijani governments."
+ DON_unlock_Caucasus_raids_decisions:0 "Opens solutions to border conflicts with §YGeorgia§! And §YAzerbaijan§!."
+
+ DON_ABK_insurgents_support:0 "Support Abkhaz Insurgents"
+ DON_ABK_insurgents_support_desc:0 "The Georgians consider the Abkhaz territory part of their own. However, historically, although Abkhazia was a small principality, it still has a longer history and its own distinctive character. Georgian troops are not welcome here. The Abkhaz are ready to speak out for freedom on our side. "
+
+ DON_georgian_wine:0 "Georgian Wine"
+ DON_georgian_wine_desc:0 "It's time to enjoy wine. And take this opportunity to declare war on Georgia."
+
+ DON_agreement_with_Dashnaktsutyun:0 "Agreement with Dashnaktsutyun"
+ DON_agreement_with_Dashnaktsutyun_desc:0 "The Armenians are at enmity with the Tatars and in the event of our invasion of Azerbaijan they may become allies."
+
+ DON_tatars_oil:0 "Tatar Oil "
+ DON_tatars_oil_desc:0 "The government of Azerbaijan, these Turkish puppets, simply took over the entire oil industry created by Russian and European companies before the war. Meanwhile, we could use constant sources of fuel."
+
+ DON_Cazakiya:0 "Cossackia"
+ DON_Cazakiya_desc:0 "In fact, the Cossacks are an ancient people who deserve to have their own state. In any case, from today this thesis can only be refuted with weapons in hand."
+
+ DON_propaganda_of_cossack_nationalism:0 "Cossack Nationalism Propaganda"
+ DON_propaganda_of_cossack_nationalism_desc:0 "It is widely believed among the Cossacks that they have nothing in common with the peasants, not only in everyday life and cultural terms, but also ethnically. This situation can be developed up to the idea of an independent Cossack nation. "
+
+ DON_integration_of_Astrakhan_cossack_realm:0 "Integration of the Astrakhan Host"
+ DON_integration_of_Astrakhan_cossack_realm_desc:0 "The Astrakhan Cossacks must be included in the entire state."
+
+ DON_help_to_Terek_cossack_realm:0 "Help Terek Host"
+ DON_help_to_Terek_cossack_realm_desc:0 "Terek Cossacks are few in number, but they are Cossacks, which means our brothers."
+
+ DON_fortress_Tsaritsyn:0 "Fortress Tsaritsyn"
+ DON_fortress_Tsaritsyn_desc:0 "Tsaritsyn is a strategically important city on the Volga. Convenient location provides good opportunities for its defense, and having acquired a fortified Tsaritsyn area, it will become completely impregnable."
+
+ DON_all_cossacks_union:0 "Cossack Alliance"
+ DON_all_cossacks_union_desc:0 "Cossacks live not only in the Don and Kuban, but also far beyond the borders of the South of Russia. The Don Ataman considers his mission a general unification of the Cossacks."
+ Union_of_cossaks_and_free_steppe_nations:0 "Union of Cossacks and Free Peoples of the Steppes "
+ 
+ DON_federation_Rostov_Guryev_Orenburg:0 "Federation Guryev - Rostov - Orenburg"
+ DON_federation_Rostov_Guryev_Orenburg_desc:0 "Orenburg and Ural Cossacks must become part of our new state."
+ 
+ DON_inclusion_of_Bashkir_cossack_realm:0 "Inclusion of the Bashkir Cossacks"
+ DON_inclusion_of_Bashkir_cossack_realm_desc:0 "A lot of Cossacks live in the vastness of Bashkiria, and the Bashkirs themselves can easily succumb to rocking."
+ 
+ DON_appeal_to_steppe_nations:0 "Appeal to the Steppe Peoples"
+ DON_appeal_to_steppe_nations_desc:0 "We affirm that the Cossacks are partly of Turkic origin. On this basis, Cossacks could create an alliance with the free peoples of the steppes."
+ 
+ DON_trans_caspian_expedition:0 "Transcaspian Expedition"
+ DON_trans_caspian_expedition_desc:0 "The Caspian region is now occupied by a weak and illegitimate government. It will not be difficult to stage a successful coup there."
+ DON_trans_caspian_expedition_tt:0 "Give the rebels 1,000 §Yinfantry gear§!. \N"
+ 
+ DON_officer_schools:0 "Don Officer Schools"
+ DON_officer_schools_desc:0 "The Don army is growing, and therefore there is a shortage of regular officers, moreover, the officers we have now are often only refugees in our area. Don needs an independent and distinctive officer corps."
+ 
+ DON_military_budget:0 "Military Budget"
+ DON_military_budget_desc:0 "The Ministry of War has developed a plan to support the construction of the industry necessary from its point of view."
+ 
+ DON_creation_of_regular_army:0 "Creation of a Regular Army"
+ DON_creation_of_regular_army_desc:0 "Since the beginning of the war, our army has been mostly volunteer units and all sorts of mixed formations. It's time to create a truly regular military force."
+ 
+ DON_orientation_on_Berlin:0 "Orientation to Berlin"
+ DON_orientation_on_Berlin_desc:0 ""
+ 
+ DON_pro_Entente_politics:0 "Pro-Entene Course"
+ DON_pro_Entente_politics_desc:0 ""
+ 
+ DON_bread_contract:0 "Bread Contract"
+ DON_bread_contract_desc:0 "Our new allies are experiencing certain problems with food. It is in our interests to start deliveries of Don bread as soon as possible.."
+ 
+ DON_foreing_weapons:0 "Foreign Weapons"
+ DON_foreing_weapons_desc:0 "By delivering bread, we expect to exchange it not for empty money or promises, but for military weapons."
+ 
+ DON_provision_of_Don_ruble:0 "Support the Don Ruble"
+ DON_provision_of_Don_ruble_desc:0 "Using the financial assistance of the allies, we may well restore the exchange rate of the Don ruble in the near future."
+ 
+ DON_attraction_of_investments:0 "Attract Investments"
+ DON_attraction_of_investments_desc:0 "Don can become an attractive territory for foreign investment."
+ 
+ DON_join_to_Allies:0 "Joining the Allies"
+ DON_join_to_Allies_desc:0 "The Cossacks have already fought for the cause of the Entente, in turn the Entente has left us in trouble. There are no barriers to re-enter the union of free nations."
+ 
+ DON_mediation_on_UKR:0 "Mediation in Ukraine"
+ DON_mediation_on_UKR_desc:0 "At the moment we are not able to resolve the territorial dispute with the Ukrainians on our own, we need the mediation of a great power."
+ 
+ DON_GER_protectorat:0 "German Protectorate"
+ DON_GER_protectorat_desc:0 "Only the guarantees of the Kaiser will save the Don from outside invasion. We will have to give up the idea of external sovereignty in exchange for internal sovereignty."
+ 
+ DON_allience_with_GER:0 "Alliance with the Reich"
+ DON_allience_with_GER_desc:0 "Don is ready to make an alliance with the German Reich, but only as an equal partner."
+ 
+ DON_anti_republic_coup:0 "Anti-republican Coup"
+ 
+ DON_sovnarkom_elections:0 "Elections to the SNK"
+ DON_sovnarkom_elections_desc:0 ""
+ 
+ DON_emergency_headquarters:0 "Emergency Defense HQ"
+ DON_emergency_headquarters_desc:0 ""
+ 
+ DON_red_cossacks:0 "Red Cossacks"
+ DON_red_cossacks_desc:0 ""
+ 
+ DON_liquidation_of_Golubov:0 "Liquidation of Golubov"
+ DON_liquidation_of_Golubov_desc:0 ""
+ 
+ DON_radical_red_land_reform:0 "Radical Land Reform"
+ DON_radical_red_land_reform_desc:0 ""
+ 
+ DON_red_terror:0 "Red Terror"
+ DON_red_terror_desc:0 ""
+ 
+ DON_decossackization:0 "Decossackisation"
+ DON_decossackization_desc:0 ""
+ 
+ DON_working_red_guard:0 "Working Red Guard"
+ DON_working_red_guard_desc:0 ""
+ 
+ DON_cossack_Soviets:0 "Cossack Soviets"
+ DON_cossack_Soviets_desc:0 ""
+ 
+ DON_amnesty_for_whitecossacks_prisoner_of_war:0 "Amnesty for Captured White Cossacks"
+ DON_amnesty_for_whitecossacks_prisoner_of_war_desc:0 ""
+ 
+ DON_moderate_red_land_reform:0 "Moderate Land Reform"
+ DON_moderate_red_land_reform_desc:0 ""
+ 
+ DON_Golubov_capital_transfer:0 "Capital Transfer"
+ DON_Golubov_capital_transfer_desc:0 ""
+ 
+ DON_requirement_of_autonomy:0 "Request for Autonomy"
+ DON_requirement_of_autonomy_desc:0 ""

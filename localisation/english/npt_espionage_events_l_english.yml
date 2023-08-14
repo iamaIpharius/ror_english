@@ -1,0 +1,7 @@
+﻿l_english:
+ npt_rescue_kerensky.1.t:0 "Evacuation attempt failed"
+ npt_rescue_kerensky.1.desc:0 "The attempt to evacuate Kerensky failed, upon arrival at the designated place, Kerensky was not there, and having traveled around several areas around, he never found him. \N\n nLater calling the headquarters, the agent received information that Russian intelligence was the first to find out about everything. and detained Kerensky."
+ npt_rescue_kerensky.1.a:0 "It was worth trying anyway."
+ npt_rescue_kerensky.2.t:0 "Kerensky evacuated"
+ npt_rescue_kerensky.2.desc:0 "Everything went as well as possible, the agent arrived in Moscow, met with Kerensky at the appointed time and gave him documents in the name of a Serbian officer. Later, together they left Moscow, sailed to Murmansk and from there were able to sail to London. Unconditional Victory - Kerensky Saved."
+ npt_rescue_kerensky.2.a:0 "We do not forget our friends."

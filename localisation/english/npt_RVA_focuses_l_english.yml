@@ -1,0 +1,99 @@
+﻿l_english:
+ RVA_white_light:0 "White Svetoch"
+ RVA_white_light_desc:0 "Now we are in the minority. A handful of fighters are making their way forward in complete encirclement. But, as General Alekseev told us, "We need to light the svetoch so that there is at least one point of light among the darkness that engulfed Russia." The svetoch will be lightened, Russia will be saved."
+
+ RVA_special_meeting:0 "Special Meeting"
+ RVA_special_meeting_desc:0 "For the army, it may be enough to have only a headquarters, but managing a vast region requires maintaining a civil administration and a government over it. Of course, the government cannot meddle in the affairs of the commander."
+
+ RVA_mobilization:0 "Mobilization"
+ RVA_mobilization_desc:0 "The ranks of volunteers are thinning. It is more and more difficult for the patriots to cross over to our side. For a proper war, the replenishment of existing units and the creation of new ones are necessary, for this we need recruits, in order to get recruits we must proceed to mobilization. "
+ RVA_corps_mobilization_unlock:0 "§Y Local mobilization can be delegated to nominated Governor Generals§!"
+
+ RVA_osvag:0 "OSVAG"
+ RVA_osvag_desc:0 "The Informative Agency is a propaganda body of the Volunteer Army, and later - of the Armed Forces of the South of Russia during the Civil War, endowed with a monopoly on providing information about the actions of the official structures of the White South and disseminating information for the mass media in the territories controlled by its authority. "
+
+ RVA_repair_docks:0 "Repair Docks"
+ RVA_repair_docks_desc:0 "In 1916, the Russian Empire gained almost complete domination of the Black Sea. Now the dark times have come, but we are still capable of restoring the greatness of the sea. Many ships were sunk or remained moored in disrepair. Skilled craftsmen with the necessary equipment will bring them back into operation. "
+
+ RVA_volunteer_fleet:0 "Volunteer Fleet"
+ RVA_volunteer_fleet_desc:0 "The imperial fleet will be assembled bit by bit, just as the Russian army is now being reborn. Some of the ships are being repaired, some are removing the flags of new formations, some we will receive from the allies. "
+
+ RVA_counterintelligence:0 "Counterintelligence"
+ RVA_counterintelligence_desc:0 "The Reds are strong with their agents, spreading over the area to excite the minds of the population with delusional rumors. They also turn undecided recruits into agents. But the days of Kerensky are definitely in the past. Even if the commissioner is caught in the outhouse, he will be executed. "
+
+ RVA_comission_of_oficers_rehabilitation:0 "Officers Rehabilitation Commision"
+ RVA_comission_of_oficers_rehabilitation_desc:0 "After the collapse of the tsarist army, many officers were forced to enlist in the army of new formations, or in the red army. With the arrival of the white forces, some of them wished to enter our service. We need to check them first. "
+
+ RVA_exposure_secret_organizations:0 "Expose Secret Organizations"
+ RVA_exposure_secret_organizations_desc:0 "From the first days, groups of fighters who organized themselves independently, including on a conspiratorial basis, were drawn to the army. Many of the organizations created in this way continued to exist, especially those devoted to the monarchist idea. All this creates the threat of a split in the army. "
+
+ RVA_kuban_action:0 "Kuban Action"
+ RVA_kuban_action_desc:0 "The Kuban Rada, initially quite independent, creates more problems than brings benefits. The Kuban Cossacks who came with enthusiasm to our army are decomposed under the influence of the Yekaterinodar talking house. It's time to put an end to this. "
+
+ RVA_state_guard:0 "State Guard"
+ RVA_state_guard_desc:0 "The leadership of the army came to the conclusion that in order to ensure peace in the rear, it is necessary to create special units of the state guard - in fact, a special internal army. "
+
+ RVA_courts_martial:0 "Courts-martial"
+ RVA_courts_martial_desc:0 "Order cannot do without violence, especially at the time of the triumph of absolute anarchy. Criminals, agitators, deserters, and alarmists deserve trial. Field court. "
+
+ RVA_steel_discipline:0 "Steel Discipline"
+ RVA_steel_discipline_desc:0 "The army has come a long way from a handful of heroes to a large motley mass, and from the masses to a properly organized army. From now on, iron discipline will reign in the army, even tougher and more just than in tsarist times. "
+
+ RVA_ROVS:0 "ROVS"
+ RVA_ROVS_desc:0 "The creation of the Russian General Military Union will make it possible to unite politically active elements in the army under the wing of a single structure. After the victory in the civil war, such an organization will be a good help for the creation of a loyal paternalistic party. "
+
+ RVA_governor_general:0 "Establishment of Governor Generals"
+ RVA_governor_general_desc:0 "Civilian officials are often unable to understand what is happening on their territory or to adequately interact with the army. At especially important points, it is worth appointing a military governor or a Governorate-General. "
+ RVA_governor_general_decisions_unlock:0 "§Y It will be possible to create general governorships in a number of regions of Russia, making them national§!"
+
+ RVA_agricultural_solution:0 "Solution of the Agrarian Question"
+ RVA_agricultural_solution_desc:0 "Peasant land shortage is one of the reasons of the revolution, and something needs to be done about it. At the very least, you need to decide whether to confirm the unauthorized black redistribution or return the property to its rightful owners."
+
+ RVA_broad_powers_local_authorities:0 "Broad Powers of Local Authorities"
+ RVA_broad_powers_local_authorities_desc:0 "Well, not this way wide."
+
+ RVA_restitution:0 "Restitution"
+ RVA_restitution_desc:0 "We will expropriate from the expropriators in the reverse order. Of course, if there is anything left of this property here, if at all."
+ RVA_restitution_tt:0 "It is necessary that there are already factories in the controlled and national region, so that more factories appear there. \N"
+
+ RVA_contacts_with_right_center:0 "Contacts With the Right Center"
+ RVA_contacts_with_right_center_desc:0 "In central Russia there are still many people who sympathize with us, including industrialists and intellectuals. So far, they have managed to secretly form a coordination center and are ready to cooperate. "
+
+ RVA_creation_union_of_salvation:0 "Access the Underground"
+ RVA_creation_union_of_salvation_desc:0 "In Moscow, in the very heart of the Bolshevik regime, there is a right-wing National Center, ready to cooperate with us to crush the red regime, in addition to politicians having something more serious in its membership. We should establish contact with them."
+
+ RVA_free_trade:0 "Free Trade"
+ RVA_free_trade_desc:0 "Free trade is key to solving scarcity problems. As they say? bread from the regions of the rich will flow to the regions of the hungry, and that's it. Any questions? "
+
+ RVA_democratic_constitution:0 "Democratic Constitution"
+ RVA_democratic_constitution_desc:0 "Order is not a path to slavery, but a path to progress and prosperity. In fact, real democracy is possible only in conditions of Order, everything else is anarchy and ruin. Democracy, in turn, fixes the existence of Order. And all this should be enshrined in this constitution. "
+
+ RVA_savinkov_mission:0 "Savinkov's Mission"
+ RVA_savinkov_mission_desc:0 "Savinkov has long arms and many friends. In the northwest, in Poland and the Volga region, regimes may be formed under the control of his former comrades-in-arms, in which case it is advisable to send Savinkov on a small underground tour. "
+ RVA_savinkov_missions_decisions_unlock:0 "§YA number of diplomatic opportunities related to the activities of Boris Savinkov will be opened!"
+
+ RVA_monarchist_press:0 "Monarchist Press"
+ RVA_monarchist_press_desc:0 "One way or another, newspapers are published in the liberated territory, and the monarchist press has developed especially successfully. This phenomenon should be looked at more closely. "
+ 
+ RVA_azbuka:0 "«Azbuka»"
+ RVA_azbuka_desc:0 "«Azbuka» is one of the largest spy networks created by our supporters. «Azbuka» headed by the Kiev monarchist and nationalist Vasily Vitalievich Shulgin. He completely puts himself and his spies at our disposal."
+
+ RVA_invitation_Nik_Nik:0 "Nikolay Nikolaevich's Invitation"
+ RVA_invitation_Nik_Nik_desc:0 "Grand Duke Nikolay Nikolayevich commanded the imperial army in the years of the greatest victories and greatest adversities. Now he is safe and ready, if it is necessary to return to the ranks, already as a white general."
+ 
+ RVA_white_party:0 "Party of the White Cause"
+ RVA_white_party_desc:0 "The white movement needs its own white party. After all, the Reds have successfully mastered this new modern mechanism for carrying out their will. But their will should not win, which means that the white movement needs its own white party."
+
+ RVA_moscow_directive:0 "Moscow Directive"
+ RVA_moscow_directive_desc:0 "Moscow is three steps away from us. We will only push the rotten shed of red power and it will disintegrate like a terrible mirage. The command approves the "Moscow directive" - the goal is determined, the whites go to the capital. "
+
+ RVA_convening_military_council:0 "Military Soviet Convocation"
+ RVA_convening_military_council_desc:0 "The army is still the main political actor in the liberated territory. Taking into account the opinion of someone else is not so essential, and in fact it is not necessary. But the army will have its say through the lips of its leaders. "
+ RVA_convening_military_council_prompt:0 "§Y Cases can be submitted to the civilian government only if the popularity of the ruling party is less than 50%§."
+
+ RVA_national_assembly:0 "National Assembly"
+ RVA_national_assembly_desc:0 "The National Assembly must not repeat the pitiful fate of the Constituent Assembly. We will complete the transformation of Russia without turning it into a disfigurement. All on the right will be able to speak up. "
+
+ RVA_appeal_allies:0 "Appeal to the Allies"
+ RVA_appeal_allies_desc:0 "White forces in the South are the heirs of the Russian Empire in the all-allies struggle. When the Entente had a hard time, Russia always came to the rescue. It's time to pay the bills."
+ 

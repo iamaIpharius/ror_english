@@ -1,0 +1,197 @@
+﻿l_english:
+ czechoslovak_legion_uprising:0 "Uprising of the Czechoslovak Legion"
+ 
+ help_from_foreign_interventionists:0 "Help from foreign invaders"
+ private_military_campaign:0 "Limited War Campaign"
+ private_military_campaign_desc:0 "This state, for some reason, cannot call its allies into war. Perhaps this is due to cold relations, perhaps for now, the enemies of this state are too weak or something else.."
+ 
+ 
+ Entente_credit_for_Russia:0 "Entente Credits"
+ Entente_credit_for_Russia_pay:0 "Loan Payments"
+ 
+ disorganized_horse_breeding_idea:0 "Disorganized Horse Breeding"
+  
+ DON_Peoples_army_presence_idea:0 "People's Army Presence"
+ 
+ DON_volunteer_recruitment_network_idea:0 "Volunteer Recruiters"
+ DON_Volunteer_army_presence_idea:0 "Volunteer Army Presence"
+ RVA_kubanskiy_pohod_1:0 "The Ice March"
+ RVA_kubanskiy_pohod_2:0 "The Ice March"
+ RVA_kubanskiy_pohod_3:0 "The Ice March"
+ RVA_kubanskiy_pohod_4:0 "The Ice March"
+ RVA_kubanskiy_pohod_5:0 "The Ice March"
+ DON_distrust_of_cossacks:0 "Mistrust of the Cossacks"
+ DON_unrest_of_cossacks:0 "Unrest of the Cossacks"
+ 
+ DON_democratic_reforms:0 "Democratic reforms"
+ DON_national_relationship_comission_idea:0 "Commission on National Disputes"
+ DON_white_jihad:0 "White Jihad"
+ DON_voluntary_mountaineers_mobilization_idea:0 "Recruiting Highlanders"
+ DON_tradeunionism_idea:0 "Trade Unionism"
+ DON_trading_company_idea:0 "Don Trading company"
+ 
+ DON_okazachivanie_idea:0 "Cossackisation"
+ DON_cossack_power:0 "Cossack Power"
+ 
+ DON_cossack_nationalism_social_conservatism_idea:0 "Cossack Nationalism"
+ DON_cossack_nationalism_authoritarism_idea:0 "Cossack Nationalism"
+ DON_cossack_nationalism_despotism_idea:0 "Cossack Nationalism"
+ DON_cossack_nationalism_fascism_idea:0 "Cossack Nationalism"
+ 
+ DON_military_budget_idea:0 "Military Budget"
+ 
+ DON_postavki_out:0 "Export Agreement"
+ DON_postavki_in:0 "Don Supplies"
+ 
+ foreing_credit_for_DON:0 "Foreign Investments"
+ 
+ DON_right_oficers:0 "Inflow of Right-wing Officers"
+ DON_right_oficers_desc:0 "The backbone of the officers of the Don and Volunteer armies are hard-core reactionaries, so the influence of these sentiments on politics is growing."
+ 
+ 
+ DON_decossackization_idea:0 "Decossackisation"
+ DON_cossack_Soviets_idea:0 "Cossack Soviets"
+ 
+ 
+ white_terror_idea_plus_socialists:0 "White Terror"
+ white_terror_idea_plus_socialists_desc:0 "White terror is a combination of both state repressive measures and lynching, as well as unauthorized reprisals of Cossacks, soldiers and officers with representatives of the local population, be they communists or simply unwilling to donate bread voluntarily."
+ white_terror_idea:0 "White Terror"
+ white_terror_idea_desc:0 "White terror is a combination of both state repressive measures and lynching, as well as unauthorized reprisals of Cossacks, soldiers and officers with representatives of the local population, whether they are communists or simply unwilling to donate bread voluntarily."
+ red_terror_idea:0 "Red Terror"
+ red_terror_idea_desc:0 "The Red Terror is a combination of both state repressive measures and lynching, as well as unauthorized reprisals by Chekists, soldiers and officers with representatives of the local population, whether they are counter-revolutionaries or simply unwilling to donate bread voluntarily."
+ not_socialist_red_terror_idea:0 "Red Terror"
+ not_socialist_red_terror_idea_desc:0 "The Red Terror is a combination of both state repressive measures and lynching, as well as unauthorized reprisals by Chekists, soldiers and officers against representatives of the local population, whether they are counter-revolutionaries or simply unwilling to donate bread voluntarily."
+ left_esser_terror_idea:0 "Left Terror"
+ left_esser_terror_idea_desc:0 "Leftist terror is a combination of both state repressive measures and lynching, as well as unauthorized reprisals of fighters with representatives of the local population, whether they are counter-revolutionaries or simply unwilling to voluntarily exchange manufactured goods with peasants."
+ 
+ 
+ 
+ weak_centralization_idea:0 "Low Centralization"
+ medium_centralization_idea:0 "Medium Centralization"
+ high_centralization_idea:0 "High Centralization"
+ russia_in_ruins_idea:0 "Russia in Ruins"
+ red_army_is_weakened:0 "The Red Army is Weakened"
+ VLG_not_quite_red:0 "Red Non-Red Army"
+ VLG_sympathy_of_the_peasants:0 "Peasant Support"
+ VLG_sympathy_of_the_peasants_small:0 "Small Peasant Support"
+ VLG_sympathy_of_the_peasants_large:0 "Large Peasant Support"
+ RUS_staff_commissars_of_the_esser:0 "SR Commissars"
+ 
+ 
+ regionalism_idea:0 "Regionalism"
+ 
+ cossaks_regionalism:0 "Borderline Disease"
+ cossaks_regionalism_desc:0 "Most of the Cossacks are ready to defend the freedom of their villages, but they lose their fighting spirit as soon as the struggle goes beyond the military area."
+ 
+ 
+ 
+ marching_army_idea:0 "Marching Army"
+ 
+ NWA_fast_strategy:0 "Marching Army"
+ NWA_long_strategy:0 "Long-term Strategy"
+ NWA_independent_government_idea:0 "Civil Administration"
+ NWA_center_agents:0 "Agency of the National Center"
+ NWA_general_governorship:0 "General Government"
+ 
+ NWA_North_corps:0 "North Corps"
+ 
+ RVA_KUB_rada:0 "Kuban Rada"
+ RVA_kubanskiy_pohod:0 "Marching Army"
+ 
+ RVA_white_light_idea:0 "White Svetoch"
+ RVA_repair_docks_idea:0 "Accelerated Ship Repair"
+ RVA_azbuka_idea:0 "«Azbuka»"
+ RVA_osvag_idea:0 "OSVAG"
+ RVA_state_guard_idea:0 "State Guard"
+ RVA_steel_discipline_idea:0 "Steel Discipline"
+ RVA_ROVS_idea:0 "ROVS"
+ RVA_local_counterintelligence:0 "Decentralised Counterintelligence"
+ RVA_single_counterintelligence:0 "Unified Counterintelligence"
+ RVA_third_sheaf_gov:0 "Third Sheaf Law"
+ RVA_third_sheaf_market:0 "Third Sheaf Law"
+ RVA_moscow_directive_idea:0 "To Moscow!"
+ 
+ 
+ 
+ 
+ politactivities_in_PRM_idea:0 "Political Work of Enemies"
+ anarchism_orgy:0 "Anarchist Rampant"
+ AMR_dvoevlastie:0 "Dual Power"
+ 
+ Namjil_Laydapov_without_briefcase:0 "Namzhil Laydapov"
+ Namjil_Laydapov_dead:0 "Dead"
+ Lubsan_Sandan_Cindenov_without_briefcase:0 "Lubsan-Sandan Tsydenov"
+ Lubsan_Sandan_Cindenov_dead:0 "Dead"
+ Syretor_Buyantuev_without_briefcase:0 "Syretor Buyantuev"
+ Syretor_Buyantuev_dead:0 "Dead"
+ Rinchin_sambu_Danjinov_without_briefcase:0 "Rinchin-sambu Danginov"
+ Rinchin_sambu_Danjinov_dead:0 "Dead"
+ 
+ BKL_Chita_general_workshops:0 "Chita Main Workshops"
+
+ Entente_credit_for_Russia_ENG:0 "[ENG.GetAdjective] loan"
+ Entente_credit_for_Russia_RAJ:0 "[RAJ.GetAdjective] loan"
+ Entente_credit_for_Russia_FRA:0 "[FRA.GetAdjective] loan"
+ Entente_credit_for_Russia_BEL:0 "[BEL.GetAdjective] loan"
+ Entente_credit_for_Russia_SAF:0 "[SAF.GetAdjective] loan"
+ Entente_credit_for_Russia_AST:0 "[AST.GetAdjective] loan"
+ Entente_credit_for_Russia_USA:0 "[USA.GetAdjective] loan"
+ Entente_credit_for_Russia_JAP:0 "[JAP.GetAdjective] loan"
+ Entente_credit_for_Russia_MAN:0 "[MAN.GetAdjective] loan"
+ Entente_credit_for_Russia_FNG:0 "[FNG.GetAdjective] loan"
+ Entente_credit_for_Russia_SWE:0 "[SWE.GetAdjective] loan"
+ Entente_credit_for_Russia_FIN:0 "[FIN.GetAdjective] loan"
+ Entente_credit_for_Russia_ITA:0 "[ITA.GetAdjective] loan"
+ Entente_credit_for_Russia_SER:0 "[SER.GetAdjective] loan"
+ Entente_credit_for_Russia_GRE:0 "[GRE.GetAdjective] loan"
+ Entente_credit_for_Russia_GRR:0 "[GRR.GetAdjective] loan"
+ Entente_credit_for_Russia_ROM:0 "[ROM.GetAdjective] loan"
+ Entente_credit_for_Russia_GER:0 "[GER.GetAdjective] loan"
+ Entente_credit_for_Russia_PRE:0 "[PRE.GetAdjective] loan"
+ Entente_credit_for_Russia_AUH:0 "[AUH.GetAdjective] loan"
+ Entente_credit_for_Russia_TUR:0 "[TUR.GetAdjective] loan"
+
+ pay_Entente_credit_for_Russia_MCW:0 "[MCW.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_MCW_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_SIB:0 "[SIB.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_SIB_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_CCA:0 "[CCA.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_CCA_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_RSS:0 "[RSS.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_RSS_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_NRR:0 "[NRR.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_NRR_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_RVA:0 "[RVA.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_RVA_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_DON:0 "[DON.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_DON_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_KUB:0 "[KUB.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_KUB_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_NVA:0 "[NVA.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_NVA_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_NWA:0 "[NWA.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_NWA_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_WVA:0 "[WVA.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_WVA_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_PRM:0 "[PRM.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_PRM_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_CPG:0 "[CPG.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_CPG_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_OCH:0 "[OCH.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_OCH_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_BKL:0 "[BKL.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_BKL_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_BYA:0 "[BYA.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_BYA_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_CRI:0 "[CRI.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_CRI_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_AMR:0 "[AMR.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_AMR_desc:0 "As long as they haven't paid it, we can claim it."
+ pay_Entente_credit_for_Russia_FER:0 "[FER.GetAdjective] debts"
+ pay_Entente_credit_for_Russia_FER_desc:0 "As long as they haven't paid it, we can claim it."
+
+ pay_Entente_credit_for_Russia_for_Russia_1:0 "Civil War Credits"
+ pay_Entente_credit_for_Russia_for_Russia_2:0 "Civil War Credits"
+ pay_Entente_credit_for_Russia_for_Russia_3:0 "Civil War Credits"
+ pay_Entente_credit_for_Russia_for_Russia_4:0 "Civil War Credits"
+ pay_Entente_credit_for_Russia_for_Russia_5:0 "Civil War Credits"

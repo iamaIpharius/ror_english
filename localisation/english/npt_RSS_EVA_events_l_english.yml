@@ -1,0 +1,32 @@
+﻿l_english:
+   rcw_rss_eva.1.t:0 "Army Chief"
+   rcw_rss_eva.1.desc:0 "After the establishment of the Directory, Atamans Volkov and Krasilnikov, realized that power in the liberated territories was flowing smoothly into the hands of the Socialists, and began to prepare forces for a right-wing coup. The Socialists worked faster, while the Whites had to go underground. But even here the atamans did not lose their spirits. From the taiga they brought out a new army, which was joined by many more rebel units. The rebels are in fact united by the common goal of overthrowing the red power, but the army has no unity of command. \n\nIn this background, several other famous generals moved into the rebel camp, whose names, though limited, can serve as banners for the entire movement. "
+   rcw_rss_eva.1.a:0 "Volkov, will lead his Cossacks to victory "
+   rcw_rss_eva.1.b:0 "General Dieterichs is the only experienced leader"
+   rcw_rss_eva.1.c:0 "Lebedev is respected as a representative of the Dobrarmia"
+   
+   rcw_rss_eva.2.t:0 "Bow to ataman"
+   rcw_rss_eva.2.desc:0 "Given the difficult situation, we decided to ask one of Russia's influential atamans for help. It is unlikely that any of them will enter the war on our side if they do not promise the most important trophy - all-Russian power. And if we count on the creation of a second front, we will have to do so. However, patrons may be sent out of simple hatred for the Socialists. "
+   rcw_rss_eva.2.a:0 "Let us invite the Trans-Baikalians to join the struggle."
+   rcw_rss_eva.2.b:0 "Ask Chita for weapons."
+   rcw_rss_eva.2.c:0 "Call on the Orenburgers to fight"
+   rcw_rss_eva.2.d:0 "Let's try to bargain for help in Orenburg"
+   
+   rcw_rss_eva.3.t:0 "Division of the Non-killed Bear's Skin"
+   rcw_rss_eva.3.desc:0 "The Eastern Volunteer Army, which has risen against the Social Revolutionary Government, appeals to us with a proposal to begin joint action. Their representatives claim that the purpose of the army is solely to overthrow the Socialists and to restructure the all-Russian government. In the event of our intervention, the Eastern Army is ready to hand over to us the post of supreme ruler. It is their only chance of victory. "
+   rcw_rss_eva.3.a:0 "Death to the congress! Death to the Directory!"
+   rcw_rss_eva.3.b:0 "It is foolish to shed blood for a new Siberian adventurer."
+   
+   rcw_rss_eva.4.t:0 "Stabbing the directory in the back"
+   rcw_rss_eva.4.desc:0 "The Eastern Volunteer Army, rebelling against the Social Revolutionary government, is requesting a shipment of arms. It is unlikely that the rebels will win, but the weakening of the power of the Congress will certainly be to our advantage. "
+   rcw_rss_eva.4.a:0 "Burning clear!"
+   rcw_rss_eva.4.b:0 "We could use the ammunition ourselves."
+   
+   rcw_rss_eva.5.t:0 "[FROM.GetName] accepted the offer"
+   rcw_rss_eva.5.desc:0 ""
+   rcw_rss_eva.5.a:0 "Wonderful!"
+   
+   rcw_rss_eva.6.t:0 "[FROM.GetName] declined the offer"
+   rcw_rss_eva.6.desc:0 ""
+   rcw_rss_eva.6.a:0 "Nasty."
+   

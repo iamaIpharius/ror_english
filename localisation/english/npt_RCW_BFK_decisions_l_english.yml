@@ -1,0 +1,13 @@
+﻿l_english:
+ npt_war_on_east_desisions:0 "War in the East"
+ npt_region_pskov:0 "Declare Control over the Pskov"
+ npt_region_nevel:0 "Declare Control over the Nevel'"
+ npt_region_gdov:0 "Declare Control over the Gdov"
+ npt_region_oranienbaum:0 "Declare Control over the Oranienbaum"
+ npt_region_dno:0 "Declare Control over the Dno"
+ npt_region_gubanici:0 "Declare Control over the Gubanitsy"
+ npt_region_luga:0 "Declare Control over the Luga"
+ npt_region_luki:0 "Declare Control over the Velikiye Luki"
+ npt_region_gatchina:0 "Declare Control over the Gatchina"
+ npt_peace_negotiations:0 "Start Peace Talks"
+ region_controlled_balt:0 "The Region is Controlled by the Baltic Troops"

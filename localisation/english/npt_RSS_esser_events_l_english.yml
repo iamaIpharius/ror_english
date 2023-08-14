@@ -1,0 +1,627 @@
+﻿l_english:
+    rcw_rss_esser.0.t:0 "Disruption of the Congress of the members of the constituent assembly".
+    rcw_rss_esser.0.desc_nocheh:0 "According to the agreement on the establishment of the All-Russian Directory, the CAC, which was simultaneously the successor of the constituent assembly, one of the eastern governments, and the meeting place of the party of Socialist Revolutionaries, was to become an advisory body, the Congress of Members of the Constituent Assembly. The unification of the east of the country permitted a considerable increase in the number of delegates to the congress, where about three hundred former deputies arrived freely. This circumstance also facilitated a direct exchange of revolutionary experience and the dissemination of information about the situation in different parts of Russia. \nThe Siberian Social Revolutionaries, in particular the Tomicians, seriously shook the favor of their Western partisans with regard to the newly created directorate. The Siberians told of the rabid monarchism of the local Cossack atamans, whose methods of dealing with the peasants verged on Bolshevism or banditry. The Eastern Socialist Revolutionaries also argued that no lasting coalition with the Cadets was possible, because their leaders quite openly promoted a right-wing dictatorship. The ideas of Viktor Chernov, the father of Russian neo-nationalism, about the struggle against right-wing and left-wing reaction on two fronts simultaneously were becoming more and more relevant.  \nThe meeting of the congress began with the reading of solemn greetings sent to the opening from all kinds of public organizations, cooperatives, and military units. Finally, Mr. Vinogradov was about to come up to the rostrum to greet the congress on behalf of the directorate when suddenly he was overtaken by a group of five people. They were Comrade Rogovsky, head of internal security.   \nn\nn "Your attention, please... "Information of special importance... a coup has been prepared... by monarchists and cadets... in favor of..." - From the first words about the coup, people try to drown out the screams, but the cries of indignation about the "cadet treason" are much louder. Rogovsky announces the detachments for the defence of the directorate and asks everyone to calm down. A proposal to transfer supreme power to the congress is sounded... "
+    rcw_rss_esser.0.desc_cheh:0 "According to the agreement on the establishment of the All-Russian Directory, the CAC, which was simultaneously the successor of the constituent assembly, one of the eastern governments and the meeting place of the Socialist-Revolutionary Party, was to become an advisory body, the Congress of the members of the Constituent Assembly. The unification of the east of the country permitted a considerable increase in the number of delegates to the congress, where about three hundred former deputies arrived freely. This circumstance also facilitated a direct exchange of revolutionary experience and the dissemination of information about the situation in different parts of Russia. \nThe Siberian Social Revolutionaries, in particular the Tomicians, seriously shook the favor of their Western partisans with regard to the newly created directorate. The Siberians told of the rabid monarchism of the local Cossack atamans, whose methods of dealing with the peasants verged on Bolshevism or banditry. The Eastern Socialist Revolutionaries also argued that no lasting coalition with the Cadets was possible, because their leaders quite openly promoted a right-wing dictatorship. The ideas of Viktor Chernov, the father of Russian neo-nationalism, about the struggle against right-wing and left-wing reaction on two fronts simultaneously were becoming more and more relevant. \nThe meeting of the congress began with the reading of solemn greetings sent to the opening from all kinds of public organizations, cooperatives, and military units. Finally, Mr. Vinogradov was about to come up to the rostrum to greet the congress on behalf of the directorate when suddenly he was overtaken by a group of five people. They were Comrade Rogowski, head of internal security, accompanied by Czech officers. The entire event was also guarded by Czechs courtesy of General Gayda.   \nn\nn "Your attention, please... "Information of special importance... a coup has been prepared... by monarchists and cadets... in favor of..." - From the first words about the coup, people try to drown out the screams, but the cries of indignation about the "cadet treason" are much louder. Rogovsky announces the detachments for the defence of the directorate and asks everyone to calm down. A proposal to transfer supreme power to the congress is sounded... "
+    rcw_rss_esser.0.a:0 "The Cadets will not tolerate this provocation."
+    
+    rcw_rss_esser.1.t:0 "Split Eastern Front"
+    rcw_rss_esser.1.desc:0 "The worst thing we could have expected has happened - the eastern pro-Bolshevik front united under the Directory not so long ago has split. The right and the left, which only yesterday had declared unity, took up arms to destroy each other. These events will undoubtedly be a serious lesson for all supporters of the "broad coalitions". Now we will have to fight on two fronts."
+    rcw_rss_esser.1.a:0 "Repulse right-wing Bolshevism!"
+ 
+    rcw_rss_esser.2.t:0 "Return of Chernov."
+    rcw_rss_esser.2.desc:0 "Viktor Chernov returns as a triumphant - all his warnings about the right-wing threat and its equivalence to Bolshevism proved absolutely accurate. Although many now claim that it was his proclamation that guided them during the Directory, no one is secretly happy about the new ascent of the old adventurist theorist. The party has long lacked a unified leader, but if anyone can claim this status it is Viktor Chernov."
+    rcw_rss_esser.2.a:0 "Grandfather is back on the horse."
+    
+    rcw_rss_esser.3.t:0 "Avksentyev resigned"
+    rcw_rss_esser.3.desc:0 "Nikolay Avksentiev, formerly an aide to Kerensky and one of the most influential members of the Directory, announced his condemnation of the new coup. In his opinion, the left radicals among the Socialist Revolutionary Party had provoked the Kadets into a split and led to the collapse of the coalition policy against Bolshevism. Under such circumstances Auxentiev resigned the powers he had received from the Directory, but he promised to form a right-wing platform in the ranks of the PSR."
+    rcw_rss_esser.3.a:0 "This is a very stubborn comrade."
+    
+    rcw_rss_esser.4.t:0 "The special position of the editorial board of The People."
+    rcw_rss_esser.4.desc_Volski:0 "This event might have gone unnoticed in the bustle of recent days had not the prominent SR Volsky taken part in it. The newspaper The People published an article announcing the necessity of ending the war within the revolutionary camp and launching a general offensive against reaction. In fact, it is a proposal for peace with the Bolsheviks. Many regarded this statement as a betrayal, but there were sympathizers on the basis of whom a group with the same name for the newspaper was organized."
+    rcw_rss_esser.4.desc_VolskiDead:0 "This event might have gone unnoticed in the bustle of recent days if the prominent SR Kost Burevoy had not participated in it. The newspaper The People published an article announcing the necessity of ending the war within the revolutionary camp and launching a general offensive against reaction. In fact, it is a proposal for peace with the Bolsheviks. Many regarded this statement as a betrayal, but there were sympathizers on the basis of whom a group with the same name for the newspaper was organized."
+    rcw_rss_esser.4.a:0 "Is it still the SRs or already the Bolsheviks?"
+    
+    rcw_rss_esser.5.t:0 "Commander-in-Chief of the People's Army"
+    rcw_rss_esser.5.desc_mahin:0 "At the creation of the Directory, General Boldyrev was appointed to command the united army. He also became a member of the directors. After the transfer of power to the Congress of the members of the constituent assembly, Avksentiev's voluntary resignation, and the disclosure of a military conspiracy, Boldyrev's retention as commander-in-chief looks doubtful. On the other hand, his noninvolvement in the adventure of the reactionaries is established reliably, and the general himself did not counteract the will of the people during the recent events. \nIf we want to see a man loyal to the party at the head of the army, Fedor Makhaqin is a suitable candidate. He has shown himself well in his conspiratorial work and in commanding the troops, he fully shares the ideas of revolutionary democratic socialism, and he has authority with the Czechs. Previously Mahin's promotion was hindered by hidden reactionary intrigues."
+    rcw_rss_esser.5.desc_gaida:0 "At the establishment of the Directory, General Boldyrev was appointed to command the united army. He also became a member of the directors. After the transfer of power to the Congress of the members of the constituent assembly, Avksentiev's voluntary resignation, and the discovery of a military conspiracy, Boldyrev's retention as commander-in-chief looks doubtful. On the other hand, his noninvolvement in the adventure of the reactionaries is established reliably, and the general himself did not counteract the will of the people during the recent events. \nIn the meantime, the Czech general Radolá Hajda showed great ambition. During the uprising on the main line, he led and successfully carried out a number of key operations. Now that the plot of reaction has been uncovered, it was Gajda's strong republican stance that allowed him to put Czech troops on the side of Democracy. The general is ambitious and believes that our government owes its existence twice to him personally. "
+    rcw_rss_esser.5.desc_no:0 "At the establishment of the Directory, General Boldyrev was appointed to command the united army. He also became a member of the directors. After the transfer of power to the Congress of the members of the constituent assembly, Avksentiev's voluntary resignation, and the discovery of a military conspiracy, Boldyrev's retention as commander-in-chief looks doubtful. On the other hand, his noninvolvement in the adventure of the reactionaries has been reliably established, and the general himself did not in any way counteract the will of the people during the recent events."
+    rcw_rss_esser.5.desc_both:0 "At the establishment of the Directory, General Boldyrev was appointed to command the united army. He also became a member of the directors. After the transfer of power to the Congress of the members of the constituent assembly, Avksentiev's voluntary resignation, and the discovery of a military conspiracy, Boldyrev's retention as commander-in-chief looks doubtful. On the other hand, his noninvolvement in the adventure of the reactionaries is established reliably, and the general himself did not counteract the will of the people during the recent events. \nIf we want to see a man loyal to the party at the head of the army, Fedor Makhaqin is a suitable candidate. He has shown himself well in his conspiratorial work and in commanding the troops, he fully shares the ideas of revolutionary democratic socialism, and he has authority with the Czechs. Earlier Mahin's promotion was hindered by hidden reactionary intrigues. \nnIn the meantime, the Czech general Radolá Hajda displays great ambition. During the uprising on the main line he led and successfully carried out a number of key operations. Now that the plot of reaction has been uncovered, it was Gajda's strong republican stance that allowed him to put Czech troops on the side of Democracy. The general is ambitious and believes that our government owes its existence twice to him personally."
+    rcw_rss_esser.5.a:0 "Boldyrev will keep his post."
+    rcw_rss_esser.5.b:0 "Mahin is an ideological socialist"
+    rcw_rss_esser.5.c:0 "General Gaida will lead us to victory"
+    
+    rcw_rss_esser.6.t:0 "Crossroads of Popularism"
+    rcw_rss_esser.6.desc:0 "Having withstood a difficult struggle, the SRs, the ideological heirs of the Narodnik revolutionaries, are once again returning to the stage of all-Russian politics as one of the main forces. Under their control are the resources of the entire east of Russia and the trust of the peasant masses that has not yet faded. Against the socialists- revolutionaries, the two-headed hydra of reaction - the Bolshevik Black Hundreds on the left and the Black Hundred Bolshevism on the right. However, a more dangerous fact may be the split of the Socialist-Revolutionaries into several political platforms. \nThe so-called "rightists" now have the least influence, their leaders still call for building a broad coalition with all bourgeois parties advocating parliamentarism and a republic. It should be noted that there are fewer and fewer such probable allies - the Cadets openly declare a military dictatorship as the way to save the country. Because of this situation, the rest of the Social Revolutionaries are suspected of being "Right" covert agents of reaction. And yet the "Right" still capable of gaining influence over the army and patriotic elements, if they show to the world a new charismatic leader. \nAnother extreme platform is the party members, who are unofficially referred to as radicals or otherwise "maximalists". These comrades are in favor of deepening the social revolution along the Narodnik axis. This means an increasing transfer of the means of production from the hands of the owners to the hands of the owner-producers. Maximalists consider cultivated land to be the main means of production. Self-government should become more and more - the ideal is a confederation of labor farms, an all-Russian commune. But the main thing is that the Socialist-Revolutionaries and the Bolsheviks should not fight each other, opening up scope for reaction. Naturally, such extravagant views do not yet find a response from party authorities, but they are perceived with a bang by the people, who until recently welcomed the slogans of the Bolsheviks. \nFinally, the Moderates are the largest, but also the loosest faction. Both conscious opponents of political radicalism and representatives of the “bog” got here. The only advantage of the moderates is the presence in their ranks of several major theorists. For the moment, they put the promotion of democracy in the form of a combination of parliamentarism and self-government at the center of their policy, and also proclaim the old slogan of convening a Constituent Assembly. \nThe struggle between factions and platforms cannot be dodged, but the intensity of the passions will have to be controlled so as not to invite something much more dangerous."
+    rcw_rss_esser.6.a:0 "Right heading is now the most appropriate"
+    rcw_rss_esser.6.b:0 "Only the Narodovtsy express the will of the people"
+    rcw_rss_esser.6.c:0 "Temperance is what we lacked!"
+    
+    rcw_rss_esser.7.t:0 "The question of state power"
+    rcw_rss_esser.7.desc_rad_soc:0 "Representatives of the 'Maximalist' faction submit an ultimatum to the Central Committee of the AKP to transfer state power from the 'factional oligarchs of the AKP (y)' to the 'recognized party majority', by which they mean themselves, of course.  The rule of the PSR(y) is broken, but the unity of the Socialist-Revolutionary Party now has no value. "There is no justice or democracy in letting people who earned respect in 1905 or 1917 still rule the party, while losing all support from the broad masses. "On the contrary, such worship of authority, chiefdom, and party autocracy are fundamentally contrary to the ideals of the Socialist-Revolutionaries," said the leader of the Maximalist faction, the new ruler of Russia."
+    rcw_rss_esser.7.desc_market_lib:0 "Representatives of the Right faction put forward an ultimatum to the Central Committee of the PSR to transfer state power from the "factional oligarchs of the PSR (y)" to a "recognized party majority," by which they mean, of course, themselves.  The rule of the PSR(y) is broken, but the unity of the Socialist-Revolutionary Party now has no value. "There is no justice or democracy in letting people who earned respect in 1905 or 1917 still rule the party, while losing all support from the broad masses. "On the contrary, such worship of authority, chiefdom, party autocracy is fundamentally contrary to the ideals of socialist-revolutionaries," said the new ruler of Russia the leader of the Right faction."
+    rcw_rss_esser.7.a:0 "The price of victory is a new split in the party."
+    rcw_rss_esser.7.b:0 "The price of victory is a new split in the party."
+    
+    rcw_rss_esser.8.t:0 "Response to Food Blackmail"
+    rcw_rss_esser.8.desc_good:0 "In response to the just demands of the peasant strike, the government has expressed its full support - members of our wing will be able to represent most of the unions of the working peasantry."
+    rcw_rss_esser.8.desc_middle:0 "In response to the just demands of the peasant strike, the government has launched a counter-propaganda campaign and, unfortunately, many peasants have succumbed to it."
+    rcw_rss_esser.8.desc_bad:0 "In response to the just demands of the peasants' strike, the government has expressed a complete refusal to cooperate - the peasants are bewildered, for we promised them a different outcome."
+    rcw_rss_esser.8.a:0 "The struggle for the peasantry will continue."
+    
+    rcw_rss_esser.9.t:0 "Blackmail of CTC representatives"
+    rcw_rss_esser.9.desc_rad_soc:0 "The government has overlooked the infiltration of extremely dangerous political radicals into the unions of the working peasantry we have created. The fruit of their intrigues was the massive refusal of the representatives of the STC to contribute to the supply of the cities. Now they demand not only manufactory and money, but also the promotion to positions of factional scheming from the "maximalists". Concessions on this political issue will enable the opposition to seize the bread supplies and continue the pressure on us, while delay means inadequate supplies to the towns in the coming weeks. "
+    rcw_rss_esser.9.desc_market_lib:0 "The government has overlooked the infiltration of extremely dangerous political radicals into the unions of the working peasantry we have created. The fruit of their intrigues was the massive refusal of the representatives of the STC to contribute to the supply of the cities. Now they demand not only manufactory and money, but also the promotion of factional intrigues from the "right." Concessions on this political issue will enable the opposition to seize the bread supplies and continue the pressure on us, while delay means inadequate supplies to the towns in the coming weeks. "
+    rcw_rss_esser.9.a:0 "Will have to concede."
+    rcw_rss_esser.9.b:0 "Defend the CTK where we can."
+    rcw_rss_esser.9.c:0 "No concessions to provocateurs"
+    
+    rcw_rss_esser.10.t:0 "Non-Random Meeting"
+    rcw_rss_esser.10.desc_mahin:0 "The Commander-in-Chief left the meeting at the government residence, where he reported on the state of the front and the necessary measures to strengthen it. Although the time and date were not known in advance, we were able to obtain this information and prepare well. \nAs usual Fyodor Mahin, who was no stranger to the common people, took a little walk and at the next crossroads ordered a carriage. In kindness, the commander let his young adjutant go straight from the meeting, after receiving a note about some trouble that had befallen the officer's fiancée. \nNo one could stop us, and after a few minutes in the carriage, the carriage changed its route and stopped in front of a hut and a curly-haired man in a hat and glasses got on the step. - The general pronounced, putting his hand with a revolver on his knee-"In the meantime, you'll tell me why you pulled that stunt, unless you want to get shot. "
+    rcw_rss_esser.10.desc_gaida:0 "The Commander-in-Chief left a meeting at the government residence where he reported on the state of the front and the necessary measures to strengthen it. Although the time and date were not known in advance, we were able to obtain this information and prepare well. \nRadola Gaida, who was no stranger to the common people, took a little walk and at the next crossroads he ordered a cab. In his kindness, the commander let his young adjutant go straight from the meeting, after receiving a note about some trouble that had befallen the officer's fiancée. \nNo one could stop us, and after a few minutes, the carriage changed its route and stopped in front of a hut and a curly-haired man in a hat and glasses got up. - said the general, putting his hand on his knee with a revolver. "Well, you'll tell me why you pulled that stunt if you don't want to get shot."
+    rcw_rss_esser.10.desc_boldyrev:0 "The Commander-in-Chief left a meeting at the government residence, where he reported on the state of the front and the necessary measures to strengthen it. Although the time and date were not known in advance, we were able to obtain this information and prepare well. \nVasily Boldyrev, who was no stranger to the common people, took a little walk and at the next crossroads ordered a carriage. Out of kindness, the commander let his young adjutant go straight from the meeting, after receiving a note about some trouble that had befallen the officer's fiancée. \nNo one could stop us, and after a few minutes, the carriage changed its route and stopped in front of a hut and a curly-haired man in a hat and glasses got up. - said the general, putting his hand on his knee with a revolver. "Well, you'll tell me why you pulled that stunt if you don't want to get shot."
+    rcw_rss_esser.10.a:0 "Comrade General, the revolution is dying..."
+    rcw_rss_esser.10.b:0 "Bolshevism cannot be defeated by disparate forces..."
+    rcw_rss_esser.10.c:0 "Excuse me? I'm right, I didn't see it right..."
+    
+    rcw_rss_esser.11.t:0 "Our Commander-in-Chief."
+    rcw_rss_esser.11.desc:0 "The general put the revolver away and we calmly discussed the situation. He really had his doubts about how effective an army could be with such a rear and government. The only condition of cooperation was our commitment to support any measures of the commander-in-chief, even if at first glance they seemed incomprehensible to us."
+    rcw_rss_esser.11.a:0 "Now he knows what to do."
+    
+    rcw_rss_esser.12.t:0 "The Commander-in-Chief is furious."
+    rcw_rss_esser.12.desc:0 "The General was not in the least bit enraged and continued to threaten with his pistol and demanded to go now to the counter-intelligence or surrender to the militia. The interests of the party were threatened, but the muzzle was aiming right at his chest."
+    rcw_rss_esser.12.a:0 "At the signal the coachman drew an axe."
+    rcw_rss_esser.12.b:0 "Had to surrender."
+    
+    rcw_rss_esser.13.t:0 "Killed the commander"
+    rcw_rss_esser.13.desc_mahin:0 "Today, after a meeting the new commander-in-chief Fyodor Mahin disappeared. As it turned out, unidentified kidnappers drove him in a fake carriage to the outskirts of the city and tried, at gunpoint, to carry out their intentions. Defending himself courageously, the general died. "
+    rcw_rss_esser.13.desc_gaida:0 "Today, the new commander-in-chief of Radola Gaida disappeared after a meeting. As it turned out, unidentified kidnappers drove him in a fake carriage to the outskirts of the city and tried, at gunpoint, to carry out their intentions. Courageously defending himself, the general died. "
+    rcw_rss_esser.13.desc_boldyrev:0 "Today, the new commander-in-chief, Vasily Boldyrev, disappeared after a meeting. As it turned out, unknown kidnappers drove him on a fake proletka to the outskirts of the city and tried, at gunpoint, to carry out their intentions. Defending himself courageously, the general died. "
+    rcw_rss_esser.13.a:0 "What next? Will the bandits gather in an army and take over the capital?"
+    
+    rcw_rss_esser.14.t:0 "Unsuccessful recruitment."	
+    rcw_rss_esser.14.desc_rad_soc:0 "Today, the commander-in-chief disappeared briefly after a government meeting. But everyone was even more surprised when they learned that the general had personally delivered two what he thought were enemy agents to counterintelligence. One of the detainees turned out to be a second-rate politician from the Maximalist faction. According to his testimony, he only wanted to discuss a couple of political questions face to face. The faction leaders called the whole thing a personal initiative of an associate. In any case, the Commander-in-Chief declared that from now on, representatives of "this spy gang" would have no access to the army. He also demanded that the Central Committee of the AKP conduct a deeper investigation. "
+    rcw_rss_esser.14.desc_market_lib:0 "Today, after a meeting in the government, the commander-in-chief disappeared briefly. But everyone was even more surprised when they learned that the general had personally delivered two what he thought were enemy agents to counterintelligence. In fact, one of the detainees was a second-rate politician from the Right faction. According to his testimony, he only wanted to discuss a couple of political issues face to face. The faction leaders described the whole incident as a personal initiative of an ally. In any case, the Commander-in-Chief stated that from now on, representatives of "this spy gang" would have no access to the army. He also demanded that the Central Committee of the AKP conduct a deeper investigation. "
+    rcw_rss_esser.14.a:0 "Outrageous."
+    rcw_rss_esser.14.b:0 "Outrageous.
+    
+    rcw_rss_esser.15.t:0 "Beheaded Army"
+    rcw_rss_esser.15.desc:0 "After recent events, our army is once again without a commander in chief. Since this situation threatens to collapse the administration, the government will have to approve a new candidate."
+    rcw_rss_esser.15.a:0 "Boldyrev"
+    rcw_rss_esser.15.b:0 "Comrade Rodion"
+    rcw_rss_esser.15.c:0 "Mahin"
+    rcw_rss_esser.15.d:0 "Pepeliaev"
+    
+    rcw_rss_esser.16.t:0 "Command Objection"
+    rcw_rss_esser.16.desc:0 "The other day the government issued a decree forbidding direct political activity in the troops except with the permission of the authorities. The somewhat vague wording cheered up many officers who had seen the collapse of the old army. Now officers, assisted by their unit commissars, began to restore order and put an end to their excessive politicking. This was not the reaction of the new Commander-in-Chief, Fedor Mahin. He said that such initiatives gagged the people and deprived the army of its status as a people's army. "If [ROOT.GetLeader] wants a serf army instead of a people's militia - I have no intention of commanding such an army," Mahin also announced. Apparently, he seriously intends to retire if his voice is not heard. The situation is somewhat exacerbated by Mahin's high authority within the party."
+    rcw_rss_esser.16.a:0 "Let's explain to him the temporary nature of this measure."
+    rcw_rss_esser.16.b:0 "We made a mistake with the choice of the chief commander."
+    
+    rcw_rss_esser.17.t:0 "The case of the military organization of the Peoples"
+    rcw_rss_esser.17.desc:0 "Intelligence managed to unravel another tangle of dirty intrigue going on behind the back of the people's government. The people's government used its trust and its influence on the peasants in their overcoats to build its own military organization, clearly aimed at the overthrow of the democratic system. The investigation continues. "
+    rcw_rss_esser.17.a:0 "This faction will be banned."
+    rcw_rss_esser.17.b:0 "By decision of the Central Committee, only active participants will be punished."
+    rcw_rss_esser.17.c:0 "Government insists on arresting faction leader"
+    
+    rcw_rss_esser.18.t:0 "Negotiations with the People's Freedom Party"
+    rcw_rss_esser.18.desc:0 "The right-wing faction has consistently advocated a coalition with the most democratic non-socialist elements. Such at the moment are the representatives of the left wing of the Cadet Party. This association really has prospects, because the cadets in the eyes of the intelligentsia and the army often look more adequate politicians. Today, the rightists themselves have decided to initiate negotiations with the Cadets, promising them opportunities for entering the really broad political road."
+    rcw_rss_esser.18.a:0 "Two wings are closing in."
+    
+    rcw_rss_esser.19.t:0 "Democratic minority program"
+    rcw_rss_esser.19.desc:0 "In an attempt to unite right-wing democratic forces, the emerging bloc of the right-wing AKP and the left-wing NRP has initiated a broad discussion of a fundamentally new political program. At the moment, it looks dual: on the one hand, the SR propagates the creation of a network peasant party on the principles of wide autonomy of cells, on the other hand, the Cadets indicate the need to fight in the government for the liberalization of the economy. These are quite distant directions from each other and the final wording is better adjusted one way or the other. "
+    rcw_rss_esser.19.a:0 "Only free peasants will provide the economy."
+    rcw_rss_esser.19.b:0 "Only a free economy will provide the peasantry."
+    
+    rcw_rss_esser.20.t:0 "Coalition representative"
+    rcw_rss_esser.20.desc:0 "The influence of the right-democratic bloc is growing, but until recently it has been publicly represented by various persons from among the leaders of the merging groups. The difference in their statements introduces a bit of confusion, and it becomes difficult for the people to understand who is expressing the main line. In this connection, it is proposed to appoint the head of the right wing Socialist Revolutionary Party as the nominal representative of the bloc. Or to give more influence to the cadets by giving this position to Vinogradov. There is also the option of agreeing with Maslov - he is a figure from out of town, so we can count on his relative neutrality."
+    rcw_rss_esser.20.a:0 "The current head is doing a great job."
+    rcw_rss_esser.20.b:0 "Mr. Vinogradov has great credibility."
+    rcw_rss_esser.20.c:0 "Maslov will intelligently combine the interests of the parties"
+    
+    rcw_rss_esser.21.t:0 "Mr. Maslov demands action"
+    rcw_rss_esser.21.desc:0 "In the opinion of Maslov, despite the formation of the bloc and the active rhetoric of its members, the top leaders of the association are trying to slow down the work on the creation of a network of peasant cells and the struggle of these cells for their rights. Ostensibly, the leaders are afraid that an increase in revolutionary activity on the ground will make the bloc look badly radicalized. Meanwhile, Maslov insists that the time has come for the right-wing platform to act radically. "
+    rcw_rss_esser.21.a:0 "Radical is how?"
+    
+    rcw_rss_esser.22.t:0 "Right-wing military organization case."
+    rcw_rss_esser.22.desc:0 "Intelligence managed to get to the bottom of another tangle of dirty intrigue going on behind the back of the people's government. The Right used its trust and its influence on the peasants in overcoats to build its own military organization, clearly aimed at overthrowing the democratic system. The investigation continues. "
+    rcw_rss_esser.22.a:0 "This faction will be banned."
+    rcw_rss_esser.22.b:0 "By decision of the Central Committee, only active participants will be punished."
+    rcw_rss_esser.22.c:0 "Government insists on arresting faction leader"
+    
+    rcw_rss_esser.23.t:0 "Armed demonstration"
+    rcw_rss_esser.23.desc_rad_soc:0 "At the call of the opposition, crowds of people poured into the streets discontented with the unpopular measures of the authorities. Red flags were visible everywhere, and before the movement began, the leader of the Maximalist faction read out a manifesto that was essentially an ultimatum to dismiss the government. The government in turn did not react until it received alarming information about the simultaneous start of opposition rallies in the army in force. At that point it was already too late. Weapons began to spread through the city from secret warehouses. Peaceful citizens, workers and peasants approached the building where the government was meeting, already as a single combatant squadron. Windows were broken with several shots. There was nothing to resist the ministers, and the party guards in turn refused to shoot at the people and their opposition comrades. The scene of the fall of the provisional government was repeated again. "
+    rcw_rss_esser.23.desc_market_lib:0 "At the call of the opposition, crowds of people discontented with the unpopular measures of the authorities poured into the streets. Red flags were visible everywhere. Before the movement began, the leader of the Rightist faction read out a manifesto, which was essentially an ultimatum to the government to resign. The government did not respond until it received alarming information about the simultaneous start of opposition rallies in the army in force. At that point it was already too late. Weapons began to spread from secret warehouses throughout the city. Peaceful citizens, workers and peasants approached the building where the government was meeting, already as a single combatant squadron. Windows were broken with several shots. There was nothing to resist the ministers, and the party guards in turn refused to shoot at the people and their opposition comrades. The scene of the fall of the provisional government was repeated again. "
+    rcw_rss_esser.23.a:0 "The demonstration ended with the fall of the government."
+    rcw_rss_esser.23.b:0 "Demonstration ended with fall of government."
+    
+    rcw_rss_esser.24.t:0 "Search result"
+    rcw_rss_esser.24.desc_1:0 "The other day the leaders of the Maximalist faction announced a large-scale rally to secure the resignation of the cabinet created after the collapse of the Directory. In their view, the government has broken away from the people and the party. Such accusations are not new and are not in themselves a reason to restrict political freedoms. However, the authorities did receive information about the illegal storage of weapons, which allegedly were to be used on the day of the demonstration. \nIn all the places indicated by the agents were examined. The police had to visit several private apartments of party members. No weapons other than personal, award or souvenir ones were found. This action caused a new wave of indignation in the liberal press, which will probably only raise the temperature of the upcoming opposition demonstration.  "
+    rcw_rss_esser.24.desc_2:0 "The other day the leaders of the Maximalist faction announced a large-scale rally to secure the resignation of the cabinet created after the dissolution of the Directory. In their view, the government has broken away from the people and the party. Such accusations are not new and are not in themselves a reason to restrict political freedoms. However, the authorities were given information about the illegal storage of weapons, which allegedly should go into action on the day of the demonstration. \nUnAll the places indicated by the agents were inspected. Boxes of foreign rifle ammunition were found in some of them. The police also had to visit several private apartments of the party members, who in their turn mistook the search for an arrest and offered armed resistance. The opposition remained silent. "
+    rcw_rss_esser.24.a:0 "This is a scandal or more..."
+    rcw_rss_esser.24.b:0 "It's a scandal or even more..."
+    
+    rcw_rss_esser.25.t:0 "Search result"
+    rcw_rss_esser.25.desc_1:0 "The other day the leaders of the Right faction announced a large-scale rally to demand the resignation of the cabinet created after the collapse of the Directory. In their view, the government has broken away from the people and the party. Such accusations are not new and are not in themselves a reason to restrict political freedoms. However, the authorities did receive information about the illegal storage of weapons, which allegedly were to be used on the day of the demonstration. \nIn all the places indicated by the agents were examined. The police had to visit several private apartments of party members. No weapons other than personal, award or souvenir ones were found. This action caused a new wave of indignation in the liberal press, which will probably only fuel the passions of the upcoming opposition demonstration."
+    rcw_rss_esser.25.desc_2:0 "The other day, leaders of the Right faction announced a large rally to secure the resignation of the cabinet created after the collapse of the Directory. In their view, the government has broken away from the people and the party. Such accusations are not new and are not in themselves a reason to restrict political freedoms. However, the authorities were given information about the illegal storage of weapons, which allegedly should go into action on the day of the demonstration. \nAll the places indicated by the agents were examined. Boxes of foreign rifle ammunition were found in some of them. The police also had to visit several private apartments of the party members who in their turn mistook the search for an arrest and offered armed resistance. The opposition remained silent. "
+    rcw_rss_esser.25.a:0 "This is a scandal or more..."
+    rcw_rss_esser.25.b:0 "It's a scandal or even more..."
+    
+    rcw_rss_esser.26.t:0 "Terrorist Arrest"
+    rcw_rss_esser.26.desc:0 "The individuals who led the militant organization of the unofficial Peoples faction were captured today. These men embarked on the path of political Bolshevism and vowed to overthrow the democratic government in order to establish their own dictatorship. All the powers of the representatives of the faction have now been suspended, including their powers as deputies of the constituent assembly."
+    rcw_rss_esser.26.a:0 "Democracy again in danger."
+    
+    rcw_rss_esser.27.t:0 "Terrorist Arrest"
+    rcw_rss_esser.27.desc:0 "The men who led the militant organization of the unofficial right-wing faction were captured today. These men embarked on the path of political Bolshevism and vowed to overthrow the democratic government in order to establish their own dictatorship. All the powers of the representatives of the faction have now been suspended, including their powers as members of the constituent assembly."
+    rcw_rss_esser.27.a:0 "Democracy again in danger."
+    
+    rcw_rss_esser.28.t:0 "The Commander-in-Chief is ours."
+    rcw_rss_esser.28.desc:0 "The General put the revolver away and we calmly discussed the situation. He really had his doubts about how effective an army could be with such a rear and government. The only condition of cooperation was our commitment to support any measures of the commander-in-chief, even if at first glance they seemed incomprehensible to us."
+    rcw_rss_esser.28.a:0 "Now he knows what to do."
+    
+    rcw_rss_esser.29.t:0 "The Commander-in-Chief does not obey."
+    rcw_rss_esser.29.desc:0 "According to the chief of the militia, several particularly dangerous leaders of the militant organization were able to find refuge in the commander-in-chief's headquarters. All requests for the extradition of the criminals were turned down, he said, stating that these people were innocent until the relevant court decision, and the desire to arrest them was purely political, which he could not contribute to. Against the background of these negotiations there was doubt as to the trustworthiness of the commander-in-chief."
+    rcw_rss_esser.29.a:0 "Present him with the strongest evidence possible."
+    rcw_rss_esser.29.b:0 "Surround the stakes with loyal units and capture the criminals."
+    event29_a: "If the command supports the criminals, we will only waste time."
+    event29_b: "If the command is loyal to us, such an act would insult the army."
+    
+    rcw_rss_esser.30.t:0 "Escape of the commander in chief"
+    rcw_rss_esser.30.desc:0 "For several days we have been unable to contact the commander-in-chief. As it turns out, this is not a simple disappearance. An investigation into the activities of the military organization has led to the very top of the army, and someone has already testified about the commander-in-chief's involvement in the coup plans. He probably chose to flee before his arrest, but how many other officers are disloyal to the government in practice?"
+    rcw_rss_esser.30.a:0 "Crush the enemies of the people!"
+    rcw_rss_esser.30.b:0 "Without organization they dare not act."
+    
+    rcw_rss_esser.31.t:0 "The criminals have fled."
+    rcw_rss_esser.31.desc:0 "During the negotiations, all the persons of interest managed to slip away."
+    rcw_rss_esser.31.a:0 "It is to be hoped that they will do no harm."
+    
+    rcw_rss_esser.32.t:0 "Rebellion of a fighting organization."
+    rcw_rss_esser.32.desc:0 "While negotiations were taking place in the stakes, the government unnoticed itself was surrounded by enemies. On a signal from the commander-in-chief, who colluded with the rebels, several units and detachments of militia proceeded to seize state institutions. Meanwhile, the radical opposition seeks to launch anti-government rallies in many of our liberated cities. "
+    rcw_rss_esser.32.a:0 "The time for negotiations is over."
+    rcw_rss_esser.32.b:0 "Do nothing, we will talk to the people."
+    rcw_rss_esser.32.c:0 "If the rebellion loses in the capital, it will lose everywhere."
+    
+    rcw_rss_esser.33.t:0 "The situation in the capital.
+    rcw_rss_esser.33.desc:0 "At the moment we know that the rebels have, only a few units of non-capital militia, as well as a reserve of workers and lumpen. "
+    rcw_rss_esser.33.a:0 "The chief of the militia must liquidate the performance"
+    rcw_rss_esser.33.b:0 "This is a task for the army commander "
+    rcw_rss_esser.33.c:0 "Allocate all available forces to party committee control"
+    
+    rcw_rss_esser.34.t:0 "Our tactics"
+    rcw_rss_esser.34.desc:0 "Fighting in the city is quite difficult, especially if you don't know exactly where the enemy is located. The rebels seem to be trying to gather their forces into a fist and break through to the center of the city."
+    rcw_rss_esser.34.a:0 "Concentrate in the center and engage in positional combat."
+    rcw_rss_esser.34.b:0 "Cut off enemy units at intersections and block them."
+    
+    rcw_rss_esser.35.t:0 "Railroad"
+    rcw_rss_esser.35.desc:0 "There are reports of possible reinforcements to the insurgents arriving by railroad. This threat must be countered."
+    rcw_rss_esser.35.a:0 "Allocate a large unit to protect the station."
+    rcw_rss_esser.35.b:0 "Under cover of machine guns, sappers will mine the tracks."
+    
+    rcw_rss_esser.36.t:0 "Provocations in the streets"
+    rcw_rss_esser.36.desc:0 "The route of our units is blocked in several places by rallies called by the opposition. The chanters, shouting something and the people are listening to them, as are some of our soldiers. "
+    rcw_rss_esser.36.a:0 "Try to find workarounds "
+    rcw_rss_esser.36.b:0 "Make speeches to defend the republic "
+    rcw_rss_esser.36.c:0 "Arrest the instigators, disperse the mobs with overhead shots"
+    
+    rcw_rss_esser.37.t:0 "House"
+    rcw_rss_esser.37.desc:0 "Our forces managed to drive a large group of rebels into one of the revenue houses. True, they have now established a good defense inside and are pouring fire on us, hoping to hold out until their comrades-in-arms arrive. "
+    rcw_rss_esser.37.a:0 "Lay siege, no extra casualties now."
+    rcw_rss_esser.37.b:0 "Light the house, and finish off the survivors.
+    
+    rcw_rss_esser.38.t:0 "Rebellion stopped"
+    rcw_rss_esser.38.desc:0 "Troops managed to restore order in the capital. The main rebel forces are blocked and have laid down their weapons. Amid the news from the capital, most of the army abandoned the idea of supporting the anti-government rebellion and it gradually subsided. "
+    rcw_rss_esser.38.a:0 "Long live the republic!"
+    
+    rcw_rss_esser.39.t:0 "Victory is ours."	
+    rcw_rss_esser.39.a:0 "Excellent."
+    
+    rcw_rss_esser.40.t:0 "Military Organization Disclosure"
+    rcw_rss_esser.40.desc:0 "Intelligence has discovered a network of clandestine agents in the army. The government now knows that the Peoples were preparing a military organization clearly directed against the current regime. In connection with this, the government is taking measures in the form of..."
+    rcw_rss_esser.40.a:0 "banning the Peoples."
+    rcw_rss_esser.40.b:0 "arrest of active underground members"
+    rcw_rss_esser.40.c:0 "arrest the leader of the faction of the Peoples"
+    
+    rcw_rss_esser.41.t:0 "disclosure of military organization"
+    rcw_rss_esser.41.desc:0 "Intelligence has discovered a network of underground agents in the army. The government now knows that right-wingers were preparing a military organization clearly directed against the current regime. In connection with this, the government is taking measures in the form of..."
+    rcw_rss_esser.41.a:0 "right-wing ban."
+    rcw_rss_esser.41.b:0 "arrest of active underground members"
+    rcw_rss_esser.41.c:0 "arrest of the leader of the right-wing faction"
+    
+    rcw_rss_esser.42.t:0 "escape of the commander-in-chief"
+    rcw_rss_esser.42.desc:0 "For several days the government has been unable to contact the commander-in-chief. As it turns out, this is no simple disappearance. An investigation into the activities of a military organization has led to the very top of the army, and someone has already testified about the Commander-in-Chief's involvement in the coup plans. Upon learning of this, the government has decided to..."
+    rcw_rss_esser.42.a:0 "to begin purges in the army."
+    rcw_rss_esser.42.b:0 "investigate more cautiously from now on."
+    
+    rcw_rss_esser.43.t:0 "criminals captured in the stack"
+    rcw_rss_esser.43.desc:0 "When the units loyal to the government flocked to the headquarters, the commander-in-chief did not dare to counter seeing only needless casualties. After that, our agents had little difficulty in locating the anti-government fighters who had taken refuge in the army. All of them were arrested and sent to the capital. Now, however, the government is faced with the question of how to respond to the command's demarche?"
+    rcw_rss_esser.43.a:0 "Let the purges begin."
+    rcw_rss_esser.43.b:0 "The Commander-in-Chief must be removed."
+    rcw_rss_esser.43.c:0 "Don't give it too much importance."
+    
+    rcw_rss_esser.44.t:0 "The Commander-in-Chief has disobeyed the government."
+    rcw_rss_esser.44.desc_1:0 "Government agents continued on the trail of the so-called 'Military Organization'. This time they raided the headquarters. However, the Commander-in-Chief refused to extradite the persons named to him, whereupon the government tried to show him tangible evidence of their guilt."
+    rcw_rss_esser.44.desc_2:0 "Government agents continued on the trail of the so-called 'Military Organization'. This time they raided the stakes. However, the Commander-in-Chief refused to hand over the persons he had specified, whereupon the government surrounded the Stake with loyal units."
+    rcw_rss_esser.44.a:0 "Watching the situation."
+    
+    rcw_rss_esser.45.t:0 "The Commander-in-Chief has disobeyed the government."
+    rcw_rss_esser.45.desc_1:0 "After some deliberation, the commander-in-chief let the government agents through, however, all the wanted persons managed to escape."
+    rcw_rss_esser.45.desc_2:0 "While negotiations were going on in the stakes, the government found itself unnoticed surrounded by enemies. On a signal from the commander-in-chief, who colluded with the rebels, several units and detachments of militia proceeded to seize state institutions. Meanwhile, the radical opposition sought to launch anti-government rallies in many of our liberated cities. "
+    rcw_rss_esser.45.a:0 "Strange Incident."
+    rcw_rss_esser.45.b:0 "This may be the beginning of a new civil war."
+    rcw_rss_esser.45.c:0 "This may be the beginning of a new civil war.
+    rcw_rss_esser.45.d:0 "It is time to march on the capital.
+    rcw_rss_esser.45.f:0 "It is time to march on the capital.
+    
+    rcw_rss_esser.46.t:0 "The commander-in-chief has disobeyed the government"
+    rcw_rss_esser.46.desc_1:0 "The commander-in-chief continues to disobey the government"
+    rcw_rss_esser.46.desc_2:0 "Realizing that excessive adherence to the rule of law risked the needless death of his subordinates, the Commander-in-Chief obeyed the orders of the government."
+    rcw_rss_esser.46.a:0 "It is dangerous to anger the army."
+    rcw_rss_esser.46.b:0 "The government got its way!"
+    
+    rcw_rss_esser.47.t:0 "March on the capital."
+    rcw_rss_esser.47.desc:0 "Opposition forces are gaining their first victories. Now we must concentrate on subduing the capital, and not allow the government to escape. Otherwise, a civil war will break out in the rear."
+    rcw_rss_esser.47.a:0 "Use all resources to win the capital."
+    rcw_rss_esser.47.b:0 "Infantry must get there in time."
+    
+    rcw_rss_esser.48.t:0 "Ban maximalist convention"
+    rcw_rss_esser.48.desc:0 "Today the government issued a decree banning the maximalist faction convention."
+    rcw_rss_esser.48.a:0 "This is a violation of internal party democracy!"
+    
+    rcw_rss_esser.49.t:0 "Banning a right-wing congress."
+    rcw_rss_esser.49.desc:0 "Today the government issued a decree banning the right-wing faction congress."
+    rcw_rss_esser.49.a:0 "This is a violation of internal party democracy!"
+    
+    rcw_rss_esser.50.t:0 "End of factional struggle"
+    rcw_rss_esser.50.desc:0 "The right and left wings of the Socialist-Revolutionary Party, and more broadly the ideology of Narodnichestvo, formed during the Great Russian Revolution, were finally bankrupted in the face of the moderate socialist and democratic "center" of the party. The left leaned too much toward an alliance with Bolshevism and anarchy, while the right hoped unsuccessfully for the sincere love of the Fatherland of the liberals and the Black Hundreds. One way or another, the "extremes" allowed themselves to be used, harming the people's cause. "
+    rcw_rss_esser.50.a:0 "The Party is united again."
+    
+    rcw_rss_esser.51.t:0 "Auxentiev and the Nation"
+    rcw_rss_esser.51.desc:0 "The other day a program article by Nikolay Avksentyev was released. In it, a former comrade-in-arms of Kerensky acts as an advocate of patriotism in its republican expression. "It is time to remember the traditions of the Great French Revolution. Back then, a revolutionary was called a patriot," writes Avksentiev. Devoting many pages to the call to "build a nation," the leader of the right-wing bloc nevertheless still comes down on the monarchy and the reactionary forces, as well as the extreme left and, of course, the Bolsheviks. In his opinion, the Romanovs prevented the emergence of the Russian nation, keeping the people in a state of underdevelopment, while the Bolsheviks generally replace the national consciousness with the most unbridled selfishness and skunkery. The idea of reconciliation with the latter - promoted by the newspaper "The People" - is denied at all.{n\nnMany fellow party members from other factions have already lashed out at the article, accusing its author of flirting with chauvinism and a desire to gain support from the extreme right element."
+    rcw_rss_esser.51.a:0 "Through enlightenment and democracy to the building of a Russian nation!"
+    
+    rcw_rss_esser.52.t:0 "Atamans Volkov and Krasilnikov."
+    rcw_rss_esser.52.desc:0 "Perhaps the main performers in the scheme of the planned reactionary upheaval were atamans Volkov and Krasilnikov. At one time they rallied the white officers by preparing an anti-Bolshevik revolt. But then the atamans and their men were particularly committed to the monarchy and cruelty to the population. And so, learning of their impending arrest, the atamans decided to stage a coup. Fortunately, the pre-emptive strike of the people's militia prevented this atrocity. Volkov and Krasilnikov had nothing to do but flee."
+    rcw_rss_esser.52.a:0 "They won't bother us again."
+    
+    rcw_rss_esser.53.t:0 "Massacre"
+    rcw_rss_esser.53.desc:0 "From the offices and classrooms the party struggle spilled out into the streets in the bloodiest manner. Remembering the former fighting organizations, the SRs began to test terrorist methods on each other. But it is one thing to fire a shot from around a corner, and another to fire back... and a firefight. As this bloody mess continues, the people are losing confidence in the party, and increasingly consider the return of the "strong hand. The police and the army are silent."
+    rcw_rss_esser.53.a:0 "Someone has to stop it."
+    
+    rcw_rss_esser.54.t:0 "The Maximalist Letter"
+    rcw_rss_esser.54.desc:0 "On the wave of war-building, a group of leftists dared to issue a new program document in the spirit of Chernov's 'letter. In essence, the left duplicates its main points, stating the growth of reactionary forces in the state and urging its supporters to arm themselves in order to "prevent" a civil war in the rear. The latter appeal is mainly directed to the army. Representatives of other factions, however, saw the opposite meaning in the letter - that the Left was allegedly preparing to stage a military coup d'état. As a result, tension in the party only increased. "
+    rcw_rss_esser.54.a:0 "Chernov used to be allowed to do this "
+    
+    rcw_rss_esser.55.t:0 "Party censorship"
+    rcw_rss_esser.55.desc:0 "Bodies controlled by the Central Committee, at the direction of the party leaders, began to censor the newspaper Narod. According to a group of its editors and publishers, all this recalls the hardest times of the autocracy of Nicholas I. The broad sections of the party also see no obvious reasons for such measures and sometimes express their support for the newspaper. Continuing such practices may cause the government more losses than benefits."
+    rcw_rss_esser.55.a:0 "Don't read Soviet newspapers before lunch"
+    
+    rcw_rss_esser.56.t:0 "Serious accusation"
+    rcw_rss_esser.56.desc:0 "Materials scandalous for the Socialist-Revolutionary Party have again begun to appear in the Cadet press. Thus, a number of leaders are accused of murky ties with Germany. But most of all, the newspapermen attack the representatives of the new left - they are recognized as the main, after the Bolsheviks, agents of the Hindenburg in Russia. And this would not have become a sensation if representatives of the right-wing platform had not had a hand in these articles."
+    rcw_rss_esser.56.a:0 "Severe blow to party unity"
+    
+    rcw_rss_esser.57.t:0 "Direct Action Democracy"
+    rcw_rss_esser.57.desc_sl:0 "It's not an exaggeration to say that the country is plunged into an internal civil war. Political assassinations, assaults on factional residences, mysterious disappearances, and street shootings have become an alarming routine. to discover new targets from among their enemies, but they cannot stop the running mechanism of reprisals. And while the supporters of the right bias are executing anyone, the moderates have physically disappeared from the political arena of Russia.
+    rcw_rss_esser.57.desc_rs:0 "It is not an exaggeration to say that the country is plunged into an internal civil war. Political assassinations, assaults on factional residences, mysterious disappearances, and street shootings have become an alarming routine. to discover new targets from among their enemies, but they cannot stop the running mechanism of reprisals. And while the supporters of the right deviation are executing anyone, the Narodovites have physically disappeared from the political arena of Russia.
+    rcw_rss_esser.57.desc_ml:0 "It is no exaggeration to say that the country is plunged into an internal civil war. Political assassinations, storming of factional residences, mysterious disappearances and street shootings have become a disturbing routine. Finally, the massacre has reached a decisive heat and the puppeteers of the pogroms have not only failed to discover new targets from among their enemies, but they cannot stop the running mechanism of reprisals. And while the supporters of the right deviation are executing anyone, the right has physically disappeared from the political arena of Russia.
+    rcw_rss_esser.57.a:0 "Is this what we wanted?"
+    
+    rcw_rss_esser.58.t:0 "No Faction Fighting"
+    rcw_rss_esser.58.desc:0 "For a long time, the Socialist-Revolutionary Party could not find unity. Many members, either socialists or revolutionaries, were pulled in different directions, and instead of the common cause of the people's revolution, they were busy pushing through their own opportunistic projects. Not all of them were bad populists, however, they lacked general principle and theoretical training.Finally, after many discussions and risky political maneuvers, the Central Committee of the AKP separated the wheat from the chaff and forever cemented its authority with the Declaration on the Elimination of Deviations.The moderates can celebrate victory, while the radicals will have to put up with a peripheral role in the party."
+    rcw_rss_esser.58.a:0 "The age of schism is over"
+    
+    #debug
+    rcw_rss_esser.120.t:0 "A Brief History of the National Bolsheviks"
+    rcw_rss_esser.120.desc:0 "A Brief History of the National Bolsheviks"
+    rcw_rss_esser.120.a:0 "Short"
+    rcw_rss_esser.120.b:0 "History"
+    rcw_rss_esser.120.c:0 "National Bolsheviks"
+    
+    #Further down the tree#
+    rcw_rss_eser_rep.1.t:0 "Everything was decided without us"
+    rcw_rss_eser_rep.1.desc:0 "The All-Russian government proclaimed the republican system as the final outcome of its victory in the civil war. For a time, they were trying to hoodwink us with the slogans of a constituent assembly, like 'after the war, the people will decide everything themselves. But it was not the people who decided, but a group of democratic politicians. Is democracy a dictatorship of democrats? "
+    rcw_rss_eser_rep.1.a:0 "That's right - no freedom for the enemies of freedom.
+    rcw_rss_eser_rep.1.b:0 "If this is a provocation, we won't fall for it.
+    rcw_rss_eser_rep.1.c:0 "This is too much."
+    
+    rcw_rss_eser_rep.2.t:0 "[FROM.GetName] protests"
+    rcw_rss_eser_rep.2.desc:0 "In their opinion, we have acted contrary to our own promises by unilaterally declaring a republic. "
+    rcw_rss_eser_rep.2.a:0 "The anti-democrats gave themselves away."
+    
+    rcw_rss_eser_rep.3.t:0 "People's Militia Raid"
+    rcw_rss_eser_rep.3.desc:0 "Already several times this month, members of the special unit of the people's militia had to participate in clashes with bandits. Therefore, the militiamen were going on a raid quite routine, only their commander knew that today they would take part in one of the most large-scale operations to restore order. The government had ordered them to attack all bandit areas in order to eliminate for good the danger posed by the insurgents hiding in the forests. \n\nn\nn On the approach to the village marked in the movement plan, the squad was fired upon by unknown riders. The first volley of the chain drove them away and dispersed them. Apparently a bandit barricade. The village returned to government control. In one of the houses the militia found a wounded outlaw; after a short conversation with the commander, he agreed to point the way to the forest camp. The information was corroborated, but the militia got only empty huts and dugouts. \nIn the meantime, the gang rushed from side to side; peasants who had been captured in the woods and on the roads informed the ataman of the militia's advance from all sides. Some talked about the destruction of the neighboring gang of Petrov or otherwise the "First People's Communist Regiment" - these people decided to try their luck under the red banners and it did not smile on them. From such news, discipline began to crumble sharply. People deserted, hoping to go out on their own or to disassociate themselves from the gang altogether. Eventually only half of the squad made it to the safe ford. And when, from the other side of the river, an unknown man approached the retreating men and threatened to fire a volley of shrapnel and use machine guns, the ataman didn't try to be a hero and immediately entered into negotiations and bargained for his life and the lives of his men. \nIn fact, only twenty policemen blocked the ford. Thus, the coordinated action of the police successfully defeated the gangs in the region. However, this was not the case everywhere. "
+    rcw_rss_eser_rep.3.a:0 "Excellent result"
+    
+    rcw_rss_eser_rep.4.t:0 "Demobilization of regular army"
+    rcw_rss_eser_rep.4.desc:0 "The government has decided to disband the regular army and replace it with units of the democratic militia. Today the first echelons of former soldiers headed for the rear. Some of them will continue to serve at will, but most seem intent on returning to normal life or resting for a couple of months."
+    rcw_rss_eser_rep.4.a:0 "No doubt this is a new phase of the revolution."
+    
+    rcw_rss_eser_rep.5.t:0 "Preparing an address."
+    rcw_rss_eser_rep.5_desc_pre_assembly:0 "The agrarian question is the central question of the development of Russia and the world. The peasants are waiting for a final solution, and here the government faces a multifaceted dilemma. On the one hand, all reforms must be carried out by decision of a popularly elected Constituent Assembly; on the other, we are the members of the only past Assembly. But if our government decides everything by itself, other governments and parties will not be happy.It is also clear that the agrarian reform carried out according to the socialist model will take a long time and it is not equal to a simple distribution of land, although it includes it.In any case, we must address the absolute majority of citizens of the agrarian region, indicating whether we want to legalize the work of special commissions "black redistribution", carry out the reform immediately, delay until the Constituent Assembly or conduct it systematically. "
+    rcw_rss_eser_rep.5_desc_after_assembly:0 "The agrarian question is the central question of the development of Russia and the world. The peasants are waiting for a final solution and here the government faces a multifaceted dilemma. It is also clear that the agrarian reform carried out according to the socialist model will take a long time and is not equal to simple distribution of land, although it includes it. In any case, we should appeal to the absolute majority of citizens of the agrarian region, specifying whether we want to legalize the "black redistribution" by special commissions, carry out the reform immediately or carry it out systematically."
+    rcw_rss_eser_rep.5.a:0 ""Black Redistribution" will be made legal."
+    rcw_rss_eser_rep.5.b:0 "Announce immediate reform."
+    rcw_rss_eser_rep.5.c:0 "Announce Planned Reform"
+    rcw_rss_eser_rep.5.d:0 "Reform will be postponed until the new Assembly"
+    
+    rcw_rss_eser_rep.6.t_planned:0 "Planned Reform"
+    rcw_rss_eser_rep.6.t_instant:0 "Short-term reform"
+    rcw_rss_eser_rep.6.desc_planned:0 "In order for the peasantry as a class to get its hands on the means of production, our government must establish a system of permanent distribution, rather than relying on the populist slogan of giving away land all at once. A single redistribution will only result in the mass of the peasantry becoming dependent on the inheritance of their fathers again in ten years' time, and some will have considerably more land, while others will have none at all. Thus, the only distribution is a sure way to prolong the agrarian crisis in Russia. \nHowever, the centuries-old life of the Russian village has already developed a natural mechanism of permanent fair redistribution, which is the land community. Our task is to extend this form of relations to the whole country and thus to establish a kind of all-Russian land community. In such a community an employee will be able to obtain possession of a piece of land necessary for his livelihood in any part of the country. Such a program will certainly be welcomed by the peasantry.n Its implementation will require considerable scientific work and qualified personnel. The land surveyors will literally have to measure the whole of Russia. The Land Reform Commission will begin its work with the most problematic regions, which our government has full control over, and then move on to others so that in the end the reform will be implemented in its entirety throughout the country. Until then, regions not affected by reform will be able to set temporary regimes in consultation with the commission.  "
+    rcw_rss_eser_rep.6.desc_instant:0 "In order for the peasantry as a class to get its hands on the means of production our government must establish a system of permanent distribution, not rely on the populist slogan of giving away land all at once. A single redistribution will only result in the mass of the peasantry becoming dependent on the inheritance of their fathers again in ten years' time, and some will have considerably more land, while others will have none at all. Thus, the only distribution is the right way to prolong the agrarian crisis in Russia. \nHowever, in the centuries-long life of the Russian village, a natural mechanism of permanent fair redistribution has already been developed, which is the land community. \nCzarism tried to modernize the community by unsuitable methods. Stolypin's reforms failed, but they did some damage to the communal way of life. Our government's goal is to restore it to all possible limits without looking too far ahead. \nWith this approach, the Land Reform Commission will be able to finish its work quickly enough, satisfying the aspirations of the peasants in the most problematic regions. "
+    rcw_rss_eser_rep.6.a:0 "We have hard work ahead of us."
+    rcw_rss_eser_rep.6.b:0 "Onward to communal labor!"
+    
+    rcw_rss_eser_rep.7.t:0 "Labor convention"
+    rcw_rss_eser_rep.7.desc_soc:0 "Representatives of numerous labor collectives gathered in the capital today. Much work has been done recently to introduce various forms of democracy into production and agriculture. These forms still often give away their crudity, but their creative potential has been demonstrated by life itself. Many hope that the congress will enable the government to increase the rate of production and normalize the economy. \nMeanwhile, the leftist deputies have prepared a project for the transfer of all power to the labor collectives under the patronage of the congress of members of the constituent assembly. This is not yet an overthrow of our power, but already a veiled syndicalist revolution. Perhaps hijacking its course would be the right thing to do."
+    rcw_rss_eser_rep.7.desc_right:0 "Representatives of numerous labor collectives gathered in the capital today. Much work has been done recently to introduce various forms of democracy into production and agriculture. These forms still often reek of their crudity, but their creative potential has been demonstrated by life itself. Many hope that the congress will enable the government to increase the rate of production and normalize the economy. "
+    rcw_rss_eser_rep.7.a:0 "What do you consider necessary for production?"
+    rcw_rss_eser_rep.7.b:0 "It's time to rebuild the state socialistically!"
+
+    rcw_rss_eser_rep.8.t:0 "Officers' request."
+    rcw_rss_eser_rep.8.desc:0 "Most of the mobilized officers received their ranks back in the tsarist army. At that time they were proud of their shoulder straps and St. George's Crosses. Now all these insignia of autocracy are forbidden in our army. That is why the newly recruited officers in large numbers ask for permission to use their traditional insignia. Many even refuse to serve without shoulder straps. If some are allowed to wear epaulets and crosses and others are left in democratic uniforms, it will clearly divide the army in half. "
+    rcw_rss_eser_rep.8.a:0 "No shoulder straps in the people's army!"
+    rcw_rss_eser_rep.8.b:0 "Allowed to use shoulder straps on par with people's army insignia."
+    rcw_rss_eser_rep.8.c:0 "It's time to bring back shoulder straps, we are the people's Russian army after all!"
+
+    rcw_rss_eser_rep.9.t:0 "The banners of the drummers"
+    rcw_rss_eser_rep.9.desc:0 "The shock divisions of our army are finally formed. New uniforms bought from the Allies, uniform serviceable arms and most importantly personnel entirely of war heroes - not a division but a sight to behold. Foreign correspondents confess that they do not remember such nice-looking Russian troops since the times of magnificent tsarist parades. In a way, the percussionists are supposed to be an answer to the elite units of other Russian governments, and this is their political and ideological function.nThe Commander-in-Chief was not surprised when the officers of the new divisions, shortly before the final review, asked him to approve one of the variants of the percussion banners. There were three in all: red - the revolutionary banner, the old tricolor - now the symbol of a united and indivisible Russia, and a black banner with a skull and ribbons - a dangerous allusion to the signs of the Kornilov Regiment. The first meant loyalty to socialism, the second loyalty to Russia, and the third loyalty to the military leader - the Commander-in-Chief understood everything perfectly well and after reflection approved it..."
+    rcw_rss_eser_rep.9.a:0 "Red Banner"
+    rcw_rss_eser_rep.9.b:0 "Tricolor"
+    rcw_rss_eser_rep.9.c:0 "Black Banner"
+    
+    rcw_rss_eser_rep.10.t:0 "Army Scattering"
+    rcw_rss_eser_rep.10.desc:0 "The new democratization of the army clearly fell at a bad time. Weary of internecine warfare, veterans and green recruits saw in the reform only an opportunity to end their burdens as soon as possible. In many regiments the chain of command is shattered, commanders are elected who promise to take their units to the rear or not to take part in offensives without a decision from the soldiers' committees. The voices of officers trying to restore order are drowned in a sea of willful armed mobs. A wave of murders and suicides of former "undemocratic" commanders sweeps through the army. Deserters leaving the front fill the forests. "
+    rcw_rss_eser_rep.10.a:0 "What could have gone wrong?"
+    
+    rcw_rss_eser_rep.11.t:0 "Resources for the reserve front."
+    rcw_rss_eser_rep.11.desc:0 "Creating an entire front in the rear requires a tremendous investment. At the moment, the commander of the reserve front is requesting the control of several factories and plants that produce the necessary equipment. "
+    rcw_rss_eser_rep.11.a:0 "Provide everything you need."
+    
+    rcw_rss_eser_rep.12.t:0 "Arrival of the commissioner of the All-Russian government "
+    rcw_rss_eser_rep.12.desc:0 "This act will unequivocally place us under the control of the All-Russian Government. On the one hand, these gentlemen are the heirs of the Constituent Assembly as the only legitimate body of Russian power, and for the duration of the war it is possible to accept their supremacy. On the other hand, our military experts estimate the strength of their army as doubtful, and it may be politically imprudent to associate ourselves with a failed project. "
+    rcw_rss_eser_rep.12.a:0 "A united front is necessary for victory "
+    rcw_rss_eser_rep.12.b:0 "We've seen enough of commissars... "
+    
+    rcw_rss_eser_rep.13.t:0 " [FROM.GetName] sends our commissioner"
+    rcw_rss_eser_rep.13.desc:0 ""
+    rcw_rss_eser_rep.13.a:0 " " Disgusting "
+    
+    rcw_rss_eser_rep.14.t:0 "Region assembly election results [THIS.GetName]"
+    rcw_rss_eser_rep.15.t:0 "Regional Assembly Election Results [FROM.GetName]"
+    rcw_rss_eser_rep.15_desc_rad_soc:0 "The election demonstrated that the majority of the local population trusts the representatives of the maximalist party."
+    rcw_rss_eser_rep.15_desc_soc_lib:0 "The election demonstrated that the majority of the local population trusts representatives of the moderate party"
+    rcw_rss_eser_rep.15_desc_market_lib:0 "The election demonstrated that a majority of the local population trusts representatives of the market liberal party"
+    rcw_rss_eser_rep.15_desc_soc_con:0 "The election demonstrated that the majority of the local population trusts the representatives of the Conservative Party"
+    rcw_rss_reser_rep.15_desc_soc_dem:0 "The election demonstrated that the majority of the local population trusts the representatives of the Social Democrat party"
+    rcw_rss_eser_rep.15_desc_nat_synd:0 "The election demonstrated that the majority of the local population trusts the representatives of the populist party"
+    rcw_rss_eser_rep.15_desc_despotism:0 "The election demonstrated that the majority of the local population trusts the representatives of the paternalist party"
+    rcw_rss_eser_rep.15_desc_authoritarism:0 "The election demonstrated that the majority of the local population trusts the representatives of the authoritarian party"
+    rcw_rss_eser_rep.15_desc_fascism:0 "The election demonstrated that the majority of the local population trusts representatives of the fascist party"
+    rcw_rss_eser_rep.15.a:0 "Clear"
+    rcw_rss_eser_rep.15.b:0 "Clear"
+    rcw_rss_eser_rep.15.c:0 "Clear"
+    rcw_rss_eser_rep.15.d:0 "Clear"
+    rcw_rss_eser_rep.15.e:0 "Clear"
+    rcw_rss_eser_rep.15.f:0 "Clear"
+    rcw_rss_eser_rep.15.g:0 "Clear"
+    rcw_rss_eser_rep.15.h:0 "Got it"
+    rcw_rss_eser_rep.15.y:0 "Got it"
+    
+    rcw_rss_eser_rep.16.t:0 "End of martyrdom"
+    rcw_rss_eser_rep.16.desc:0 "The official Russian government offers clemency for our rebels. Many no longer see any ideological reason to fight the authorities. We ourselves can lay down our arms and incorporate our green regiments into the regular army. "
+    rcw_rss_eser_rep.16.a:0 "The struggle will continue."
+    rcw_rss_eser_rep.16.b:0 "One way or another, we won."
+    
+    rcw_rss_eser_rep.17.t:0 "Army makes a move"
+    rcw_rss_eser_rep.17.desc:0 "Party members were awakened this morning by the insistent banging of butts on doors. The citizen-soldiers who appeared before them asked the people's leaders to gather the necessary items and proceed outside. The majority of the party members were taken by the military to the government building, where the commander-in-chief, who had secretly arrived in the capital, made a speech and demanded that his special powers be confirmed. He rebuked the government for its intrigues, undermining reforms and neglect of the army. \nThose who were known in advance that they would not accept the deal were put in sealed wagons with guards and poisoned abroad. No civilians were harmed during the coup. "
+    rcw_rss_eser_rep.17.a:0 "Long live the new leader!"
+    
+    rcw_rss_eser_rep.18.t:0 "Right Turn"
+    rcw_rss_eser_rep.18.desc:0 "The failed architects of the right-wing coup against the Directory, Atamans Volkov and Krasilnikov, reminded themselves with the beginning of a new adventure. Gathering the Black Hundred Cossacks, doddering officers, and other dubious public, the mutineers set about seizing the rear towns. So far their action hangs in the air, and if the army remains loyal to our government, the rebels cannot hope to succeed. "
+    rcw_rss_eser_rep.18.a:0 "God Save the Tsar!"
+    rcw_rss_eser_rep.18.b:0 "We should have finished them off at once."
+    
+    rcw_rss_eser_rep.19.t:0 "Defeat the socialists"	
+    rcw_rss_eser_rep.19.desc:0 "The fight against the Reds was once again successful. Those who yesterday by deceit seized all-Russian power are today fleeing the country, having abandoned all their looted possessions. The population welcomes the liberators with gratitude. The Essers, Bolsheviks, anarchists and other socialist scum will have no place on Russian soil. We will take care of that."
+    rcw_rss_eser_rep.19.a:0 "The time has come to form a new Russian government."
+    
+    rcw_rss_eser_rep.20.t:0 "Army split"
+    rcw_rss_eser_rep.20.desc:0 "The news of the right coup has split the army. Some units have declared neutrality in this struggle, others already want to go over to the side of the uprising, others are simply deserting. Little depends now on the government, for all the actions determining further events have or have not been done in the past. It remains for us to observe how the army will behave. "
+    rcw_rss_eser_rep.20.a:0 "Riot, tyrants!"
+    
+    rcw_rss_eser_rep.21.t:0 "Militia restores order."
+    rcw_rss_eser_rep.21.desc:0 "By order of the government, the police took to the streets and established an emergency regime. All administrative buildings, strategic facilities, warehouses, and train stations are now under police control. Interior Ministry officials are not shy about conducting searches of party representatives, many of whom have already been arrested on suspicion of preparing political terrorist attacks. "
+    rcw_rss_eser_rep.21.a:0 "Order has been restored. The powers of the police are all here."
+    rcw_rss_eser_rep.21.b:0 "Militia declares dictatorship until constituent assembly."
+    
+    rcw_rss_eser_rep.22.t:0 "Militia takes power"
+    rcw_rss_eser_rep.22.desc:0 "After some thought, the commander of the militia, Comrade Rogowski, gave orders for the members of the Central Committee and the government to be escorted to safety. A day later he was told that everyone they could find had been taken to one of the former country estates. Rogowski then went there and, surrounded by his loyal militia, announced the beginning of a period of "dictatorship in the name of the republic," to the protests of the party men he replied that he himself was a democrat and a supporter of the Constituent Assembly, but that martial law and a series of plots had led him to the need to defend the republic by the harshest measures."
+    rcw_rss_eser_rep.22.a:0 "It remains to be hoped that he will keep his promise."
+    
+    rcw_rss_eser_rep.23.t:0 "Grandfather Chernov."
+    rcw_rss_eser_rep.23.desc:0 "Viktor Mikhailovich has been involved in the life of the party since its founding. His intelligence was the key to the renewal of the people's ideology, and his will and determination made it possible to preserve the movement in the years of its most severe trials. When other Party heroes like Savinkov, Spiridonova, or Kerensky fell into populism, got lost in the whirlwind of change, or simply betrayed the very idea of popular rule, Viktor Mikhailovich unwaveringly pursued the right course. He stood at the rostrum of the first Constituent Assembly as a living threat to the leftist Black Hundreds, and he was the first to denounce the criminal collusion of the Directors with reactionary officers. Neither the two splits of the Party nor the threat to his own life broke Chernov. Now there is hardly a man in the party seriously willing to encroach on his authority. "
+    rcw_rss_eser_rep.23.a:0 "This will be written in the textbooks of the New Russia "
+    
+    rcw_rss_eser_rep.24.t:0 "Russian Socialism"
+    rcw_rss_eser_rep.24.desc:0 "The first versions of Narodnichestvo, though appealing to broad sections of the Russian peasantry, did stand quite far from nationalist rhetoric. At the same time, the theorists of the past did not have the real practical base that the Socialist-Revolutionary Party had developed during the years of the Great Revolution. However, practice has also moved far enough away from abstract constructs, and some critics are already declaring that our government is not at all Narodnik. \n All these circumstances are well understood by Nikolay D. Aksentyev. Now, he and his closest associates are wondering whether it is really time to announce the creation of a "third wave of populism. This wave could organically combine the ideas of building a Russian nation and a distinctive socialism free from the influence of the Western European capitalist spirit. \nPerhaps this decision sounds too radical for the alliance of left liberals and right socialists and in fact the established regime is sufficient for a national policy. In any case, there is no one to oppose Avxetiev yet, but the ideas floating in the air in the future may give rise to a powerful movement independent of and in opposition to the government. "
+    rcw_rss_eser_rep.24.a:0 "These ideas will turn the world upside down."
+    rcw_rss_eser_rep.24.b:0 "These are just ideas."
+    
+    rcw_rss_eser_rep.25.t:0 "Party of Russian Socialism"
+    rcw_rss_eser_rep.25.desc:0 "Having begun to promote a new ideology,Nikolay Avxentiev inevitably had to face the problem of maintaining a traditional alliance with the liberals. Many of them sincerely respect Nikolay Dmitrievich and are ready to work with him in any organizations, but another part obviously will not be willing to compromise their principles, and then a split is inevitable. \n As a solution, we can announce the creation of a new type of party, uniting the widest range of ideologies in order to prevent party squabbles in the future. Being in such a party, the cadets will consider themselves autonomous to a certain extent, which would damage the overall control of the organization, but would involve as many former comrades-in-arms as possible. \nOn the other hand, an honest break with the Liberals would preserve friendly relations with them, although it would lead to an exodus from the movement of supporters of Cadet ideas. "
+    rcw_rss_eser_rep.25.a:0 "Announce the creation of the United People's Party."
+    rcw_rss_eser_rep.25.b:0 "Liberals' place in the dustbin of history"
+    
+    rcw_rss_eser_rep.26.t:0 "The Question of National Self-Determination"
+    rcw_rss_eser_rep.26.desc:0 "Before the declaration of the Compromise of the Directory, when part of the party openly began to please anti-socialist forces, the Social Revolutionaries always supported national self-determination of the peoples of Russia. At the time of the Komuch, the non-Russian peoples were given appropriate guarantees, the effect of which had buggered under the Direktory. Now we are free from acquiescence, and are obliged to appeal again to the once oppressed peoples. "
+    rcw_rss_eser_rep.26.a:0 "Every nation must receive state autonomy."
+    rcw_rss_eser_rep.26.b:0 "It is enough to support the peoples locally."
+    
+    rcw_rss_eser_rep.27.t:0 "The Case of General Kappel"
+    rcw_rss_eser_rep.27.desc:0 "Vladimir Oskarovich Kappel stood at the origin of our democratic army. However, he was an ardent monarchist by his views and took part in military construction only insofar as it was detrimental to the Bolsheviks. The units formed by Kappel are distinguished by their reactionary nature. Whether he participated in the officers' conspiracy against the Directory is not known, but in his case it does not play a special role. "
+    rcw_rss_eser_rep.27.a:0 "Kappel must be eliminated."
+    rcw_rss_eser_rep.27.b:0 "Monarchists have no place in the army.
+    rcw_rss_eser_rep.27.c:0 "While he defends the people, the people defend him"
+    
+    rcw_rss_eser_rep.28.t:0 "The Case of General Dieterichs"
+    rcw_rss_eser_rep.28.desc:0 "Mikhail Konstantinovich Dieterichs was a prominent general in the tsarist army. At one time he led an expeditionary force in Greece, and after the outbreak of the revolution, realizing that the army was decaying, decided to continue the fight against the Germans in the ranks of the Czech Legion. Dieterichs is not only a monarchist, but also a religious fanatic - one can never be sure that such a man will remain loyal to the people's government. "
+    rcw_rss_eser_rep.28.a:0 "Dieterichs clearly belongs to the conspiracy."
+    rcw_rss_eser_rep.28.b:0 "It is time for the General to rest."
+    rcw_rss_eser_rep.28.c:0 "Disloyalty is not a crime"
+    
+    rcw_rss_eser_rep.29.t:0 "The Case of General Khanzhin"
+    rcw_rss_eser_rep.29.desc:0 "A hereditary Cossack of the Orenburg Cossack Host. Mikhail Khanzhin successfully led troops on the southwestern front under General Brusilov. After the Bolsheviks came to power he went to Siberia. Being in an illegal situation, he began to form the White Army units in the south of the Urals, collaborated with the leader of the officer's underground in Siberia, Lieutenant Colonel A. N. Grishini-Almazov. The latter fact, if properly handled, could be a pretext for eliminating Khanzhin. "
+    rcw_rss_eser_rep.29.a:0 "By eliminating Khanzhin we will frighten the army."
+    rcw_rss_eser_rep.29.b:0 "The position gives Hanjin too much power."
+    rcw_rss_eser_rep.29.c:0 "Hanjin serves the people faithfully."
+    
+    rcw_rss_eser_rep.30.t:0 "The Case of Admiral Kolchak"
+    rcw_rss_eser_rep.30.desc:0 "Alexander Vasilievich Kolchak became famous by commanding the Baltic Fleet. At the overthrow of the monarchy he showed little loyalty to the people's cause, and afterward was seen to have dictatorial ambitions and attempts to suppress the sailor masses. In the history of the Directory Kolchak got in by accident, according to our information, his detention in Siberia was organized by local reactionary circles who hoped to use the admiral's name to cover their dark affairs. On the eve of the planned coup against the Directorate, Kolchak was visited several times by the officers-conspirators. However, he himself did not take any active steps and did not flee, apparently believing that he has nothing to blame. Despite his seeming calm, Kolchak, as if he were an exiled monarch, enjoys popularity and has his loyalists, which makes him too dangerous a figure."
+    rcw_rss_eser_rep.30.a:0 "And why is he still alive?"
+    rcw_rss_eser_rep.30.b:0 "The Admiral should be expelled immediately."
+    rcw_rss_eser_rep.30.c:0 "There is no proof of his guilt."
+    
+    rcw_rss_eser_rep.31.t:0 "Sakharov Case"
+    rcw_rss_eser_rep.31.desc:0 "Participated in the 1917 Moscow Meeting as a representative of the Union of George Cavaliers. After the speech of General L.G. Kornilov, he was arrested in Mogilev, but was soon released. He lived in Saratov, when the Bolsheviks came to power he went to the Don to join the general of the Volunteer Army. According to rumors, tried to organize officer's mutiny in Astrakhan. Not once was seen as sympathetic to the monarchy. With such a record, Sakharov cannot be labeled otherwise than an enemy of the democratic government. "
+    rcw_rss_eser_rep.31.a:0 "Death to the Kornilovite."
+    rcw_rss_eser_rep.31.b:0 "Let him get out."
+    rcw_rss_eser_rep.31.c:0 "And what did he do wrong?"
+    
+    rcw_rss_eser_rep.32.t:0 "The case of Rodion Gaida"
+    rcw_rss_eser_rep.32.desc:0 "General Gaida joined the Russian army from the Serbian army, where he had fled from the Austrian army. During the Revolution, Gajda gained a position in the Czech Legion. And later assisted us in the anti-Bolshevik struggle. Now he is listed as a general in our democratic army, but Rodion's ambition and striking resourcefulness never disappeared. Fortunately, he had enough confidence in our agent Kalashnikov, who gathered enough interesting information that could influence the general's decision to resign."
+    rcw_rss_eser_rep.32.a:0 "Goodbye 'comrade'!"
+    rcw_rss_eser_rep.32.b:0 "Such a man is not to be feared."
+    
+    rcw_rss_eser_rep.33.t:0 "Officers Escape"
+    rcw_rss_eser_rep.33.desc:0 "The destruction of the headquarters by the State Guard was not in vain - many officers, especially those of reactionary views or those who feared to be counted as such, began to leave the army. Considering that in one way or another during the revolution everyone had time to get dirty, and the backbone of the Siberian army has always been extremely right-wing, the problem of the lack of quality officers in the near future will be exacerbated again. "
+    rcw_rss_eser_rep.33.a:0 "Only revolutionary traitors have anything to fear."
+    
+    rcw_rss_eser_rep.34.t:0 "Tsar's Convoy"
+    rcw_rss_eser_rep.34.desc:0 "The government and the people welcomed with joy the military review planned by Rodion Ivanovich. This event was to demonstrate the striking difference between the People's Army and the autocratic army. And indeed, the public was pleasantly impressed by the neatness and discipline of the troops. The belief in victory was strengthened. Comrade Gaida once again found himself enraptured by the attention of the crowd. However, the people's general's vanity that day was reflected in another remarkable fact. \nAlong with all the military units, the personal escort of Rodion Ivanovich appeared at the festival. The servants who were its members were dressed in ridiculous resemblance to the brown Circassian coat. \nFew people paid attention to it, but one of the officers who was present later asked Gayda about this formation and was answered that the general planned to make a similar inspection in Moscow and that all Russian tsars had a Cossack cavalry which was necessary there. After these words in the form of rumors spread among the party, many of its members firmly thought about the propriety of appointing a new commander-in-chief, one who knows Russia poorly and apparently has a good attitude toward its deposed tsars."
+    rcw_rss_eser_rep.34.a:0 "This is just pampering."
+    
+    rcw_rss_eser_rep.35.t:0 "Negotiating with the Reds"
+    rcw_rss_eser_rep.35.desc:0 "The position of the Left faction in the Directory has long remained unchanged - peace among the Russian Socialists at all costs, and a ruthless struggle against reaction. Finally, having got rid of the bourgeois conciliators we are able to begin negotiations with the Reds. The only question is whether they remain... socialists. "
+    rcw_rss_eser_rep.35.a:0 "Long live socialist unity!"
+    rcw_rss_eser_rep.35.b:0 "The Bolsheviks got their hands dirty with blood."
+    
+    rcw_rss_eser_rep.36.t:0 "Sending Parliamentarians"
+    rcw_rss_eser_rep.36.desc:0 "On one of the many sections of the front today there is finally a lull. Our parliamentarians under white flags have crossed the neutral zone to begin negotiations to end the war between the two Socialist governments. Our government does not hide its good hopes about this initiative; the peasantry also does not understand the meaning of the 'party feud' and awaits its speedy conclusion."
+    rcw_rss_eser_rep.36.a:0 "Let's see what the 'reds' answer."
+    
+    rcw_rss_eser_rep.37.t:0 "Arrival of parliamentarians."
+    rcw_rss_eser_rep.37.desc:0 "Unexpected news comes from the east: today the parliamentarians of the Directory crossed the front. The purpose of their arrival is stated to be a truce and a further end to the civil war."
+    rcw_rss_eser_rep.37.a:0 "Some nonsense."
+    rcw_rss_eser_rep.37.b:0 "Time to end this misunderstanding among the SRs."
+    
+    rcw_rss_eser_rep.38.t:0 "Disdainful rejection"
+    rcw_rss_eser_rep.38.desc:0 "The Reds waited for their command's reply and handed it over in the form of a sealed package to our parliamentarians. The document contained within is in fact an agitation of complete lies to our government. The war will continue and the radicals must accept it."
+    rcw_rss_eser_rep.38.a:0 "Reds demand Russian blood."
+    
+    rcw_rss_eser_rep.39.t:0 "Proposal of the Left SRs"
+    rcw_rss_eser_rep.39.desc:0 "A proposal to form a coalition has been received from the government of the Left Social Revolutionaries. On the one hand it is advantageous, as it will make it possible to end the bloodshed and come to all-Russian power, but on the other hand the leading role in the coalition will be played by the Left."
+    rcw_rss_eser_rep.39.a:0 "Telegraph that we agree."
+    rcw_rss_eser_rep.39.b:0 "Fighting will continue."
+    
+    rcw_rss_eser_rep.40.t:0 "Offer rejected"
+    rcw_rss_eser_rep.40.desc:0 "Directory eser rejected our proposal"
+    rcw_rss_eser_rep.40.a:0 "Such a nasty feeling on the soul..."
+    
+    rcw_rss_eser_rep.41.t:0 "Offer accepted"
+    rcw_rss_eser_rep.41.desc:0 "The Right Socialists have entered the coalition. The Directorate has been abolished, its territories are under our control."
+    rcw_rss_eser_rep.41.a:0 "United front, shoulder to shoulder!"
+    
+    rcw_rss_eser_rep.42.t:0 "B.B.I.G.G."
+    rcw_rss_eser_rep.42.desc:0 "There is a new unit in our army, created personally by the commander-in-chief, the General Gaida Immortal Brigade. Strong cadres of democratic Izhevsk and Votkinsk workers were used to form it. With their brown shoulder straps and red and black angles on their sleeves, the brigade's ranks bring back memories of the glorious shock workers of 1917. Rodion Ivanovich has high hopes for his brigade and expects to use it as a personal reserve."
+    rcw_rss_eser_rep.42.a:0 "True Russian Soldiers"
+    
+    rcw_rss_eser_rep.43.t:0 "Translation difficulties"
+    rcw_rss_eser_rep.43.desc:0 "Despite his rather long stay in Russia, Rodion Ivanovich Gaida has not yet fully mastered the Russian language, does not understand some of the finer points in the psychology of the people, and most importantly does not understand the twists and turns of new Russian politics. Of course, the general is firmly in favor of the republic and has always opposed his efforts to the onslaught of reaction and Bolshevism, but until the last moment Gaida never understood the Social Revolutionary factions, much less the Kadet factions. Only under pressure from the healthiest elements of the army and party did Rodion Ivanovich decide to make a speech and end factional anarchy. \nNow that the "dust has settled," the general needs more and more loyal supporters and people capable of becoming political advisers in this difficult situation. In fact, Gaida has some cadre of revolutionary officers who supported the coup, there are also politically sophisticated SRs working in the political department at headquarters, and there are Czech officers discharged back from General Schneidarek. Reliance on the first two elements will lead to their proportional strengthening, while reliance on the third element will obviously begin to anger the Russians fairly quickly. "
+    rcw_rss_eser_rep.43.a:0 "The regime has yet to be formed "
+    
+    rcw_rss_eser_rep.44.t:0 "Compatriots"
+    rcw_rss_eser_rep.44.desc:0 "For a long time Czech officers successfully helped Rodion Ivanovich in his difficult business. And although many have grown fond of Russia and even more fond of the places where they have been sheltered, Czechs get very tired of working here - the desire to return home or leave for a calmer country is pressing. Such personalities could be successfully replaced by Russian officers or socialist political commissars. On the other hand, there are many former compatriots from the Italian and French legions outside Russia who are willing to take risks to win a better share in Russia - they could be a new, broader and more reliable support for the Gaida regime. "
+    rcw_rss_eser_rep.44.a:0 "The Russian officers can handle themselves "
+    rcw_rss_eser_rep.44.b:0 "Loyal commissioners will be more competent "
+    rcw_rss_eser_rep.44.c:0 "Send dispatches to the entire Czech army "
+    
+    rcw_rss_eser_rep.45.t:0 "Loyalty of the provinces"
+    rcw_rss_eser_rep.45.desc:0 "Russia's vast territories are poorly governed. Under the tsars it was even popular opinion that the only regime suitable for such a large country was monarchy. Of course, General Gaida is far from such prejudices, but he also notices how difficult it is to hold some problem areas without personally loyal people in place. "
+    rcw_rss_eser_rep.45.a:0 "A few dedicated officers will help with this "
+    rcw_rss_eser_rep.45.b:0 "Socialists will find common ground with the population "
+    rcw_rss_eser_rep.45.c:0 "Only Czechs can control anything here "
+    
+    rcw_rss_eser_rep.46.t:0 "Special Bodies"
+    rcw_rss_eser_rep.46.desc:0 "Russia is a dangerous country. It's hard to please the left and the right here; it's even harder to understand what they want. The revolution has turned Russians' heads - now there is a secret circle in every county, every officer's club is ready to create an army, and every university or congress of industrialists is ready to become the government under it. In such a situation, it is necessary to keep a constant eye on the shadow life of society in order to shoot down new Bolsheviks on the takeoff. And in such a case one cannot do without special organs. Under the Congress such an organ was the militia under the control of the Social Revolutionaries; by purging it of dangerous radicals in general it was possible to preserve the old state of affairs. Also in the army there has always been a small but nevertheless quite effective counterintelligence service - with some help from above it is able to take a leading role among the secret authorities. Finally, during its stay in the Czechs practically created their own network of agents in Russia. Without good intelligence, the legion would not have been able not only to raise the uprising, but also to survive thereafter. Thus the Czech servicemen were in no way inferior to the local specialists. "
+    rcw_rss_eser_rep.46.a:0 "Army counterintelligence must become state"
+    rcw_rss_eser_rep.46.b:0 "Militia will continue to fight conspiracies "
+    rcw_rss_eser_rep.46.c:0 "Czechs are equally distant from any Russian party "
+    
+    rcw_rss_eser_rep.47.t:0 "First Advisor"
+    rcw_rss_eser_rep.47.desc:0 "Russia has a Leader. The Leader has a government. These people, immersed in administrative matters, look to the head of the country with apprehension, secretly expecting a new cataclysm. The leader, on the other hand, needs a right hand, someone who can take full responsibility and decide the outcome of a case where the leader of the country cannot be present in person. \nOf Comrade Gaida's companions, three are his most trusted: \nn1. Legionnaire Eduard Kadlec. Together with him, Rodion Ivanovich began the first uprising and defeated the Bolsheviks on the main line. \n2. Eser-terrorist, organizer of anti-Bolshevik uprisings in Siberia and commissar at the General's headquarters -Nikolay Kalashnikov. \n3. Sergei Voitsekhovsky, a modest Russian officer who commanded one of the Legion's most successful units."
+    rcw_rss_eser_rep.47.a:0 "Kadlec has not lost his grip since the rebellion."
+    rcw_rss_eser_rep.47.b:0 "Kalashnikov has always been our friend"
+    rcw_rss_eser_rep.47.c:0 "Wojciechowski is a true patriot"
+    
+    rcw_rss_eser_rep.48.t:0 "A Little Crisis"
+    rcw_rss_eser_rep.48.desc:0 "Behind the pile of affairs, the government and local officials made some unfortunate blunders. This in turn led to rallies of peasants dissatisfied with the tax policy, the shutdown of one factory, and other expressions of discontent among the people of several counties. The problem is not critical, however, it will put the whole mechanism of government built by the general to the test. "
+    rcw_rss_eser_rep.48.a:0 "Comrades, you know what to do "
+    
+    rcw_rss_eser_rep.49.t:0 "Adventurer's Last Day"
+    rcw_rss_eser_rep.49.desc:0 "The further the crisis developed in the provinces, the gloomier General Gaida's ministers became. And only he himself did not lose optimism and faith in his officers and commissars. Radola had never learned to understand the Russians, so when unrest broke out in the capital he angrily demanded the destruction of the Bolsheviks and was eager to lead the troops himself, as he had during the uprising on the main line. However, it was as if his opponent had no front. The special agencies were silent, the advisors in the provinces were losing contact, and the Czechs still tried somehow to save their general, but their efforts were in vain. \nIn the early morning, when a renewed unrest was expected, a convoy took Gaida from his residence. The general was told that a terrorist attack was expected in a few dozen minutes. After driving out of town, the car stopped in a vacant lot, where several Russian officers approached the general. They informed the Czech adventurer that the corridor for fleeing Russia would be open for another hour and that the army was no longer subject to him. After the former commander-in-chief, all Czechs in general were allowed to leave the country.{nIn a few hours the news about the disappearance of "Comrade Gaida" flew around the capital and began to spread around the country. Satisfied Social Revolutionaries, who had organized part of the riots, rubbed their hands together in the hope of regaining all power. The army had to quell their fervor by hinting transparently that counterintelligence was in fact at work. While negotiations were underway, the troops conducted several lightning raids on the villages. Provided that the very demonstration of force led to peace - and all the troubles were attributed to the activities of the Czechs - the troops were a bloodless success. In the cities, the army was also feared - during the civil war the number of workers had grown smaller, their fighting spirit had weakened, and for many it already seemed completely pointless to lose their lives in the new party meat grinder. In fact, the crisis turned out to be a bubble. \nWhile the hardened schemer from the army solved their problems with the SRs, Sergei Voitsekhovsky arrived to manage the capital. He was able to quickly restore order and get the basic infrastructure up and running. And since Voytsekhovsky's name had been heard around Russia before, the commanders of the People's Army decided among themselves to hand over to him the power that had fallen out of Gaida's hands."
+    rcw_rss_eser_rep.49.a:0 "We all hope this is the last coup."
+    
+    rcw_rss_eser_rep.50.t:0 "The last day of the dictator."
+    rcw_rss_eser_rep.50.desc:0 "The further the crisis developed in the provinces, the gloomier General Gaida's ministers became. And only he himself did not lose optimism and faith in his officers and commissars. Radola had never learned to understand the Russians, so when unrest broke out in the capital he angrily demanded the destruction of the Bolsheviks and was eager to lead the troops himself, as he had during the uprising on the main line. However, it was as if his opponent had no front. The special agencies were silent, the advisors in the provinces were losing contact, and the Czechs were still trying somehow to save their general, but their efforts were in vain. \nIt was unwise for Gaida to keep a group of old Siberian Social Revolutionaries with him. Since the military coup they tried not to give the dictator any reason for suspicion, but they secretly wove a network of intrigue. They needed only an opportune moment, a set of circumstances in which neither the Czechs nor the army would be able or willing to protect the general. And that time had come. \nIn the evening Commissar Kalashnikov came to Gajda, as if with an urgent report. The guards had been taken off by someone beforehand. Kalashnikov informed the general that he had been deposed and demanded that he surrender his weapon. An unsuccessful attempt to escape from the office resulted in the dictator's fall from the second floor. A few shots from above finished the job."
+    rcw_rss_eser_rep.50.a:0 "This time the army is silent"
+    
+    rcw_rss_eser_rep.51.t:0 "Mode Decoration"
+    rcw_rss_eser_rep.51.desc:0 "As it turned out, none of the peasants and workers wanted a riot. Economic issues were quickly settled by local advisers, which had a positive effect on the authority of Rodion Ivanovich. Also, several instigators from among the members of the disgraced Socialist-Revolutionary factions went to prison, but no one ever found out about this. Such a quick resolution of the crisis allowed Gaida to finally establish itself as the new ruler of the republic. [Gaida_regime_army] [Gaida_regime_eser] [Gaida_regime_chech]"
+    rcw_rss_eser_rep.51.a:0 "We did it"
+    Gaida_regime_army_1:0 "\n\nThe general was also recognized by the army. Which, despite the fact that they themselves put the former commander in chief in the chair of the ruler, nevertheless had every reason to consider this as a temporary measure. However, the officers are not disappointed, on the contrary, they expect that a brave Czech with his efforts will force the country to respect his army again."
+    Gaida_regime_army_2:0 ""
+    Gaida_regime_eser_1:0 "\n\nMany Socialist-Revolutionaries, who looked with apprehension at Rodion Ivanovich after the coup, expected that the period of "factional freemen" would lead to the triumph of reaction, and secretly talking about their own counter-coup, have now moderated their ardor. In the end, they worked with the general the commissars realized that the army would not allow them to carry out revenge, and the Czech himself is a figure less reactionary than most candidates for military leaders.
+    Gaida_regime_eser_2:0 ""
+    Gaida_regime_chech_1:0 "\n\nHowever, the activities of the Czechs, which greatly contributed to the success of the first days of Gaida's adventurous rule, began to cause more and more questions among the Russians over time. their favor at the very top of power. However, this situation encourages the Slav brothers to defend their general with particular zeal."
+    Gaida_regime_chech_2:0 ""
+    
+    rcw_rss_eser_rep.52.t:0 "Special Ally"
+    rcw_rss_eser_rep.52.desc:0 "Even during his tenure as director, General Boldyrev thought about how to save the position of the people's army and the entire liberated country. The main problem, in his opinion, was not so much a lack of resources, but the absence of themselves combat-ready personnel troops. And if the equipment could be sent by the Western allies, then the army is only one country - Japan, unaffected by the disasters of the World War chances of victory. However, we can simply designate and continue to pursue the most benevolent policy towards the eastern ally, and then there is not a small chance that the Japanese themselves will come up with some kind of support initiative. \n\nDiplomats are waiting for orders."
+    rcw_rss_eser_rep.52.a:0 "Compose a friendly greeting"
+    rcw_rss_eser_rep.52.b:0 "No matter what, we need the Japanese Army"
+    
+    rcw_rss_eser_rep.53.t:0 "Greetings from General Boldyrev"
+    rcw_rss_eser_rep.53.desc:0 "General Boldyrev, who recently gained power in Russia, seems determined to establish the most friendly relations with our country. He sends his greetings to the Emperor. In particular, he thanks Japan for participating in the anti-Bolshevik struggle and calls her the main ally of the "new Russia". And although the fate of the Boldyrev regime has not yet been decided, in the future, the friendliness of the Russian dictator may still be useful to Japan."
+    rcw_rss_eser_rep.53.a:0 "This is not worthy of note"
+    rcw_rss_eser_rep.53.b:0 "Interesting"
+    
+    rcw_rss_eser_rep.54.t:0 "General Boldyrev calls for help"
+    rcw_rss_eser_rep.54.desc:0 "General Boldyrev, who became the head of the All-Russian Anti-Bolshevik Government, dared to send an appeal to our government demanding the widest possible assistance, up to the expulsion of expeditionary forces deep into Russia. He claims that such a step will open the way for broad cooperation between the two countries - Japan will henceforth receive the status of the main ally of the "new Russia", which includes both diplomatic support and economic preferences."
+    rcw_rss_eser_rep.54.a:0 "Another Russian dictator, nothing important"
+    rcw_rss_eser_rep.54.b:0 "Let's limit ourselves to diplomatic recognition"
+    rcw_rss_eser_rep.54.c:0 "Time to get active in European affairs!"
+    
+    rcw_rss_eser_rep.54.t:0 "Encouraging Response"
+    rcw_rss_eser_rep.54.desc:0 "Japanese diplomats sent a return greeting. It announces increased aid, recognition of the regime, and hopes for a quick unified offensive against a common enemy. The deadline for sending troops is not clearly indicated, but we were transparently hinted at about the expeditionary force."
+    rcw_rss_eser_rep.54.a:0 "Russia's true allies!"
+    
+    rcw_rss_eser_rep.56.t:0 "Muravyov's Request"
+    rcw_rss_eser_rep.56.desc:0 "Former rebel against the Soviets Left Socialist-Revolutionary Muravyov asks to be taken under our command."
+    rcw_rss_eser_rep.56.a:0 "We don't need renegades!"
+    rcw_rss_eser_rep.56.b:0 "We welcome a new ally"
+    
+    rcw_rss_eser_rep.61.t:0 "Union Defeat"
+    rcw_rss_eser_rep.61.desc:0 "A harmful consequence of the leftist perversions of previous policies has been the lack of control of the healthy elements of the nation over the working class. Created to manage the affairs of the workers, the Department of Labor came into conflict with the unions, and to strengthen the political alliance with the liberals and champions of industry (which in Siberia, not so much) it would be worth doing. Now there is a war, so now there are no conditions for idleness, especially in the military industry, and only an agent of the Bolsheviks can think about any guarantees until the end of the war.
+    rcw_rss_eser_rep.61.a:0 "Slackers"
+    
+    #news
+    rss_eser_news.1.t:0 "[RSS.GetName] proclaims a republic"
+    rss_eser_news.1.desc:0 "\nThe civil war in Russia is taking a new turn. One of the governments claiming power over the entire country issued a statement today stating that the only acceptable system is a republic. This is quite a bold move, given the great influence in Russia anti-democratic forces. Many experts predict in connection with this, the imminent start of confrontation between Russian monarchists and republicans."
+    rss_eser_news.1.a:0 "We will monitor the situation"
+    
+    rss_eser_news.2.t:0 "Constructive Socialism published"
+    rss_eser_news.2.desc:0 "The current leader of Free Russia, Viktor Mikhailovich Chernov, presented to the world his fundamental work, which summarizes the experience of socialist revolutions in his homeland and in other countries. According to Chernov, communism has sufficiently shown its failure in the pursuit of momentary populist decisions And the ideologists of old socialism, having widely developed the theory, nevertheless did not present the world with truly socialist, not military and destructive, but constructive practice. Of course, the thoughts of the man who ensured the cause of the revolution in Russia will be heeded by the left all over the world.
+    rss_eser_news.2.a:0 "This book will be the new Capital"
+    
+    #rcw_rss_eser_rep.5.t:0 ""
+    #rcw_rss_eser_rep.5.desc:0 ""
+    #rcw_rss_eser_rep.5.a:0 ""
+    #rcw_rss_eser_rep.5.b:0 ""
+    #rcw_rss_eser_rep.5.c:0 ""

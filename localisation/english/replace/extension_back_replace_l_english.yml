@@ -1,0 +1,61 @@
+﻿l_english:
+
+ AIR_TITLE_SCOUT_PLANE:0 "Reconnaissance-aircraft"
+ 
+ ARTILLERY_TITLE:0 "HAUBE"
+ 
+ artillery_equipment_1:0 "Towed artillery"
+ artillery_equipment_1_short:0 "Artillery"
+ artillery_equipment_1_desc:0 "Large-caliber guns - cannons and howitzers - are capable of delivering shells to a distance significantly exceeding the range of small arms."
+ 
+ tech_mountaineers2:0 "Mountain Rifle Troops III"
+ tech_mountaineers3:0 "Mountain Rifle Troops IV"
+ 
+ marines:0 "Marine Corps I"
+ marines2:0 "Marine Corps III"
+ marines3:0 "Marine Corps IV"
+ 
+ 
+ AIR_TITLE_MEDIUM_BOMBER:0 "Bomber"
+ AIR_TITLE_STRAT_BOMBER:0 "Strategic Bomber"
+
+ tac_bomber_equipment:0 "Bomber"
+ 
+ tac_bomber_equipment_0:0 "Bomber II"
+ tac_bomber_equipment_0_short:0 "Bomber II"
+ tac_bomber_equipment_0_desc:0 "It is believed that in order to win the next war, it is necessary to bomb the enemy until they are completely destroyed. It is necessary to begin the development of an aircraft capable of delivering heavy bombs at an acceptable speed."
+ tac_bomber_equipment_1:0 "Bomber III"
+ tac_bomber_equipment_1_short:0 "Bomber III"
+ tac_bomber_equipment_1_desc:0 "Medium bombers need speed and the ability to carry out a variety of missions. A dual-motor design, keeping it relatively light, will last us many years to come."
+ tac_bomber_equipment_2:0 "Bomber IV"
+ tac_bomber_equipment_2_short:0 "Bomber IV"
+ tac_bomber_equipment_2_desc:0 "Heavier tactical bombers are distinguished by increased flight range, speed, and bomb load, while maintaining the ability to perform a wide variety of missions."
+ tac_bomber_equipment_3:0 "Bomber V"
+ tac_bomber_equipment_3_short:0 "Bomber V"
+ tac_bomber_equipment_3_desc:0 "Taking the best solutions from modern fighters and the latest materials, we can create a twin-engine bomber that surpasses all previous models in speed and efficiency."
+ 
+ strat_bomber_equipment:0 "Long range bomber"
+ strat_bomber:0 "Long range bomber"
+ strat_bomber_equipment_desc:0 "Long-range bombers attack enemy structures and infrastructure, destroying industry."
+ strat_bomber_equipment_1:0 "Long Range Bomber I"
+ strat_bomber_equipment_1_short:0 "Long Range Bomber I"
+ strat_bomber_equipment_1_desc:0 "During and after World War I, it became clear that bombing military targets and major cities was the key to winning the next war. At the very least, we need aircraft capable of delivering such strikes. A bomber requires a high ceiling, good speed and a high bomb load. It will be an imposing design with multiple engines and defensive weaponry."
+ strat_bomber_equipment_2:0 "Long Range Bomber II"
+ strat_bomber_equipment_2_short:0 "Long Range Bomber II"
+ strat_bomber_equipment_2_desc:0 "Bombing successfully undermines the enemy's ability to fight. Improved defensive armament and increased speed will allow new aircraft to return unharmed, while increased bomb load and range will increase the effectiveness of strikes."
+ strat_bomber_equipment_3:0 "Long Range Bomber III"
+ strat_bomber_equipment_3_short:0 "Long Range Bomber III"
+ strat_bomber_equipment_3_desc:0 "To reduce losses from fire from air defense guns and interceptors, it is necessary to increase the maximum flight altitude. The new model will be even larger and will be able to carry an increased bomb load and a large supply of fuel to increase the range."
+ jet_strat_bomber:0 "Jet Long Range Bomber"
+ jet_strat_bomber_equipment:0 "Jet strategic bomber"
+ jet_strat_bomber_equipment_desc:0 "Strategic bombers attack enemy structures and infrastructure, destroying industry."
+ jet_strat_bomber_equipment_1:0 "Strategic jet bomber I"
+ jet_strat_bomber_equipment_1_short:0 "Strategic jet bomber I"
+ jet_strat_bomber_equipment_1_desc:0 "Jet engines will give new designs unrivaled speed without sacrificing bomb load and range. These aircraft usher in a new era of weapons of mass destruction."
+ 
+ transport_plane_equipment:0 "Transport plane"
+ transport_plane_equipment_1:0 "Transport aircraft I"
+ transport_plane_equipment_1_short:0 "Transport plane"
+ transport_plane_equipment_1_desc:0 "Aircraft delivering troops to the landing site."
+ 
+ radio:0 "Portable radios"

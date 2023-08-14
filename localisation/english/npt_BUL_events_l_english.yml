@@ -1,0 +1,288 @@
+﻿l_english:
+ bulgaria.1.t:0 "Defeat at Dobro Polje"
+ bulgaria.1.desc:0 "After fierce fighting the Entente forces managed to break through our defenses at Dobro Polje and penetrate deep into Macedonia. Our allies, busy with operations on their fronts, were unable to provide serious assistance, causing excessive exhaustion of the Bulgarian army. With the retreat the desertion intensified. A revolt against the command began in several units under the slogans "On Sofia!", "Death to the perpetrators of war!" The rebels had the idea of marching on Sofia to overthrow the government and punish the tsar and all those who, in their opinion, were responsible for the war and defeats. In the present situation there is a proposal to release from prison a prominent politician who is an opponent of the war, Alexander Stamboliysky. He demands the immediate commencement of peace negotiations with Entente, but if we agree Stamboliyski's authority should be sufficient to pacify the rebellious soldiers."
+ bulgaria.1.a:0 "Stamboliyski will ensure internal peace, but we will take care of external peace."
+ bulgaria.1.b:0 "We will ask the Austro-German troops to assist in the suppression."
+ bulgaria.2.t:0 "Stambolic Diplomacy".
+ bulgaria.2.desc:0 "The government's plan was to use the popularity of the men sent to negotiate among the soldiers to stop the retreat and stabilize the front. The speeches of most of the politicians, however, did not make much of an impression on the rebels, and they were still determined to march on Sofia, although Minister Savov's suggestion that the retreating soldiers should be able to go home when they returned from the front instead of marching on the capital gained some support among the rebels, although most still insisted on an offensive. A delegation of politicians then decided to go to Kyustendil to assess the situation there and to inquire about the progress of negotiations with the Allies. That same day, Stamboliiski received a telegram from Daskalov, who had remained in Radomir and who had taken full control of the situation there, proposing that he should lead the uprising and unite the forces of over 15,000 soldiers in the two cities, ready to march on the capital and overthrow the monarchy. Stamboliyski, after some hesitation, agreed. To the applause of the soldiers he declared that the monarchy was henceforth overthrown and Bulgaria became a republic. The rebels now issue an ultimatum for the immediate transfer of power to Stambolinski and Daskalov and their Bulgarian Agricultural People's Union."
+ bulgaria.2.a:0 "The situation requires the intervention of Austro-German troops."
+ bulgaria.2.b:0 "We shall be fine on our own once we have reconciled with the Entente."
+ bulgaria.2.c:0 "This is final defeat.
+ bulgaria.3.t:0 "Joint Action."
+ bulgaria.3.desc:0 "Approaching the capital of Bulgaria at the head of the rebel troops Raiko Daskalov decided to deliver an ultimatum stipulating that within a day he was to be given all power over Bulgaria. Without waiting for an answer Daskalov moved in several columns to attack Sofia. However, government forces, supported by German units, were able to stop Daskalov's advance and then put the rebels to flight."
+ bulgaria.3.a:0 "Despite victory, the war with the Entente could not be continued.
+ bulgaria.3.b:0 "Our hands are now untied for the continuation of the war."
+ bulgaria.4.t:0 "The Fall of Sofia".
+ bulgaria.4.desc:0 "Approaching the capital of Bulgaria at the head of the rebellious troops, Raiko Daskalov decided to deliver an ultimatum stipulating that within a day he was to be given full power over Bulgaria. Without waiting for an answer, Daskalov advanced in several columns, culminating in urban fights in Sofia. Unable to hold Daskalov back, the troops loyal to the throne withdrew in an orderly fashion.
+ bulgaria.4.a:0 "The insurrection will nevertheless be put down."
+ bulgaria.4.b:0 "Long live the Republic!"
+ 
+ bulgaria.5.t:0 "Our position on Bulgaria."
+ bulgaria.5.desc:0 "The Bulgarian state could not calmly endure a new defeat in the war, which led to its split and the outbreak of civil war. The revolt was raised by exhausted soldiers and socialist farmers, the old regime trying to fight back. The revolutionaries are usually less accommodating and more prone to international adventures, but the opposite side of the order is represented by the people who helped bring Bulgaria into the alliance with Germany."
+ bulgaria.5.a:0 "The Bulgarians will destroy themselves.
+ bulgaria.5.b:0 "The anti-German forces need support."
+ bulgaria.5.c:0 "We need order in Bulgaria. No, Order!"
+ bulgaria.5.d:0 "The government will only get help if Ferdinand abdicates."
+ bulgaria.6.t:0 "Allied aid."
+ bulgaria.6.desc:0 "The free powers of the West do not wish a tyrannical anti-people regime to prevail in Bulgaria and therefore provide as an act of goodwill a number of socially necessary goods."
+ bulgaria.6.desc_1:0 "The free powers of the West do not wish a tyrannical anti-people regime to prevail in Bulgaria, and therefore provide, as an act of good faith, subject to Ferdinand Koburg's withdrawal from all affairs, a number of socially necessary cargoes."
+ bulgaria.6.a:0 "Thank you, but no."
+ bulgaria.6.b:0 "Surely this is for us? Well, let's..."
+ 
+ bulgaria.11.t:0 "The Bulgarians demand North Dobrogea."
+ bulgaria.11.desc:0 "Since the Inter-Allied War, the Bulgarians have not lost hope of getting back the southern part of Dobrogea. This is their wish already fulfilled. But appetite comes with food, and now they are already laying claim to the whole of Dobrogea as the original Bulgarian land."
+ bulgaria.11.a:0 "We have nothing to ensure control of northern Dobrogea."
+ bulgaria.11.b:0 "This is not a bargaining chip."
+ bulgaria.12.t:0 "Dobrogea is obtained."
+ bulgaria.12.desc:0 "We have been given control of the whole of Dobrogea."
+ bulgaria.12.a:0 "Excellent."
+ bulgaria.13.t:0 "Dobrogea denied."
+ bulgaria.13.desc:0 "We have not been given control of the territory we requested."
+ bulgaria.13.a:0 "This is bad."
+ bulgaria.13.b:0 "Nothing will prevent us from taking it by force."
+ bulgaria.14.t:0 "Bulgarians ask that the occupation zone in Serbia be changed."
+ bulgaria.14.desc:0 "The Bulgarian government believes that the punitive measures carried out by Austrian troops in the Novi Pazar area against Serbian troublemakers are unreasonably hurting the local Bulgarian community. On this ground the Bulgarians are asking that this region be placed under their occupation. It must be said that no Bulgarians in southwestern Serbia, not only have not touched them, but they have not even seen them."
+ bulgaria.14.a:0 "Yes, let the Slavs deal with their own shit."
+ bulgaria.14.b:0 "[BUL.Capital.GetName] wants a piece that won't swallow"
+ bulgaria.15.t:0 "Novi Pazar is ours."
+ bulgaria.15.desc:0 "Our allies have agreed to our proposal to change the zone of occupation in Serbia and give us control of Novi Pazar."
+ bulgaria.15.a:0 "Great."
+ bulgaria.16.t:0 "Change of zone of occupation denied."
+ bulgaria.16.desc:0 "Our allies have refused to change our zone of occupation in Serbia and give us control of Novi Pazar."
+ bulgaria.16.a:0 "They will still respond."
+ bulgaria.17.t:0 "Resumption of claims on Albania."
+ bulgaria.17.desc:0 "For strategic reasons in the post-war world of our victory, to prevent further bloodshed and to finally lead Bulgaria to glory and wealth, we need access to a third, Adriatic Sea. This access is possible only through Albania or Montenegro, and the former is preferable to us.nnThe fate of Albania is still unresolved, which gives us great freedom of action. The diplomats have prepared three possible notes on this occasion. The first consists in demanding that direct rule be placed in the hands of our administration after the war, the second involves placing Prince Cyril on the Albanian throne, while the third insists on a Turkish prince; we should not fear that the Turks could somehow really govern Albania without direct access to it by land."
+ bulgaria.17.a:0 "For the safety of Macedonia, Albania will be fully occupied."
+ bulgaria.17.b:0 "Cyril of Preslav will take care of the good of the Albanian people."
+ bulgaria.17.c:0 "The third note will please the Turks and play into our hands."
+ bulgaria.18.t:0 "Bulgarian Initiative on Albania"
+ bulgaria.18.desc:0 "The Bulgarians demand the complete transfer of Albania to their control after the end of the war. Such a decision would strike at the interests of Austria-Hungary and lead to the creation of a most powerful Slavic kingdom from the Black Sea to the Adriatic Sea."
+ bulgaria.18.d_2:0 "The Bulgarians demanded the transfer of the throne of Albania to Prince Cyril of Pereslavl. Obviously, this is only a form of securing Bulgarian control over Albania. However, if we agree the commitment would still have little consequence."
+ bulgaria.18.d_3:0 "The Bulgarians propose to solve the Albanian question by creating a principality vassal to Turkey. It is clear that they are only trying to bring down the influence of the Habsburgs in this region, but the Ottomans might be interested in this initiative and should take it seriously."
+ bulgaria.18.a:0 "Bulgaria's claims are just."
+ bulgaria.18.b:0 "This is all baseless chauvinism."
+ bulgaria.19.t:0 "The allies agreed."
+ bulgaria.19.desc:0 "The fate of Albania after the war will be decided at our command, the Allies have agreed to our proposal."
+ bulgaria.19.a:0 "Great."
+ bulgaria.20.t:0 "Albania refused."
+ bulgaria.20.desc:0 "The so-called 'allies' have denied us our legal right to Albania."
+ bulgaria.20.a:0 "They will answer for this yet."
+ bulgaria.21.t:0 "A sword for the Bulgarian king."
+ bulgaria.21.desc:0 "In 1915 the peasant army of this young Slavic state served great service for Germany and Austria by breaking the resistance of Serbia and blocking the Entente contingents at Salloniki.But Bulgaria has never been particularly industrialized, so the king insists on selling a large batch of German arms to secure another decisive offensive. It is planned that the heavy Krupp guns will break through the defensive line of the Entente troops, after which the mighty Bulgarian soldiers will bayonet and grenade the survivors.nBut it should be taken into account that in case of our common victory, God grant it, the large amount of artillery in the Bulgarian army will allow it to express its will more freely, contrary to the ambitions of Turkey and Austria."
+ bulgaria.21.a:0 "We forge, only for stamps."
+ bulgaria.21.b:0 "Some surplus can also be transferred for Bulgarian currency."
+ bulgaria.21.c:0 "Refusal will cause a diplomatic scandal..."
+ bulgaria.22.t:0 "Violation of Union debt".
+ bulgaria.22.desc:0 "The Germans spit on our efforts by prohibiting the sale of heavy guns to the Bulgarian army. On the front there have long been rumors about the Germans' fear of us - as if they lied to the Bulgarian generals at the beginning of the war and stopped the army in front of half-empty Salloniki, so that Bulgaria would not take over the whole Greece! Probably after hearing about the German thrift, the soldiers would easily understand it as a lack of cannons from the Kaiser himself."
+ bulgaria.22.a:0 "It's time to change course."
+ bulgaria.22.b:0 "We'll settle up after the war."
+ bulgaria_22_a_tt:0 "Right branch tricks will be canceled. \n"
+ 
+ bulgaria.23.t:0 "Our people in Sofia".
+ bulgaria.23.desc:0 "...report the beginning of dubious activity in the Bulgarian financial system. There is a gradual withdrawal of huge amounts of German marks from circulation, with which we have been buying up resources and businesses in this country. There are also reports of some kind of "nationalization plan" being prepared by the government with the knowledge of the Czar. Although Germany never had direct control over the Bulgarians, from all indications it appears that they are turning to a completely independent policy."
+ bulgaria.23.a:0 "They must not be allowed to withdraw from the war."
+ bulgaria.23.b:0 "Pass on our protest to the king of the Bulgarians."
+ bulgaria.23.c:0 "As long as Bulgaria is at war, she can do what she likes with the stamps."
+ bulgaria_23_a_tt:0 "The decision category §Y "Retention of Bulgaria"§!\n" appears.
+ bulgaria.24.t:0 "German Protest"
+ bulgaria.24.desc:0 "Learning from the reports of their agents of our new economic course, the German industrialists have forced their government to protest. They fear for their profits, and the Kaiser already thinks as if we had decided to withdraw from the war."
+ bulgaria.24.a:0 "Don't care."
+ bulgaria.24.b:0 "If they notice, the adventure had better be curtailed."
+ bulgaria.25.t:0 "Reject."
+ bulgaria.25.desc:0 "The Bulgarian king refused to roll back his adventurous plan, though he assured us that it in no way meant that he was going to withdraw from the war, as the Kaiser thought."
+ bulgaria.25.a:0 "We'll keep an eye on the situation."
+ 
+ bulgaria.29.t:0 "Bloodless Coup."
+ bulgaria.29.desc:0 "This night German troops dared to occupy all the administrative buildings in Sofia. The Bulgarian army, ruled by conspirators from the Military League, offered no resistance. On the contrary, the higher officers declared these measures necessary in connection with an attempt on the life of the tsar by a certain revolutionary group. In fact, at this point the Tsar was blocked by his own soldiers and forced to sign the appointment of a new Prime Minister bypassing all procedures. In response, the old government declared itself dissolved."
+ bulgaria.29.a:0 "Traitors of the Motherland Defeated!"
+ bulgaria_29_a_tt:0 "The tricks of the left branch will be abolished. \n"
+ 
+ bulgaria.31.t:0 "The Cabinet of National Salvation"
+ bulgaria.31.desc:0 "By all things it is clear that a historic time is coming for the Bulgarian kingdom. The Austro-German armies are straining all their strength, but can they withstand such an overload? While Berlin and Vienna are still arriving in imperial tranquility and steadfastness for Sofia there remains an opportunity to sign a profitable peace. Ultimately, the Germans have never shown sincerity toward Bulgaria-exploiting our economy, mopping up the mediocrity of Austrian generals with the blood of our soldiers, and opposing the complete unification of the Bulgarian people. Should the Tsar choose to look for peace there could be no better candidate to head the new government than Mr. Malinov, the head of the democrats, a skilful diplomat under whom the independence of Bulgaria was proclaimed. \On the other hand many people, including Mr. Radoslavov, think that we are one step away from victory, and that any possible break with the central powers should be postponed until the final incorporation of Macedonia and Dobrudja by peace treaties with the defeated kings of the Balkans.
+ bulgaria.31.a:0 "Leave it to Malinov to form a coalition."
+ bulgaria.31.b:0 "Radoslavov will remain prime minister, but will form a new cabinet."
+ 
+ bulgaria.41.t:0 "Thunder over Morava"
+ bulgaria.41.desc:0 "The Serbian government, despite the recent just end to the war, has not abandoned its aggressive plans and is actively spreading ideas of revenge within the country. It is not surprising that these ideas are being heated up by the top of Serbian society and are finding a lively response in the grassroots. For example, our border guards the day before had detained several agents of Serbian revolutionary circles who were trying to cross the border to foment rebellion and discontent. The Bulgarian Government, in view of the inadmissibility of repeating the catastrophe of the Inter-Union War, declines all responsibility and declares that in case of a repeat of the Serbian provocations it will not hesitate to order the army to cross the border and force the Morava River. The Serbs should bear in mind that in such a course of events Belgrade would be occupied within a week."
+ bulgaria.41.a:0 "The nest of aggressors must be destroyed."
+ bulgaria.42.t:0 "Threat of a protracted war."
+ bulgaria.42.desc:0 "Constantinople is under our control, but Turkish resistance continues to grow despite the defeat in the border battle. We remember perfectly well how during the Balkan wars delaying peace negotiations with the Turks led to the disaster of the Bulgarian army. Is it worth continuing the campaign, which with each step turns into a new adventure? The Turks would probably not sign a peace agreement with the transfer of Constantinople, which would be too strong a blow to the imperial city."
+ bulgaria.42.a:0 "The barbarian empire must be swept away."
+ bulgaria.42.b:0 "The Turks are in no position to dictate terms."
+ bulgaria.42.c:0 "The price of peace will be Constantinople, with a heavy heart we are ready."
+ bulgaria.43.t:0 "The peace initiative of the Bulgarians".
+ bulgaria.43.desc:0 "The Tsarist government addresses our peace proposal by delineating the boundaries of its conquests with the territories of the capital Constantinople, the Gallipoli Peninsula, and the plain of Edirne."
+ bulgaria.43.d_1:0 "The royal government addresses ours with a peace proposal delineating the boundaries of its conquests with the territories of the Gallipoli peninsula and the plain of Edirne."
+ bulgaria.43.a:0 "There will be no peace."
+ bulgaria.43.b:0 "We will have to sign."
+ bulgaria.44.t:0 "Refusal."
+ bulgaria.44.desc:0 "The Turks have refused to make peace on current terms. They will probably want our troops to march victoriously through all their towns."
+ bulgaria.44.a:0 "This is unwise of them."
+ 
+ bulgaria.45.t:0 "The army takes over."
+ bulgaria.45.desc:0 "After the outbreak of war Bulgaria moved further and further away from the provisions of the good old Tarnovo Constitution. The opposition was thrown into prisons. The tsar relied more and more on direct rule, and even more began to listen, to the opinion of the army. Eventually the scheming men of the general staff succeeded in convincing him and the government that only the generals could keep the country from defeat and falling into revolution."
+ bulgaria.45.a:0 "Whether this is so, time will tell."
+ 
+ bulgaria.46.t:0 "[797.CONTROLLER.GetAdjective]and the troops have occupied [797.GetName]"
+ bulgaria.46.desc:0 "The Bulgarian army took the strategically important city in a surprise attack. The victory of the Bulgarian arms finally plunged the Turkish people into the depths of national humiliation."
+ bulgaria.46.a:0 "To betray in time is to anticipate."
+ bulgaria.47.t:0 "[BUL.GetAdjective]ive troops driven out of Thrace."
+ bulgaria.47.desc:0 "In spite of numerous problems, the Turkish army was able to show wonders of heroism, initiative, and was able to repel the attack on [797.GetName] and even go on a counteroffensive. This victory is important for restoring the authority of the government and gives hope to the nation."
+ bulgaria.47.a:0 "Turkey is still able to fight back."
+ 
+ bulgaria.51.t:0 "Sending diplomats."
+ bulgaria.51.desc:0 "The war is clearly at a stalemate. Bulgaria can no longer sacrifice a single fighter for the crumbling front of the Central Powers. Therefore it is necessary to determine our position in negotiations with the Entente and to conclude as soon as possible an armistice with the preservation of the army and ethnically Bulgarian territories, including Vardar Macedonia and the Dobruzhan Peninsula (between the Black Sea and the Danube)."
+ bulgaria.51.a:0 "Our position will be conveyed to the Entente leaders."
+ 
+ bulgaria.52.t:0 "Bulgarian Armistice Request."
+ bulgaria.52.desc:0 "Diplomats from Sofia arrived at our Southern Front headquarters. They insist on an equal peace with the retention of what they consider to be ethnically Bulgarian territories. Such a peace would deprive us of the possibility of collecting contributions from Bulgaria and disarming their army, but even worse, it would lead to confrontation with our allies in the Balkans. Thus the Serbs would never forgive the loss of Vardar Macedonia, and the Romanians would not tolerate the seizure of Dobrudja. Nor should it be forgotten that it was the treacherous actions of the Bulgarians in relation to their neighbors that led to the formation of the Salonika Front and the enormous losses among the Entente soldiers, prolonging the war indefinitely. On the other hand, acquiescence to Bulgarian conditions would avoid further casualties."
+ bulgaria.52.a:0 "We are ready for an equal peace."
+ bulgaria.52.b:0 "Let them free the captured and lay down their arms, the peace conference will decide the rest."
+ 
+ bulgaria.53.t:0 "Entente's Answer".
+ bulgaria.53.desc:0 "The Allies have agreed with the arguments of our diplomats. The Entente is ready to end the bloodshed on condition that we retain the ethnically Bulgarian territories."
+ bulgaria.53.a:0 "Long live peace!"
+ 
+ bulgaria.54.t:0 "The Entente's Answer."
+ bulgaria.54.desc:0 "The Entente demands that the Bulgarian army leave the occupied territories of its Balkan allies, surrender some weapons, and proceed to demobilization. Also, the Allies no longer wish to see Ferdinand Koburg on the throne. The rest will be decided at the post-war peace conference."
+ bulgaria.54.a:0 "Woe to the vanquished."
+ 
+ bulgaria.55.t:0 "Atonement by Blood."
+ bulgaria.55.desc:0 "Bulgarian diplomacy asks for secret negotiations to begin on the question of resuming the action of their army already against the former Allies. If we succeed and Bulgaria enters the war on the side of the Entente, we will have a strong numerical superiority in the Balkans, but this will again strengthen the position of the Bulgarians."
+ bulgaria.55.a:0 "The Allies do not need the help of aggressors."
+ bulgaria.55.b:0 "Bulgarians should solve their own problems".
+ 
+ bulgaria.56.t:0 "Refusal of the Entente".
+ bulgaria.56.desc:0 "The proposal that the Bulgarian army take action against its former allies has been rejected. Western countries consider us responsible for the present war and will still demand compensation for it."
+ bulgaria.56.a:0 "Sad."
+ 
+ bulgaria.57.t:0 "Return to War."
+ bulgaria.57.desc:0 "Tense negotiations with Entente representatives were successful. The turning point in the Bulgarian politics, which during the peace negotiations began with a small verbal exchange by Lapchev for the joint capture of Istanbul, can be regarded as accomplished. Henceforth the Bulgarian people together with the other free peoples fight a war against German-Turkish despotism.nThe majority of party leaders consider what happened to be a chance for Bulgaria to preserve its acquired lands and strengthen its international position. For example, the Farmers, who actively protested against the war in 1915, are now quite calm and patriotic about the reversal of the Bulgarian bayonets. The masses of peasant soldiers were greatly surprised by this course of events, and although most were simply hoping for a speedy end to this adventure, there were also cases of desertion. Meanwhile, many Close Socialists and more radical socialist groups have called for the sabotage of the new war 'in the interests of world imperialism.'"
+ bulgaria.57.a:0 "God help us!"
+ 
+ bulgaria.58.t:0 "The request of the Bulgarian revolutionaries."
+ bulgaria.58.desc:0 "The revolutionary regime in Bulgaria asks for support with arms for its workers' and peasants' army. The breaking of agreements with the imperialists has put the small bulwark of socialism in the Balkans in a precarious position. The capitalists could turn to provocations at any minute."
+ bulgaria.58.a:0 "Let's help our comrades!"
+ bulgaria.58.b:0 "We can send some weapons."
+ bulgaria.58.c:0 "We are in a kind of environment ourselves..."
+ 
+ bulgaria.59.t:0 "Refuse authoritarianism."
+ bulgaria.59.desc:0 "During the war the Bulgarian government found it acceptable to use the radical military and the secret police to suppress the threat of revolution. The lawless actions of both were simply turned a blind eye. Today, however, if we want to overcome the splits in society and heal the wounds of a new national catastrophe, we will have to abandon the former authoritarian policy."
+ bulgaria.59.a:0 "Such methods are no longer acceptable."
+ 
+ bulgaria.60.t:0 "Refugee flows."
+ bulgaria.60.desc:0 "The war and the subsequent unjust peace have forced thousands of Bulgarians to withdraw and flee inland. The farms of many are ruined, many do not want to live under foreign rule. In any case, the problem of land is sharply exacerbated, for they are all peasants."
+ bulgaria.60.a:0 "One more problem."
+ 
+ bulgaria.61.t:0 "Government resignation."
+ bulgaria.61.desc:0 "[ROOT.GetLeader] stated the impossibility of maintaining the current cabinet in the same composition due to the observed failure in domestic and international politics. The stabilization of Bulgaria and the Balkans as a whole is again at risk through the fault of the Great Powers."
+ bulgaria.61.a:0 "Once again Bulgaria is without ministers."
+ 
+ bulgaria.62.t:0 "Forming a Broad Coalition."
+ bulgaria.62.desc:0 "The diversity of opinion in post-war Bulgarian society has necessitated the formation of a government with as broad a coalition as any that had previously existed. This measure should stop the growth of discontent and lead to a harmonious interaction of the parties vying for power, at least for the time being. But first it is worth determining who will lead the new government: the "parliamentary lion" Teodorov, who is quite compromising in his position, or a more popular and ambitious politician, if such a person is found. The latter decision could disrupt the original design of the combination."
+ bulgaria.62.a:0 "For the time being, Theodorov will calm down society."
+ bulgaria.62.b:0 "[Root.bulgaria_62_b_opt] has earned the trust of the people."
+ bulgaria.62.b_1:0 "Stilian Draganov"
+ bulgaria.62.b_2:0 "Dimitar Blagoev"
+ bulgaria.62.b_3:0 "Janko Sakazov"
+ bulgaria.62.b_4:0 "to Alexander Malinov"
+ bulgaria.62.b_5:0 "Vasil Radoslavov"
+ bulgaria.62.b_6:0 "Ivan Vylkov"
+ bulgaria.62.b_7:0 "Alexandar Tsankov"
+ bulgaria.62.b_8:0 "Aleksandar Stamboliiski"
+ 
+ bulgaria.63.t:0 "Congress of Tesniaks"
+ bulgaria.63.desc:0 "[GetDateText] the first postwar all-party congress of the BRSDP (close socialists) was held. Delegates to the congress resolved to intensify the class struggle, renamed the party Communist, and put forward the slogan of establishing a Balkan Socialist Federation."
+ bulgaria.63.a:0 "Forward, working class!"
+ bulgaria.63.b:0 "Let's negotiate with the BKP, we are also socialists in our own way."
+ bulgaria.63.c:0 "Our duty is to oppose the warmongers of the civil war."
+ bulgaria_63_b_tt:0 "§ҮWe express our hope for fruitful and peaceful cooperation with the Communists within the framework of parliamentary competition and pluralism of opinion. §!\n"
+ 
+ bulgaria.64.t:0 "Congress of the Farmers."
+ bulgaria.64.desc:0 "The BZNU is planning one of the largest congresses in its history. Many new members from peasant friendships throughout the country have recently joined the Union, and now the leaders of the BZNU intend to outline ways to gain undivided state power. Two wings, a moderate wing and a radical wing, are forming in the Union on this issue."
+ bulgaria.64.a:0 "Bulgarian peasants deserve it."
+ bulgaria.64.b:0 "Now is not the time for such congresses."
+ bulgaria.64.c:0 "Negotiations with moderates could aggravate the split"
+ bulgaria.64.d:0 "We don't care about this peasant nonsense"
+ 
+ bulgaria.65.t:0 "Creating a constitutional bloc"
+ bulgaria.65.desc:0 "Concerned by the growth of anti-democratic forces, some representatives of the people's and democrats have prepared a plan to establish a bloc of parties aimed at defending the provisions of the Tarnovo Constitution. A meeting on the establishment of a constitutional bloc will be held in the coming days."
+ bulgaria.65.a:0 "Let's defend the memory of our ancestors!"
+ bulgaria.65.b:0 "Democrats are responsible for the defeat of the war, they will be tried."
+ bulgaria.65.c:0 "They won't succeed."
+ bulgaria_65_c_tt:0 "§ҮPeople and Democrats join a bloc - their popularity will count together in the elections.§!\n"
+ 
+ bulgaria.66.t:0 "Socialists organize strikes."
+ bulgaria.66.desc:0 "The representatives of the socialist parties, spread throughout the country, were able to coordinate the beginning of large-scale strikes. Many railroads went on strike. With such methods, the socialists promise to improve the life of the average Bulgarian worker. However, detractors argue that the strike is only a political action to split the government and Bulgarian society."
+ bulgaria.66.a:0 "Only the enemies of workers have anything to fear."
+ bulgaria.66.b:0 "Let's agree with the workers."
+ bulgaria.66.c:0 "We'll have to yield to the Communists."
+ bulgaria.66.d:0 "Circumstances force us to declare a state of emergency"
+ 
+ bulgaria.67.t:0 "Dissatisfaction with the army."
+ bulgaria.67.desc:0 "Recently there has been disquiet in the Bulgarian Armed Forces. Many officers believe that things are heading toward a violation of the free political process and the establishment of a leftist dictatorship. Raised in the constitutionally monarchical tradition, the army is unlikely to be a reliable pillar of the republic, but rather a bomb planted under it. It's also worth remembering that the military already pulled off a coup in the 1980s."
+ bulgaria.67.a:0 "It is necessary to strengthen the propaganda of our ideas in the troops."
+ bulgaria.67.b:0 "The army will not turn against the people."
+ 
+ bulgaria.68.t:0 "Election results."
+ bulgaria.68.desc:0 "A new political aggravation in Bulgaria has resulted in early elections. The winner by number of votes is [Root.bulgaria_68_winning_party]. The leader of this party will probably lead the new government."
+ bulgaria.68.a:0 "We expected this."
+ bulgaria_68_natsind:0 "Bulgarian Agrarian People's Union."
+ bulgaria_68_radsoc:0 "Syromahomils."
+ bulgaria_68_commies:0 "Bulgarian Communist Party (close socialists)"
+ bulgaria_68_socdem:0 "Bulgarian Workers' Social Democratic Party (broad socialists)
+ bulgaria_68_marketlib:0 "Democratic Party
+ bulgaria_68_soclib:0 "People's Party
+ bulgaria_68_cons:0 "Liberal Party"
+ 
+ bulgaria.69.t:0 "Contours of Constitutional Reform"
+ bulgaria.69.desc:0 "The glorious Tyrna Constitution was passed back in the late 19th century. Now it is our privilege to draft a new constitution that meets the goals of building a society of the future on Bulgarian soil. The parties are close within the framework of the old laws defining the special role of the monarch and the bourgeois factions. However, the monarchical institution in Bulgaria is quite special, accustomed to most Bulgarians, and political pluralism has basically always been preserved in our country."
+ bulgaria.69.a:0 "Limited monarchy, with the elimination of bourgeois parties."
+ bulgaria.69.b:0 "Republic, under the leadership of the labor vanguard."
+ bulgaria.69.c:0 "The spirit of the republic is alive only in party struggle"
+ 
+ bulgaria.70.t:0 "Right-wing coup."
+ bulgaria.70.desc:0 "Today began a coordinated action by a military organization to overthrow the current government. Many reserve officers again donned their uniforms to take part in the counter-revolution. In a short time the main nodes of the capital were seized, disloyal garrisons were blockaded, and leaders of leftist parties were arrested. No special resistance was met anywhere. A decree for a new government has already been signed."
+ bulgaria.70.a:0 "Long live the government of Order."
+ bulgaria.70.b:0 "Long live a democratic government."
+ bulgaria.70.c:0 "Long live the national government."
+ bulgaria.70.d:0 "Long live the Military League"
+ 
+ bulgaria.71.t:0 "Socialist Revolution"
+ bulgaria.71.desc:0 "Throughout the country, the flames of rebellion are again blazing. Leftist groups dissatisfied with the existing situation have put arms in the hands of the peasants and workers and intend to change by force the unjust, in their opinion, social order. The army is on alert. The chances of the revolutionaries are probably not great, but they will fight desperately."
+ bulgaria.71.a:0 "Radicals, will only hurt the Bulgarian people."
+ bulgaria.71.b:0 "It's time for liberation."
+ 
+ bulgaria.72.t:0 "Forced to peace".
+ bulgaria.72.desc:0 "Militant rhetoric is again being heard in Bulgaria. Their government is seriously and openly discussing the possibility of tearing up the peace agreements just concluded. Against the background of the introduction of universal labor conscription in the country, which has essentially replaced military conscription, our generals have returned to elaborating anti-Bulgarian operations. Today we can use limited forces to prevent a new war in the Balkans."
+ bulgaria.72.a:0 "Proceed with the invasion."
+ bulgaria.72.b:0 "Nonsense. Bulgaria is too weak."
+ 
+ bulgaria.73.t:0 "Armed coercion."
+ bulgaria.73.desc:0 "We succeeded in winning the border battle. The condition for ending the conflict was the demilitarization of the occupied region, which we consider strategic. We also demand compliance with the Neiit Accords, which the Bulgarians have violated. However, if we can provide demilitarization, then we can't control the secret mobilization and full compliance with the agreements. But now they will think ten more times."
+ bulgaria.73.a:0 "They've had enough for now."
+
+ bulgaria.74.t:0 "Repel Attack"
+ bulgaria.74.desc:0 "We failed to win the border battle, and the only reason they didn't counterattack is apparently the Inter-Allied Commission, otherwise they would have done it. We will not be able to force them to comply fully with the Neiit agreements, which the Bulgarians have violated, to use force again we cannot."
+ bulgaria.74.a:0 "After such a thing they have no reason to abide by the treaties..."
+ 
+ bulgaria.75.t:0 "Repulsion of the attack."
+ bulgaria.75.desc:0 "Concerned about the return of an independent Bulgaria to international politics, our neighbors tried again to impose their dictate by military means. As expected, without the help of the troops of the Great Powers, the adventure of the aggressors failed. Only the pressure of the International Commission in Sofia prevented the troops from carrying out a crushing counterstrike."
+ bulgaria.75.a:0 "So far they have had enough."
+ 
+ bulgaria.76.t:0 "Armed coercion."
+ bulgaria.76.desc:0 "Romanian forces made a successful invasion of our territory. A condition for stopping the conflict was the demilitarization of the occupied region, which the enemy considers strategic. They are also demanding unconditional compliance with the Neiit Accords, which they themselves have just essentially violated. Such boldness on the part of our neighbors only stirs up the anger in the hearts of Bulgarians. But it is true that we are still too weak. Perhaps we should refrain from harsh foreign policy statements.
+ bulgaria.76.a:0 "After this, we have no reason to abide by treaties."
+ bulgaria.76.b:0 "Radical decisions have to be abandoned."
+ 
+ bulgaria.77.t:0 "Armed coercion"
+ bulgaria.77.desc:0 "Greek forces made a successful invasion of our territory. A condition for stopping the conflict was the demilitarization of the occupied region, which the enemy considers strategic. They are also demanding unconditional compliance with the Neiit Accords, which they themselves have just violated. Such boldness on the part of our neighbors only stirs up the anger in the hearts of Bulgarians. But it is true that we are still too weak. Perhaps we should refrain from harsh foreign policy statements.
+ bulgaria.77.a:0 "After this, we have no reason to honor treaties."
+ bulgaria.77.b:0 "Radical decisions will have to be abandoned."
+ 
+ bulgaria.81.t:0 "The death of General Kolev."
+ bulgaria.81.desc:0 "On August 2, 1915, Ivan Kolev was promoted to major general. Since May 1916 he was an inspector of cavalry and commander of the 1st Cavalry Division. Under his command the division took part in the successful offensive of the 3rd Army in Dobrudja. It participated in the battles of Kurtbunar, Kochmar, Karapelit, Dobrich, Toprahisar, Tekirgyol, Kyustenge, Černá Voda and Machina, fighting against the Russian, Serbian and Romanian forces. On January 3, 1917 the hurried cavalry division overcame the defensive barriers and took by storm the heavily fortified position of Machin. For his combat exploits, Kolev was awarded the Iron Cross "For Valor".nnGeneral Kolev proved himself a skillful cavalry commander, a good tactician, tried to spare the lives of his subordinates. All this time, the general bore the hardships of war together with the staff of the division, taking part in the fighting on his black stallion Pirin. Unfortunately, the hardships of war led him to a serious illness that the brave general was no longer able to cope with."
+ bulgaria.81.a:0 "Memento mori"
+ bulgaria.83.t:0 "The Death of Dimitar Blagoev"
+ bulgaria.83.desc:0 "The other day it became known that the patriarch of Bulgarian Social Democracy had passed away. Dimitar Blagoev lived a long revolutionary life. Although he had almost retired by its end, his opinion was always taken into account by his party comrades. Blagoev's funeral turned into a kind of demonstration."
+ bulgaria.83.a:0 "His cause will live on duty."

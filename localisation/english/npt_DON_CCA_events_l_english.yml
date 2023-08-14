@@ -1,0 +1,454 @@
+﻿l_english:
+ rcw_don_cca.1.t:0 "The Banner of the Revolution"
+ rcw_don_cca.1.desc:0 "It is no secret that the Socialist-Revolutionary Party has throughout its history waged an irreconcilable struggle against autocracy in all its manifestations. Naturally, the banner of the Social Revolutionaries was the red banner of the revolution; it also became the banner of the new government, which began the struggle against the Bolsheviks. It seemed to be clear to everyone that the Bolsheviks could not represent the revolution because they ruled tyrannically, and they no longer had any right to the red color. Nevertheless, all over the region incidents involving Cossacks, who because of red flags take our institutions for Bolshevik institutions and try to arrest them or vandalize them, have become more frequent. Our explanations often do not reach the Cossacks. It is even worse to inculcate in the Cossack masses the idea of fighting reaction. The Cossacks look upon the Social Revolutionaries with disapproval, but for the time being they still continue to fight on the side of the people's government. "
+ rcw_don_cca.1.a:0 "Someday they will understand."
+
+ rcw_don_cca.2.t:0 "'Comrade' Manakin"
+ rcw_don_cca.2.desc:0 "Colonel Manakin arrived at the location of our troops. He was leading a shock regiment and tried to defend the stakes from the Bolsheviks and then lead his detachment out to us. Not yet halfway across, the shock troops were surrounded by superior forces and defeated. Nevertheless, Manakin made his way to the Don and is ready to continue the fight. It's worth noting, however, that this colonel, by his active participation in the revolutionary activities, arouses mistrust among many in the army. Some call him 'comrade'."
+ rcw_don_cca.2.a:0 "We will look after him."
+ 
+ rcw_don_cca.3.t:0 "Wolsky's group."
+ rcw_don_cca.3.desc:0 "Not long ago a group of Volga Social Revolutionaries showed up in our capital. They have begun to create their own newspaper, in which they propagate radically leftist ideas, attack the leadership of the army, and among other things discuss the possibility of peace with the Reds. Despite the credibility of these comrades in most of the party, there is growing resentment in the army-many suspect Volsky of working for the Bolsheviks. "
+ rcw_don_cca.3.a:0 "Volsky is a proven comrade."
+ rcw_don_cca.3.b:0 "Volsky's newspaper is closed, and he is under surveillance."
+ 
+ rcw_don_cca.4.t:0 "Convene a Union Meeting"
+ rcw_don_cca.4.desc:0 "The Southeastern Union was created by the Cossacks for Cossack purposes and did not get much development. Using the established ties, our legitimate government can already conclude a full-fledged treaty of joint action in an expanded composition, both with the Kuban and the Caucasus, and possibly with the Ukraine. Thus will begin the process of uniting Russia on a federal basis. "
+ rcw_don_cca.4.a:0 "Send out invitations."
+ rcw_don_cca.4.b:0 "Only those who are not at war with Germany should be invited."
+ 
+ rcw_don_cca.5.t:0 "Invite to a meeting"
+ rcw_don_cca.5.desc:0 "The Southeastern Union is moving to a new form of operation. The new government on the Don wants to expand the union and secure by treaty mutual obligations, thus beginning to unite Russia on a federal basis. Now [FROM.GetName] is the main proponent of nationhood throughout the former empire. Cooperation with it is definitely preferable to cooperation with the White and Red great powers. But the powers of the committee are few. "
+ rcw_don_cca.5.a:0 "Agree to cooperate on terms of autonomy "
+ rcw_don_cca.5.b:0 "Agree to cooperate on allied terms."
+ rcw_don_cca.5.c:0 "A handful of demagogues cannot protect us"
+ rcw_don_cca.5.d:0 "We are more interested in the German position "
+ 
+ rcw_don_cca.6.t:0 "[FROM.GetName] becomes autonomous"
+ rcw_don_cca.6.desc:0 ""
+ rcw_don_cca.6.a:0 "Unbelievable!"
+ 
+ rcw_don_cca.7.t:0 "[FROM.GetName] becomes an ally"
+ rcw_don_cca.7.desc:0 ""
+ rcw_don_cca.7.a:0 "United Front!"
+ 
+ rcw_don_cca.8.t:0 "[FROM.GetName] will not cooperate"
+ rcw_don_cca.8.desc:0 "Self-interested tendencies have prevailed, and the local government has refused our help. HQ believes this gives us an excuse to view our neighbors as a hostile entity and make a plan in case of confrontation. "
+ rcw_don_cca.8.a:0 "We will not use force "
+ rcw_don_cca.8.b:0 "We will act when Ukraine is hostile "
+ rcw_don_cca.8.c:0 "There are Kubans who are loyal to us "
+ rcw_don_cca.8.d:0 "When we reach Crimea, they will not resist "
+ rcw_don_cca.8.e:0 "Today the Highland government has moved into the counterrevolutionary camp "
+ 
+ rcw_don_cca.9.t:0 "Treason by the Ukrainian government"
+ rcw_don_cca.9.desc:0 "The Ukrainians made a deal with imperialism and provided their resources to meet the needs of the German army. Moreover, the Ukrainian army now acts in concert with the invaders. Considering it our duty to restore the eastern front, we must regard the Ukrainians as a new enemy. Alas. "
+ rcw_don_cca.9.a:0 "The liberation of Ukraine has begun."
+ rcw_don_cca.9.b:0 "The Germans are getting closer. We'll be ready."
+ 
+ rcw_don_cca.10.t:0 "Secret correspondence with General Pokrovsky"
+ rcw_don_cca.10.desc:0 "The Kuban Rada has refused us an alliance. The soviets are ready to give up their territory for plunder, only not to compromise their imaginary independence. Fortunately, the main forces at their disposal are a handful of Cossacks and bayonets of Pokrovsky. The latter is disloyal to the Rada, and initially created detachments under the banner of defending the Constituent Assembly. On this ground, we have established contact with him and can encourage the general to overthrow the anti-people power. But he has his own conditions. "
+ rcw_don_cca.10.a:0 "It is dangerous to nurture Bonaparte with your own hands."
+ rcw_don_cca.10.b:0 "Pokrovsky deserves a reward for restoring the rule of the people."
+ 
+ rcw_don_cca.11.t:0 "Money for Pokrovsky"
+ rcw_don_cca.11.desc:0 "The coup will be the more successful the more Kubans are loyal to us and to General Pokrovsky. Although he relies entirely on his units, money to carry out the agitation will be far from superfluous. "
+ rcw_don_cca.11.a:0 "Send lots of money."
+ rcw_don_cca.11.b:0 "Send Money"
+ rcw_don_cca.11.c:0 "No money"
+ 
+ rcw_don_cca.12.t:0 "Pokrovsky Popularity Growth"
+ rcw_don_cca.12.desc:0 "General Pokrovsky is gaining popularity and fame in the troops, although he is not a native of Kuban. He was one of the first to begin assembling anti-Bolshevik units, when even the Rada did not support his endeavors by ordering him to "leave to raise troops in his homeland.""
+ rcw_don_cca.12.a:0 "We hope he doesn't use his popularity against us."
+ 
+ rcw_don_cca.13.t:0 "Ammo for Pokrovsky"
+ rcw_don_cca.13.desc:0 "The coup in Kuban requires additional ammunition that no one but us and Pokrovsky will know about."
+ rcw_don_cca.13.a:0 "Equip Pokrovsky's fighters first."
+ rcw_don_cca.13.b:0 "Allocate Pokrovsky ammo for exactly one assault."
+ rcw_don_cca.13.c:0 "Doesn't Pokrovsky have ammo?"
+ 
+ rcw_don_cca.14.t:0 "Support Demonstration"
+ rcw_don_cca.14.desc:0 "Pokrovsky's popularity in Kuban is increasing, and many at headquarters indicate that our government should demonstrate its support for the general, thereby further strengthening his authority and intimidating the self-styled Rada. "
+ rcw_don_cca.14.a:0 "Let's have a reception in honor of General Pokrovsky."
+ rcw_don_cca.14.b:0 "Give Pokrovsky the title of General of the People's Army"
+ rcw_don_cca.14.c:0 "It is risky to show our connections."
+ 
+ rcw_don_cca.15.t:0 "Pokrovsky visits Don"
+ rcw_don_cca.15.desc:0 "General Pokrovsky is away from Kuban for a while for the sake of honoring the Don committee by the government. The general's disloyalty to the Kuban Rada has long been noted and this kind of attention to Pokrovsky on the part of the committee members may indicate the creation of some kind of alliance between them. Now we can simply forbid the general to return to the Kuban citing any formal reason, which will cause a scandal in the troops and, probably, deterioration of relations with the committee. "
+ rcw_don_cca.15.a:0 "Prohibit Pokrovsky from returning to the Kuban."
+ rcw_don_cca.15.b:0 "Let's not muddy the waters."
+ 
+ rcw_don_cca.16.t:0 "Disgrace Pokrovsky"
+ rcw_don_cca.16.desc:0 "General Pokrovsky came to the Don at our invitation. The official purpose was to attend a reception in his own honor. In fact, he was to discuss with the staff of the people's army a plan for a future coup. Suddenly we received the news that Pokrovsky was officially forbidden to return to the Kuban. Apparently, the Rada suspected something. "
+ rcw_don_cca.16.a:0 "The coup has failed "
+ 
+ rcw_don_cca.17.t:0 "The coup de grace"
+ rcw_don_cca.17.desc:0 "Today General Pokrovsky's troops paraded in front of the Rada, of which neither the government nor the rest of the army were warned. While Pokrovsky's men marched with banners unfurled and bayonets drawn, his adjutant delivered an ultimatum to disband all organs of the Kuban Republic until the Don Committee could decide their fate later. Cossacks and Circassians loyal to the Rada were cut off in advance. In view of the suddenness of the coup, the frightened Radyans were forced to sign an ultimatum, after which General Pokrovsky spoke from the balcony of the government announcing to the troops the reunification of the Kuban with democratic Russia. The news was greeted with jubilation. "
+ rcw_don_cca.17.a:0 "The history of the non-independent Kuban ended "
+ 
+ rcw_don_cca.18.t:0 "Expedition to Kuban"
+ rcw_don_cca.18.desc:0 "General Pokrovsky arrived at the Don to discuss secretly with our headquarters a plan to overthrow the self-styled Rada. And here we had a disagreement with the general. The matter is that Pokrovsky demanded that about two thousand hardened fighters of people's army be sent to Kuban together with him, in case the loyalists of Rada blocked his way back. Our command claims that with this arrangement, a clash between Pokrovsky and the Radyans would be taken by the Kuban Republic as the beginning of war and we would get a new front in the south. "
+ rcw_don_cca.18.a:0 "We will go all the way."
+ rcw_don_cca.18.b:0 "The general must execute all in his own strength."
+ 
+ rcw_don_cca.19.t:0 "Pokrovsky obeys"
+ rcw_don_cca.19.desc:0 "After receiving news of his undesirability to continue in the ranks of our army, General Pokrovsky, who had previously retired to the Don, officially announced his transfer to the People's Army. He also urged his soldiers and officers to follow him to the Don. Undoubtedly, these events would affect the combat effectiveness of the Kuban troops."
+ rcw_don_cca.19.a:0 "We will not see him again."
+ 
+ rcw_don_cca.20.t:0 "Invasion from the north."
+ rcw_don_cca.20.desc:0 "Yesterday, a significant detachment of People's Army troops crossed the Kuban border. The demand to stop the advance was rejected by the detachment. And after the Kubans threatened to open fire, General Pokrovsky came out of the ranks of the People's Army to them, and declared that from now on, the power of the Rada was declared overthrown because of the "manifest betrayal of the cause of the unification of Russia." He also called to go over to his side and fight together against the Bolsheviks. After such a turn of events, the Kuban dared not start a fight. However, a little later, having come to their senses, some of the officers sent messengers to other detachments and began to gather forces to confront Pokrovsky. "
+ rcw_don_cca.20.a:0 "Death to the Don Committee and the traitor Pokrovsky!"
+ rcw_don_cca.20.b:0 "Guarantee the lives of the members of the Rada, and we will lay down our arms."
+ 
+ rcw_don_cca.21.t:0 "Fail the coup of Pokrovsky."
+ rcw_don_cca.21.desc:0 "General Pokrovsky crossed the line by plotting an act against the democratic government of the Kuban Republic. Luckily, officers and Cossacks loyal to us were able to figure out Pokrovsky's combination in time. After that a surveillance was set up for him. And soon, our agents were able to break into a night meeting of the rebels. The general tried to shoot back and was killed on the spot. In tomorrow's newspapers we will publish documents denouncing the usurpers and their allies in the Don Committee. "
+ rcw_don_cca.21.a:0 "Outrageous!"
+ 
+ rcw_don_cca.22.t:0 "The success of Pokrovsky's coup "
+ rcw_don_cca.22.desc:0 "General Pokrovsky, as expected, stopped the criminal subversion of the bourgeois Kuban Rada. "
+ rcw_don_cca.22.a:0 "Long live, free Russia! "
+ 
+ rcw_don_cca.23.t:0 "Initiative Pokrovsky"
+ rcw_don_cca.23.desc:0 "Since joining our army, General Pokrovsky has never abandoned his efforts to gather as many personally loyal soldiers as possible. A clever man, he quickly understood the environment in which he found himself and, therefore, did not hesitate to rush democratic slogans before the Committee and the Cossacks, keeping his men in the strictest discipline. His brutality, however, scares away runaway politicians from the capital, but it is very much to the hearts of the soldiers on the front lines and staff officers in the rear. Pokrovsky earns more and more sympathy from different strata of society and risks becoming too popular without having a clear place in the hierarchy of the committee authorities. Many feel that it is time to do something about this. "
+ rcw_don_cca.23.a:0 "Send him on a diplomatic mission to Europe."
+ rcw_don_cca.23.b:0 "Introduce the general to political circles officially."
+ 
+ rcw_don_cca.24.t:0 "Southern State Meeting"
+ rcw_don_cca.24.desc:0 "In these uneasy times the government finds it necessary, for the sake of saving the seat of democracy and in the interests of the peoples liberated by the revolution, to proceed immediately to unite on federal and autonomous principles the south of Russia, and afterwards the whole country. To discuss this difficult question we are convening a new state meeting, at which representatives of the Union autonomies will be present with the right to vote."
+ rcw_don_cca.24.a:0 "Let the discussion begin."
+ 
+ rcw_don_cca.25.t:0 "Our delegation to the Southern Meeting."
+ rcw_don_cca.25.desc:0 "[CCA.GetName] convenes a new meeting to discuss unification while military conflicts with external enemies and usurpers in the center of the country continue. Undoubtedly the goal of the Don committee members in the negotiations will be to gain maximum power over us. "
+ rcw_don_cca.25.a:0 "The main thing is not to sign too much."
+ 
+ rcw_don_cca.26.t:0 "Economic Management Project"
+ rcw_don_cca.26.desc:0 "Southern State Meeting is open. After welcoming speeches, the first item on the agenda is the creation of a unified economic administration under the Don Committee. As suggested by the visiting delegations, the activities of the directorate will be to redistribute resources to the regions and autonomies most in need. Representatives of the People's Army for their part also convince of the necessity of this department, but for the needs of the common front. Clearly, two different understandings of the issue collide here. "
+ rcw_don_cca.26.a:0 "We are ready for an economic administration "
+ rcw_don_cca.26.b:0 "We will cooperate, but only on finances "
+ rcw_don_cca.26.c:0 "Both initiatives are groundless "
+ 
+ rcw_don_cca.27.t:0 "Transport System Unification"
+ rcw_don_cca.27.desc:0 "The Southern Caucus moves on to discuss unification of the transportation system. First of all, the railroads must be synchronized. Then establish rules for simplified border crossing for vehicles of all parties. And most importantly, an accounting of all vehicles that can be mobilized in favor of the front. All the work is to be entrusted to a single "Southern Transport Committee. "
+ rcw_don_cca.27.a:0 "The Don Committee should deal with the question of transportation "
+ rcw_don_cca.27.b:0 "Separate agreements are better for each issue "
+ rcw_don_cca.27.c:0 "Our roads are ours only "
+ 
+ rcw_don_cca.28.t:0 "Unification of Military Commands"
+ rcw_don_cca.28.desc:0 "The Southern State Caucus began discussion today on the central issue of establishing a unified military command. It is envisaged that the allied armies of the Committee will be commanded from the headquarters of its People's Army, and all operations will be planned there. Some delegations nevertheless point to the excessive centralism of such measures. "
+ rcw_don_cca.28.a:0 "The Don knows better how to fight "
+ rcw_don_cca.28.b:0 "Ordinary cooperation is enough "
+ rcw_don_cca.28.c:0 "We should not join forces... with them "
+ 
+ rcw_don_cca.33.t:0 "Southern Meeting Report"
+ rcw_don_cca.33.desc_1:0 "After much tedious debate, [CCA.GetLeader] closes the state meeting. Hopes of consolidating the south are dashed, and the influence of the Don government, which has failed to agree with its allies, is significantly undermined. Suffice it to say that the puppet governments, having received a vote at the meeting, now do not reckon with their former masters. Meanwhile, the Don opposition is stirring up scandal in the press, and the People's Army is increasingly contemptuous of the current regime. "
+ rcw_don_cca.33.desc_2:0 "After much tedious debate, [CCA.GetLeader] closes the state meeting. We did some really serious work together. Not everything was smooth, but the important thing is that everyone at the meeting stayed true to the course of joining forces. "
+ rcw_don_cca.33.desc_3:0 "All issues discussed at the meeting are resolved positively. The delegations show their full readiness to cooperate. Against this background, the Don Committee proposes the adoption of a joint resolution on federal unification. "
+ rcw_don_cca.33.a:0 "Another talk is closed."
+ rcw_don_cca.33.b:0 "Total failure of our diplomacy."
+ rcw_don_cca.33.c:0 "This is good."
+ rcw_don_cca.33.d:0 "Federation with Russia is what we need"
+ rcw_don_cca.33.e:0 "No need to rush it"
+ rcw_don_cca.33.f:0 "Sign or lose"
+ 
+ rcw_don_cca.34.t:0 "Fail in the Volga Region"
+ rcw_don_cca.34.desc:0 "It is unknown exactly how the network was broken into, only that it no longer exists. The remaining legal organizations are being shut down, and the surviving agents have laid low or scattered."
+ rcw_don_cca.34.a:0 "We will liberate the Volga otherwise."
+ 
+ rcw_don_cca.35.t:0 "Mother Volga"
+ rcw_don_cca.35.desc:0 "The Volga region has always been a springboard for uprisings of the oppressed peasantry. The people well remember the names of Razin and Pugachev. Naturally, after the usurpation of power by the Bolsheviks, we turned our eyes to this fertile and freedom-loving region. Soon the peasants and front-line townspeople responded to our call. Hoping for quick help from the People's Army, the Volga underground began a war of liberation. "
+ rcw_don_cca.35.a:0 "Volga free!"
+ 
+ rcw_don_cca.36.t:0 "Connection with the Rebellious Cossacks."
+ rcw_don_cca.36.desc:0 "As a result of the brave maneuvering of the People's Army, we were able to establish a direct connection with the forces of the Upper Don rebellion. After negotiations between headquarters, the rebel Cossacks expressed their desire to join our army. "
+ rcw_don_cca.36.a:0 "Cossacks with the people!"
+ 
+ rcw_don_cca.37.t:0 "Amidst the darkness engulfing Russia."
+ rcw_don_cca.37.desc:0 "In a small wagon on the outskirts of the city is the headquarters of the Alexeyev organization. It was so named in honor of its creator, General Alekseev, former commander in chief of the entire Russian front. After the victory of the usurpers in Russia, he managed to gather the backbone of patriotic officers and together with them went to the Don. Upon arriving here, the organization had time to take part in battles and tried to conduct a dialogue with the army circle and the Cossacks as equals. However, the Cossacks found it in their own interest to hand over power to the democratic forces, and so [CCA.GetName] was formed. Now, many officers of the Alyakseevskys had transferred to the People's Army, while the rest became hostages of the organization's uncertain status before the new authorities. Another part of the officers are hardcore reactionaries, who fundamentally reject the legitimacy of our government and are ready, even in words... The main problem for us is the autonomy of the Alyakseevs. As long as the "volunteers" do not recognize the supremacy of the "People's Army", putting these troops side by side will be dangerous for the integrity of the front. In addition, who will guarantee that the words of the reactionaries will not become deeds? Perhaps only General Alexeyev himself. "
+ rcw_don_cca.37.a:0 "That's the man to talk to "
+ 
+ rcw_don_cca.38.t:0 "Alexeev's position."
+ rcw_don_cca.38.desc:0 "Alexeev welcomes our delegation quite cordially. It follows from his words that the 'volunteers' are ready to begin combat work now. But negotiations would not be negotiations if the officers did not want to insist on their terms. From the mouth of the aged leader they demand to keep the units in unity, to allow them to wear their own insignia, and to give the main leaders of the movement access to politics and command positions. It should be understood that the first would preserve the de facto autonomy of the volunteers, the second would set them apart from the general mass of troops, however, not particularly homogeneous now, and the last would bring many opponents of democracy back into the legal field. "
+ rcw_don_cca.38.a:0 "All conditions are fair "
+ rcw_don_cca.38.b:0 "We welcome all allies except the Black Hundred thugs "
+ 
+ rcw_don_cca.39.t:0 "White Guards, is your way high?"
+ rcw_don_cca.39.desc:0 "After the acceptance of the Alexeyev organization into the People's Army, our commissars had to filter out many people with questionable biographies and views. Now all these White Guards, who represented reaction in the anti-Bolshevik movement, are gathered in one camp and are awaiting expulsion from our state. The most desperate of them demand passage to Siberia. The more sensible ones ask permission to cross over to the liberated lands closer. Finally, our government thinks the best option is to expel the White Guards to Europe. "
+ rcw_don_cca.39.a:0 "Let them go to Siberia."
+ rcw_don_cca.39.b:0 "Send them to Europe."
+ 
+ rcw_don_cca.40.t:0 "Arrival of the White Guard"
+ rcw_don_cca.40.desc:0 "Not long ago, through our agents, we established contact with the exiled Don White Guards. Today the exiles have returned to free Russian soil to continue their struggle. "
+ rcw_don_cca.40.a:0 "Ura for the heroes of the white struggle!"
+ 
+ rcw_don_cca.41.t:0 "Negotiations with the foremen."
+ rcw_don_cca.41.desc:0 "The estate society had long ago become obsolete and had been generally dismantled by the revolution. Only the Cossacks, as a class united by a hierarchy of subordination, retained relative organization. The Cossacks are still loyal to their generals and love to gossip about the affairs of the army circle. In such a situation, it is logical to simply conclude a contract with the Cossack leaders, especially we have something to bargain about. First of all, some authoritative Cossacks are already actively cooperating with our Committee and openly show interest in all-Russian politics. It is not difficult to suppose, that the Cossack generals are very vain and for a good post they will provide us with the necessary level of loyalty. Second, the same trick can be pulled by appointing Cossacks to key positions in the People's Army. Although this runs the risk of usurpation of the entire army by a bunch of generals and obviously will not please the officers-democrats. Third, most Cossacks are wary and distrustful of the efforts of our radicals to promote the agrarian reforms. By giving the Cossacks guarantees not to undertake the final division of land in the region we will be able to gain the support of all strata of the Cossacks, but will lose in popularity with the local "out-of-towners.""
+ rcw_don_cca.41.a:0 "Offer a ministerial portfolio to one of the Cossacks "
+ rcw_don_cca.41.b:0 "Reorganize the headquarters so as to please the Cossacks "
+ rcw_don_cca.41.c:0 "We'll have to explain to our "hotheads", a couple of theses about the land "
+ 
+ rcw_don_cca.42.t:0 "Cossack Minister"
+ rcw_don_cca.42.desc:0 "Of all the Cossack leaders, the committee was able to select several of the most suitable candidates for a position in the government. The committee considers it possible to appoint P.H. Popov as Minister of War or A.P. Bogayevsky as Minister of Foreign Affairs. The committee also agreed on several candidates for the less important post of minister without portfolio, which in our situation might nevertheless get a special role. "
+ rcw_don_cca.42.a:0 "We welcome the new Minister of War."
+ rcw_don_cca.42.b:0 "We hope relations with our neighbors improve "
+ rcw_don_cca.42.c:0 "Kaledin will get his ministerial portfolio "
+ rcw_don_cca.42.d:0 "Krasnov has always advocated democracy "
+ 
+ rcw_don_cca.43.t:0 "Cossack Counter-Reforms"
+ rcw_don_cca.43.desc:0 "The establishment of firm state power was perceived by the Cossacks as the return of the old autocratic order. They were even more excited when they learned from the elders that the new government would not redistribute land in the region until the end of the war. And now we are already receiving numerous complaints about Cossacks appropriating previously demarcated land, about restoration of property rights for landlords, and finally about the expulsion of non-Russian peasants from some territories. Certainly the Cossacks have misunderstood the essence of the government's decisions, but obstructing them could again destroy the fragile compromise."
+ rcw_don_cca.43.a:0 "The Cossacks are in their right "
+ rcw_don_cca.43.b:0 "Somewhere the Cossacks overdid it"
+ rcw_don_cca.43.c:0 "The people's army will tame these gangs "
+ 
+ rcw_don_cca.44.t:0 "Who is against us?"
+ rcw_don_cca.44.desc:0 "Having seen the results of the Reds' hostilities on the Don and in the frontier regions, the Cossacks understood well that this contagion could not be allowed to enter their homes. However, beyond the border of the army region, Cossack units become ineffective, refusing to fight and thereby undermining the combat effectiveness of the entire People's Army. The reason is simple: Cossacks do not understand the need to fight for all of Russia; in their view, by holding their own region, they can somehow make peace with the Reds. We need to prepare an agitation, explaining to the Cossacks the essence of the all-Russian struggle of the Committee and the People's Army. First of all, we can emphasize the democratic element, we can explain to the Cossacks that without freedom for the whole Russia, freedom for the Don is impossible, we can make them understand that we are fighting against the usurpers of their legitimate rights. Secondly, it is possible to play on the traditional world view of the Cossacks and their adherence to Orthodoxy, because the battle with the Antichrist does not involve a peace agreement. And finally, some believe it is possible to fan the flames of national pride in the Cossacks, with which they so recently burned as part of the Russian Empire."
+ rcw_don_cca.44.a:0 "Death to the usurpers!"
+ rcw_don_cca.44.b:0 "Death to the demons!"
+ rcw_don_cca.44.c:0 "Death to the traitors of Russia! "
+ 
+ rcw_don_cca.45.t:0 "Free Will"
+ rcw_don_cca.45.desc:0 "The government officially allowed Cossacks conscripted to self-organize and join the army in their own units, with their own officers. "
+ rcw_don_cca.45.a:0 "The measure is interesting, we will wait for the results "
+ 
+ rcw_don_cca.46.t:0 "Failure of self-organization"
+ rcw_don_cca.46.desc:0 "Despite the government's good intentions, the Cossacks were not conscious enough and simply ignored the new decree. "
+ rcw_don_cca.46.a:0 "It's worse for them."
+ 
+ rcw_don_cca.47.t:0 "Arrival of an unauthorized detachment"
+ rcw_don_cca.47.desc_1:0 "Responding to the government's initiative, the Cossacks have assembled partisan regiments and are ready to march to the front under Revolutionary Banners."
+ rcw_don_cca.47.desc_2:0 "Responding to the government's initiative, the Cossacks have assembled partisan regiments and are ready to march to the front under Orthodox Banners."
+ rcw_don_cca.47.desc_3:0 "Responding to the government's initiative, the Cossacks have assembled partisan regiments and are ready to march to the front under Ataman Banners."
+ rcw_don_cca.47.desc_4:0 "Responding to the initiative of the government, the Cossacks have assembled partisan regiments and are ready to march to the front under Russian Tricolor Banners."
+ rcw_don_cca.47.a:0 "Eagles!"
+ 
+ rcw_don_cca.48.t:0 "Results of self-organization."
+ rcw_don_cca.48.desc:0 "After the announcement of self-organization, some of the Cossacks who until then had sat at home and did not want to serve under foreign officers volunteered to join our army."
+ rcw_don_cca.48.a:0 "Long live the Cossacks!"
+ 
+ rcw_don_cca.49.t:0 "Another meeting."
+ rcw_don_cca.49.desc:0 "After making momentous decisions for the Don and Russia, the army circle continues its work and deals with the affairs of the region and the Cossacks in a daily regime. However, in our time even the state routine is an element of politics, aimed at creating a new country. That is why sometimes disputes flare up in the circle and, what is worse, grumblings spread towards the government. Nevertheless, we have the tools in our hands to quell any discontent. "
+ rcw_don_cca.49.a:0 "Initiate the election of a loyal ataman "
+ rcw_don_cca.49.b:0 "Demonstrate the power of the People's Army "
+ rcw_don_cca.49.c:0 "Use the authority of the People's General "
+ rcw_don_cca.49.d:0 "Revolutionary Cossacks will take care of the problem "
+ 
+ rcw_don_cca.50.t:0 "Re-elect the ataman"
+ rcw_don_cca.50.desc_1:0 "The election of a new ataman went somewhat off track. The Cossack minister, having enlisted the support of the Don Cossacks, nevertheless announced that he was not going to obey the authorities, who were pushing the Cossacks aside, unquestioningly. He also promised to raise the question of Cossack self-government high again in the near future."
+ rcw_don_cca.50.desc_2:0 "Everything went as well as it could. Our candidate was elected as the new ataman of the army. "
+ rcw_don_cca.50.a:0 "Outrageous."
+ rcw_don_cca.50.b:0 "Excellent."
+ 
+ rcw_don_cca.51.t:0 "Preparing an Address"
+ rcw_don_cca.51_desc_pre_assembly:0 "The agrarian question is the central question of the development of Russia and the world. The peasants are waiting for a final solution, and here the government faces a multifaceted dilemma. On the one hand, all reforms must be carried out by decision of a popularly elected Constituent Assembly; on the other, we are the members of the only past Assembly. But if our government decides everything by itself, other governments and parties will not be happy.It is also clear that the agrarian reform carried out according to the socialist model will take a long time and it is not equal to a simple distribution of land, although it includes it.In any case, we must address the absolute majority of citizens of the agrarian region, indicating whether we want to legalize the work of special commissions "black redistribution", carry out the reform immediately, delay until the Constituent Assembly or conduct it systematically. "
+ rcw_don_cca.51_desc_after_assembly:0 "The agrarian question is the central question of the development of Russia and the whole world. The peasants are waiting for a final solution and here the government faces a multifaceted dilemma. It is also clear that the agrarian reform carried out according to the socialist model will take a long time and is not equal to a simple distribution of land, although it includes it. In any case, we should address the absolute majority of citizens of the agrarian region, specifying whether we want to legalize by special commissions the "black redistribution", conduct the reform immediately or conduct it systematically."
+ rcw_don_cca.51.a:0 ""Black Redistribution" will be made legal."
+ rcw_don_cca.51.b:0 "Announce immediate reform."
+ rcw_don_cca.51.c:0 "Announce Planned Reform"
+ rcw_don_cca.51.d:0 "Reform will be postponed until the new Assembly"
+ 
+ rcw_don_cca.52.t_planned:0 "Planned Reform"
+ rcw_don_cca.52.t_instant:0 "Rapid Reform"
+ rcw_don_cca.52.desc_planned:0 "In order for the peasantry as a class to get its hands on the means of production our government must establish a system of permanent distribution, rather than relying on the populist slogan of giving away land all at once. A single redistribution will only result in the mass of the peasantry becoming dependent on the inheritance of their fathers again in ten years' time, and some will have considerably more land, while others will have none at all. Thus, the only distribution is the right way to prolong the agrarian crisis in Russia. However, the centuries-old life of the Russian village has already developed a natural mechanism of permanent fair redistribution, which is the land community. Our task is to extend this form of relations to the whole country and thus to establish a kind of all-Russian land community. In such a community an employee will be able to obtain possession of a piece of land necessary for his livelihood in any part of the country. Such a program will certainly be welcomed by the peasantry.n Its implementation will require considerable scientific work and qualified personnel. The land surveyors will literally have to measure the whole of Russia. The Land Reform Commission will begin its work with the most problematic regions, which our government has full control over, and then move on to others so that in the end the reform will be implemented in its entirety throughout the country. Until then, regions not affected by reform will be able to set temporary regimes in consultation with the commission.  "
+ rcw_don_cca.52.desc_instant:0 "In order for the peasantry as a class to get its hands on the means of production our government must establish a system of permanent distribution, not rely on the populist slogan of giving away land all at once. A single redistribution will only result in the mass of the peasantry becoming dependent on the inheritance of their fathers again in ten years' time, and some will have considerably more land, while others will have none at all. Thus, the only distribution is the right way to prolong the agrarian crisis in Russia. However, in the centuries-long life of the Russian village, a natural mechanism of permanent fair redistribution has already been developed, which is the land community. Czarism tried to modernize the community by unsuitable methods. Stolypin's reforms failed, but they did some damage to the communal way of life. Our government's goal is to restore it to all possible limits without looking too far ahead. With this approach, the Land Reform Commission will be able to finish its work quickly enough, satisfying the aspirations of the peasants in the most problematic regions. "
+ rcw_don_cca.52.a:0 "We have hard work ahead of us."
+ rcw_don_cca.52.b:0 "Onward to communal labor!"
+ 
+ rcw_don_cca.53.t:0 "New Russia Project"
+ rcw_don_cca.53.desc:0 "After the beginning of regular supplies from abroad, the government was able to allocate some funds to strengthen its industrial base. In this connection, our economists have prepared several plans concerning the industry of Novorossia and the Don region. The first, and the most costly, is to establish new factories in already developed industrial areas. The second puts more emphasis on manufacturing production, which should result in somewhat less need to buy foreign steel. The third plan involves improving infrastructure in the Yuzovka-Lugansk-Rostov triangle."
+ rcw_don_cca.53.a:0 "We need factories."
+ rcw_don_cca.53.b:0 "We need metal."
+ rcw_don_cca.53.c:0 "The third plan is most optimal"
+ 
+ rcw_don_cca.54.t:0 "Shortage of workers "
+ rcw_don_cca.54.desc:0 "As it turns out, to execute the government's economic plans in a country at war, there is a trivial lack of laborers. We could turn a blind eye to this and continue working as is until the end of hostilities. On the other hand, it is possible to exempt some workers from military service. Finally, as a punishment, prisoners of war from the opposing side could be put to work."
+ rcw_don_cca.54.a:0 "Let's leave it at that."
+ rcw_don_cca.54.b:0 "Return workers to factories."
+ rcw_don_cca.54.c:0 "Prisoners must earn their bread"
+ 
+ rcw_don_cca.55.t:0 "Arrival of Parliamentarians"
+ rcw_don_cca.55.desc:0 "Unexpected news comes from the east: the committee's parliamentarians crossed the front today. The purpose of their arrival is stated to be a truce and a further end to the civil war."
+ rcw_don_cca.55.a:0 "Some nonsense."
+ rcw_don_cca.55.b:0 "Time to put an end to this misunderstanding among the Social Revolutionaries."
+ rcw_don_cca.55.c:0 "Offer an armistice for the duration of the war with Germany"
+ 
+ rcw_don_cca.56.t:0 "Contemptuous rejection."
+ rcw_don_cca.56.desc:0 "The Reds waited for their command's reply and handed it over in the form of a sealed package to our parliamentarians. The document contained within is in fact an agitation of complete lies to our government. The war will continue and the radicals must accept it."
+ rcw_don_cca.56.a:0 "Reds demand Russian blood."
+ 
+ rcw_don_cca.57.t:0 "Proposal of the Left Social Revolutionaries."
+ rcw_don_cca.57.desc:0 "A proposal to form a coalition has been received from the government of the Left Social Revolutionaries. On the one hand it is advantageous, as it will make it possible to end the bloodshed and come to all-Russian power, but on the other hand the leading role in the coalition will be played by the Left."
+ rcw_don_cca.57.a:0 "Telegraph that we agree."
+ rcw_don_cca.57.b:0 "Fighting will continue."
+ 
+ rcw_don_cca.58.t:0 "Offer rejected"
+ rcw_don_cca.58.desc:0 "The Esers of the committee rejected our proposal"
+ rcw_don_cca.58.a:0 "Such a nasty feeling on the soul..."
+ 
+ rcw_don_cca.59.t:0 "Offer accepted"
+ rcw_don_cca.59.desc:0 "The Right Socialist Socialists have entered the coalition. The Committee is abolished, its territories are under our control."
+ rcw_don_cca.59.a:0 "United front, shoulder to shoulder!"
+ 
+ rcw_don_cca.60.t:0 "Truce for the War."
+ rcw_don_cca.60.desc:0 "Oddly enough, the Reds were sympathetic to the idea of an armistice. Their government indicated that it did not think it possible to continue fighting while the same enemy, German imperialism, was advancing on the Don and Moscow. Probably we really should postpone the clashes until the end of the German aggression. In any case, the government is now in an awkward position, for the refusal will be perceived by the public as the committee's desire to acquire more power at the expense of a foreign invasion."
+ rcw_don_cca.60.a:0 "We can fight on two fronts."
+ rcw_don_cca.60.b:0 "All forces to the anti-German front!"
+ 
+ rcw_don_cca.61.t:0 "Tips useful and harmful"
+ rcw_don_cca.61.desc:0 "The so-called Soviets are still present in the liberated territory. Formed during the Revolution they were supposed to be, in fact, organs of direct popular democracy. And the Social Revolutionaries were never in general afraid of the Soviets and did not oppose them sharply. It is a different matter that the Bolsheviks were able to usurp the Soviets in many places, and it is no secret that their agents retained influence even after the retreat of the Red Army. Is direct democracy so necessary during a protracted war? "
+ rcw_don_cca.61.a:0 "Keep the Soviets, but without the Communists "
+ rcw_don_cca.61.b:0 "Let's allow Soviets, but without official status "
+ rcw_don_cca.61.c:0 "Abolish Soviets if possible, transferring their functions to new bodies.
+ 
+ rcw_don_cca.62.t:0 "Don Proposal"
+ rcw_don_cca.62.desc:0 "[CCA.GetName] is trying to start new negotiations to end the war on terms of a united Social Revolutionary government in Russia. That is, the rightists are demanding that half of the state power be given to them. Given the real balance of the armed forces, we can expect to crush the Don Committee, which has tainted itself with ties to reactionary generals, but continuing the bloodshed will put a black mark on the authority of the people's power and untie the hands of reaction and Bolshevism for the time being. "
+ rcw_don_cca.62.a:0 "Negotiations are inappropriate here."
+ rcw_don_cca.62.b:0 "A bad peace is better than a good war.
+ 
+ rcw_don_cca.63.t:0 "Anarchist Debauchery"
+ rcw_don_cca.63.desc:0 "Our new allies, the anarchists, are showing excessive zeal in fighting bourgeois society. Their formations have only just been created, but they have already made their mark in several robberies against small shopkeepers. And although the elected atamans claim that they themselves will deal with the problem by outlawing the "unconscious comrades," many have doubts about the real fighting ability of the anarchist column. "
+ rcw_don_cca.63.a:0 "Let the anarchists wash away the shame themselves "
+ rcw_don_cca.63.b:0 "The State Guard will find the culprits "
+ rcw_don_cca.63.c:0 "Anarchist regiments must be disbanded "
+ 
+ rcw_don_cca.64.t:0 "Anarchist mutiny"
+ rcw_don_cca.64.desc:0 "Anarchist regiments rebelled when attempting to disarm. Fortunately, the mutineers immediately became mired in rallying and the army has some time to solve the problem. However, no matter how this incident ends it will generate a wave of distrust of the committee's leftist politicians.  "
+ rcw_don_cca.64.a:0 "Send the leaders of the leftist factions to negotiate "
+ rcw_don_cca.64.b:0 "Throw in the Cossacks for suppression "
+ rcw_don_cca.64.c:0 "Send General Manakin's shock troops to the area "
+ rcw_don_cca.64.d:0 "Let the "alekseyevs" sweep away the rebellion "
+ 
+ rcw_don_cca.65.t:0 "Increase the mutiny "
+ rcw_don_cca.65.desc:0 "The measures taken have proven insufficient. The Cossacks are behaving sluggishly, and the incoming leftist agitators themselves are positively disposed to mutiny. As a result, the rebellion has already engulfed an entire district and it is impossible to suppress it otherwise than by the forces of the entire army. "
+ rcw_don_cca.65.a:0 "Damned Anarchists"
+ 
+ rcw_don_cca.66.t:0 "End of Rebellion"
+ rcw_don_cca.66.desc:0 "The leftist agitators who arrived in the rebellion area were able to quickly find common ground with the anarchists. All rebels were promised forgiveness if they laid down their arms. A single gun was fired not far from the negotiation site as a show of force. The anarchists proved sensible. "
+ rcw_don_cca.66.a:0 "The Left proved useful "
+ 
+ rcw_don_cca.67.t:0 "Defeat Rebellion"
+ rcw_don_cca.67.desc:0 "The units arriving in the area of the rebellion have made an outright defeat of the anarchist formations. The unprepared and scattered insurgents quickly lost the will to resist and were partly hacked and pounded in the battle, partly taken prisoner and hanged. A small fraction managed to slip away into the surrounding woods. "
+ rcw_don_cca.67.a:0 "It was brutal.
+ 
+ rcw_don_cca.68.t:0 "Brutal Massacre"
+ rcw_don_cca.68.desc:0 "The other day [CCA.GetName] carried out a brutal operation at the hands of right-wing generals to eliminate rebellious anarchist units. Rumors report of a monstrous massacre perpetrated by the officers. Although our relations with the Don anarchists have never been particularly warm, can we turn a blind eye to all that has happened? "
+ rcw_don_cca.68.a:0 "This is internal Don business."
+ rcw_don_cca.68.b:0 "This is a reason to break off relations "
+ rcw_don_cca.68.c:0 "Enemies will answer for this "
+ 
+ rcw_don_cca.69.t:0 "[FRT.GetLeader] is furious"
+ rcw_don_cca.69.desc_1:0 "After receiving news of the defeat of the anarchists, the Gulyaypol chiefs have decided to cease all communication with us. "
+ rcw_don_cca.69.desc_2:0 "The leaders of Gulyaypol regarded the events of the recent mutiny as an attempt by the government to destroy the anarchist forces. In order to pre-empt us, the Black Guard itself opened hostilities in the east. "
+ rcw_don_cca.69.a:0 "Anarchists are nothing but trouble"
+ rcw_don_cca.69.b:0 "Anarchists should have learned their lesson "
+ 
+ rcw_don_cca.70.t:0 "The Founders"
+ rcw_don_cca.70.desc:0 "Not so far from Gulyaypole the heart of the anti-Bolshevik rebellion of the Right Social Revolutionaries beats. These comrades uphold the half-bourgeois slogans of the constituent assembly, however, they treat the working peasantry much better than the Reds. It must be admitted that the free Cossacks are for the time being surrounded by enemies more dangerous and reactionary, and a fight between the Bolshevik comrades and the SR comrades is thus not in the direct interests of anarchy."
+ rcw_don_cca.70.a:0 "Let the Reds sort it out themselves."
+ rcw_don_cca.70.b:0 "This reactionary force will be crushed "
+ 
+ rcw_don_cca.71.t:0 "The proposal of the Founders"
+ rcw_don_cca.71.desc:0 "Today the committee members made an unexpected appeal to end the disagreement between the socialists of Don and Gulyaypol in order to unite in the struggle against all-Russian reaction. Despite the sweet speeches of the committee men, their real position is very pragmatic - the incorporation of the Free Cossacks into the People's Army with the preservation of the Gulyaypol anarchist autonomy. For us this means the possibility of obtaining weapons and ammunition, as well as temporary cover for the Don direction, but part of the independence will have to be given up."
+ rcw_don_cca.71.a:0 "This is unacceptable."
+ rcw_don_cca.71.b:0 "Rifles and patronage won't hurt us."
+ rcw_don_cca.71.c:0 "We are willing to be allies, but not servants "
+ 
+ rcw_don_cca.72.t:0 "[FRT.GetName]: reject offer"
+ rcw_don_cca.72.desc:0 ""
+ rcw_don_cca.72.a:0 "Pity"
+ 
+ rcw_don_cca.73.t:0 "[FRT.GetName]: agreement"
+ rcw_don_cca.73.desc:0 ""
+ rcw_don_cca.73.a:0 ""
+ 
+ rcw_don_cca.74.t:0 "Manakin's Coup."
+ rcw_don_cca.74.desc:0 "Martial law is declared in the capital - shock troops are introduced into the city to prevent a Bolshevik mutiny. Afterwards, several commanders demanded the establishment of a strong democratic government. Despite the fact that everything that was happening resembled Kornilovshchina, the government, taken under the protection of the strikers, could not take advantage of the loyal forces and after a long wait was forced to issue a statement of self-dissolution. In the resulting power vacuum, a "Committee for Public Salvation" was created from the Cossacks, Cadets, and representatives of the former fronts on the spot. The first and last decision of this body was the appointment of General Manakin as "the guarantor of law and order and public freedoms". The final chord in these events was several scattered Bolshevik demonstrations under the flags of the "restoration of the legitimate government.""
+ rcw_don_cca.74.a:0 "A Hard Day."
+ 
+ rcw_don_cca.75.t:0 "Committee reshuffle"
+ rcw_don_cca.75.desc:0 "The radical wing of the party, recently gaining more influence, took the initiative to re-elect some key positions on the committee board. The moderate wing could not object, knowing that this would violate the very democratic principle of the power being built in the liberated lands. Under such circumstances the radicals gained a majority."
+ rcw_don_cca.75.a:0 "The power is new, but the Committee is still the same."
+ 
+ rcw_don_cca.76.t:0 "Rumors of secret groups "
+ rcw_don_cca.76.desc:0 "Political failures of the Committee create paranoia in some of its members. So rumors circulate about certain groups within the army whose leaders are allegedly plotting to take over power if the democratic government fails to deal with the growing chaos of the civil war. It would be foolish to think that the army's influence would not increase these days, but there is no need to panic about it."
+ rcw_don_cca.76.a:0 "Everything is under control. "
+ 
+ rcw_don_cca.77.t:0 "Committee Arrest"
+ rcw_don_cca.77.desc:0 "Politics in Russia has long been done by a bunch of adventurers and their minions. This time it happened the same way. A group of officers in collusion with opposition Cossacks had been preparing the capture of committee members for several weeks, and finally, having gathered a limited force under cover of night, the conspirators attacked the government building in the morning. Some loyal citizens still tried to resist, but apparently, the reaction had penetrated too deeply into the soul of the People's Army - the units that had not participated in the coup showed indifference, and without them, the fate of democracy was decided. \n\n After all that had happened, the victors decided... "
+ rcw_don_cca.77.a:0 "to proclaim a South Russian government "
+ rcw_don_cca.77.b:0 "to re-establish the Region of the Don Army and the Dobrarmia "
+ rcw_don_cca.77.c:0 "restore Cossack power "
+ 
+ rcw_don_cca.78.t:0 "Grandfather Chernov"
+ rcw_don_cca.78.desc:0 "Viktor Mikhailovich has been involved in the life of the party since its founding. His intelligence was the key to the renewal of the people's ideology, and his will and determination made it possible to preserve the movement in the years of the most severe trials. When other Party heroes like Savinkov, Spiridonova, or Kerensky fell into populism, got lost in the whirlwind of change, or simply betrayed the very idea of popular rule, Viktor Mikhailovich unwaveringly pursued the right course. He stood at the rostrum of the first Constituent Assembly as a living threat to leftist Black Hundreds. Neither the split of the Party nor the threat to his own life broke Chernov. Now there is hardly a man in the party seriously ready to encroach on his authority. "
+ rcw_don_cca.78.a:0 "So it will be written in the textbooks of the New Russia "
+ 
+ rcw_don_cca.79.t:0 "The Fate of the Stone Coal District "
+ rcw_don_cca.79.desc:0 "The beginning of our agitation work in the southern factories had an unexpected effect on the popularity of the question of the ownership of the Stone-coal district. The agitators are often asked why Yuzovka is assigned to an unknown Ukrainian government, there is discontent in the army with the Samosti, and finally some members of the Committee also began to talk about the incorrectness of the spontaneously established border. The annexation of the territories of the Coal Basin will not only increase our industrial power, but will also attract many nationally minded citizens to the side of our government. However, it is worth considering possible complications with the Ukrainian state."
+ rcw_don_cca.79.a:0 "Demand the return of the coal district "
+ rcw_don_cca.79.b:0 "It is necessary to declare respect for the integrity of Ukraine!"
+ 
+ rcw_don_cca.80.t:0 "Reactionary parties condemn the government"
+ rcw_don_cca.80.desc:0 "After our representatives officially stated the need to respect the territorial integrity of the Ukrainian state, a barrage of criticism came down on the government. Cadet and monarchist newspapers non-stop scribbling on the alleged sale of Russian lands. Reactionaries are incapable of understanding the high principle of the self-determination of nations and reach unbelievable heights in their anger toward the Ukrainian people. Unfortunately, many unwise heads in the army and administration fall for these provocations - we notice a growing disrespect for the government and, at the same time, a tendency to approve of cadet hysterics. "
+ rcw_don_cca.80.a:0 "Chauvinism rears its head "
+ 
+ rcw_don_cca.81.t:0 "[GetName.CCA] makes claims "
+ rcw_don_cca.81.desc:0 "According to the Russians, the territories of the Stone Coal District should go to their disposal. The visiting diplomats point out that these lands are not inhabited by Ukrainians, have been developed and developed by the Russians themselves, and therefore from the principle of self-determination of nations it is fair to transfer the border to the west. "
+ rcw_don_cca.81.a:0 "You should not quarrel with them "
+ rcw_don_cca.81.b:0 "This is robbery, we don't agree "
+ 
+ rcw_don_cca.82.t:0 "Ukraine's rejection"
+ rcw_don_cca.82.desc:0 "Ukrainian representatives refused to give us the territories of the Stone Coal Basin, citing previously established borders and the principle of self-determination of nations."
+ rcw_don_cca.82.a:0 "What do you mean they refused? They are our autonomy."
+ rcw_don_cca.82.b:0 "Stronger measures should be applied."
+ rcw_don_cca.82.c:0 "We must retreat "
+ 
+ rcw_don_cca.83.t:0 "Powerless autonomy"
+ rcw_don_cca.83.desc:0 "Despite our protest, the Russians have taken over the coal district. Being their autonomy, there was nothing we could do."
+ rcw_don_cca.83.a:0 "Autonomy was a mistake! "
+ 
+ rcw_don_cca.85.t:0 "Victory [GetName.CCA]."
+ rcw_don_cca.85.desc:0 ""
+ rcw_don_cca.85.a:0 "That's it"
+ 
+ rcw_don_cca.86.t:0 "Victory [GetName.UKR]"
+ rcw_don_cca.86.desc:0 ""
+ rcw_don_cca.86.a:0 "So there"
+ 
+ rcw_don_cca.87.t:0 "Who is Mr. Manakin?"
+ rcw_don_cca.87.desc:0 "In spite of the confidence of the patriotic forces gathered on the Don in the figure of Manakin, the general is rather unknown on the Russian scale. His career is closely connected with revolutionary events and was almost parallel to the successes of the Socialist-Revolutionary Party until recent events. Many would like to see Manakin as a Russian Bonaparte, who could, disperse all local "directories" and proceed to the creation of a strong republican regime, supported by the army. Meanwhile, there are also strong hopes that the general will disregard personal honors and repeat the feat of Prince Pozharsky, who put an end to the Russian Troubles of the seventeenth century. "
+ rcw_don_cca.87.a:0 "You can do anything with bayonets, but you can't sit on them."
+ rcw_don_cca.87.b:0 "I do not flatter myself with supreme power."
+ 
+ rcw_don_cca.88.t:0 "Cornet Fortunatov"
+ rcw_don_cca.88.desc:0 "Boris Konstantinovich Fortunatov is one of the representatives of the revolutionary youth of the beginning of the century. Back in the first revolution he fought on the Moscow barricades against the tsarist troops. Then followed arrest, years of exile and return as a common soldier already on the German front. Now Fortunatov, using his revolutionary credibility and his own charisma, attracts people to serve in our army. And what is more, Fortunatov fights personally, he distinguished himself for his courage when the People's Army was still a handful of volunteers. From everything it comes out that this man can be approached without fear - accepting the necessity of General Manakin's rule he may become one of his most loyal supporters. "
+ rcw_don_cca.88.a:0 "He will become the new adjutant "
+ 
+ rcw_don_cca.89.t:0 "First Citizen of the Republic."
+ rcw_don_cca.89.desc:0 "Russia has been through a storm. Until a few years ago, few people knew the name of the humble officer Manakin. Now he is a respected patriot of the motherland, who led the people's army to liberate Moscow from red usurpers. But there is still a lot of work. Victor Konstantinovich spends most of the day in his office to fix at least part of the devastation that the Bolsheviks and Germans brought to the country. Now that the war is over, however, the general is relieved to be able to sign his last decree so that with it he can hand the supreme power over to true popular representation. "
+ rcw_don_cca.89.a:0 "Russia will not forget you, General!"
+ 
+ rcw_don_cca.90.t:0 "Dissolution of the Committee."
+ rcw_don_cca.90.desc:0 "The Committee of the Constituent Assembly was created as a body of popular power, opposed to reaction and Bolshevism, its main purpose being the restoration of the rule of the people. Most of the members of the Committee had come a long way from the tsarist prisons and the temporary triumph of democracy, through the bandit dispersal of the first Assembly, to the victory of the Russian arms in the Civil War. Finally, those many administrative and economic functions which had been entrusted to the Provisional Committee passed into the hands of the legitimate government. Surrounded by honor and universal respect, the members of the Committee announce its dissolution!"
+ rcw_don_cca.90.a:0 "They have, after all, established a new state."
+ 
+ rcw_don_cca.91.t:0 "The government is responsible to the Committee."
+ rcw_don_cca.91.desc:0 "Representatives of the People's Freedom Party have recently gained extraordinary influence over the Committee of the Constituent Assembly. Through the Cadets the Committee has been able to establish a strong connection with the industrialists and to draw the upper classes into the struggle for democracy. However, the opposite influence is also noticeable - the industrialists, wherever possible, are increasing the influence of the Cadet Party on the government. After several inter-party meetings the Socialist-Revolutionaries came to the conclusion that they had reliable supporters in the Kadets for the time being, and in order to avoid the appearance of disagreements the SRs were ready to approve a Kadet government under the Committee. In this case, the Committee would not lose power at all, and its basic function, the revival of the Constituent Assembly, would not suffer in any way. The Committee would retain the legislative branch of power, and the Kadet government would be only a conductor of its will. At any rate, that is the assumption. "
+ rcw_don_cca.91.a:0 "The friction between the Allies is overcome!"
+ 
+ rcw_don_cca.92.t:0 "Don Committee."
+ rcw_don_cca.92.desc:0 "The power of the Bolshevik bandits has apparently been established there in the north. For them the Constituent Assembly is not a dream, but a joke, a democratic farce and a "talk show." But the power of this idea was underestimated by the usurpers, just like the power of the Social Revolutionary Party. Having repelled the first attacks from outside, the Don Cossacks began to look for a firm foothold in the All-Russian struggle. The Don will not stand against a red Moscow - this is clear to the Cossack generals and the Novocherkassk government. So Moscow has to be repainted. So it means to raise the whole of Russia to fight for their own freedom. The Cossacks accepted the idea of a constituent assembly and decided to form a new body from the deputies present - the Committee of Members of the Constituent Assembly. All responsibility for the realization of the people's dream now rests with the people's own elected representatives."
+ rcw_don_cca.92.a:0 "The Constituent Assembly has fallen. Long live the Constituent Assembly!"
+ 
+ rcw_don_cca.93.t:0 "The Question of National Self-Determination."
+ rcw_don_cca.93.desc:0 "We are fighting in a region combining many nationalities. To ignore their desire for self-determination is to push the illiterate natives into the clutches of Bolshevism. However, the immediate establishment of autonomies could fragment the forces of multinational democracy. "
+ rcw_don_cca.93.a:0 "Every nation should receive state autonomy."
+ rcw_don_cca.93.b:0 "It is enough to support the peoples at the local level."
+ 
+ rcw_don_cca_news.1.t:0 "Kornilov's Caspian Disaster"
+ rcw_don_cca_news.1.desc:0 "After being expelled from the Don by the moderate government, General Kornilov and his comrades tried to break through to Siberia. With great difficulty they overcame the distance from the Don to the coast of the Caspian Sea and faced the problem of overcoming this natural obstacle. It was not possible to take all the Whites to the other shore at once. Therefore, General Kornilov, taking a small detachment of officers as well as his closest comrades-in-arms,Nezhentsev and Simanovsky, set off, ordering the others to make camp and await news. Meanwhile, the ship carrying the first group of Kornilovs encountered several Red Flotilla raiders. At this point it is already reliably known that this campaign was General Kornilov's last."
+ rcw_don_cca_news.1.a:0 "A great blow to the white cause "
+ rcw_don_cca_news.1.b:0 "A big blow to the white cause."
+ 
+ rcw_don_cca_news.2.t:0 "Reconciliation of Russian Socialists"
+ rcw_don_cca_news.2.desc:0 "The Russian Civil War once again marked a sharp turn. After the Bolshevik revolution, the left-wing and right-wing socialist revolutionaries, who found themselves on opposite sides of the barricades, decided to stop the mutual bloodshed. Now the former "rebels" will sit down at the same table in the Kremlin as those who were in the cart of Bolshevik politics. Recall that the Left Socialist Revolutionaries had earlier carried out a successful anti-Bolshevik coup, taking power into their own hands and thus eliminating a key link that hindered their reconciliation with their former comrades-in-arms."
+ rcw_don_cca_news.2.a:0 "The Socialist Revolutionaries are capable of surprises."
+ 
+ 

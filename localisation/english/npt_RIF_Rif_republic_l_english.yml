@@ -1,0 +1,107 @@
+﻿l_english:
+ RIF_for_ai: "For AI"
+ RIF_gen_polit_1: "Apply to the League of Nations"
+ RIF_sell_Marokko: "Buy Morocco"
+ RIF_Lettov1: "Retired German general"
+ RIF_Lettov2: "Technology from Germany"
+ RIF_Lettov3: "Our new leader"
+ RIF_demand_Marokko: "Claim Morocco"
+ RIF_once_Marokko: "Unite with Morocco"
+ RIF_plan_Marokko: "Plan to capture the Rio de Oro"
+ RIF_plan_Marokko2: "Equip the Separatists with Weapons"
+ RIF_help_USA: "Seek US help"
+ RIF_help_POR: "Together, against the Oppressor"
+ RIF_plan_Marokko3: "Final preparations for the uprising"
+ RIF_plan_Marokko4: "Raise an uprising"
+ RIF_first_prom: "The rudiments of industry"
+ RIF_first_dokyard: "First fleet"
+ RIF_first_fabrik: "First national factories"
+ RIF_first_arms_factory: "First national factories"
+ RIF_first_infrastructure: "Morokino railway"
+ RIF_first_resourses: "Extraction of resources in the desert"
+ RIF_first_VPC: "Create your own military-industrial complex"
+ RIF_first_Marokko_VPC: "Investments in the military-industrial complex"
+ RIF_first_perestroika_strani: "Rebuild the country"
+ RIF_first_resourses2: "Mines in the Rio de Oro"
+ RIF_first_institut: "Establish the Moroccan Institute"
+ 
+ RIF_ROR.1.t: "Appeal to the League of Nations"
+ RIF_ROR.1.d: "Abd al-Krim petitioned the League of Nations to force Spain to sign a white peace with us."
+ RIF_ROR.1.a: "We must hope for the best"
+ 
+ RIF_ROR.2.t: "League of Nations agreed"
+ RIF_ROR.2.d: "After a long meeting in Geneva, it was decided that the Rif Republic should be independent. An ultimatum was sent to Spain so that its government would accept the declaration of independence of the Rif Republic. Alfonso 13 immediately signed a document guaranteeing that we gain freedom as a state!"
+ RIF_ROR.2.a: "Lucky us"
+ 
+ RIF_ROR.3.t: "League of Nations refused"
+ RIF_ROR.3.d: "After a long meeting in Geneva, it was decided that the Rif Republic should be controlled by Spain. Inspired by the Spaniards, they immediately sent troops to us.."
+ RIF_ROR.3.a: "We won't just give up"
+ 
+ RIF_ROR.4.t: "Rif uprising"
+ RIF_ROR.4.d: "The Spanish-French-Moroccan War of 1921-1926 - the colonial war of Spain and France against the Berber Emirate of Rif, created as a result of the uprising in Northern Morocco. The main event is the Battle of Anval, in which the Reef troops inflicted a heavy defeat on the Spaniards, holding the military initiative for the first years. It ended with the elimination of the Emirate of Rif after a joint offensive by Spanish and French troops. Resistance to the Spaniards from local residents, primarily Berbers, began almost immediately after the entry of Spanish troops into northern Morocco. The first hotbed of resistance was the vicinity of Melilla, where Mohammed el Mizan rebelled even before the official signing of an agreement between France and Spain on the partition of Morocco; this uprising was not widespread and was suppressed after a few months. When the real Spanish occupation of the territory began to expand, a new, larger uprising took place - this time in Jabal, the region from the coast of the Atlantic Ocean to the foothills of the Reef, which also includes the administrative center of the protectorate - the city of Tetuan, led by Ahmed al-Rasul, who controls the city Asilah and part of the west coast of the country; The uprising led by this pirate and partisan leader, famous for kidnapping Europeans with a ransom demand, was finally suppressed only in 1921, and even then only because al-Rasul eventually simply sided with the Spaniards. If you want to play for the Rif (with your tricks), then write in the command line tag RIF."
+ RIF_ROR.4.a: "Forward!"
+ 
+ RIF_ROR.9.t: "Rif republic"
+ RIF_ROR.9.d: "The Rif Republic is a rather interesting state. We can provide her with patronage and then use her position for our purposes.."
+ RIF_ROR.9.a: "Good plan"
+ RIF_ROR.9.b: "We have no time for this now"
+ 
+ RIF_ROR.10.t: "USA is interested in our policy"
+ RIF_ROR.10.d: "Recently, the United States looked at us and our lands, now they have openly declared that they are ready to provide us with patronage."
+ RIF_ROR.10.a: "Perfect"
+ 
+ RIF_ROR.7.t: "France agrees"
+ RIF_ROR.7.d: "France agreed to hand over its part of Morocco to us."
+ RIF_ROR.7.a: "Perfect"
+ 
+ RIF_ROR.8.t: "France agrees"
+ RIF_ROR.8.d: "France agreed to give us its part of Morocco, in exchange for joining the Allies."
+ RIF_ROR.8.a: "Perfect"
+
+ RIF_ROR.6.t: "The rif calls for Morocco"
+ RIF_ROR.6.d: "The Rif Republic, wishing to unite Morocco, demanded a part of Africa under our control. They are guaranteed the independence of the United States, so we must make the right choice."
+ RIF_ROR.6.a: "They won't get anything"
+ RIF_ROR.6.b: "Launching take away"
+ 
+ RIF_ROR.5.t: "Buying Morocco"
+ RIF_ROR.5.d: "The purchase of Morocco is complete, our troops have successfully entered new possessions."
+ RIF_ROR.5.a: "Perfect"
+ 
+ RIF_ROR.11.t: "League of Nations for the Independence of the Rif Republic"
+ RIF_ROR.11.d: "After a long meeting in Geneva, it was decided that the Rif Republic should be independent. An ultimatum was sent to us so that we accept the declaration of independence of the Rif Republic. Alfonso 13 immediately signed this document."
+ RIF_ROR.11.a: "Lucky for them"
+ 
+ RIF_ROR.12.t: "Reef Republic seeks US support"
+ RIF_ROR.12.d: "The newly independent Rif Republic asks us, as a country always fighting for the freedom and equality of every nation, to support them in the upcoming military operation."
+ RIF_ROR.12.a: "Of course we will help!"
+ RIF_ROR.12.b: "We have a lot of other things to do"
+ 
+ RIF_ROR.13.t: "Rif Republic asks Portugal for support"
+ RIF_ROR.13.d: "The newly independent Rif Republic asks us to support them in the upcoming military operation.. "
+ RIF_ROR.13.a: "Of course we will help!"
+ RIF_ROR.13.b: "We have a lot of other things to do"
+ 
+ RIF_ROR.14.t: "USA agrees"
+ RIF_ROR.14.d: "After our request for help, the United States turned out to be partial to us and sent military aid. We got the latest weapons and mercenaries"
+ RIF_ROR.14.a: "No wonder we hoped for them"
+ 
+ RIF_ROR.15.t: "Refusal"
+ RIF_ROR.15.d: "We were denied military assistance"
+ RIF_ROR.15.a: "We must rely only on ourselves"
+ 
+ RIF_ROR.16.t: "Portugal agrees"
+ RIF_ROR.16.d: "Portugal accepts our offer and now we will rise together against a common enemy!"
+ RIF_ROR.16.a: "Relying on them, we did the right thing"
+ 
+ RIF_ROR.17.t: "Rio de Oro riot"
+ RIF_ROR.17.d: "Today, the rebels trained by us revolted in the Rio de Oro and handed it over to us. From now on it is part of our Rif Republic!"
+ RIF_ROR.17.a: "Need to wait for Spain's reaction"
+ 
+ RIF_ROR.18.t: "Rio de Oro riot"
+ RIF_ROR.18.d: "Today the rebels revolted in the Rio de Oro and handed it over to the Rif Emirate. Surprisingly, they were equipped with excellent weapons. We must make a decision."
+ RIF_ROR.18.a: "Destroy!"
+ RIF_ROR.18.b: "We do not care..."
+ 
+ RIF_ROR.19.t: "Spain doesn't care"
+ RIF_ROR.19.d: "Stand up proudly, take gunpowder as your dowry. The wrong step is not terrible - there is time ahead. Our resolve is a hidden fire, And behind the first trench there is a second trench"
+ RIF_ROR.19.a: "Ok"

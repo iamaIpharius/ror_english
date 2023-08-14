@@ -1,0 +1,63 @@
+﻿l_english:
+ BUL_army_supply_n_regulation_directorate_dec_cat:0 "Control of the Directorate
+ BUL_army_supply_n_regulation_directorate_dec_cat_desc:0 "The Directorate of Supply, like any emergency economic body, begins to concentrate powers and live its own life. It is unacceptable that industrialists, instead of helping the front, should lobby their interests through the Directorate."
+ BUL_army_supply_directorate_revision_mission:0 "Audit of Directorate activities."
+ BUL_army_supply_directorate_revision_dec:0 "Audit of Directorate activities"
+ BUL_army_supply_directorate_remove_it:0 "Eliminate Directorate"
+ 
+ 
+ BUL_unstable_wide_coalition:0 "Unstable Coalition
+ BUL_unstable_wide_coalition_desc:0 "In a Bulgarian society corroded by contradictions, compromise cannot last. The existing coalition is perceived by most politicians as a tool for their own ascendancy."
+ flag_wide_coalition_des:0 "Broad coalition."
+ BUL_unstable_wide_coalition_mission:0 "Worsening crisis."
+ BUL_coalition_1_support_natsind:0 "Support BZNS"
+ BUL_coalition_1_support_commie:0 "Support the Tight Socialists"
+ BUL_coalition_1_support_socdem:0 "Support the Broad Socialists"
+ BUL_coalition_1_support_marketlib:0 "Support Democrats"
+ BUL_coalition_1_support_soclib:0 "Support the People's Socialists"
+ BUL_coalition_1_support_cons:0 "Support the Liberals"
+ BUL_coalition_2_drujb:0 "Create Friendships"
+ BUL_coalition_2_party_congress:0 "Party Convention"
+ BUL_coalition_2_party_press:0 "Party Press"
+ BUL_coalition_3_party_congress:0 "Party Congress"
+ BUL_coalition_3_strike:0 "Organizing Strikes"
+ BUL_coalition_3_increase_local_cells:0 "Increase local cells"
+ BUL_coalition_4_guard_orange:0 "Orange Guard"
+ BUL_coalition_4_guard_red:0 "Red Guard
+ BUL_coalition_4_promote_loyal_people_to_gov:0 "Promotion of supporters to positions"
+ BUL_coalition_5_elections:0 "Early Elections"
+ BUL_coalition_6_constitutional_reform:0 "Constitutional Reform"
+ BUL_coalition_6_supress_revolution:0 "Suppression of Revolution"
+ 
+ BUL_coalition_1:0 "First decision taken"
+ BUL_coalition_2:0 "Second Solution Taken"
+ BUL_coalition_3:0 "Third Decision Taken"
+ BUL_coalition_4:0 "Fourth Decision Taken"
+ BUL_coalition_5:0 "Fifth Decision Taken"
+ flag_coalition_3_strike_fired:0 "Strikes occurred"
+ flag_coalition_3_strike:0 "Strikes Taken"
+ flag_coalition_3_increase_local_cells:0 "Taken increase in local cells"
+ 
+ BUL_captured_797:0 "Capture [797.GetName]!"
+ BUL_captured_797_desc:0 "Turkey's withdrawal from the war and the stationing of Entente troops on its territory gives the Bulgarian armed forces the full right to fight on its territory. Moreover, it is possible to occupy Contantinople, which would solve both our goals of foreign expansion and take a strategically important position. Turkey is no longer our ally."
+ 
+ BUL_bulgarization_dec_cat:0 "Bulgarization of Regions"
+ 
+ BUL_bulgarize_982:0 "Bulgarize region §Y[982.GetName]§!"
+ BUL_bulgarize_983:0 "Bulgarize region §Y[983.GetName]§!"
+ BUL_bulgarize_928:0 "Bulgarize region §Y[928.GetName]§!"
+ BUL_bulgarize_947:0 "Bulgarize region §Y[947.GetName]§!"
+ BUL_bulgarize_856:0 "Bulgarize region §Y[856.GetName]§!"
+ 
+ BUL_bulgarize_949:0 "Bulgarize region §Y[949.GetName]§!"
+ BUL_bulgarize_797:0 "Bulgarize region §Y[797.GetName]§!"
+ BUL_bulgarize_184:0 "Bulgarize region §Y[184.GetName]§!"
+ BUL_bulgarize_993:0 "Bulgarize region §Y[993.GetName]§!"
+ BUL_bulgarize_106:0 "Bulgarize region §Y[106.GetName]§!"
+ BUL_bulgarize_855:0 "Bulgarize region §Y[855.GetName]§!"
+ 
+ BUL_bulgarize_77:0 "Bulgarize region §Y[77.GetName]§!"
+ BUL_bulgarize_1262:0 "Bulgarize region §Y[1262.GetName]§!"
+ BUL_bulgarize_942:0 "Bulgarize region §Y[942.GetName]§!"
+ BUL_bulgarize_943:0 "Bulgarize region §Y[943.GetName]§!"
+ 
