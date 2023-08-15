@@ -239,7 +239,6 @@ ideas = {
 					tag = URL
 					tag = WVA
 					tag = SIB
-					tag = CRI
 				}
 			}
 			modifier = {
