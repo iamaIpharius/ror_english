@@ -1,0 +1,37 @@
+state = {
+	id = 1035
+	name = "STATE_1035"
+	manpower = 5932
+	state_category = wasteland
+	
+	provinces = {
+		6684 9762 9926 13424
+	}
+	
+	history = {
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = PRM add_core_of = ZKL
+		buildings = {
+			infrastructure = 2
+		}
+		1917.11.7 = {
+			owner = FER
+			add_core_of = FER
+			remove_core_of = RUS
+		}
+		1918.7.2 = {
+			owner = PRM
+		}
+		1936.1.1 = {
+			owner = SOV
+			add_core_of = SOV
+			add_core_of = RUS
+			remove_core_of = FER
+			add_core_of = PRM add_core_of = ZKL
+			buildings = {
+				infrastructure = 2
+			}
+		}
+	}
+}

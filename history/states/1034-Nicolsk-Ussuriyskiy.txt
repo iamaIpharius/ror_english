@@ -1,0 +1,37 @@
+state = {
+	id = 1034
+	name = "STATE_1034"
+	manpower = 72806
+	state_category = pastoral
+	
+	provinces = {
+		810 3787 3843 3977 6838 6989 11750 13422 13423
+	}
+	
+	history = {
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = PRM add_core_of = ZKL
+		buildings = {
+			infrastructure = 2
+		}
+		1917.11.7 = {
+			owner = FER
+			add_core_of = FER
+			remove_core_of = RUS
+		}
+		1918.7.2 = {
+			owner = PRM
+		}
+		1936.1.1 = {
+			owner = SOV
+			add_core_of = SOV
+			add_core_of = RUS
+			remove_core_of = FER
+			add_core_of = PRM add_core_of = ZKL
+			buildings = {
+				infrastructure = 2
+			}
+		}
+	}
+}

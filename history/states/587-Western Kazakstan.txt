@@ -1,0 +1,24 @@
+state = {
+	id = 587
+	name = "STATE_587" # Ust Urt
+	manpower = 25133
+	state_category = rural
+	provinces = { 475 642 10262 12163 13008 13663 13664 }
+	
+	history = {
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 0
+		}
+		1936.1.1 = {
+			owner = SOV
+			add_core_of = SOV
+			add_core_of = KAZ
+			buildings = {
+				infrastructure = 0
+			}
+		}
+	}
+}

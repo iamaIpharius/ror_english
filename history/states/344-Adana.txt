@@ -1,0 +1,34 @@
+state = {
+	id = 344
+	name = "STATE_344"
+	manpower = 535368
+	state_category = town
+	provinces = {
+		886 3921 6813 6956 11746 11810
+	}
+	
+	history = {
+		victory_points = { 11810 5 }
+		victory_points = { 9893 15 }
+		victory_points = { 7620 10 }
+		victory_points = { 6813 3 }
+		victory_points = { 11746 5 }
+		owner = TUR #OTT
+		add_core_of = TUR #OTT
+		add_claim_by = KUR
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			11746 = { naval_base = 3 }
+		}
+		1936.1.1 = {
+			owner = TUR
+			add_core_of = TUR
+			buildings = {
+				infrastructure = 2
+				industrial_complex = 2
+				11746 = { naval_base = 3 }
+			}
+		}
+	}
+}

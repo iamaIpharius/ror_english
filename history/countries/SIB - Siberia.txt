@@ -1,0 +1,373 @@
+﻿capital = 571
+
+set_country_flag = RSDRP_RKP_VKP_KPSS
+set_country_flag = this_country_is_not_a_nation
+
+set_stability = 0.65
+set_war_support = 0.5
+starting_train_buffer = 1.0
+set_convoys = 5
+
+country_event = { id = npt.kostili.5 hours = 2 }
+set_research_slots = 2
+
+	set_technology = {
+
+		# Infantry
+		infantry_weapons0 = 1
+		infantry_weaponsgreat_war = 1
+		infantry_gasmask = 1
+		support_weapons = 1
+		support_weapons1 = 1
+		
+		infantry_binoculars = 1
+		infantry_weapons0 = 1
+		infantry_grenade = 1
+		basic_train = 1
+		motorised_infantry = 1
+		marines = 1
+		marines1 = 1
+		tech_mountaineers = 1
+
+		# Support
+		tech_support = 1
+		tech_engineers = 1
+		tech_recon = 1
+		tech_military_police = 1
+		tech_field_hospital = 1
+		tech_logistics_company = 1
+
+		# Armor
+
+		
+
+		# Artillery
+		gw_artillery = 1
+		gw_field_guns = 1
+		pre_gw_field_guns = 1
+		on_gw_field_guns = 1
+		pre_gw_artillery = 1
+		on_gw_artillery = 1
+		superheavy_artillerygw = 1
+
+
+		# Land Doctrine
+		linar_infantry = 1
+		battlefield_fortifications = 1
+		battle_column = 1
+		riflemans_chain_or_skirmish_line = 1
+		flank_coverage = 1
+		trench_system = 1
+		intermediate_warehouses = 1
+		layered_defense = 1
+		artillery_preparation = 1
+
+		# Navy
+		early_destroyer = 1
+		basic_destroyer = 1
+		improved_destroyer = 1
+		early_light_cruiser = 1
+		basic_light_cruiser = 1
+		early_battlecruiser = 1
+		early_battlecruiser = 1
+		basic_battlecruiser = 1
+		early_battleship = 1
+		basic_battleship = 1
+		early_submarine = 1
+		early_submarine = 1
+		transport = 1
+
+
+
+		# Navy Doctrine
+		#ww1_navaldoctrine = 1
+		#ww1_navaldoctrine_2 = 1
+		#ww1_navaldoctrine_3 = 1
+
+		# Engineering
+		electronic_mechanical_engineering = 1
+		simple_electronics = 1
+		chemical_research = 1
+		
+		poison_gas = 1
+		
+		
+		
+		radio_gw = 1
+		gw_encryption = 1
+		
+		tanktraks = 1
+		electric_motor = 1
+			convey_tech = 1
+
+		# Industry
+		basic_manual_machine_tools = 1
+		improved_manual_machine_tools = 1
+		high_volume_industrial_production = 1
+		basic_machine_tools = 1
+		industrial_railways = 1
+		construction0 = 1
+		construction0_5 = 1
+		bunkers1 = 1
+		
+
+		tanktraks = 1
+		tank_armor = 1
+		aerodynamics_theory = 1
+		aircraft_engine = 1
+		aircraft_guns = 1
+		
+		camera1 = 1
+	}
+	# Air
+	if = {
+		limit = { has_dlc = "By Blood Alone" }
+		set_technology = {
+			scout_fighter_2 = 1
+			biplane_fighter1_2 = 1
+			biplane_fighter2_2 = 1
+		}
+		else = {
+			set_technology = {
+				scout_fighter = 1
+				biplane_fighter1 = 1
+				biplane_fighter2 = 1
+			}
+		}
+	}
+
+add_ideas = {
+	presidential_republic_gov_form
+	unitary_gov_terr
+	emergency_laws_b_law
+	poliparty_system_law
+	realpolitic_policy_law
+	
+	landlordism steel_agricultural_tools
+	cities_low_literacy
+}
+set_politics = {
+	ruling_party = despotism
+	election_frequency = 12
+	elections_allowed = no
+}
+set_popularities = {
+	radical_socialism = 7
+	social_democracy = 2
+	social_liberalism = 31
+	market_liberalism = 40
+	social_conservatism = 5
+	despotism = 15
+}
+set_country_flag = political_social_liberals_not_in_liberal_coalition
+set_country_flag = political_market_liberals_not_in_liberal_coalition
+set_variable = { social_conservatism_coalition = 4 }
+set_variable = { authoritarism_coalition = 4 }
+set_variable = { despotism_coalition = 4 }
+set_variable = { fascism_coalition = 4 }
+
+create_country_leader = { name = "Grigoriy Rogov" desc = "RUS_Grigoriy_Rogov_DESC" picture = "gfx/leaders/SIB/Portrait_Grigoriy_Rogov.dds" expire = "1935.3.2" ideology = anarchist_communism traits = { adventurous_daredevil prince_of_terror } }
+create_country_leader = { name = "Nestor Kalandarishvili" desc = "RUS_Nestor_Kalandarishvili_DESC" picture = "gfx/leaders/SIB/Portrait_Nestor_Kalandarishvili.dds" expire = "1935.3.2" ideology = anarchist_communism traits = { adventurous_daredevil permanent_revolutionary } }
+create_country_leader = { name = "Boris Shumyatsky" desc = "RUS_Boris_Shumyatsky_DESC" picture = "gfx/leaders/SIB/Portrait_Boris_Shumyatsky.dds" expire = "1938.7.29" ideology = marxism traits = { silent_workhorse min_1_totalist_chairman } }
+create_country_leader = { name = "Viktor Mandelberg" desc = "RUS_Viktor_Mandelberg_DESC" picture = "gfx/leaders/SIB/Portrait_Viktor_Mandelberg.dds" expire = "1944.3.15" ideology = social_democracy_ideology traits = { appeaser } }
+create_country_leader = { name = "Grigoriy Patushinsky" desc = "RUS_Grigoriy_Patushinsky_DESC" picture = "gfx/leaders/SIB/Portrait_Grigoriy_Patushinsky.dds" expire = "1944.3.15" ideology = social_democracy_ideology traits = { appeaser min_2_iron_fisted_brute min_1_power_hungry_demagogue } }
+
+create_country_leader = { name = "Mikhail Shatilov" desc = "RUS_Mikhail_Shatilov_DESC" picture = "gfx/leaders/SIB/Portrait_Mikhail_Shatilov.dds" expire = "1938.4.19" ideology = social_liberalism_ideology traits = { } }
+create_country_leader = { name = "Pyotr Derber" desc = "RUS_Pyotr_Derber_DESC" picture = "gfx/leaders/SIB/Portrait_Pyotr_Derber.dds" expire = "1938.4.19" ideology = social_liberalism_ideology traits = { leftist_freemason min_2_sovereignty_supporter propaganda_bungler goal } }
+create_country_leader = { name = "Vladimir Vinogradov" desc = "" picture = "gfx/leaders/RUS/Portrait_Vladimir_Vinogradov.dds" expire = "1932.12.03" ideology = market_liberalism_ideology traits = { } }
+create_country_leader = { name = "Pyotr Vologodsky" desc = "RUS_Pyotr_Vologodsky_DESC" picture = "gfx/leaders/SIB/Portrait_Pyotr_Vologodsky.dds" expire = "1938.4.19" ideology = market_liberalism_ideology traits = { } }
+
+create_country_leader = { name = "Delovoy kabinet" desc = "" picture = "gfx/leaders/SIB/Portrait_Directory.dds" expire = "1953.7.7" ideology = social_conservatism_ideology traits = { military_government_trait } }
+create_country_leader = { name = "Viktor Pepelyaev" desc = "" picture = "gfx/leaders/SIB/Portrait_Victor_Pepelyaev.dds" expire = "1937.9.14" ideology = social_conservatism_ideology traits = { min_2_biased_intellectual ideological_crusader conservative_nationalist } }
+create_country_leader = { name = "Ivan Mikhailov" desc = "RUS_Ivan_Mikhailov_DESC" picture = "gfx/leaders/SIB/Portrait_Ivan_Mikhailov.dds" expire = "1946.8.30" ideology = social_conservatism_ideology traits = { financial_expert min_3_bark min_1_the_peasant_marshal min_1_pragmatic_statesman min_1_technocrat } }
+
+create_country_leader = { name = "Alexandr Ionov" desc = "RUS_Alexandr_Ionov_DESC" picture = "gfx/leaders/SIB/Portrait_Alexandr_Ionov.dds" expire = "1941.3.5" ideology = authoritarism_ideology traits = { political_dancer } }
+#create_country_leader = { name = "Dmitriy II Romanov" desc = "RUS_Dmitriy_Pavlovich_Romanov_DESC" picture = "gfx/leaders/RUS/Portrait_Dmitriy_Pavlovich_Romanov.dds" expire = "1941.3.5" ideology = authoritarism_ideology traits = { inexperienced_monarch anti_democrat murder_of_Rasputin olympian_rider } }
+create_country_leader = { name = "Vyacheslav Volkov" desc = "" picture = "gfx/leaders/SIB/Portrait_Vyacheslav_Volkov.dds" expire = "1935.1.1" ideology = authoritarism_ideology traits = { dictator staunch_monarchist warmonger } }
+create_country_leader = { name = "Mikhail Diterihs" desc = "" picture = "gfx/leaders/SIB/Portrait_Mikhail_Diterihs.dds" expire = "1934.10.9" ideology = authoritarism_ideology traits = { warmonger_old_general great_war_hero staunch_monarchist min_1_traditionalist min_1_spiritual_leader } }
+
+create_country_leader = { name = "Pavel Ivanov-Rinov" desc = "" picture = "gfx/leaders/SIB/Portrait_Pavel_Ivanov-Rinov.dds" expire = "1934.10.9" ideology = despotism_ideology traits = { staunch_monarchist } }
+create_country_leader = { name = "Alexey Grishin-Almazov" desc = "RUS_Alexey_Grishin-Almazov_DESC" picture = "gfx/leaders/SIB/Portrait_Alexey_Grishin-Almazov.dds" expire = "1953.7.7" ideology = despotism_ideology traits = { warmonger min_1_reformist_soldier min_1_flamboyant_tough_guy political_dancer } }
+create_country_leader = { name = "Delovoy kabinet" desc = "" picture = "gfx/leaders/SIB/Portrait_Directory.dds" expire = "1953.7.7" ideology = despotism_ideology traits = { military_government_trait } }
+
+create_country_leader = { name = "Delovoy kabinet" desc = "" picture = "gfx/leaders/SIB/Portrait_Directory.dds" expire = "1953.7.7" ideology = fascism_ideology traits = { military_government_trait } }
+create_country_leader = { name = "Dmitriy Lebedev" desc = "RUS_Dmitriy_Lebedev_DESC" picture = "gfx/leaders/SIB/Portrait_Dmitriy_Lebedev.dds" expire = "1941.2.23" ideology = fascism_ideology traits = { warmonger dictator prince_of_terror min_1_spiritual_leader anti_democrat dislike_jew } }
+create_country_leader = { name = "Konstantin Sakharov" desc = "RUS_Konstantin_Sakharov_DESC" picture = "gfx/leaders/SIB/Portrait_Konstantin_Sakharov.dds" expire = "1941.2.23" ideology = fascism_ideology traits = { warmonger_old_general dictator prince_of_terror min_1_spiritual_leader anti_democrat dislike_jew } }
+
+#create_country_leader = { name = "Lev Gumilev" desc = "" picture = "gfx/leaders/SIB/Portrait_Lev_Gumilev.dds" expire = "1995.3.12" ideology = national_syndicalism_ideology traits = { dislikes_germany } }
+create_country_leader = { name = "Evgeniy Vishnievskiy" desc = "" picture = "gfx/leaders/SIB/Portrait_Evgeniy_Vishnievskiy.dds" expire = "1937.9.14" ideology = national_syndicalism_ideology traits = { warmonger adventurous_daredevil } }
+create_country_leader = { name = "Anatoly Pepelyaev" desc = "" picture = "gfx/leaders/SIB/Portrait_Anatoly_Pepelyaev.dds" expire = "1937.9.14" ideology = national_syndicalism_ideology traits = { min_2_sovereignty_supporter warmonger adventurous_daredevil } }
+
+create_field_marshal = {  name = "Alexey Grishin-Almazov" id = 92345 portrait_path = "gfx/leaders/SIB/Portrait_Alexey_Grishin-Almazov.dds" traits = { organisational_leader expert_delegator } skill = 3 attack_skill = 5 defense_skill = 4 planning_skill = 4 logistics_skill = 4 }
+
+create_corps_commander = { name = "Alexandr Ionov" id = 92346 portrait_path = "gfx/leaders/SIB/Portrait_Alexandr_Ionov.dds" traits = { cavalry_officer } skill = 2 attack_skill = 2 defense_skill = 2 planning_skill = 2 logistics_skill = 2 }
+create_corps_commander = { name = "Anatoly Pepelyaev" id = 92347 portrait_path = "gfx/leaders/SIB/Portrait_Anatoly_Pepelyaev.dds" traits = { trait_reckless ranger inspirational_leader guerilla_fighter scavenger } skill = 2 attack_skill = 4 defense_skill = 4 planning_skill = 3 logistics_skill = 5 }
+create_corps_commander = { name = "Boris Annenkov" id = 92348 portrait_path = "gfx/leaders/SIB/Portrait_Boris_Annenkov.dds" traits = { guerilla_fighter trait_reckless hidden_sympathies substance_abuser inspirational_leader } skill = 2 attack_skill = 2 defense_skill = 2 planning_skill = 2 logistics_skill = 2 }
+create_corps_commander = { name = "Grigoriy Verjbickiy" id = 92349 portrait_path = "gfx/leaders/SIB/Portrait_Grigoriy_Verjbickiy.dds" traits = { career_officer adaptable offensive_doctrine } skill = 2 attack_skill = 3 defense_skill = 3 planning_skill = 3 logistics_skill = 3 }
+create_corps_commander = { name = "Innocentiy Smolin" id = 92350 portrait_path = "gfx/leaders/SIB/Portrait_Innocentiy_Smolin.dds" traits = { guerilla_fighter scavenger career_officer } skill = 2 attack_skill = 3 defense_skill = 2 planning_skill = 2 logistics_skill = 3 }
+create_corps_commander = { name = "Konstantin Sakharov" id = 92351 portrait_path = "gfx/leaders/SIB/Portrait_Konstantin_Sakharov.dds" traits = { career_officer harsh_leader old_guard } skill = 2 attack_skill = 2 defense_skill = 2 planning_skill = 2 logistics_skill = 2 }
+create_corps_commander = { name = "Pavel Ivanov-Rinov" id = 92353 portrait_path = "gfx/leaders/SIB/Portrait_Pavel_Ivanov-Rinov.dds" traits = { career_officer cavalry_officer } skill = 2 attack_skill = 2 defense_skill = 2 planning_skill = 2 logistics_skill = 2 }
+#create_corps_commander = { name = "Vyacheslav Volkov" id = 77458 portrait_path = "gfx/leaders/SIB/Portrait_Vyacheslav_Volkov.dds" traits = { skilled_staffer organizer } skill = 2 attack_skill = 3 defense_skill = 2 planning_skill = 3 logistics_skill = 3 }
+create_corps_commander = { name = "Evgeniy Vishnievskiy" id = 92358 portrait_path = "gfx/leaders/SIB/Portrait_Evgeniy_Vishnievskiy.dds" traits = { infantry_officer } skill = 2 attack_skill = 3 defense_skill = 3 planning_skill = 2 logistics_skill = 3 }
+create_corps_commander = { name = "Vyacheslav Volkov" id = 92359 portrait_path = "gfx/leaders/SIB/Portrait_Vyacheslav_Volkov.dds" traits = { cavalry_officer career_officer } skill = 1 attack_skill = 2 defense_skill = 1 planning_skill = 2 logistics_skill = 1 }
+create_corps_commander = { name = "Dmitriy Lebedev" id = 92360 portrait_path = "gfx/leaders/SIB/Portrait_Dmitriy_Lebedev.dds" traits = { infantry_officer politically_connected career_officer } skill = 2 attack_skill = 2 defense_skill = 2 planning_skill = 2 logistics_skill = 2 }
+
+#create_corps_commander = { name = "Evgeniy Kolosov" id = 92356 portrait_path = "gfx/leaders/SIB/Portrait_Evgeniy_Kolosov.dds" traits = { politically_connected } skill = 1 attack_skill = 1 defense_skill = 1 planning_skill = 1 logistics_skill = 1 }
+#create_corps_commander = { name = "Nikolay Kalashnikov" id = 92357 portrait_path = "gfx/leaders/SIB/Portrait_Nikolay_Kalashnikov.dds" traits = { politically_connected } skill = 1 attack_skill = 1 defense_skill = 1 planning_skill = 1 logistics_skill = 1 }
+
+add_ideas = {
+	volunteer_only
+	partial_economic_mobilisation
+	limited_exports
+	minimum_legislation
+	state_capitalism_law
+	peasant_and_land_and_bread_question_0_5
+	cities_low_literacy
+	lack_of_officers_5
+}
+
+oob = "SIB_1917"
+
+1918.7.2 = {
+		oob = "SIB_1918"
+
+					add_ideas = neutral_foreign_policy_law
+					inherit_technology = RUS
+					if = {
+						limit = { RUS = { has_country_flag = RUS_czechoslovak_legion_uprising } }
+						load_oob = SIB_czechoslovak_corps
+						REB = { every_unit_leader = { limit = { has_id = 92354 } set_nationality = SIB } } # Radola Gaida
+						REB = { every_unit_leader = { limit = { has_id = 92355 } set_nationality = SIB } } # Jan Syrovy
+					}
+					add_timed_idea = {
+						idea = SIB_right_oficers
+						days = 200
+					}
+				retire_ideology_leader = social_liberalism
+				create_country_leader = { name = "Florian Fyodorovich" desc = "RUS_Florian_Fyodorovich_DESC" picture = "gfx/leaders/RUS/Portrait_Florian_Fyodorovich.dds" ideology = social_liberalism_ideology traits = {  } }
+					every_country = {
+						limit = {
+							NOT = {
+								tag = PREV
+								is_any_former_russian_empire_country = yes
+								former_russian_empire_baltic_states_country = yes
+								has_war_with = PREV
+								is_in_faction_with = PREV
+							}
+						}
+						set_THIS_country_non_recognize_PREV = yes
+					}
+			
+		set_politics = {
+			ruling_party = market_liberalism
+			elections_allowed = yes
+		}
+		retire_ideology_leader = despotism
+		add_ideas = {
+			Pyotr_Vologodsky_1
+			Pyotr_Vologodsky_2
+			Ivan_Mikhailov_3
+			Vladimir_Krutovsky_4
+			Grigoriy_Patushinsky_5
+			Alexey_Almazov_6
+			Alexey_Almazov_army_chief
+		}
+			add_to_variable = { var = global.RUS_threat_of_intervention value = 2 }
+			
+					country_event = { id = rcw_usfev.54 days = 60 }
+					country_event = { id = rcw_usfev.56 days = 120 }
+		SIB = { KAZ = { subjecting_script_with_transfer_parties_wthout_contrld_provs_transfer = yes } }
+		
+		
+		
+			hidden_effect = {
+				every_state = {
+					limit = {
+						NOT = { is_core_of = SIB }
+						OR = {
+							state = 40
+							state = 403
+							state = 516
+							state = 564
+							state = 566
+							state = 567
+							state = 568
+							state = 569
+							state = 570
+							state = 571
+							state = 573
+							state = 574
+							state = 575
+							state = 576
+							state = 577
+							state = 578
+							state = 1350
+							state = 579
+							state = 580
+							state = 581
+							state = 644
+							state = 653
+							state = 654
+							state = 909
+							state = 911
+							state = 1279
+							state = 1067
+							state = 1206
+							state = 1207
+							state = 1279
+							
+							state = 563 # Забайкалье
+							state = 564
+							state = 565
+							state = 1208
+							state = 1041
+							state = 1187
+							
+							state = 572 # Орск, Челябинск
+							state = 582
+							state = 1102
+							state = 1103
+							
+							state = 398 # За Уралом - Пермь, Уфа, Оренбург
+							state = 651
+							state = 1299
+							state = 652
+							state = 1025
+							state = 1072
+							state = 1270
+						}
+					}
+					add_core_of = SIB
+				}
+			}
+			every_state = {
+				limit = {
+					OR = {
+						state = 408
+						state = 1034
+						state = 1035
+						state = 1036
+						state = 1037
+						state = 1038
+						state = 409
+						state = 560
+						state = 561
+						state = 637
+						state = 822
+						state = 657
+						state = 655
+						state = 562
+						state = 1185
+						state = 1186
+						state = 1255
+						
+						state = 1039
+						state = 1184
+						state = 1040
+					}
+				}
+				SIB = { add_state_claim = PREV }
+			}
+	complete_national_focus = SIB_siberian_army
+	unlock_national_focus = SIB_pressure_on_CoMotCA
+}

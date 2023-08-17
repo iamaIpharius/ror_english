@@ -1,0 +1,46 @@
+﻿#KiS_Later
+capital = 671
+
+set_technology = {
+	gw_artillery = 1
+	
+	superheavy_artillerygw = 1
+
+	motorised_infantry = 1
+	electronic_mechanical_engineering = 1
+	infantry_weapons0 = 1
+	early_destroyer = 1
+
+	transport = 1
+	early_submarine = 1
+
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_military_police = 1
+	tech_field_hospital2 = 1
+	tech_field_hospital = 1
+	tech_logistics_company = 1
+	#KiS #tech_signal_company = 1
+
+}
+
+country_event = { id = npt.kostili.5 hours = 2 }
+set_research_slots = 2
+
+
+set_politics = { ruling_party = communism last_election = "1910.1.1" election_frequency = 48 elections_allowed = no } set_popularities = { social_conservatism = 0  fascism = 0  communism = 100 }
+
+add_ideas = { limited_conscription }
+
+set_stability = 0.75
+
+create_country_leader = {
+	name = "Phan Châu Trinh"
+	desc = "phan_chau_trinh_desc"
+	picture = "gfx/leaders/hoi4tgw/VNM_phan_chau_trinh.dds"
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {  }
+}
+

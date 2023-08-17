@@ -1,0 +1,252 @@
+capital = 432
+
+set_country_flag = RSDRP_RKP_VKP_KPSS
+set_country_flag = this_country_is_not_a_nation
+
+set_stability = 0.6
+set_war_support = 0.2
+
+country_event = { id = npt.kostili.5 hours = 2 }
+set_research_slots = 2
+
+set_technology = {
+	# Infantry
+	infantry_weaponsgreat_war = 1
+	support_weapons = 1
+	infantry_binoculars = 1
+	infantry_weapons0 = 1
+	infantry_grenade = 1
+		basic_train = 1
+
+	# Support
+	tech_support = 1
+
+	# Armor
+
+	# Artillery
+	gw_artillery = 1
+	gw_field_guns = 1
+
+	# Land Doctrine
+	linar_infantry = 1
+	battlefield_fortifications = 1
+
+	# Navy
+	transport = 1
+
+	# Air
+
+	# Engineering
+	electronic_mechanical_engineering = 1
+	simple_electronics = 1
+	
+
+	# Industry
+	basic_manual_machine_tools = 1
+	improved_manual_machine_tools = 1
+	high_volume_industrial_production = 1
+}
+
+1917.1.1 = {
+	set_technology = {
+	# Infantry
+	infantry_weaponsgreat_war = 1
+	support_weapons = 1
+	support_weapons1 = 1
+	infantry_binoculars = 1
+	infantry_weapons0 = 1
+	infantry_grenade = 1
+		basic_train = 1
+
+	# Support
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+
+	# Armor
+
+	# Artillery
+	gw_artillery = 1
+	gw_field_guns = 1
+	pre_gw_field_guns = 1
+	on_gw_field_guns = 1
+
+	# Land Doctrine
+	linar_infantry = 1
+	battlefield_fortifications = 1
+	battle_column = 1
+	riflemans_chain_or_skirmish_line = 1
+	flank_coverage = 1
+	trench_system = 1
+
+	# Navy
+	transport = 1
+
+	# Air
+
+	# Engineering
+	electronic_mechanical_engineering = 1
+	simple_electronics = 1
+	
+	
+	
+	aerodynamics_theory = 1
+	
+	chemical_research = 1
+
+	# Industry
+	basic_manual_machine_tools = 1
+	improved_manual_machine_tools = 1
+	high_volume_industrial_production = 1
+	industrial_railways = 1
+	
+	construction0 = 1
+	bunkers1 = 1
+	}
+}
+
+set_politics = {
+	ruling_party = social_conservatism
+	elections_allowed = no
+}
+set_popularities = {
+	fascism = 0
+	radical_socialism = 10
+	national_syndicalism = 0
+	communism = 20
+	authoritarism = 15
+	social_liberalism = 5
+	social_conservatism = 40
+	despotism = 5
+	market_liberalism = 5
+}
+add_ideas = {
+	cossaks_regionalism
+	UCH_dvoevlastie
+	UCH_gorynichi
+	
+	unitary_gov_terr
+	poliparty_system_law
+	neutral_foreign_policy_law
+	emergency_laws_b_law
+	parliamentary_republic_gov_form
+	
+	individual_homesteads
+	steel_agricultural_tools
+	cities_low_literacy
+	
+	volunteer_only
+	civilian_economy
+	peasant_and_land_and_bread_question_0_5
+}
+
+create_country_leader = { name = "Ural'skiy sovet" desc = UCH_Uralskiy_sovet_DESC picture = "gfx/leaders/UCH/Portrait_Uralskiy_sovet.dds" expire = "1937.1.7" ideology = social_liberalism_ideology traits = { goal } }
+create_country_leader = { name = "Daniil Kolostov" desc = UCH_Daniil_Kolostov_DESC picture = "gfx/leaders/UCH/Portrait_Daniil_Kolostov.dds" expire = "1937.1.7" ideology = agrarian_communism traits = {  } }
+create_country_leader = { name = "Nikolay Albin" desc = UCH_Nikolay_Albin_desc picture = "gfx/leaders/UCH/Portrait_Nikolay_Albin.dds" expire = "1937.1.7" ideology = national_syndicalism_ideology traits = {  } }
+create_country_leader = { name = "Ural'skiy sovet" desc = UCH_Uralskiy_sovet_DESC picture = "gfx/leaders/UCH/Portrait_Uralskiy_sovet.dds" expire = "1937.1.7" ideology = marxism traits = {  } }
+create_country_leader = { name = "Sergey Tolstov" desc = UCH_Sergey_Tolstov_DESC picture = "gfx/leaders/UCH/Portrait_Sergey_Tolstov.dds" expire = "1937.1.7" ideology = authoritarism_ideology traits = { warmonger_old_general } }
+create_country_leader = { name = "Vladimir Tolstov" desc = UCH_Vladimir_Tolstov_desc picture = "gfx/leaders/UCH/Portrait_Vladimir_Tolstov.dds" expire = "1937.1.7" ideology = despotism_ideology traits = { warmonger ataman } }
+create_country_leader = { name = "Guryan Fomichev" desc = UCH_Guryan_Fomichev_DESC picture = "gfx/leaders/UCH/Portrait_Guryan_Fomichev.dds" expire = "1937.1.7" ideology = social_democracy_ideology traits = { goal } }
+create_country_leader = { name = "Voyskovoe pravlenie" desc = UCH_Voyskovoe_pravlenie_DESC picture = "gfx/leaders/SIB/Portrait_Directory.dds" expire = "1937.1.7" ideology = fascism_ideology traits = {  } }
+create_country_leader = { name = "Feofan Eremin" desc = UCH_Feofan_Eremin_DESC picture = "gfx/leaders/UCH/Portrait_Feofan_Eremin.dds" expire = "1937.1.7" ideology = market_liberalism_ideology traits = {  } }
+create_country_leader = { name = "Voyskovoe pravlenie" desc = UCH_Voyskovoe_pravlenie_DESC picture = "gfx/leaders/SIB/Portrait_Directory.dds" expire = "1937.1.7" ideology = social_conservatism_ideology traits = {  } }
+
+create_corps_commander = {
+	name = "Vasiliy Martynov"
+	portrait_path = "gfx/leaders/UCH/Portrait_Vasiliy_Martynov.dds"
+	traits = { cavalry_officer cavalry_leader trickster career_officer }
+	skill = 2
+	id = 4267556
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 4
+	logistics_skill = 3
+}
+
+1917.11.7 = {
+	load_oob = UCH_cossaks
+	if = {
+		limit = { has_start_date < 1918.1.1 }
+		country_event = { id = rcw_usfev.1930 days = 30 }
+	}
+	
+	add_ideas = neutral_foreign_policy_law
+	hidden_effect = {
+		every_country = {
+			limit = {
+				NOT = {
+					tag = PREV
+					is_any_former_russian_empire_country = yes
+					former_russian_empire_baltic_states_country = yes
+					has_war_with = PREV
+					is_in_faction_with = PREV
+				}
+			}
+			set_THIS_country_non_recognize_PREV = yes
+		}
+	}
+}
+1918.7.2 = {
+	
+				set_country_flag = UCH_second_revolt
+				add_ideas = neutral_foreign_policy_law
+			remove_ideas = UCH_dvoevlastie
+			add_ideas = limited_conscription
+			add_ideas = low_economic_mobilisation
+			unlock_national_focus = UCH_vremennaya_avtonomia
+			unlock_national_focus = UCH_drujina
+			unlock_national_focus = UCH_frontoviki
+			unlock_national_focus = UCH_borba_s_sovetom
+			unlock_national_focus = UCH_vstavay_ural
+			add_war_support = 0.4
+			complete_national_focus = UCH_orujeynie
+			complete_national_focus = UCH_orujee
+			complete_national_focus = UCH_diplomat
+			complete_national_focus = UCH_eshe_drujiny
+			complete_national_focus = UCH_kommisia
+			complete_national_focus = UCH_shtab
+			complete_national_focus = UCH_ofitsery
+			complete_national_focus = UCH_polki
+			hidden_effect = {
+				if = {
+					limit = { NOT = { has_country_flag = UCH_vernulis_polki } }
+					add_manpower = 2000
+					add_equipment_to_stockpile = {
+						type = infantry_equipment
+						amount = 300
+					}
+					add_popularity = {
+						ideology = national_syndicalism
+						popularity = 0.05
+					}
+					set_country_flag = UCH_vernulis_polki
+				}
+				if = {
+					limit = { NOT = { has_country_flag = UCH_lygotnaya_diviziya } }
+					add_manpower = 5000
+					add_equipment_to_stockpile = {
+						type = infantry_equipment
+						amount = 100
+					}
+					set_country_flag = UCH_lygotnaya_diviziya
+				}
+				REB = {
+					every_unit_leader = {
+						limit = { OR = { has_id = 88155 has_id = 65458 has_id = 35652 } }
+						set_nationality = UCH
+					}
+				}
+				REB = {
+					every_unit_leader = {
+						limit = { OR = { has_id = 42344 has_id = 24567 } }
+						set_nationality = UCH
+					}
+				}
+				CCA = {
+					every_unit_leader = {
+						limit = { has_id = 88155 }
+						set_nationality = UCH
+					}
+				}
+			}
+}

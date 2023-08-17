@@ -1,0 +1,396 @@
+ideas = {
+
+	country = {
+		
+		CCA_bread_free = {
+
+			picture = generic_morale_bonus
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				production_factory_efficiency_gain_factor = -0.025
+				conscription = 0.01
+			}
+		}
+		
+		CCA_bread_state = {
+
+			picture = generic_morale_bonus
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				production_factory_efficiency_gain_factor = 0.1
+				conscription = 0.01
+			}
+		}
+		
+		CCA_mobilization_idea = {
+
+			picture = generic_morale_bonus
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				conscription = 0.04
+			}
+		}
+		
+		CCA_workers_questions_idea = {
+
+			picture = generic_morale_bonus
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				industrial_capacity_factory = 0.15
+				conscription = 0.01
+			}
+		}
+		
+		Entente_credit_for_Russia = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				consumer_goods_factor = -0.05
+				production_speed_arms_factory_factor = 0.25
+				production_speed_dockyard_factor = 0.25
+				production_speed_naval_base_factor = 0.25
+				production_speed_coastal_bunker_factor = 0.25
+				production_speed_bunker_factor = 0.25
+				production_speed_air_base_factor = 0.25
+				production_speed_anti_air_building_factor = 0.25
+				production_speed_radar_station_factor = 0.25
+				production_speed_synthetic_refinery_factor = 0.25
+				#political_power_cost = 0.25
+			}
+		}
+		
+		Entente_credit_for_Russia_pay = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				consumer_goods_factor = 0.35
+				political_power_cost = 0.65
+			}
+		}
+		
+		CCA_hunta_idea = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				army_core_attack_factor = 0.15
+				army_core_defence_factor = 0.15
+				resistance_damage_to_garrison = -0.7
+			}
+		}
+		
+		SIB_transsib = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				army_defence_factor = -0.3
+				resistance_damage_to_garrison = 0.5
+			}
+		}
+		
+		CCA_consular_citizen_idea ={
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				army_core_attack_factor = 0.07
+				army_core_defence_factor = 0.07
+				justify_war_goal_time = -0.5
+			}
+			rule ={
+				can_create_factions = yes
+			}
+		}
+		
+		CCA_end_of_civilwar ={
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				war_support_factor = -0.5
+				stability_factor = 0.3
+				justify_war_goal_when_in_major_war_time = 0.80
+				industry_repair_factor = 0.20
+				production_speed_arms_factory_factor = -0.2
+				training_time_army_factor = 0.3
+				production_speed_industrial_complex_factor = 0.1
+				production_speed_infrastructure_factor = 0.1
+			}
+		}
+		
+		CCA_replace_soviets_on_zemstvos_idea = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = new_zemstos
+
+			modifier = {
+				political_power_gain = 0.1
+				consumer_goods_factor = 0.03
+			}
+		}
+		
+		
+		CCA_stolypin_really_god_man_idea = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				consumer_goods_factor = -0.15
+				MONTHLY_POPULATION = -0.05
+				conscription_factor = -0.05
+			}
+		}
+		
+		CCA_parlament_non_titul_nation = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				subjects_autonomy_gain = -0.2
+			}
+		}
+		
+		CCA_new_feudal_lord_idea = {
+		
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+
+			picture = ger_mefo_bills
+
+			modifier = {
+				conscription_factor = -0.35
+				army_org_factor = 0.2
+				attrition = -0.05
+				land_reinforce_rate = 0.05
+				army_core_attack_factor = 0.05
+				army_core_defence_factor = 0.05
+			}
+		}
+		
+		CCA_internal_loan = {
+
+			picture = generic_morale_bonus
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = -0.03
+				production_speed_arms_factory_factor = 0.25
+				production_speed_dockyard_factor = 0.25
+				production_speed_naval_base_factor = 0.25
+				production_speed_coastal_bunker_factor = 0.25
+				production_speed_bunker_factor = 0.25
+				production_speed_air_base_factor = 0.25
+				production_speed_anti_air_building_factor = 0.25
+				production_speed_radar_station_factor = 0.25
+				production_speed_synthetic_refinery_factor = 0.25
+				political_power_cost = 0.5
+			}
+		}
+
+		SIB_CCA_border = {
+
+			picture = generic_morale_bonus
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+
+			}
+			
+			available = {
+				SIB = { exists = yes NOT = { has_war_with = CCA is_subject_of = CCA } is_neighbor_of = CCA }
+				CCA = { exists = yes NOT = { has_war_with = SIB is_subject_of = SIB } is_neighbor_of = SIB }
+			}
+			cancel_if_invalid = yes
+
+			removal_cost = -1
+			
+			modifier = {
+				political_power_gain = -0.25
+				war_support_factor = -0.05
+			}
+		}
+		
+	}
+
+	tank_manufacturer = { 
+		
+		designer = yes
+	
+	}
+
+	industrial_concern = {
+				
+	}
+
+	naval_manufacturer = { 			
+		
+		designer = yes
+		
+		
+	}
+
+	materiel_manufacturer = {
+		
+		designer = yes
+		
+		
+	}
+	
+	aircraft_manufacturer = {
+			
+		designer = yes
+		
+		
+	}
+}

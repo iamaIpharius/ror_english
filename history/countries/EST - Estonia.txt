@@ -1,0 +1,179 @@
+﻿capital = 812
+
+set_country_flag = RSDRP_RKP_VKP_KPSS
+
+set_stability = 0.75
+set_war_support = 0.0
+starting_train_buffer = 1.0
+set_convoys = 1
+
+country_event = { id = npt.kostili.5 hours = 2 }
+set_research_slots = 2
+
+set_technology = {
+
+		# Infantry
+		infantry_weapons0 = 1
+		support_weapons = 1
+		support_weapons1 = 1
+		infantry_binoculars = 1
+		motorised_infantry = 1
+		marines = 1
+		marines1 = 1
+
+
+		# Support
+		tech_support = 1
+		tech_engineers = 1
+		tech_recon = 1
+		#tech_military_police = 1
+		#tech_field_hospital2 = 1
+		#tech_field_hospital = 1
+		#tech_logistics_company = 1
+
+		# Armor
+
+		# Artillery
+		gw_artillery = 1
+		gw_field_guns = 1
+		pre_gw_field_guns = 1
+		on_gw_field_guns = 1
+		superheavy_artillerygw = 1
+
+		# Navy
+		early_destroyer = 1
+		basic_destroyer = 1
+		basic_light_cruiser = 1
+		early_light_cruiser = 1
+		early_battlecruiser = 1
+		early_battleship = 1
+		early_submarine = 1
+		early_submarine = 1
+		transport = 1
+
+		# Air
+
+		# Engineering
+		electronic_mechanical_engineering = 1
+
+		# Industry
+}
+1914.1.1 = {
+	set_technology = {
+
+		# Infantry
+		infantry_weapons0 = 1
+		infantry_weaponsgreat_war = 1
+		support_weapons = 1
+		support_weapons1 = 1
+		infantry_binoculars = 1
+		infantry_weapons0 = 1
+		infantry_grenade = 1
+		basic_train = 1
+		motorised_infantry = 1
+		marines = 1
+		marines1 = 1
+
+
+		# Support
+		tech_support = 1
+		tech_engineers = 1
+		tech_recon = 1
+		tech_military_police = 1
+		tech_field_hospital2 = 1
+		tech_field_hospital = 1
+		tech_logistics_company = 1
+
+		# Armor
+
+
+		# Artillery
+		gw_artillery = 1
+		gw_field_guns = 1
+		pre_gw_field_guns = 1
+		on_gw_field_guns = 1
+		pre_gw_artillery = 1
+		on_gw_artillery = 1
+		superheavy_artillerygw = 1
+
+		# Navy
+		early_destroyer = 1
+		basic_destroyer = 1
+		basic_light_cruiser = 1
+		early_light_cruiser = 1
+		early_battleship = 1
+		basic_battleship = 1
+		early_submarine = 1
+		early_submarine = 1
+		transport = 1
+
+		# Engineering
+		electronic_mechanical_engineering = 1
+
+		# Industry
+	}
+	# Air
+	if = {
+		limit = { has_dlc = "By Blood Alone" }
+		set_technology = {
+			scout_fighter_2 = 1
+			biplane_fighter1_2 = 1
+		}
+		else = {
+			set_technology = {
+				scout_fighter = 1
+				biplane_fighter1 = 1
+			}
+		}
+	}
+}
+
+add_ideas = {
+	presidential_republic_gov_form
+	unitary_gov_terr
+	constitution_b_law
+	poliparty_system_law
+	neutral_foreign_policy_law
+	
+	landlordism steel_agricultural_tools
+	cities_averange_education
+}
+set_politics = {
+	ruling_party = despotism
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_socialism = 10
+	communism = 25
+	social_democracy = 10
+	social_liberalism = 10
+	market_liberalism = 10
+	social_conservatism = 10
+	despotism = 25
+}
+
+
+create_country_leader = { name = "Otto Strandman" desc = EST_ants_piip_DESC picture = "gfx/leaders/EST/Portrait_Otto_Strandman.dds" expire = "1935.1.1" ideology = anarchist_communism  traits = {  } }
+create_country_leader = { name = "Jaan Anvelt" desc = EST_jaan_anvelt_DESC picture = "gfx/leaders/EST/Portrait_Jaan_Anvelt.dds" expire = "1935.1.1" ideology = leninism  traits = {  } }
+create_country_leader = { name = "Otto Strandman" desc = EST_ants_piip_DESC picture = "gfx/leaders/EST/Portrait_Otto_Strandman.dds" expire = "1935.1.1" ideology = social_democracy_ideology  traits = {  } }
+create_country_leader = { name = "Johan Pitka" desc = EST_ants_piip_DESC picture = "gfx/leaders/EST/Portrait_Johm_Pitke.dds" expire = "1935.1.1" ideology = social_liberalism_ideology  traits = {  } }
+create_country_leader = { name = "Jaan Tõnisson" desc = EST_ants_piip_DESC picture = "gfx/leaders/EST/Portrait_Jan_Tonisson.dds" expire = "1935.1.1" ideology = market_liberalism_ideology  traits = {  } }
+create_country_leader = { name = "Johan Kopp" desc = EST_ants_piip_DESC picture = "gfx/leaders/EST/Portrait_John_Kopp.dds" expire = "1935.1.1" ideology = social_conservatism_ideology  traits = {  } }
+create_country_leader = { name = "Konstantin Pats" desc = EST_ants_piip_DESC picture = "gfx/leaders/EST/Portrait_Konstantin_Pats.dds" expire = "1935.1.1" ideology = despotism_ideology  traits = {  } }
+create_country_leader = { name = "Andres Larka" desc = EST_ants_piip_DESC picture = "gfx/leaders/EST/Portrait_Andres_Larka.dds" expire = "1935.1.1" ideology = fascism_ideology  traits = {  } }
+
+create_field_marshal = {  name = "Johan Laidoner" id = 29008 portrait_path = "gfx/leaders/EST/Portrait_Johan_Laidoner.dds" traits = { brilliant_strategist infantry_officer war_hero } skill = 1 attack_skill = 2 defense_skill = 1 planning_skill = 1 logistics_skill = 1 }
+create_corps_commander = {  name = "Ernst Podder" id = 29006 portrait_path = "gfx/leaders/EST/Portrait_Ernst_Podder.dds" traits = { trait_cautious urban_assault_specialist } skill = 1 attack_skill = 1 defense_skill = 2 planning_skill = 1 logistics_skill = 1 }
+create_corps_commander = {  name = "Aleksander Tonisson" id = 29009 portrait_path = "gfx/leaders/EST/Portrait_Aleksander_Tonisson.dds" traits = { trait_reckless winter_specialist } skill = 2 attack_skill = 2 defense_skill = 2 planning_skill = 1 logistics_skill = 2 }
+create_corps_commander = {  name = "Julius Kuperjanov" id = 29002 portrait_path = "gfx/leaders/EST/Portrait_Julius_Kuperjanov.dds" traits = { brilliant_strategist trickster guerilla_fighter } skill = 2 attack_skill = 2 defense_skill = 1 planning_skill = 2 logistics_skill = 1 }
+create_corps_commander = {  name = "Andres Larka" id = 29003 portrait_path = "gfx/leaders/EST/Portrait_Andres_Larka.dds" traits = { organizer career_officer } skill = 2 attack_skill = 1 defense_skill = 1 planning_skill = 3 logistics_skill = 1 }
+create_corps_commander = {  name = "Jaan Soots" id = 29004 portrait_path = "gfx/leaders/EST/Portrait_Jaan_Soots.dds" traits = { infantry_officer trickster } skill = 2 attack_skill = 2 defense_skill = 1 planning_skill = 2 logistics_skill = 1 }
+
+
+add_ideas = {
+	limited_exports
+	volunteer_only
+	minimum_legislation
+	low_economic_mobilisation
+}

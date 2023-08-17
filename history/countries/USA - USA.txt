@@ -1,0 +1,406 @@
+﻿capital = 361
+
+set_stability = 0.5
+set_war_support = 0.3
+starting_train_buffer = 1.0
+set_convoys = 200
+
+country_event = { id = npt.kostili.5 hours = 2 }
+set_research_slots = 2
+
+set_technology = {
+
+	# Infantry
+	infantry_weapons0 = 1
+	infantry_weaponsgreat_war = 1
+	support_weapons = 1
+	support_weapons1 = 1
+	infantry_binoculars = 1
+	infantry_weapons0 = 1
+	infantry_grenade = 1
+		basic_train = 1
+	motorised_infantry = 1
+	
+	marines = 1
+	marines1 = 1
+
+	# Support
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+
+	# Armor
+
+	
+	gwtank = 1
+
+	# Artillery
+	gw_artillery = 1
+	gw_field_guns = 1
+	pre_gw_field_guns = 1
+		on_gw_field_guns = 1
+	superheavy_artillerygw = 1
+
+	# Navy
+	early_destroyer = 1
+	basic_destroyer = 1
+	early_light_cruiser = 1
+	basic_light_cruiser = 1
+	early_battlecruiser = 1
+	early_battlecruiser = 1
+	basic_battlecruiser = 1
+	early_battleship = 1
+	basic_battleship = 1
+	early_submarine = 1
+	early_submarine = 1
+	transport = 1
+
+	# Engineering
+	electronic_mechanical_engineering = 1
+	chemical_research = 1
+	
+	# Industry
+	bunkers1 = 1
+}
+	if = {
+		limit = { has_dlc = "By Blood Alone" }
+		set_technology = {
+			scout_fighter_2 = 1
+			biplane_fighter1_2 = 1
+			biplane_fighter2_2 = 1
+			biplane_bomber_2 = 1
+			gw_biplane_bomber_2 = 1
+			airship1_2 = 1
+		}
+		else = {
+			set_technology = {
+				scout_fighter = 1
+				biplane_fighter1 = 1
+				biplane_fighter2 = 1
+				biplane_bomber = 1
+				gw_biplane_bomber = 1
+				airship1 = 1
+			}
+		}
+	}
+1914.1.1 = {
+	set_technology = {
+
+		# Infantry
+		infantry_weapons0 = 1
+		infantry_weaponsgreat_war = 1
+		infantry_gasmask = 1
+		support_weapons = 1
+		support_weapons1 = 1
+		
+		infantry_binoculars = 1
+		infantry_weapons0 = 1
+		infantry_grenade = 1
+		basic_train = 1
+		infantry_weapons = 1
+		motorised_infantry = 1
+		
+		marines = 1
+		marines1 = 1
+		tech_mountaineers = 1
+
+		# Support
+		tech_support = 1
+		tech_engineers = 1
+		tech_recon = 1
+		tech_military_police = 1
+		tech_field_hospital = 1
+		tech_logistics_company = 1
+		tech_signal_company = 1
+
+		# Armor
+
+		
+		
+		gwtank = 1
+
+		# Artillery
+		gw_artillery = 1
+		gw_field_guns = 1
+		pre_gw_field_guns = 1
+		on_gw_field_guns = 1
+		pre_gw_artillery = 1
+		on_gw_artillery = 1
+		superheavy_artillerygw = 1
+
+
+		# Land Doctrine
+		linar_infantry = 1
+		battlefield_fortifications = 1
+		battle_column = 1
+		riflemans_chain_or_skirmish_line = 1
+		flank_coverage = 1
+		trench_system = 1
+		intermediate_warehouses = 1
+		layered_defense = 1
+		artillery_preparation = 1
+		wave_offensive = 1
+
+		# Navy
+		early_destroyer = 1
+		basic_destroyer = 1
+		improved_destroyer = 1
+		early_light_cruiser = 1
+		basic_light_cruiser = 1
+		early_battlecruiser = 1
+		early_battlecruiser = 1
+		basic_battlecruiser = 1
+		early_battleship = 1
+		basic_battleship = 1
+		early_submarine = 1
+		early_submarine = 1
+		transport = 1
+
+		# Engineering
+		electronic_mechanical_engineering = 1
+		simple_electronics = 1
+		chemical_research = 1
+		
+		
+		radio_gw = 1
+		gw_encryption = 1
+		
+		electric_motor = 1
+			convey_tech = 1
+
+		# Industry
+		basic_manual_machine_tools = 1
+		improved_manual_machine_tools = 1
+		high_volume_industrial_production = 1
+		basic_machine_tools = 1
+		production_mechanization = 1
+		industrial_railways = 1
+		conversion_of_civilian_factories = 1
+		labor_mobilization = 1
+		construction0 = 1
+		construction0_5 = 1
+		bunkers1 = 1
+		
+
+		
+		poison_gas = 1
+		
+		tanktraks = 1
+		tank_armor = 1
+		
+		aerodynamics_theory = 1
+		aircraft_engine = 1
+		aircraft_guns = 1
+		
+		camera1 = 1
+		camera2 = 1
+		
+		fuel_silos = 1
+		fuel_refining = 1
+	}
+	if = {
+		limit = { has_dlc = "By Blood Alone" }
+		set_technology = {
+			scout_fighter_2 = 1
+			biplane_fighter1_2 = 1
+			biplane_fighter2_2 = 1
+			biplane_bomber_2 = 1
+			gw_biplane_bomber_2 = 1
+			airship1_2 = 1
+		}
+		else = {
+			set_technology = {
+				scout_fighter = 1
+				biplane_fighter1 = 1
+				biplane_fighter2 = 1
+				biplane_bomber = 1
+				gw_biplane_bomber = 1
+				airship1 = 1
+			}
+		}
+	}
+}
+
+add_ideas = OVL_idea
+
+add_to_array = { ROOT.economic_exploitation_influenced_countries = CUB.id }
+add_to_array = { ROOT.economic_exploitation_influenced_countries = HAI.id }
+add_to_array = { ROOT.economic_exploitation_influenced_countries = DOM.id }
+add_to_array = { ROOT.economic_exploitation_influenced_countries = GUA.id }
+add_to_array = { ROOT.economic_exploitation_influenced_countries = HON.id }
+add_to_array = { ROOT.economic_exploitation_influenced_countries = NIC.id }
+add_to_array = { ROOT.economic_exploitation_influenced_countries = COS.id }
+add_to_array = { ROOT.economic_exploitation_influenced_countries = PAN.id }
+every_country = {
+	limit = {
+		is_in_array = {
+			array = ROOT.economic_exploitation_influenced_countries
+			value = THIS.id
+		}
+	}
+	set_variable = { foreing_capital_economic_influence^ROOT = 5 }
+	set_variable = { domestic_capital_economic_influence = 1 }
+	set_variable = { domestic_cooperatives_economic_influence = 0 }
+}
+add_to_array = { ROOT.economic_exploitation_exploited_countries = CUB.id }
+add_to_array = { ROOT.economic_exploitation_exploited_countries = HAI.id }
+add_to_array = { ROOT.economic_exploitation_exploited_countries = DOM.id }
+add_to_array = { ROOT.economic_exploitation_exploited_countries = GUA.id }
+add_to_array = { ROOT.economic_exploitation_exploited_countries = HON.id }
+add_to_array = { ROOT.economic_exploitation_exploited_countries = NIC.id }
+add_to_array = { ROOT.economic_exploitation_exploited_countries = COS.id }
+add_to_array = { ROOT.economic_exploitation_exploited_countries = PAN.id }
+
+
+puppet = NIC
+set_autonomy = {
+	target = NIC
+	autonomous_state =  autonomy_colony
+}
+puppet = DOM
+set_autonomy = {
+	target = DOM
+	autonomous_state = autonomy_colony
+}
+puppet = HAI
+set_autonomy = {
+	target = HAI
+	autonomous_state = autonomy_colony
+}
+puppet = PAN
+set_autonomy = {
+	target = PAN
+	autonomous_state = autonomy_colony
+}
+
+puppet = LIB
+set_autonomy = {
+	target = LIB
+	autonomous_state = autonomy_puppet
+}
+diplomatic_relation = {
+	country = NIC
+	relation = military_access
+	active = yes
+}
+diplomatic_relation = {
+	country = NIC
+	relation = docking_rights
+	active = yes
+}
+
+add_ideas = {
+	presidential_republic_gov_form
+	federal_gov_terr
+	constitution_b_law
+	two_party_system_law
+	neutral_foreign_policy_law
+	
+	small_farms agricultural_tractor
+	low_literacy_in_countryside
+}
+set_politics = {
+	ruling_party = market_liberalism
+	last_election = "1909.3.4"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	market_liberalism = 51
+	social_conservatism = 43
+	fascism = 0
+	communism = 6
+}
+set_country_flag = political_social_conservatives_in_liberal_coalition
+
+create_country_leader={ name = "Charles Evans Hughes" desc=USA_charles_evans_hughes_DESC picture="gfx/leaders/USA_charles_evans_hughes.dds" expire="1935.1.1" ideology = market_liberalism_ideology traits={  } }
+create_country_leader={ name = "James P. Cannon" desc=USA_james_p_cannon_DESC picture="gfx/leaders/USA_james_p_cannon.dds" expire="1935.1.1" ideology=stalinism traits={  } }
+
+create_country_leader={ name = "Alton B. Parker" desc=USA_alton_b_parker_DESC picture="gfx/leaders/USA_alton_b_parker.dds" expire="1935.1.1" ideology = market_liberalism_ideology traits={  } }
+create_country_leader={ name = "Allan L. Benson" desc=USA_allan_l_benson_DESC picture="gfx/leaders/USA_allan_l_benson.dds" expire="1935.1.1" ideology = market_liberalism_ideology traits={  } }
+create_country_leader={ name = "Eugene V. Debs" desc=USA_eugene_v_debs_DESC picture="gfx/leaders/USA_eugene_v_debs.dds" expire="1935.1.1" ideology=marxism traits={  } }
+create_country_leader={ name = "Warren G. Harding" desc=USA_warren_g_harding_DESC picture="gfx/leaders/USA_warren_g_harding.dds" expire="1935.1.1" ideology = market_liberalism_ideology traits={  } }
+create_country_leader={ name = "William McKinley" desc=USA_william_mckinley_DESC picture="gfx/leaders/USA_william_mckinley.dds" expire="1935.1.1" ideology = market_liberalism_ideology traits={  } }
+create_country_leader={ name = "Garret A. Hobart" desc=USA_garret_a_hobart_DESC picture="gfx/leaders/USA_garret_a_hobart.dds" expire="1935.1.1" ideology=social_conservatism_ideology traits={  } }
+
+create_country_leader={ name = "William H. Taft" desc=USA_william_h_taft_DESC picture="gfx/leaders/USA_william_h_taft.dds" expire="1935.1.1" ideology=market_liberalism_ideology traits={  } }
+create_country_leader={ name = "Robert L. Bullard" desc=USA_robert_bullard_DESC picture="gfx/leaders/USA/Portrait_Robert_Bullard.dds" expire="1935.1.1" ideology = despotism_ideology  traits={  } }
+create_country_leader={ name = "Tasker H. Bliss" desc=USA_tasker_bliss_DESC picture="gfx/leaders/USA/Portrait_Tasker_Bliss.dds" expire="1935.1.1" ideology = fascism_ideology  traits={  } }
+create_country_leader={ name = "Hunter Liggett" desc=USA_hunter_liggett_DESC picture="gfx/leaders/USA/Portrait_Hunter_Liggett.dds" expire="1935.1.1" ideology = national_syndicalism_ideology  traits={  } }
+
+
+create_field_marshal={  name = "Hugh L. Scott" id=93065 portrait_path="gfx/leaders/USA/Portrait_Hugh_Scott.dds" traits={ old_guard cavalry_leader trickster inflexible_strategist } skill=3 attack_skill=2 defense_skill=2 planning_skill=3 logistics_skill=3 }
+create_field_marshal={ name = "Tasker H. Bliss" id=93552 portrait_path="gfx/leaders/USA/Portrait_Tasker_Bliss.dds" traits={ brilliant_strategist thorough_planner expert_delegator } skill=4 attack_skill=2 defense_skill=3 planning_skill=5 logistics_skill=4 }
+create_field_marshal={ name = "John J. Pershing" id=93284 portrait_path="gfx/leaders/USA/Portrait_John_Pershing.dds" traits={ offensive_doctrine war_hero harsh_leader expert_improviser } skill=4 attack_skill=5 defense_skill=2 planning_skill=3 logistics_skill=4 }
+create_field_marshal={  name = "Leonard Wood" id=93186 portrait_path="gfx/leaders/USA/Portrait_Leonard_Wood.dds" traits={ organizer commando politically_connected } skill=3 attack_skill=3 defense_skill=2 planning_skill=3 logistics_skill=2 }
+
+create_corps_commander={  name = "Hunter Liggett" id=93006 portrait_path="gfx/leaders/USA/Portrait_Hunter_Liggett.dds" traits={ naval_invader infantry_officer war_hero fortress_buster } skill=4 attack_skill=4 defense_skill=3 planning_skill=4 logistics_skill=3 }
+create_corps_commander={  name = "Robert L. Bullard" id=93007 portrait_path="gfx/leaders/USA/Portrait_Robert_Bullard.dds" traits={ infantry_leader trickster urban_assault_specialist } skill=3 attack_skill=3 defense_skill=3 planning_skill=3 logistics_skill=2 }
+create_corps_commander={  name = "Joseph T. Dickman" id=93009 portrait_path="gfx/leaders/USA/Portrait_Joseph_Dickman.dds" traits={ winter_specialist war_hero trait_reckless } skill=4 attack_skill=4 defense_skill=5 planning_skill=2 logistics_skill=3 }
+create_corps_commander={  name = "Peyton C. March" id=93010 portrait_path="gfx/leaders/USA/Portrait_Peyton_March.dds" traits={ career_officer bearer_of_artillery skilled_staffer } skill=3 attack_skill=3 defense_skill=2 planning_skill=3 logistics_skill=2 }
+create_corps_commander={  name = "Omar Bundy" id=93012 portrait_path="gfx/leaders/USA/Portrait_Omar_Bundy.dds" traits={ infantry_officer trait_reckless career_officer } skill=3 attack_skill=2 defense_skill=3 planning_skill=3 logistics_skill=3 }
+create_corps_commander={  name = "Edward M. Lewis" id=93045 portrait_path="gfx/leaders/USA/Portrait_Edward_Lewis.dds" traits={ infantry_leader brilliant_strategist fortress_buster } skill=4 attack_skill=5 defense_skill=2 planning_skill=4 logistics_skill=3 }
+create_corps_commander={  name = "Charles G. Morton" id=93296 portrait_path="gfx/leaders/USA/Portrait_Charles_Morton.dds" traits={ infantry_expert organizer trait_cautious } skill=3 attack_skill=3 defense_skill=3 planning_skill=2 logistics_skill=3 }
+create_corps_commander={  name = "Douglas MacArthur" id=93020 portrait_path="gfx/leaders/USA/Portrait_Douglas_MacArthur.dds" traits={ brilliant_strategist career_officer media_personality politically_connected } skill=2 attack_skill=4 defense_skill=3 planning_skill=4 logistics_skill=2 }
+create_corps_commander={  name = "James Harbord" id=93013 portrait_path="gfx/leaders/USA/Portrait_James_Harbord.dds" traits={ commando trait_engineer skilled_staffer } skill=3 attack_skill=2 defense_skill=3 planning_skill=3 logistics_skill=3 }
+
+
+add_ideas = {
+	volunteer_only
+	limited_exports
+	free_trade
+	
+	home_of_the_free
+	USA_old_army
+}
+1913.3.14 = {
+	create_country_leader = { name = "Woodrow Wilson" desc=USA_woodrow_wilson_DESC picture="gfx/leaders/USA/Portrait_Woodrow_Wilson.dds" expire="1935.1.1" ideology = market_liberalism_ideology traits={  } }
+	set_politics = {
+		ruling_party = market_liberalism last_election = "1913.3.4"
+		election_frequency = 48 elections_allowed = yes
+	}
+	set_popularities = {
+		market_liberalism = 51
+		social_conservatism = 43
+		fascism = 0
+		communism = 6
+	}
+}
+
+1914.1.1 = {
+	set_politics = {
+		ruling_party = market_liberalism last_election = "1909.3.4"
+		election_frequency = 48 elections_allowed = yes
+	}
+	set_popularities = {
+		market_liberalism = 51
+		social_conservatism = 43
+		fascism = 0
+		communism = 6
+	}
+	add_ideas = {
+		limited_conscription
+		partial_economic_mobilisation
+		limited_exports
+		free_trade
+		home_of_the_free
+		laissez_faire_law
+	}
+}
+
+1917.1.1 = {
+	oob = "USA_1917"
+}
+
+1917.4.6 = {
+	add_to_war = { targeted_alliance = FRA enemy = GER }
+	add_to_war = { targeted_alliance = FRA enemy = AUH }
+	add_to_war = { targeted_alliance = FRA enemy = BUL }
+	add_to_war = { targeted_alliance = FRA enemy = TUR }
+}
+
+1917.11.7 = {
+	complete_national_focus = USA_gen_polit_1
+	complete_national_focus = USA_mir_to_war
+	complete_national_focus = USA_mir_to_war2
+}

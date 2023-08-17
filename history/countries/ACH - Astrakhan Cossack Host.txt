@@ -1,0 +1,222 @@
+capital = 236
+
+set_country_flag = RSDRP_RKP_VKP_KPSS
+set_country_flag = this_country_is_not_a_nation
+
+set_stability = 0.4
+set_war_support = 0.2
+starting_train_buffer = 1.0
+set_convoys = 10
+
+country_event = { id = npt.kostili.5 hours = 2 }
+set_research_slots = 2
+
+set_technology = {
+	# Infantry
+	infantry_weaponsgreat_war = 1
+	support_weapons = 1
+	infantry_binoculars = 1
+	infantry_weapons0 = 1
+	infantry_grenade = 1
+		basic_train = 1
+
+	# Support
+	tech_support = 1
+
+	# Armor
+
+	# Artillery
+	gw_artillery = 1
+	gw_field_guns = 1
+
+	# Land Doctrine
+	linar_infantry = 1
+	battlefield_fortifications = 1
+
+	# Navy
+	transport = 1
+
+	# Air
+
+	# Engineering
+	electronic_mechanical_engineering = 1
+	simple_electronics = 1
+	
+
+	# Industry
+	basic_manual_machine_tools = 1
+	improved_manual_machine_tools = 1
+	high_volume_industrial_production = 1
+}
+
+1914.1.1 = {
+	set_technology = {
+		# Infantry
+		infantry_weaponsgreat_war = 1
+		support_weapons = 1
+		infantry_binoculars = 1
+		infantry_weapons0 = 1
+		infantry_grenade = 1
+		basic_train = 1
+
+		# Support
+		tech_support = 1
+
+		# Armor
+
+		# Artillery
+		gw_artillery = 1
+		gw_field_guns = 1
+		pre_gw_field_guns = 1
+		on_gw_field_guns = 1
+
+		# Land Doctrine
+		linar_infantry = 1
+		battlefield_fortifications = 1
+		battle_column = 1
+		riflemans_chain_or_skirmish_line = 1
+
+		# Navy
+		transport = 1
+
+		# Air
+
+		# Engineering
+		electronic_mechanical_engineering = 1
+		simple_electronics = 1
+		
+
+		# Industry
+		basic_manual_machine_tools = 1
+		improved_manual_machine_tools = 1
+		high_volume_industrial_production = 1
+		
+		construction0 = 1
+	}
+}
+1917.1.1 = {
+	set_technology = {
+		# Infantry
+		infantry_weaponsgreat_war = 1
+		support_weapons = 1
+		support_weapons1 = 1
+		infantry_binoculars = 1
+		infantry_weapons0 = 1
+		infantry_grenade = 1
+		basic_train = 1
+
+		# Support
+		tech_support = 1
+		tech_engineers = 1
+		tech_recon = 1
+
+		# Armor
+
+		# Artillery
+		gw_artillery = 1
+		gw_field_guns = 1
+		pre_gw_field_guns = 1
+		on_gw_field_guns = 1
+
+		# Land Doctrine
+		linar_infantry = 1
+		battlefield_fortifications = 1
+		battle_column = 1
+		riflemans_chain_or_skirmish_line = 1
+		flank_coverage = 1
+		trench_system = 1
+
+		# Navy
+		transport = 1
+
+		# Air
+
+		# Engineering
+		electronic_mechanical_engineering = 1
+		simple_electronics = 1
+		
+		
+		
+		aerodynamics_theory = 1
+		
+		chemical_research = 1
+
+		# Industry
+		basic_manual_machine_tools = 1
+		improved_manual_machine_tools = 1
+		high_volume_industrial_production = 1
+		industrial_railways = 1
+		
+		construction0 = 1
+		bunkers1 = 1
+	}
+}
+
+add_ideas = {
+	parliamentary_republic_gov_form
+	unitary_gov_terr
+	local_assembly_decisions_b_law
+	poliparty_system_law
+	neutral_foreign_policy_law
+	
+	individual_homesteads steel_agricultural_tools
+	cities_averange_literacy
+}
+
+set_politics = {
+	ruling_party = social_liberalism
+	elections_allowed = no
+}
+
+set_popularities = {
+	radical_socialism = 10
+	communism = 5
+	social_democracy = 5
+	social_liberalism = 25
+	market_liberalism = 10
+	social_conservatism = 30
+	authoritarism = 5
+	despotism = 5
+	fascism = 5
+	national_syndicalism = 0
+}
+
+add_ideas = {
+	ACH_troevlastie
+}
+
+create_country_leader = { name = "Sergey Burov" desc = ACH_Sergey_Burov_desc picture = "gfx/leaders/ACH/Portrait_Sergey_Burov.dds" expire = "1935.1.1" ideology = anarchist_communism traits = { } }
+create_country_leader = { name = "Mina Aristov" desc = ACH_Mina_Aristov_desc picture = "gfx/leaders/ACH/Portrait_Mina_Aristov.dds" expire = "1935.1.1" ideology = leninism traits = { } }
+create_country_leader = { name = "Soviet rabochikh i soldatskikh deputatov" desc = ACH_Soviet_rabochikh_i_soldatskikh_deputatov_desc picture = "gfx/leaders/ACH/Portrait_Soviet_rabochikh_i_soldatskikh_deputatov.dds" expire = "1935.1.1" ideology = social_democracy_ideology traits = { } }
+create_country_leader = { name = "Gubispolkom" desc = ACH_Gubispolkom_desc picture = "gfx/leaders/ACH/Portrait_Gubispolkom.dds" expire = "1935.1.1" ideology = social_liberalism_ideology traits = { } }
+create_country_leader = { name = "Nikolay Liakhov" desc = ACH_Nikolay_Liakhov_desc picture = "gfx/leaders/ACH/Portrait_Nikolay_Liakhov.dds" expire = "1935.1.1" ideology = market_liberalism_ideology traits = { } }
+create_country_leader = { name = "Ivan Biryukov" desc = ACH_Ivan_Biryukov_desc picture = "gfx/leaders/ACH/Portrait_Ivan_Biryukov.dds" expire = "1935.1.1" ideology = social_conservatism_ideology traits = { } }
+create_country_leader = { name = "Nestor Tikhanovich-Savitsky" desc = ACH_Nestor_Tikhanovich-Savitsky_desc picture = "gfx/leaders/ACH/Portrait_Nestor_Tikhanovich-Savitsky.dds" ideology = authoritarism_ideology traits = { } }
+#create_country_leader = { name = "Danzan Tundutov" desc = ACH_Danzan_Tundutov_desc picture = "gfx/leaders/ACH/Portrait_Danzan_Tundutov.dds" expire = "1935.1.1" ideology = authoritarism_ideology traits = { } }
+create_country_leader = { name = "Konstantin Sakharov" desc = "RUS_Konstantin_Sakharov_DESC" picture = "gfx/leaders/SIB/Portrait_Konstantin_Sakharov.dds" expire = "1941.2.23" ideology = despotism_ideology traits = { warmonger_old_general dictator prince_of_terror min_1_spiritual_leader anti_democrat dislike_jew } }
+create_country_leader = { name = "Boris Samsonov" desc = ACH_Boris_Samsonov_desc picture = "gfx/leaders/ACH/Portrait_Boris_Samsonov.dds" expire = "1935.1.1" ideology = fascism_ideology traits = { } }
+create_country_leader = { name = "Nikolay Tierpugov" desc = ACH_Nikolay_Tierpugov_desc picture = "gfx/leaders/ACH/Portrait_Nikolay_Tierpugov.dds" expire = "1935.1.1" ideology = national_syndicalism_ideology traits = { } }
+
+
+1917.11.7 = {
+	if = {
+		limit = { has_start_date < 1918.1.1 }
+		country_event = { id = rcw_usfev.1943 hours = 2 }
+	}
+	
+	add_ideas = neutral_foreign_policy_law
+	hidden_effect = {
+		every_country = {
+			limit = {
+				NOT = {
+					tag = PREV
+					is_any_former_russian_empire_country = yes
+					former_russian_empire_baltic_states_country = yes
+					has_war_with = PREV
+					is_in_faction_with = PREV
+				}
+			}
+			set_THIS_country_non_recognize_PREV = yes
+		}
+	}
+}

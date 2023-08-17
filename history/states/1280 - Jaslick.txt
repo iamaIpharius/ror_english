@@ -1,0 +1,27 @@
+state = {
+	id = 1280
+	name = "STATE_1280" 
+	manpower = 13451
+	state_category = rural
+	provinces = {
+		7541 12454 15097 12233 12474 13207
+	}
+	history = {
+		owner = RUS
+		#add_core_of = RUS
+		add_core_of = KHI
+		buildings = {
+			infrastructure = 0
+		}
+		1918.6.21 = {
+			add_core_of = CPG
+		}
+		1936.1.1 = {
+			owner = SOV
+			add_core_of = SOV
+			buildings = {
+				infrastructure = 0
+			}
+		}
+	}
+}

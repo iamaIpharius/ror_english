@@ -1,0 +1,587 @@
+focus_tree = {
+	id = Russia_Russian_state_directory_focus
+	country = {
+		factor = 0
+		#modifier = {
+		#add = 10
+		#tag = NOR
+		#}
+	}
+	default = no
+	continuous_focus_position = {
+		x = 80
+		y = 30
+	}
+	focus = {
+		id = RSS_national_assembly_directory
+		icon = GFX_goal_RSS_nathion_sobranie
+		cost = 1
+		available = {
+			NOT = {
+				has_global_flag = RUS_civil_war_over
+			}
+			NOT = {
+				has_global_flag = RCW_Allrussian_national_assembly
+			}
+			219 = {
+				OWNER = {
+					OR = {
+						tag = ROOT
+						is_subject_of = ROOT
+					}
+				}
+			}
+			is_subject = no
+			has_war = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 8
+		y = 0
+		completion_reward = {
+			if = {
+				limit = {
+					219 = {
+						OWNER = {
+							NOT = {
+								tag = ROOT
+							}
+							check_variable = {
+								num_owned_states < 2
+							}
+						}
+					}
+				}
+				219 = {
+					OWNER = {
+						ROOT = {
+							annex_country = {
+								target = PREV
+								transfer_troops = yes
+							}
+						}
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						owns_state = 219
+					}
+				}
+				transfer_state = 219
+			}
+			add_state_core = 219
+			set_capital = {
+				state = 219
+				remember_old_capital = no
+			}
+			country_event = rcw_all_rus_NA.1
+		}
+	}
+	focus = {
+		id = RSS_temporary_capital
+		icon = GFX_goal_RSS_new_capital
+		cost = 1
+		available = {
+			OR = {
+				controls_state = 571
+				controls_state = 651
+				controls_state = 653
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 10
+		y = 0
+		completion_reward = {
+			country_event = rcw_usfev.117
+		}
+	}
+	focus = {
+		id = RSS_united_government
+		prerequisite = {
+			focus = RSS_temporary_capital
+		}
+		icon = GFX_goal_RSS_together_for_victory
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 0
+		y = 1
+		relative_position_id = RSS_temporary_capital
+		completion_reward = {
+			country_event = rcw_usfev.118
+		}
+	}
+	focus = {
+		id = RSS_the_revival_of_military_traditions
+		prerequisite = {
+			focus = RSS_united_government
+		}
+		mutually_exclusive = {
+			focus = RSS_staff_commissars_of_the_esser
+		}
+		icon = GFX_goal_RSS_traditions
+		cost = 1
+		available = {
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 999
+				is_historical_focus_on = yes
+			}
+		}
+		x = 1
+		y = 1
+		relative_position_id = RSS_united_government
+		completion_reward = {
+			custom_effect_tooltip = wartime_officers_rise_1_tt
+			hidden_effect = {
+				wartime_officers_rise = yes
+			}
+			add_to_variable = {
+				var = directory_balance
+				value = 2
+			}
+		}
+	}
+	focus = {
+		id = RSS_disbanding_the_peoples_army
+		prerequisite = {
+			focus = RSS_the_revival_of_military_traditions
+		}
+		icon = GFX_goal_RSS_fuck_people_army
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 0
+		y = 1
+		relative_position_id = RSS_the_revival_of_military_traditions
+		completion_reward = {
+			add_to_variable = {
+				var = directory_balance
+				value = 1
+			}
+			add_popularity = {
+				ideology = social_liberalism
+				popularity = -0.1
+			}
+			add_popularity = {
+				ideology = despotism
+				popularity = 0.1
+			}
+		}
+	}
+	focus = {
+		id = RSS_disbanding_the_local_governments
+		prerequisite = {
+			focus = RSS_the_revival_of_military_traditions
+		}
+		icon = GFX_goal_RSS_abolish_local_goverments
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 2
+		y = 1
+		relative_position_id = RSS_the_revival_of_military_traditions
+		completion_reward = {
+			if = {
+				limit = {
+					BSK = {
+						is_puppet_of = ROOT
+					}
+				}
+				annex_country = {
+					target = BSK
+					transfer_troops = yes
+				}
+			}
+			every_country = {
+				limit = {
+					is_puppet_of = ROOT
+				}
+				add_autonomy_ratio = {
+					value = -0.4
+					localization = RUS_disbanding_the_local_governments
+				}
+				add_to_variable = {
+					var = directory_balance
+					value = 2
+				}
+				add_popularity = {
+					ideology = social_liberalism
+					popularity = -0.05
+				}
+				add_stability = -0.05
+			}
+		}
+	}
+	focus = {
+		id = RSS_exposing_the_conspiracy_Chernovsky
+		prerequisite = {
+			focus = RSS_disbanding_the_peoples_army
+			focus = RSS_disbanding_the_local_governments
+		}
+		icon = GFX_goal_RSS_chernov
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 1
+		y = 2
+		relative_position_id = RSS_the_revival_of_military_traditions
+		completion_reward = {
+			country_event = rcw_usfev.119
+		}
+	}
+	focus = {
+		id = RSS_staff_commissars_of_the_esser
+		mutually_exclusive = {
+			focus = RSS_the_revival_of_military_traditions
+		}
+		prerequisite = {
+			focus = RSS_united_government
+		}
+		icon = GFX_goal_RSS_comissars_psr
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				is_historical_focus_on = yes
+			}
+		}
+		x = -1
+		y = 1
+		relative_position_id = RSS_united_government
+		completion_reward = {
+			custom_effect_tooltip = wartime_officers_rise_1_tt
+			hidden_effect = {
+				wartime_officers_rise = yes
+			}
+			add_to_variable = {
+				var = directory_balance
+				value = 1
+			}
+			add_popularity = {
+				ideology = despotism
+				popularity = -0.01
+			}
+			add_popularity = {
+				ideology = authoritarism
+				popularity = -0.01
+			}
+			add_stability = -0.05
+			add_ideas = RUS_staff_commissars_of_the_esser
+			every_unit_leader = {
+				limit = {
+					has_id = 92346
+				}
+				set_nationality = REB
+			}
+			every_unit_leader = {
+				limit = {
+					has_id = 92351
+				}
+				set_nationality = REB
+			}
+			every_unit_leader = {
+				limit = {
+					has_id = 92345
+				}
+				set_nationality = REB
+			}
+		}
+	}
+	focus = {
+		id = RSS_russian_czech_regiments
+		prerequisite = {
+			focus = RSS_staff_commissars_of_the_esser
+		}
+		icon = GFX_goal_RSS_czech-russians_units
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 0
+		y = 1
+		relative_position_id = RSS_staff_commissars_of_the_esser
+		bypass = {
+			NOT = {
+				has_template = "Brigada Chekhoslovatskogo legiona"
+				has_template = "Brigada Chekhoslovatskogo legiona Dal'niy Vostok"
+				has_template = "Brigada Chekhoslovatskogo legiona Povolzh'e"
+			}
+		}
+		completion_reward = {
+			add_to_variable = {
+				var = directory_balance
+				value = -3
+			}
+			add_war_support = 0.05
+			add_popularity = {
+				ideology = social_liberalism
+				popularity = 0.05
+			}
+			delete_unit_template_and_units = {
+				division_template = "Brigada Chekhoslovatskogo legiona"
+			}
+			delete_unit_template_and_units = {
+				division_template = "Brigada Chekhoslovatskogo legiona Dal'niy Vostok"
+			}
+			delete_unit_template_and_units = {
+				division_template = "Brigada Chekhoslovatskogo legiona Povolzh'e"
+			}
+			division_template = {
+				name = "Russian-Czeh Brigada"				# Elite
+				regiments = {
+					infantry = {
+						x = 0
+						y = 0
+					}
+					infantry = {
+						x = 0
+						y = 1
+					}
+					infantry = {
+						x = 1
+						y = 0
+					}
+					infantry = {
+						x = 1
+						y = 1
+					}
+					infantry = {
+						x = 2
+						y = 0
+					}
+					infantry = {
+						x = 2
+						y = 1
+					}
+				}
+				support = {
+					recon = {
+						x = 0
+						y = 0
+					}
+					engineer = {
+						x = 0
+						y = 1
+					}
+				}
+			}
+			capital_scope = {
+				create_unit = {
+					division = "name = \"1-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"2-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"3-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"4-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"5-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"6-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"7-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"8-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"9-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"10-ya Russian-Czech Division\" division_template = \"Russian-Czeh Brigada\" start_experience_factor = 0.5 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+			}
+		}
+	}
+	focus = {
+		id = RSS_republican_cossacks
+		prerequisite = {
+			focus = RSS_russian_czech_regiments
+		}
+		icon = GFX_goal_RSS_republican_cossacks
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = 0
+		y = 2
+		relative_position_id = RSS_staff_commissars_of_the_esser
+		completion_reward = {
+			country_event = rcw_usfev.121
+		}
+	}
+	focus = {
+		id = RSS_strengthening_peoples_teams
+		prerequisite = {
+			focus = RSS_staff_commissars_of_the_esser
+		}
+		icon = GFX_goal_RSS_people_guard
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = -2
+		y = 1
+		relative_position_id = RSS_staff_commissars_of_the_esser
+		completion_reward = {
+			add_to_variable = {
+				var = directory_balance
+				value = -2
+			}
+			add_stability = 0.05
+			add_war_support = 0.05
+			add_popularity = {
+				ideology = social_liberalism
+				popularity = 0.1
+			}
+			add_equipment_to_stockpile = {
+				type = infantry_equipment_0
+				amount = -1500
+				producer = RUS
+			}
+		}
+	}
+	focus = {
+		id = RSS_rearmament_national_armies
+		prerequisite = {
+			focus = RSS_strengthening_peoples_teams
+		}
+		icon = GFX_goal_RSS_reload_national_armies
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = -2
+		y = 2
+		relative_position_id = RSS_staff_commissars_of_the_esser
+		completion_reward = {
+			add_to_variable = {
+				var = directory_balance
+				value = -1
+			}
+			add_popularity = {
+				ideology = social_liberalism
+				popularity = 0.05
+			}
+			every_country = {
+				limit = {
+					is_puppet_of = ROOT
+				}
+				add_popularity = {
+					ideology = social_liberalism
+					popularity = 0.1
+					add_equipment_to_stockpile = {
+						type = infantry_equipment_0
+						amount = 2000
+						producer = RUS
+					}
+				}
+			}
+		}
+	}
+	focus = {
+		id = RSS_coalition_gap
+		prerequisite = {
+			focus = RSS_rearmament_national_armies
+			focus = RSS_republican_cossacks
+		}
+		#mutually_exclusive = {
+		#	focus = RSS_presidential_appointment
+		#}
+		icon = GFX_goal_RSS_abolish_the_coalition
+		cost = 1
+		available = {
+			##always = no
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		x = -2
+		y = 3
+		relative_position_id = RSS_staff_commissars_of_the_esser
+		completion_reward = {
+			country_event = rcw_rss_esser.0			#rcw_usfev.130
+		}
+	}
+	#focus = {
+	#	id = RSS_presidential_appointment
+	#	prerequisite = { focus = RSS_rearmament_national_armies focus = RSS_republican_cossacks }
+	#	mutually_exclusive = {
+	#		focus = RSS_coalition_gap
+	#	}
+	#	icon = GFX_goal_RSS_vibory_vibory_kandidaty-pidory
+	#	cost = 1
+	#	available = {
+	#		##always = no
+	#	}
+	#	ai_will_do = {
+	#		factor = 1
+	#	}
+	#	x = 0
+	#	y = 3
+	#	relative_position_id = RSS_staff_commissars_of_the_esser
+	#	completion_reward = {
+	#	country_event = rcw_usfev.129
+	#	drop_cosmetic_tag = yes
+	#	set_politics = { ruling_party = social_liberalism elections_allowed = no }
+	#	add_popularity = { ideology = social_liberalism popularity = 0.1 }
+	#	add_war_support = 0.05
+	#	}
+	#}
+}

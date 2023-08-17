@@ -1,0 +1,193 @@
+foreign_politics = {
+
+	forming_ural_gonvernment = {
+
+		icon = generic_army_support
+
+		allowed = {
+			OR = {
+				original_tag = SIB
+				original_tag = CCA
+			}
+		}
+
+		available = {
+			has_idea = SIB_CCA_border
+		}
+		visible = {
+			has_idea = SIB_CCA_border
+			controls_state = 653
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		cost = 15
+		
+		days_remove = 0
+		
+		complete_effect = {}
+		
+		remove_effect = {
+			every_country = {
+				limit = { has_idea = SIB_CCA_border }
+				remove_ideas = SIB_CCA_border
+			}
+			every_state = {
+				limit = {
+					OR = {
+						state = 1025
+						state = 653
+						state = 572
+						state = 573
+						state = 581
+						state = 1067
+						state = 1231
+						state = 398
+						state = 1270
+					}
+				}
+				add_core_of = URL
+				if = {
+					limit = {
+						OR = {
+							is_controlled_by = ROOT
+							CONTROLLER = { is_subject_of = ROOT }
+						}
+					}
+					URL = { transfer_state = PREV }
+				}
+			}
+			URL = { inherit_technology = ROOT }
+			URL = { subjecting_script_with_transfer_parties_integrated_puppet = yes }
+			URL = {
+				every_country = {
+					limit = {
+						is_in_array = {
+							array = unrecognized_states
+							value = ROOT.id
+						}
+					}
+					set_THIS_country_non_recognize_PREV = yes
+				}
+			}
+			if = {
+				limit = { has_government = social_democracy }
+				URL = { set_politics = { ruling_party = social_democracy elections_allowed = no } }
+			}
+			if = {
+				limit = { has_government = social_liberalism }
+				URL = { set_politics = { ruling_party = social_liberalism elections_allowed = no } }
+			}
+		}
+	}
+	
+	destruction_ural_gonvernment = {
+
+		icon = generic_army_support
+
+		allowed = {
+			OR = {
+				original_tag = SIB
+				original_tag = CCA
+				original_tag = RSS
+			}
+		}
+
+		available = {
+			URL = { is_subject_of = ROOT }
+			OR = {
+				has_war_with = CCA
+				has_war_with = SIB
+				SIB = { OR = { exists = no has_capitulated = yes } }
+				CCA = { OR = { exists = no has_capitulated = yes } }
+			}
+		}
+		
+		visible = {
+			URL = { is_subject_of = ROOT }
+			OR = {
+				has_war_with = CCA
+				has_war_with = SIB
+				SIB = { OR = { exists = no has_capitulated = yes } }
+				CCA = { OR = { exists = no has_capitulated = yes } }
+			}
+		}
+		
+		ai_will_do = {
+			factor = 999
+		}
+		
+		cost = 5
+		
+		days_remove = 0
+		
+		complete_effect = {}
+		
+		remove_effect = {
+			annex_country = {
+				target = URL
+				transfer_troops = yes
+			}
+			every_state = {
+				limit = { is_core_of = URL }
+				remove_core_of = URL
+			}
+		}
+	}
+
+	whites_captured_TAN = {
+
+		icon = generic_prepare_civil_war
+
+		allowed = {
+			is_any_former_russian_empire_country = yes
+		}
+		available = {
+			is_neighbor_of = TAN
+			NOT = { has_war_with = TAN }
+			has_army_size = { size > 1 }
+		}
+		visible = {
+			NOT = { has_global_flag = RUS_civil_war_over }
+			is_former_russian_empire_russian_country = yes
+			TAN = { exists = yes is_puppet = no }
+			NOT = {
+				has_government = radical_socialism
+				has_government = communism
+			}
+		}
+		
+		fire_only_once = yes
+		war_with_on_remove = TAN
+		cost = 0
+		ai_will_do = {
+			factor = 500
+			modifier = {
+				factor = 0
+				surrender_progress > 0.4
+			}
+		}
+		days_remove = 20
+
+		remove_effect = {
+			if = {
+				limit = {
+					TAN = { has_army_size = { size < 1 } }
+				}
+				annex_country = {
+					target = TAN
+					transfer_troops = no
+				}
+				else = {
+					declare_war_on = {
+						target = TAN
+						type = annex_everything
+					}
+				}
+			}
+		}
+	}
+
+}

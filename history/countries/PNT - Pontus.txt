@@ -1,0 +1,37 @@
+﻿capital = 354
+
+#-------------------------------------------------------
+#					GENERIC VALUES
+#-------------------------------------------------------
+country_event = { id = npt.kostili.5 hours = 2 }
+set_research_slots = 2
+set_stability = 0.5
+starting_train_buffer = 1.0
+set_convoys = 100
+
+#-------------------------------------------------------
+#					POLITICS & ARMY
+#-------------------------------------------------------
+
+#LEADERS
+create_country_leader = { name = "Vasilis Ioannidis" picture = "gfx/leaders/Europe/Portrait_europe_generic_5.dds" expire = "1935.1.1" ideology = social_conservatism_ideology traits = {  } }
+
+
+
+1917.1.1 = {
+	oob = "PNT_1917"
+
+	set_politics = {
+	    ruling_party = social_conservatism last_election = "1917.1.1"
+	    election_frequency = 60 elections_allowed = yes
+	}
+	set_popularities = {
+			social_conservatism = 75
+			market_liberalism = 25
+	    }
+	add_ideas = {
+		limited_conscription
+		civilian_economy
+		limited_exports 
+	}
+}

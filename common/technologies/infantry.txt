@@ -43,6 +43,7 @@ technologies = {
 	infantry_weapons1 = {
 		enable_equipments = {
 			infantry_equipment_1
+			field_guns_equipment_1
 		}
 		path = {
 			leads_to_tech = infantry_weapons2
