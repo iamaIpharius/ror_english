@@ -5,6 +5,6 @@ dependencies={
 tags={
 	"Translation"
 }
-name="ROR English"
+name="ROR TEMP REDUX (submod)"
 supported_version="1.12.14"
 remote_file_id="3018458234"
