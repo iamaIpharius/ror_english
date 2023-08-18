@@ -1,17 +1,25 @@
 ﻿capital = 105
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
-set_stability = 0.60
-starting_train_buffer = 1.0
+set_research_slots = 4
+set_stability = 0.6
+starting_train_buffer = 1
 set_convoys = 10
-
-create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "gfx/leaders/MTN_nikola_i.dds" expire = "1935.1.1" ideology = despotism_ideology  traits = {  } }
+create_country_leader = {
+	name = "Nikola I"
+	desc = MTN_nikola_i_DESC
+	picture = "gfx/leaders/MTN_nikola_i.dds"
+	expire = "1935.1.1"
+	ideology = despotism_ideology
+	traits = {
+	}
+}
 
 1910.1.1 = {
-
 	set_technology = {
-
 		# Infantry
 		infantry_weapons0 = 1
 		support_weapons = 1
@@ -20,8 +28,6 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 		motorised_infantry = 1
 		marines = 1
 		marines1 = 1
-
-
 		# Support
 		tech_support = 1
 		tech_engineers = 1
@@ -30,16 +36,13 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 		#tech_field_hospital2 = 1
 		#tech_field_hospital = 1
 		#tech_logistics_company = 1
-
 		# Armor
-
 		# Artillery
 		gw_artillery = 1
 		gw_field_guns = 1
 		pre_gw_field_guns = 1
 		on_gw_field_guns = 1
 		superheavy_artillerygw = 1
-
 		# Navy
 		early_destroyer = 1
 		basic_destroyer = 1
@@ -50,26 +53,30 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 		early_submarine = 1
 		early_submarine = 1
 		transport = 1
-
 		# Air
-
 		# Engineering
 		electronic_mechanical_engineering = 1
-
 		# Industry
 		bunkers1 = 1
 	}
-
-	set_politics = { ruling_party = authoritarism last_election = "1907.10.31" election_frequency = 48 elections_allowed = yes } set_popularities = { social_conservatism = 5 fascism = 2 communism = 1 authoritarism = 92 }
-
+	set_politics = {
+		ruling_party = authoritarism
+		last_election = "1907.10.31"
+		election_frequency = 48
+		elections_allowed = yes
+	}
+	set_popularities = {
+		social_conservatism = 5
+		fascism = 2
+		communism = 1
+		authoritarism = 92
+	}
 	add_ideas = {
-
-	}	
+	}
 }
 
 1914.1.1 = {
 	set_technology = {
-
 		# Infantry
 		infantry_weapons0 = 1
 		infantry_weaponsgreat_war = 1
@@ -82,8 +89,6 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 		motorised_infantry = 1
 		marines = 1
 		marines1 = 1
-
-
 		# Support
 		tech_support = 1
 		tech_engineers = 1
@@ -92,10 +97,7 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 		tech_field_hospital2 = 1
 		tech_field_hospital = 1
 		tech_logistics_company = 1
-
 		# Armor
-
-
 		# Artillery
 		gw_artillery = 1
 		gw_field_guns = 1
@@ -104,7 +106,6 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 		pre_gw_artillery = 1
 		on_gw_artillery = 1
 		superheavy_artillerygw = 1
-
 		# Navy
 		early_destroyer = 1
 		basic_destroyer = 1
@@ -115,19 +116,18 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 		early_submarine = 1
 		early_submarine = 1
 		transport = 1
-
 		# Engineering
 		electronic_mechanical_engineering = 1
-
 		# Industry
 		construction0 = 1
 		construction0_5 = 1
 		bunkers1 = 1
-		
 	}
 	# Air
 	if = {
-		limit = { has_dlc = "By Blood Alone" }
+		limit = {
+			has_dlc = "By Blood Alone"
+		}
 		set_technology = {
 			scout_fighter_2 = 1
 			biplane_fighter1_2 = 1
@@ -139,10 +139,18 @@ create_country_leader = { name = "Nikola I" desc = MTN_nikola_i_DESC picture = "
 			}
 		}
 	}
-
-	set_politics = { ruling_party = authoritarism  last_election = "1911.9.27" election_frequency = 48 elections_allowed = yes } set_popularities = { social_conservatism = 5 fascism = 2 communism = 1 authoritarism = 92 }
-
+	set_politics = {
+		ruling_party = authoritarism
+		last_election = "1911.9.27"
+		election_frequency = 48
+		elections_allowed = yes
+	}
+	set_popularities = {
+		social_conservatism = 5
+		fascism = 2
+		communism = 1
+		authoritarism = 92
+	}
 	add_ideas = {
-
 	}
 }

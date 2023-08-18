@@ -1,76 +1,189 @@
 ﻿capital = 330
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
-set_stability = 0.50
-starting_train_buffer = 1.0
+set_research_slots = 4
+set_stability = 0.5
+starting_train_buffer = 1
 set_convoys = 1
+create_country_leader = {
+	name = "Bogdo-gegen VIII"
+	desc = MON_bogd_khan_DESC
+	picture = "gfx/leaders/MON/Portrait_Bogdo-gegen VIII.dds"
+	expire = "1935.1.1"
+	ideology = monarchism
+	traits = {
+	}
+}
 
-create_country_leader = { name = "Bogdo-gegen VIII" desc = MON_bogd_khan_DESC picture = "gfx/leaders/MON/Portrait_Bogdo-gegen VIII.dds" expire = "1935.1.1" ideology = monarchism traits = {  } }
-create_country_leader = { name = "Guo Songlin" desc = MON_Chu_Jijiang_DESC picture = "gfx/leaders/CHI/Portrait_Guo_Songlin.dds" expire = "1935.1.1" ideology = despotism_ideology traits = { dictator warmonger_old_general } }
+create_country_leader = {
+	name = "Guo Songlin"
+	desc = MON_Chu_Jijiang_DESC
+	picture = "gfx/leaders/CHI/Portrait_Guo_Songlin.dds"
+	expire = "1935.1.1"
+	ideology = despotism_ideology
+	traits = {
+		dictator
+		warmonger_old_general
+	}
+}
 
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_field_hospital = 1
+	tech_logistics_company = 1
+	tech_military_police = 1
+	tech_maintenance_company = 1
+	basic_train = 1
+	armored_train = 1
+	railway_gun = 1
+	wartime_train = 1
+	gw_artillery = 1
+	artillery1 = 1
+	early_fighter = 1
+	fighter1 = 1
+	airship_bomber = 1
+	early_bomber = 1
+	scout_plane = 1
+	aircraft_engine = 1
+	tank_design = 1
+	mechanical_engineering = 1
+	interwar_artillery = 1
+	howitzer1 = 1
+	infantry_weapons2 = 1
+	improved_infantry_weapons = 1
+	support_weapons = 1
+	support_weapons2 = 1
+	motorised_infantry = 1
+	#doctrines
+	# trench_warfare = 1
+	# machine_gun_defence = 1
+	# cavalry_support = 1
+	# mobile_support = 1
+	# trade_interdiction = 1
+	# convoy_interdiction_ti = 1
+	# unrestricted_submarine_warfare = 1
+	# raider_patrols = 1
+	#air
+	# formation_flying = 1
+	#electronics
+	electrical_engineering = 1
+	radio = 1
+	analytical_engine = 1
+	generator_battery = 1
+	basic_cryptography = 1
+	basic_cryptanalysis = 1
+	#industry
+	early_machine_tools = 1
+	machine_tools2 = 1
+	fortification1 = 1
+	fortification2 = 1
+	excavation1 = 1
+	excavation2 = 1
+	oil_production1 = 1
+	oil_production2 = 1
+	fuel_silos = 1
+	construction1 = 1
+	construction2 = 1
+	industrial_complex1 = 1
+	dispersed_industry = 1
+	dispersed_industry2 = 1
+}
 
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
 	set_technology = {
+		early_armored_car = 1
+		basic_armored_car = 1
+	}
+}
 
-		# Infantry
-		infantry_weapons0 = 1
-		support_weapons = 1
-		support_weapons1 = 1
-		infantry_binoculars = 1
-		motorised_infantry = 1
-		marines = 1
-		marines1 = 1
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_technology = {
+		legacy_early_armored_car = 1
+		legacy_basic_armored_car = 1
+	}
+}
 
-
-		# Support
-		tech_support = 1
-		tech_engineers = 1
-		tech_recon = 1
-		#tech_military_police = 1
-		#tech_field_hospital2 = 1
-		#tech_field_hospital = 1
-		#tech_logistics_company = 1
-
-		# Armor
-
-		# Artillery
-		gw_artillery = 1
-		gw_field_guns = 1
-		pre_gw_field_guns = 1
-		on_gw_field_guns = 1
-		superheavy_artillerygw = 1
-
-		# Navy
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
 		early_destroyer = 1
-		basic_destroyer = 1
-		basic_light_cruiser = 1
-		early_light_cruiser = 1
-		early_battlecruiser = 1
+		early_heavy_cruiser = 1
 		early_battleship = 1
+		early_light_cruiser = 1
 		early_submarine = 1
-		early_submarine = 1
-		transport = 1
-
-		# Air
-
-		# Engineering
-		electronic_mechanical_engineering = 1
-
-		# Industry
+		basic_destroyer = 1
+		basic_heavy_cruiser = 1
+		basic_heavy_cruiser = 1
+		basic_battleship = 1
+		basic_light_cruiser = 1
+		basic_submarine = 1
 	}
+}
 
-	set_politics = { ruling_party = authoritarism last_election = "1910.1.1" election_frequency = 48 elections_allowed = no } set_popularities = { social_conservatism = 0 authoritarism = 90 communism = 10 }
-
-	add_ideas = {
-		#authoritarism_idea
-		limited_conscription
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
 	}
+	set_technology = {
+		early_ship_hull_light = 1
+		basic_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		basic_cruiser_armor_scheme = 1
+		early_ship_hull_heavy = 1
+		basic_ship_hull_heavy = 1
+		basic_heavy_armor_scheme = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_medium_battery = 1
+		basic_heavy_battery = 1
+		basic_secondary_battery = 1
+		basic_torpedo = 1
+	}
+}
+
+set_politics = {
+	ruling_party = authoritarism
+	last_election = "1910.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	social_conservatism = 0
+	authoritarism = 90
+	communism = 10
+}
+
+add_ideas = {
+	#authoritarism_idea
+	limited_conscription
+}
 
 1917.1.1 = {
 	oob = "MON_1917"
-
 	set_technology = {
-
 		# Infantry
 		infantry_weapons0 = 1
 		infantry_weaponsgreat_war = 1
@@ -83,8 +196,6 @@ create_country_leader = { name = "Guo Songlin" desc = MON_Chu_Jijiang_DESC pictu
 		motorised_infantry = 1
 		marines = 1
 		marines1 = 1
-
-
 		# Support
 		tech_support = 1
 		tech_engineers = 1
@@ -93,10 +204,7 @@ create_country_leader = { name = "Guo Songlin" desc = MON_Chu_Jijiang_DESC pictu
 		tech_field_hospital2 = 1
 		tech_field_hospital = 1
 		tech_logistics_company = 1
-
 		# Armor
-
-
 		# Artillery
 		gw_artillery = 1
 		gw_field_guns = 1
@@ -105,7 +213,6 @@ create_country_leader = { name = "Guo Songlin" desc = MON_Chu_Jijiang_DESC pictu
 		pre_gw_artillery = 1
 		on_gw_artillery = 1
 		superheavy_artillerygw = 1
-
 		# Navy
 		early_destroyer = 1
 		basic_destroyer = 1
@@ -116,33 +223,29 @@ create_country_leader = { name = "Guo Songlin" desc = MON_Chu_Jijiang_DESC pictu
 		early_submarine = 1
 		early_submarine = 1
 		transport = 1
-
 		# Engineering
 		electronic_mechanical_engineering = 1
-
 		# Industry
 	}
-
 	set_politics = {
-		ruling_party = despotism last_election = "1910.1.1"
-		election_frequency = 48 elections_allowed = no
+		ruling_party = despotism
+		last_election = "1910.1.1"
+		election_frequency = 48
+		elections_allowed = no
 	}
-	
 	set_popularities = {
-			radical_socialism = 15
-			communism = 25
-			social_democracy = 0
-			social_liberalism = 0
-			market_liberalism = 0
-			social_conservatism = 15
-			authoritarism = 25
-			despotism = 20
-			fascism = 0
-			national_syndicalism = 0
+		radical_socialism = 15
+		communism = 25
+		social_democracy = 0
+		social_liberalism = 0
+		market_liberalism = 0
+		social_conservatism = 15
+		authoritarism = 25
+		despotism = 20
+		fascism = 0
+		national_syndicalism = 0
 	}
-
 	set_cosmetic_tag = MON_CHI
-
 	add_ideas = {
 		#authoritarism_idea
 		volunteer_only
@@ -153,7 +256,6 @@ create_country_leader = { name = "Guo Songlin" desc = MON_Chu_Jijiang_DESC pictu
 		ban_all_parties_law
 		feudal_economy_law
 	}
-
 	every_country = {
 		limit = {
 			NOT = {

@@ -1,12 +1,14 @@
 ﻿capital = 121
-
 set_stability = 0.5
 set_war_support = 0.5
-starting_train_buffer = 1.0
+starting_train_buffer = 1
 set_convoys = 20
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
+set_research_slots = 4
 set_technology = {
 	# Infantry
 	infantry_weapons0 = 1
@@ -17,26 +19,21 @@ set_technology = {
 	infantry_binoculars = 1
 	infantry_weapons0 = 1
 	infantry_grenade = 1
-		basic_train = 1
+	basic_train = 1
 	infantry_gasmask = 1
 	motorised_infantry = 1
 	marines = 1
 	marines1 = 1
 	tech_mountaineers = 1
-
 	# Support
 	tech_support = 1
 	tech_engineers = 1
 	tech_recon = 1
-
 	# Armor
-
-
 	# Artillery
 	gw_artillery = 1
 	gw_field_guns = 1
 	superheavy_artillerygw = 1
-
 	# Navy
 	early_destroyer = 1
 	basic_destroyer = 1
@@ -50,20 +47,15 @@ set_technology = {
 	early_submarine = 1
 	early_submarine = 1
 	transport = 1
-
 	# Engineering
 	electronic_mechanical_engineering = 1
 	simple_electronics = 1
 	chemical_research = 1
-	
-	
 	radio_gw = 1
 	gw_encryption = 1
-	
 	tanktraks = 1
 	electric_motor = 1
-			convey_tech = 1
-
+	convey_tech = 1
 	# Industry
 	basic_manual_machine_tools = 1
 	improved_manual_machine_tools = 1
@@ -77,38 +69,39 @@ set_technology = {
 	construction0_5 = 1
 	bunkers1 = 1
 }
-	# Air
-	if = {
-		limit = { has_dlc = "By Blood Alone" }
+
+# Air
+if = {
+	limit = {
+		has_dlc = "By Blood Alone"
+	}
+	set_technology = {
+		scout_fighter_2 = 1
+		biplane_fighter1_2 = 1
+		biplane_fighter2_2 = 1
+	}
+	else = {
 		set_technology = {
-			scout_fighter_2 = 1
-			biplane_fighter1_2 = 1
-			biplane_fighter2_2 = 1
-		}
-		else = {
-			set_technology = {
-				scout_fighter = 1
-				biplane_fighter1 = 1
-				biplane_fighter2 = 1
-			}
+			scout_fighter = 1
+			biplane_fighter1 = 1
+			biplane_fighter2 = 1
 		}
 	}
+}
+
 1914.1.1 = {
 	set_technology = {
-
 		# Infantry
 		infantry_weapons0 = 1
 		infantry_weaponsgreat_war = 1
 		support_weapons = 1
 		support_weapons1 = 1
-		
 		infantry_binoculars = 1
 		infantry_weapons0 = 1
 		infantry_grenade = 1
 		basic_train = 1
 		motorised_infantry = 1
 		tech_mountaineers = 1
-
 		# Support
 		tech_support = 1
 		tech_engineers = 1
@@ -117,11 +110,7 @@ set_technology = {
 		tech_maintenance_company = 1
 		tech_field_hospital = 1
 		tech_logistics_company = 1
-
 		# Armor
-
-		
-
 		# Artillery
 		gw_artillery = 1
 		gw_field_guns = 1
@@ -130,7 +119,6 @@ set_technology = {
 		pre_gw_artillery = 1
 		on_gw_artillery = 1
 		superheavy_artillerygw = 1
-
 		# Land Doctrine
 		linar_infantry = 1
 		battlefield_fortifications = 1
@@ -142,7 +130,6 @@ set_technology = {
 		layered_defense = 1
 		artillery_preparation = 1
 		wave_offensive = 1
-
 		# Navy
 		early_destroyer = 1
 		basic_destroyer = 1
@@ -157,46 +144,34 @@ set_technology = {
 		early_submarine = 1
 		early_submarine = 1
 		transport = 1
-
-
-
 		# Navy Doctrine
 		#ww1_navaldoctrine = 1
 		#ww1_navaldoctrine_2 = 1
 		#ww1_navaldoctrine_3 = 1
-
 		# Engineering
 		electronic_mechanical_engineering = 1
 		simple_electronics = 1
 		chemical_research = 1
-		
-
 		# Industry
 		construction0 = 1
 		construction0_5 = 1
 		bunkers1 = 1
-		
-
 		camera1 = 1
 		camera2 = 1
 	}
 }
+
 1917.1.1 = {
 	set_technology = {
 		gwtank = 1
 		gwheavytank = 1
-		
-		
 		poison_gas = 1
-		
 		aerodynamics_theory = 1
 		aircraft_engine = 1
 		aircraft_guns = 1
 		synchronization_gear = 1
-		
 		tanktraks = 1
 		tank_armor = 1
-		
 	}
 }
 
@@ -206,6 +181,7 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = yes
 }
+
 set_popularities = {
 	social_democracy = 50
 	fascism = 15

@@ -1,95 +1,150 @@
 ﻿capital = 64
-
 #add_namespace = { name = "ger_unit_leader" type = unit_leader }
-
 set_stability = 0.7
 set_war_support = 0.55
-starting_train_buffer = 1.0
+starting_train_buffer = 1
 set_convoys = 50
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
-
+set_research_slots = 4
 set_technology = {
-	# Infantry
-	infantry_weapons0 = 1
-	infantry_weaponsgreat_war = 1
-	support_weapons = 1
-	support_weapons1 = 1
-	infantry_binoculars = 1
-	infantry_weapons0 = 1
-	infantry_grenade = 1
-		basic_train = 1
-	motorised_infantry = 1
-	
-	marines = 1
-	marines1 = 1
-	tech_mountaineers = 1
-
-	# Support
+	infantry_weapons = 1
+	infantry_weapons1 = 1
 	tech_support = 1
 	tech_engineers = 1
 	tech_recon = 1
-	#tech_military_police = 1
-	#tech_field_hospital2 = 1
-	#tech_field_hospital = 1
-	#tech_logistics_company = 1
-
-	# Armor
-
-
-	# Artillery
+	tech_field_hospital = 1
+	tech_logistics_company = 1
+	tech_military_police = 1
+	tech_maintenance_company = 1
+	basic_train = 1
+	armored_train = 1
+	railway_gun = 1
+	wartime_train = 1
 	gw_artillery = 1
-	gw_field_guns = 1
-	superheavy_artillerygw = 1
-
-	# Navy
-	early_destroyer = 1
-	basic_destroyer = 1
-	early_light_cruiser = 1
-	basic_light_cruiser = 1
-	early_battlecruiser = 1
-	early_battlecruiser = 1
-	basic_battlecruiser = 1
-	early_battleship = 1
-	basic_battleship = 1
-	early_submarine = 1
-	early_submarine = 1
-	transport = 1
-
-	# Engineering
-	electronic_mechanical_engineering = 1
-	chemical_research = 1
-
-	# Industry
-	construction0 = 1
-	construction0_5 = 1
+	artillery1 = 1
+	early_fighter = 1
+	fighter1 = 1
+	airship_bomber = 1
+	early_bomber = 1
+	scout_plane = 1
+	aircraft_engine = 1
+	tank_design = 1
+	mechanical_engineering = 1
+	interwar_artillery = 1
+	howitzer1 = 1
+	infantry_weapons2 = 1
+	improved_infantry_weapons = 1
+	support_weapons = 1
+	support_weapons2 = 1
+	motorised_infantry = 1
+	#doctrines
+	# trench_warfare = 1
+	# machine_gun_defence = 1
+	# cavalry_support = 1
+	# mobile_support = 1
+	# trade_interdiction = 1
+	# convoy_interdiction_ti = 1
+	# unrestricted_submarine_warfare = 1
+	# raider_patrols = 1
+	#air
+	# formation_flying = 1
+	#electronics
+	electrical_engineering = 1
+	radio = 1
+	analytical_engine = 1
+	generator_battery = 1
+	basic_cryptography = 1
+	basic_cryptanalysis = 1
+	#industry
+	early_machine_tools = 1
+	machine_tools2 = 1
+	fortification1 = 1
+	fortification2 = 1
+	excavation1 = 1
+	excavation2 = 1
+	oil_production1 = 1
+	oil_production2 = 1
+	fuel_silos = 1
+	construction1 = 1
+	construction2 = 1
+	industrial_complex1 = 1
+	dispersed_industry = 1
+	dispersed_industry2 = 1
 }
-	if = {
-		limit = { has_dlc = "By Blood Alone" }
-		set_technology = {
-			scout_fighter_2 = 1
-			biplane_fighter1_2 = 1
-			biplane_fighter2_2 = 1
-			biplane_bomber_2 = 1
-			gw_biplane_bomber_2 = 1
-			airship1_2 = 1
-		}
-		else = {
-			set_technology = {
-				scout_fighter = 1
-				biplane_fighter1 = 1
-				biplane_fighter2 = 1
-				biplane_bomber = 1
-				gw_biplane_bomber = 1
-				airship1 = 1
-			}
+
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		early_armored_car = 1
+		basic_armored_car = 1
+	}
+}
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
 		}
 	}
-1914.1.1 = {
-
 	set_technology = {
+		legacy_early_armored_car = 1
+		legacy_basic_armored_car = 1
+	}
+}
 
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_light_cruiser = 1
+		early_submarine = 1
+		basic_destroyer = 1
+		basic_heavy_cruiser = 1
+		basic_heavy_cruiser = 1
+		basic_battleship = 1
+		basic_light_cruiser = 1
+		basic_submarine = 1
+	}
+}
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		early_ship_hull_light = 1
+		basic_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		basic_cruiser_armor_scheme = 1
+		early_ship_hull_heavy = 1
+		basic_ship_hull_heavy = 1
+		basic_heavy_armor_scheme = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_medium_battery = 1
+		basic_heavy_battery = 1
+		basic_secondary_battery = 1
+		basic_torpedo = 1
+	}
+}
+
+1914.1.1 = {
+	set_technology = {
 		# Infantry
 		infantry_weapons0 = 1
 		infantry_weaponsgreat_war = 1
@@ -102,11 +157,9 @@ set_technology = {
 		infantry_grenade = 1
 		basic_train = 1
 		motorised_infantry = 1
-		
 		marines = 1
 		marines1 = 1
 		tech_mountaineers = 1
-
 		# Support
 		tech_support = 1
 		tech_engineers = 1
@@ -114,11 +167,7 @@ set_technology = {
 		tech_military_police = 1
 		tech_field_hospital = 1
 		tech_logistics_company = 1
-
 		# Armor
-
-		
-
 		# Artillery
 		gw_artillery = 1
 		gw_field_guns = 1
@@ -127,7 +176,6 @@ set_technology = {
 		pre_gw_artillery = 1
 		on_gw_artillery = 1
 		superheavy_artillerygw = 1
-
 		# Land Doctrine
 		linar_infantry = 1
 		battlefield_fortifications = 1
@@ -140,7 +188,6 @@ set_technology = {
 		artillery_preparation = 1
 		wave_offensive = 1
 		defense_of_strong_points = 1
-
 		# Navy
 		early_destroyer = 1
 		basic_destroyer = 1
@@ -155,22 +202,17 @@ set_technology = {
 		early_submarine = 1
 		early_submarine = 1
 		transport = 1
-
 		# Navy Doctrine
 		#ww1_navaldoctrine = 1
 		#ww1_navaldoctrine_2 = 1
 		#ww1_navaldoctrine_3 = 1
-
 		# Engineering
 		electronic_mechanical_engineering = 1
 		simple_electronics = 1
-		
 		radio_gw = 1
 		gw_encryption = 1
-		
 		electric_motor = 1
-			convey_tech = 1
-
+		convey_tech = 1
 		# Industry
 		basic_manual_machine_tools = 1
 		improved_manual_machine_tools = 1
@@ -183,26 +225,21 @@ set_technology = {
 		construction0 = 1
 		construction0_5 = 1
 		bunkers1 = 1
-		
-
 		tanktraks = 1
 		tank_armor = 1
-		
 		aerodynamics_theory = 1
 		aircraft_engine = 1
 		aircraft_guns = 1
 		synchronization_gear = 1
-		
 		chemical_research = 1
-		
 		poison_gas = 1
-		
-		
 		camera1 = 1
 		camera2 = 1
 	}
 	if = {
-		limit = { has_dlc = "By Blood Alone" }
+		limit = {
+			has_dlc = "By Blood Alone"
+		}
 		set_technology = {
 			scout_fighter_2 = 1
 			biplane_fighter1_2 = 1
@@ -225,8 +262,8 @@ set_technology = {
 		}
 	}
 }
+
 1917.1.1 = {
-	
 }
 
 add_ideas = {
@@ -235,19 +272,29 @@ add_ideas = {
 	local_assembly_decisions_b_law
 	allow_one_party_law
 	ideological_expansion_law
-	
-	small_farms agricultural_harvester
+	small_farms
+	agricultural_harvester
 	mass_literacy
 }
+
 set_politics = {
 	ruling_party = communism
 	election_frequency = 60
 	elections_allowed = no
 }
+
 set_popularities = {
 	radical_socialism = 30
 	communism = 50
 	social_democracy = 20
 }
 
-create_country_leader = { name = "Karl Liebknecht" desc = GER_karl_liebknecht_DESC picture = "gfx/leaders/GER/Portrait_Karl_Liebknecht.dds" expire = "1935.1.1" ideology = marxism  traits = {  } }
+create_country_leader = {
+	name = "Karl Liebknecht"
+	desc = GER_karl_liebknecht_DESC
+	picture = "gfx/leaders/GER/Portrait_Karl_Liebknecht.dds"
+	expire = "1935.1.1"
+	ideology = marxism
+	traits = {
+	}
+}

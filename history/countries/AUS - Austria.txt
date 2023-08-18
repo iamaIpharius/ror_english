@@ -1,29 +1,141 @@
 ﻿capital = 4
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
-
+set_research_slots = 4
 set_technology = {
-	gw_artillery = 1
-	superheavy_artillerygw = 1
-	
-	motorised_infantry = 1
-	electronic_mechanical_engineering = 1
-	infantry_weapons0 = 1
-	early_destroyer = 1
-	basic_destroyer = 1
-	
-	basic_light_cruiser = 1
-	early_light_cruiser = 1
-	
-	early_battleship = 1
-	basic_battleship = 1
-	transport = 1
-	early_submarine = 1 early_submarine = 1
-	basic_submarine = 1 basic_submarine = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
 	tech_support = 1
 	tech_engineers = 1
 	tech_recon = 1
+	tech_field_hospital = 1
+	tech_logistics_company = 1
+	tech_military_police = 1
+	tech_maintenance_company = 1
+	basic_train = 1
+	armored_train = 1
+	railway_gun = 1
+	wartime_train = 1
+	gw_artillery = 1
+	artillery1 = 1
+	early_fighter = 1
+	fighter1 = 1
+	airship_bomber = 1
+	early_bomber = 1
+	scout_plane = 1
+	aircraft_engine = 1
+	tank_design = 1
+	mechanical_engineering = 1
+	interwar_artillery = 1
+	howitzer1 = 1
+	infantry_weapons2 = 1
+	improved_infantry_weapons = 1
+	support_weapons = 1
+	support_weapons2 = 1
+	motorised_infantry = 1
+	#doctrines
+	# trench_warfare = 1
+	# machine_gun_defence = 1
+	# cavalry_support = 1
+	# mobile_support = 1
+	# trade_interdiction = 1
+	# convoy_interdiction_ti = 1
+	# unrestricted_submarine_warfare = 1
+	# raider_patrols = 1
+	#air
+	# formation_flying = 1
+	#electronics
+	electrical_engineering = 1
+	radio = 1
+	analytical_engine = 1
+	generator_battery = 1
+	basic_cryptography = 1
+	basic_cryptanalysis = 1
+	#industry
+	early_machine_tools = 1
+	machine_tools2 = 1
+	fortification1 = 1
+	fortification2 = 1
+	excavation1 = 1
+	excavation2 = 1
+	oil_production1 = 1
+	oil_production2 = 1
+	fuel_silos = 1
+	construction1 = 1
+	construction2 = 1
+	industrial_complex1 = 1
+	dispersed_industry = 1
+	dispersed_industry2 = 1
+}
+
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		early_armored_car = 1
+		basic_armored_car = 1
+	}
+}
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_technology = {
+		legacy_early_armored_car = 1
+		legacy_basic_armored_car = 1
+	}
+}
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_light_cruiser = 1
+		early_submarine = 1
+		basic_destroyer = 1
+		basic_heavy_cruiser = 1
+		basic_heavy_cruiser = 1
+		basic_battleship = 1
+		basic_light_cruiser = 1
+		basic_submarine = 1
+	}
+}
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		early_ship_hull_light = 1
+		basic_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		basic_cruiser_armor_scheme = 1
+		early_ship_hull_heavy = 1
+		basic_ship_hull_heavy = 1
+		basic_heavy_armor_scheme = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_medium_battery = 1
+		basic_heavy_battery = 1
+		basic_secondary_battery = 1
+		basic_torpedo = 1
+	}
 }
 
 set_politics = {
@@ -34,6 +146,58 @@ set_politics = {
 }
 
 set_popularities = {
+	radical_socialism = 0
+	communism = 0
+	social_democracy = 30
+	social_liberalism = 0
+	market_liberalism = 10
+	social_conservatism = 0
+	authoritarism = 30
+	despotism = 0
+	fascism = 30
+	national_syndicalism = 0
+}
+
+create_country_leader = {
+	name = "Karl Seitz"
+	desc = AUS_karl_seitz_DESC
+	picture = "gfx/leaders/AUS/Portrait_Karl_Seitz.dds"
+	expire = "1935.1.1"
+	ideology = social_democracy_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Karl I"
+	desc = AUH_karl_i_DESC
+	picture = "gfx/leaders/AUH/Portrait_Karl_I.dds"
+	expire = "1935.1.1"
+	ideology = authoritarism_ideology
+	traits = {
+		weak_character
+	}
+}
+
+create_country_leader = {
+	name = "Engelbert Dolfuss"
+	desc = AUH_engelbert_dolfuss_DESC
+	picture = "gfx/leaders/AUH/Portrait_Engelbert_Dolfuss.dds"
+	expire = "1935.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+set_stability = 0.5
+1914.1.1 = {
+	set_politics = {
+		ruling_party = social_democracy
+		last_election = "1919.2.16"
+		election_frequency = 48
+		elections_allowed = yes
+	}
+	set_popularities = {
 		radical_socialism = 0
 		communism = 0
 		social_democracy = 30
@@ -44,37 +208,10 @@ set_popularities = {
 		despotism = 0
 		fascism = 30
 		national_syndicalism = 0
-}
-
-create_country_leader = { name = "Karl Seitz" desc = AUS_karl_seitz_DESC picture = "gfx/leaders/AUS/Portrait_Karl_Seitz.dds" expire = "1935.1.1" ideology = social_democracy_ideology traits = {  } }
-create_country_leader = { name = "Karl I" desc = AUH_karl_i_DESC picture = "gfx/leaders/AUH/Portrait_Karl_I.dds" expire = "1935.1.1" ideology = authoritarism_ideology  traits = { weak_character } }
-create_country_leader = { name = "Engelbert Dolfuss" desc = AUH_engelbert_dolfuss_DESC picture = "gfx/leaders/AUH/Portrait_Engelbert_Dolfuss.dds" expire = "1935.1.1" ideology = fascism_ideology  traits = {  } }
-
-set_stability = 0.50
-
-1914.1.1 = {
-	set_politics = {
-		ruling_party = social_democracy
-		last_election = "1919.2.16"
-		election_frequency = 48
-		elections_allowed = yes
-	}
-	set_popularities = {
-			radical_socialism = 0
-			communism = 0
-			social_democracy = 30
-			social_liberalism = 0
-			market_liberalism = 10
-			social_conservatism = 0
-			authoritarism = 30
-			despotism = 0
-			fascism = 30
-			national_syndicalism = 0
 	}
 	set_technology = {
 		naval_bomber1 = 1
 		gw_artillery = 1
-		
 		superheavy_artillerygw = 1
 		pre_gw_artillery = 1
 		on_gw_artillery = 1
@@ -102,19 +239,19 @@ set_stability = 0.50
 		early_destroyer = 1
 		basic_destroyer = 1
 		improved_destroyer = 1
-		
 		basic_light_cruiser = 1
 		basic_light_cruiser = 1
 		early_light_cruiser = 1
-		
 		early_battlecruiser = 1
 		early_battleship = 1
 		basic_battleship = 1
 		early_battleship = 1
 		transport = 1
 		early_submarine = 1
-		early_submarine = 1 early_submarine = 1
-		basic_submarine = 1 basic_submarine = 1
+		early_submarine = 1
+		early_submarine = 1
+		basic_submarine = 1
+		basic_submarine = 1
 		tech_support = 1
 		tech_engineers = 1
 		tech_recon = 1
@@ -127,7 +264,6 @@ set_stability = 0.50
 
 1936.1.1 = {
 	oob = "AUS_1936"
-
 	set_politics = {
 		ruling_party = authoritarism
 		last_election = "1930.11.9"
@@ -135,21 +271,61 @@ set_stability = 0.50
 		elections_allowed = no
 	}
 	set_popularities = {
-			radical_socialism = 0
-			communism = 0
-			social_democracy = 2
-			social_liberalism = 0
-			market_liberalism = 10
-			social_conservatism = 0
-			authoritarism = 48
-			despotism = 0
-			fascism = 50
-			national_syndicalism = 0
+		radical_socialism = 0
+		communism = 0
+		social_democracy = 2
+		social_liberalism = 0
+		market_liberalism = 10
+		social_conservatism = 0
+		authoritarism = 48
+		despotism = 0
+		fascism = 50
+		national_syndicalism = 0
 	}
-	set_stability = 0.50
-	create_country_leader = { name = "Kurt Schuschnigg" desc = "POLITICS_KURT_SCHUSCHNIGG_DESC" picture = "Portrait_Austria_Kurt_Schuschnigg.dds" expire = "1965.1.1" ideology = authoritarism_ideology traits = {  } }
-	create_country_leader = { name = "Karl Renner" desc = "POLITICS_KARL_RENNER_DESC" picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds" expire = "1965.1.1" ideology = social_democracy_ideology traits = {  } }
-	create_country_leader = { name = "Arthur Seyss-Inquart" desc = "POLITICS_ARTHUR_SEYSS_INQUART_DESC" picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds" expire = "1965.1.1" ideology = nazism traits = {  } }
-	create_country_leader = { name = "Alfred Klahr" desc = "POLITICS_ALFRED_KLAHR_DESC" picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds" expire = "1965.1.1" ideology = marxism traits = {  } }
-	create_corps_commander = { name = "Karl Eglseer" portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds" traits = { trait_mountaineer trickster } skill = 3 }
+	set_stability = 0.5
+	create_country_leader = {
+		name = "Kurt Schuschnigg"
+		desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
+		picture = "Portrait_Austria_Kurt_Schuschnigg.dds"
+		expire = "1965.1.1"
+		ideology = authoritarism_ideology
+		traits = {
+		}
+	}
+	create_country_leader = {
+		name = "Karl Renner"
+		desc = "POLITICS_KARL_RENNER_DESC"
+		picture = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		expire = "1965.1.1"
+		ideology = social_democracy_ideology
+		traits = {
+		}
+	}
+	create_country_leader = {
+		name = "Arthur Seyss-Inquart"
+		desc = "POLITICS_ARTHUR_SEYSS_INQUART_DESC"
+		picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+		expire = "1965.1.1"
+		ideology = nazism
+		traits = {
+		}
+	}
+	create_country_leader = {
+		name = "Alfred Klahr"
+		desc = "POLITICS_ALFRED_KLAHR_DESC"
+		picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+		expire = "1965.1.1"
+		ideology = marxism
+		traits = {
+		}
+	}
+	create_corps_commander = {
+		name = "Karl Eglseer"
+		portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+		traits = {
+			trait_mountaineer
+			trickster
+		}
+		skill = 3
+	}
 }

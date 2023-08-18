@@ -1,16 +1,16 @@
 ﻿capital = 219
-
 set_country_flag = RSDRP_RKP_VKP_KPSS
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
+set_research_slots = 4
 set_stability = 0.4
 set_war_support = 0.02
-starting_train_buffer = 1.0
+starting_train_buffer = 1
 set_convoys = 1
-
 #add_namespace = { name = "unit_leader_sov" type = unit_leader }
-
 set_politics = {
 	ruling_party = communism
 	last_election = "1917.11.7"
@@ -19,8 +19,8 @@ set_politics = {
 }
 
 set_popularities = {
-		radical_socialism = 14
-		communism = 66
-		social_democracy = 10
-		social_liberalism = 10
+	radical_socialism = 14
+	communism = 66
+	social_democracy = 10
+	social_liberalism = 10
 }

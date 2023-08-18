@@ -1,44 +1,48 @@
 ﻿# Condominium of Bosnia and Herzegovina
 # -------------------------------------
 # https://en.wikipedia.org/wiki/Austro-Hungarian_rule_in_Bosnia_and_Herzegovina
-
-capital = 104 # Sarajevo
-
+capital = 104# Sarajevo
 #-------------------------------------------------------
 #					GENERIC VALUES
 #-------------------------------------------------------
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
-set_stability = 0.56
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
+set_research_slots = 4
+set_stability = 0.56
 #-------------------------------------------------------
 #					POLITICS & ARMY
 #-------------------------------------------------------
 #LEADERS
-
-
 set_politics = {
-	ruling_party = authoritarism last_election = "1910.1.1"
-	election_frequency = 48 elections_allowed = no
+	ruling_party = authoritarism
+	last_election = "1910.1.1"
+	election_frequency = 48
+	elections_allowed = no
 }
+
 set_popularities = {
-		social_conservatism = 1
-		fascism = 1
-		authoritarism = 97
-		communism = 1
+	social_conservatism = 1
+	fascism = 1
+	authoritarism = 97
+	communism = 1
 }
 
 1910.1.1 = {
 	set_politics = {
-		ruling_party = authoritarism last_election = "1910.1.1"
-		election_frequency = 48 elections_allowed = no
+		ruling_party = authoritarism
+		last_election = "1910.1.1"
+		election_frequency = 48
+		elections_allowed = no
 	}
 	set_popularities = {
-			social_conservatism = 1
-			fascism = 1
-			authoritarism = 97
-			communism = 1
-		}
+		social_conservatism = 1
+		fascism = 1
+		authoritarism = 97
+		communism = 1
+	}
 	add_ideas = {
 		limited_conscription
 	}

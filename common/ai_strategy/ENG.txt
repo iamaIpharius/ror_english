@@ -1,0 +1,1275 @@
+# befriend
+# conquer
+# antagonize
+# build_ship
+# build_army
+# unit_ratio
+# build_building
+# research_tech
+# garrison
+# protect
+# influence
+
+ENG_unit_production = {
+	enable = {
+		original_tag = ENG
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = role_ratio
+		id = garrison
+		value = 4
+	}
+	
+	ai_strategy = {
+		type = role_ratio
+		id = suppression
+		value = 1
+	}
+
+
+	ai_strategy = {
+		type = role_ratio
+		id = paratroopers
+		value = 0
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = mountaineers
+		value = 0
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = marines
+		value = 5
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = cavalry
+		value = 0
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = armor
+		value = 15
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = infantry
+		value = 80 
+	}
+	
+	#Air unit factors
+	ai_strategy = {
+		type = unit_ratio
+		id = fighter
+		value = 60
+	}
+	
+	ai_strategy = {
+		type = unit_ratio
+		id = cas
+		value = 3
+	}
+	
+	ai_strategy = {
+		type = unit_ratio
+		id = tactical_bomber
+		value = 5
+	}
+	
+	ai_strategy = {
+		type = unit_ratio
+		id = strategic_bomber
+		value = 15
+	}
+	
+	ai_strategy = {
+		type = unit_ratio
+		id = naval_bomber
+		value = 5
+	}
+	
+	
+	# Naval unit factors
+	ai_strategy = {
+		type = unit_ratio
+		id = capital_ship
+		value = 45
+	}
+
+	ai_strategy = {
+		type = unit_ratio
+		id = submarine
+		value = 10
+	}
+
+	ai_strategy = {
+		type = unit_ratio
+		id = screen_ship
+		value = 20
+	}
+
+	ai_strategy = {
+		type = unit_ratio
+		id = convoy
+		value = 20
+	}
+	
+	ai_strategy = {
+		type = equipment_production_factor
+		id = fighter
+		value = 30
+	}
+	
+	ai_strategy = {
+		type = equipment_production_factor
+		id = infantry
+		value = 30
+	}
+	
+	ai_strategy = {
+		type = equipment_production_factor
+		id = artillery
+		value = 30
+	}
+	
+	ai_strategy = {
+		type = equipment_production_factor
+		id = armor
+		value = 10
+	}
+}
+commonwealth_allied_base_in_france = {
+	enable = {
+		OR = {
+			tag = ENG
+			is_subject_of = ENG
+		}
+		OR = {
+			has_war_with = GER
+			has_global_flag = kis_franzferdinand_murdered
+		}
+		
+		has_war_together_with = FRA
+	}
+	abort = {
+		date > 1918.1.1
+		NOT = { FRA = { has_war_with = GER } }
+	}
+	ai_strategy = {
+		type = put_unit_buffers
+		
+		order_id = 100
+		
+		# Il-De-Frans
+		states = {
+			16
+			18
+			785
+			17
+			29
+			865
+			15
+		}
+		ratio = 0.25
+		subtract_invasions_from_need = yes
+	}
+
+
+	ai_strategy = {
+		type = front_unit_request
+		tag = GER
+		area = africa
+		value = -150
+	}
+
+	ai_strategy = {
+		type = front_unit_request
+		tag = GER
+		area = europe
+		value = 150
+	}
+}
+
+ENG_ignore_romania = {
+	enable = {
+		tag = ENG
+		is_in_faction_with = ROM
+		NOT = { has_global_flag = great_war_ends }
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = ignore
+		id = ROM			
+		value = 99999
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = ROM
+		value = -99999
+	}
+	ai_strategy = {
+		type = invade
+		id = ROM
+		value = -99999
+	}
+	ai_strategy = {
+		type = conquer
+		id = ROM
+		value = -99999
+	}
+}
+
+
+commonwealth_france_has_huge_problems = {
+	enable = {
+		OR = {
+			tag = ENG
+			is_subject_of = ENG
+		}
+		is_in_faction_with = FRA
+		FRA = { has_war_with = GER }
+		BEL = { has_capitulated = yes }
+		OR = {
+			29 = { is_controlled_by = GER }
+			865 = { is_controlled_by = GER }
+			17 = { is_controlled_by = GER }
+			18 = { is_controlled_by = GER }
+			FRA = {
+				surrender_progress > 0.05
+			}
+		}
+	}
+	abort = {
+		NOT = { 29 = { is_controlled_by = GER } }
+		NOT = { 865 = { is_controlled_by = GER } }
+		NOT = { 17 = { is_controlled_by = GER } }
+		NOT = { 18 = { is_controlled_by = GER } }
+	}
+	ai_strategy = {
+		type = front_control
+		tag = GER
+		ratio = 0.4
+		
+		priority = 500
+		ordertype = front
+		execution_type = careful
+		execute_order = yes
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = GER
+		value = 200
+	}
+	ai_strategy = {
+		type = force_defend_ally_borders
+		id = "FRA"
+		value = 200
+	}
+
+	ai_strategy = {
+		type = front_unit_request
+		tag = ITA
+		value = -500
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = SER
+		value = -500
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = ROM
+		value = -500
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = TUR
+		value = -500
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = GRE
+		value = -500
+	}
+}
+ENG_area_priority = {
+	enable = {
+		original_tag = ENG
+	}
+	abort = {
+		OR = {
+			has_war_with = JAP
+			has_war_with = CHI
+			has_war_with = QIN
+		}
+	}
+	ai_strategy = {
+		type = area_priority
+		id = europe
+		value = 250
+	}
+	ai_strategy = { 
+		type = area_priority
+		id = middle_east
+		value = 50
+	}
+	ai_strategy = {
+		type = area_priority
+		id = asia
+		value = -10
+	}
+	ai_strategy = {
+		type = area_priority
+		id = africa
+		value = 10
+	}
+}
+
+ENG_template_design_1 = {
+	enable = {
+	
+		original_tag = ENG
+		date < 1940.1.1				
+	}
+	abort = { 
+		date > 1940.1.1
+	}
+	
+	ai_strategy = {
+		type = template_prio
+		id = infantry
+		value = 40
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = motorized
+		value = -50
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = cavalry
+		value = 10
+	}
+	
+	ai_strategy = {
+		type = template_prio
+		id = light_armor
+		value = 50
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = medium_armor
+		value = 10
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = heavy_armor
+		value = -100
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = paratroopers
+		value = -10
+	}
+	
+	ai_strategy = {
+		type = template_prio
+		id = mechanized
+		value = -50
+	}
+}
+
+ENG_template_design_2 = {
+	enable = {
+	
+		original_tag = ENG
+		date > 1940.1.1				
+	}
+	
+	ai_strategy = {
+		type = template_prio
+		id = infantry
+		value = -10
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = motorized
+		value = 10
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = cavalry
+		value = -100
+	}
+	
+	ai_strategy = {
+		type = template_prio
+		id = light_armor
+		value = -10
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = medium_armor
+		value = 40
+	}
+	
+	ai_strategy = {
+		type = template_prio
+		id = modern_armor
+		value = 50
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = heavy_armor
+		value = -100
+	}
+
+	ai_strategy = {
+		type = template_prio
+		id = paratroopers
+		value = -10
+	}
+	
+	ai_strategy = {
+		type = template_prio
+		id = mechanized
+		value = 10
+	}
+}
+
+# lets make sure the allies dont overcommit to invasions early on
+entante_dont_invade_central_powers = {
+	enable = {
+		OR = {
+			is_in_faction_with = FRA # anyone in allies
+			tag = FRA
+		}
+		NOT = { tag = RUS }
+		date < 1916.1.1
+	}
+	
+	abort = {
+		OR = {
+			date > 1916.1.1
+			is_in_faction_with = USA
+		}
+	}
+
+	ai_strategy = {
+		type = invade
+		id = "AUH"			
+		value = -500
+	}
+
+	ai_strategy = {
+		type = invade
+		id = "GER"			
+		value = -500
+	}
+	
+	ai_strategy = {
+		type = invade
+		id = "TUR"			
+		value = -500
+	}
+	
+	ai_strategy = {
+		type = invade
+		id = "ITA"			
+		value = -500
+	}
+}
+
+east_prussia_invasion_is_death_trap = {
+	enable = {
+		OR = {
+			is_in_faction_with = FRA # anyone in allies
+			tag = FRA
+		}
+		GER = { has_war_with = RUS }
+		date < 1917.1.1
+	}
+	
+	abort = {
+		OR = {
+			NOT = { GER = { has_war_with = RUS } }
+			date > 1917.1.1
+		}
+	}
+
+	ai_strategy = {
+		type = invade
+		id = "GER"			
+		value = -2000
+	}
+}
+
+# AI gets trapped here and dies to germany, although this takes a big toll 
+# on germany as well leading to bad attack on soviet as well as no UK troops
+# to invade them later when they are busy. 
+ENG_dont_help_belgium = {
+	enable = {
+		OR = {
+			tag = ENG
+			is_subject_of = ENG
+		}
+		has_war_with = GER
+		BEL = { has_capitulated = no }
+		date < 1915.6.1
+	}
+	
+	abort = {
+		OR = {
+			date > 1915.6.1
+			BEL = { has_capitulated = yes }
+		}
+	}
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = "BEL"
+		value = 10000
+	}
+	ai_strategy = {
+		type = ignore
+		id = "BEL"
+		value = 10000
+	}
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = "LUX"
+		value = 10000
+	}
+	ai_strategy = {
+		type = ignore
+		id = "LUX"
+		value = 10000
+	}
+}
+ENG_egypt_has_problems = {
+	enable = {
+		tag = ENG
+		has_war_with = TUR
+		EGY = { is_subject_of = ENG }
+	}
+	abort = {
+		OR = {
+			date > 1918.1.1
+			NOT = { EGY = { is_subject_of = ENG } }
+		}
+	}
+	ai_strategy = {
+		type = consider_weak
+		id = "EGY"
+		value = 200
+	}
+	ai_strategy = {
+		type = protect
+		id = "EGY"
+		value = 500
+	}
+	ai_strategy = {
+		type = befriend
+		id = "EGY"
+		value = 200
+	}
+	ai_strategy = {
+		type = area_priority
+		id = suez
+		value = 50
+	}
+}
+ENG_france_has_problems = {
+	enable = {
+		tag = ENG
+		has_war_with = GER
+		BEL = { has_capitulated = yes }
+		is_in_faction_with = FRA
+	}
+	abort = {
+		date > 1918.1.1
+		NOT = { has_war_with = GER }
+	}
+	ai_strategy = {
+		type = consider_weak
+		id = "FRA"
+		value = 200
+	}
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = "FRA"
+		value = -1000
+	}
+	ai_strategy = {
+		type = protect
+		id = "FRA"
+		value = 500
+	}
+	ai_strategy = {
+		type = area_priority
+		id = europe
+		value = 300
+	}
+	ai_strategy = {
+		type = area_priority
+		id = africa
+		value = -50
+	}
+}
+entante_dont_help_serbia = {
+	enable = {
+		OR = {
+			is_in_faction_with = FRA # anyone in allies
+			tag = FRA
+		}
+		NOT = {
+			tag = SER
+			tag = MNT
+			tag = GRE
+			tag = ALB
+			tag = ROM
+		}
+		date < 1918.1.1
+		SER = { has_capitulated = no }
+	}
+	
+	abort = {
+		date > 1918.1.1
+	}
+	
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = "SER"
+		value = 1000
+	}
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = "MNT"
+		value = 1000
+	}
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = "ALB"
+		value = 1000
+	}
+}
+ENG_ignore_albania_always = {
+	enable = {
+		tag = ENG
+		ALB = { is_in_faction = no }
+	}
+	abort = {
+		ALB = { is_in_faction = yes }
+	}
+	ai_strategy = {
+		type = ignore
+		id = "ALB"
+		value = 500
+	}
+}
+
+ENG_naval_role_ratios_historical = {
+	enable = {
+		has_dlc = "Man the Guns"
+		original_tag = ENG
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_capital_bb
+		value = 5
+	}
+	ai_strategy = {
+		type = dockyard_to_military_factory_ratio
+		value = 10  #aim for a 2-1 ratio on naval factories
+	}
+	ai_strategy = {
+		type = role_ratio
+		id = naval_carrier
+		value = 5
+	}
+	ai_strategy = {
+		type = role_ratio
+		id = naval_carrier_light
+		value = 15
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_submarine
+		value = -150
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_screen
+		value = 250
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_escort
+		value = 50
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_cruiser_light
+		value = 60
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_cruiser_heavy
+		value = 00
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_mine_sweeper
+		value = 20
+	}
+
+	ai_strategy = {
+		type = role_ratio
+		id = naval_mine_layer
+		value = 10
+	}
+}
+commonwealth_defensive_after_1917 = {
+	enable = {
+		OR = {
+			tag = ENG
+			tag = USA #we are goin to war, boys!
+			is_subject_of = ENG
+		}
+		has_war_with = GER
+		date > 1917.1.1
+	}
+	abort = {
+		OR = {
+			GER = { casualties > 2500000 }
+			NOT = { has_war_with = GER }
+		}
+	}
+	
+	ai_strategy = {
+		type = antagonize
+		id = GER
+		value = -50
+	}
+	ai_strategy = {
+		type = role_ratio
+		id = armor
+		value = 50 
+	}
+	ai_strategy = {
+		type = role_ratio
+		id = infantry
+		value = -10 
+	}
+	ai_strategy = {
+		type = force_defend_ally_borders
+		value = 100
+		target = europe
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = GER
+		value = 25
+	}
+}
+invansion_of_italy = {
+	enable = {
+		OR = {
+			tag = ENG
+			tag = USA
+			is_subject_of = ENG
+		}
+		has_war_with = ITA
+		date > 1916.1.1
+	}
+	abort = {
+		OR = {
+			casualties > 1000000
+			ITA = { has_capitulated = yes }
+			NOT = { has_war_with = ITA }
+		}
+	}
+	
+	ai_strategy = {
+		type = invade
+		id = "ITA"
+		value = 500
+	}
+	ai_strategy = {
+		type = role_ratio
+		id = marines
+		value = 100 
+	}
+	ai_strategy = {
+		type = front_control
+		tag = ITA
+		ratio = 0.5
+		
+		priority = 100
+		ordertype = invasion
+		#execution_type = careful
+		#execute_order = yes
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = ITA
+		value = 25
+	}
+}
+invansion_of_norway = {
+	enable = {
+		tag = ENG
+		has_war_with = NOR
+	}
+	abort = {
+		OR = {
+			NOR = { has_capitulated = yes }
+			NOT = { has_war_with = NOR }
+		}
+	}
+	
+	ai_strategy = {
+		type = invade
+		id = "NOR"
+		value = 500
+	}
+	ai_strategy = {
+		type = role_ratio
+		id = marines
+		value = 50 
+	}
+	ai_strategy = {
+		type = front_control
+		tag = NOR
+		ratio = 0.5
+		
+		priority = 100
+		ordertype = invasion
+		#execution_type = careful
+		#execute_order = yes
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = NOR
+		value = 25
+	}
+}
+ok_guys_lets_eat_china = {
+	allowed = {
+		OR = {
+			tag = RUS
+			tag = ENG
+			tag = POR
+			tag = GER
+			tag = JAP
+		}
+	}
+	enable = {
+		any_country = {
+			OR = {
+				tag = RUS
+				tag = ENG
+				tag = POR
+				tag = GER
+				tag = JAP
+			}
+			OR = {
+				has_war_with = CHI
+				has_war_with = QIN
+			}
+		}
+		is_historical_focus_on = no
+		date < 1918.1.1
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = area_priority
+		id = asia
+		value = 75
+	}
+	ai_strategy = {
+		type = invade
+		id = QIN
+		value = 500
+	}
+	ai_strategy = {
+		type = invade
+		id = CHI
+		value = 500
+	}
+	ai_strategy = {
+		type = antagonize
+		id = QIN
+		value = 2500
+	}
+	ai_strategy = {
+		type = declare_war
+		id = QIN
+		value = 500 
+	}
+	ai_strategy = {
+		type = antagonize
+		id = CHI
+		value = 2500
+	}
+	ai_strategy = {
+		type = declare_war
+		id = CHI
+		value = 500 
+	}
+}
+
+dont_join_darfur_war = {
+	allowed = {
+		is_in_faction_with = ENG
+		NOT = {
+			tag = EGY
+			tag = ENG
+			tag = SUD
+		}
+		
+	}
+	enable = {
+		ENG = { has_war_with = DAR }
+	}
+	abort_when_not_enabled = yes
+
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = ENG
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = CAN
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = EGY
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = AST
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = NZL
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = SAF
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = MAL
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = RAJ
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = TUR
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = FRA
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = RUS
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = KEN
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = ZIM
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = NMB
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = JAM
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = USA
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = BRA
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = GER
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = AUH
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = SER
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = BUL
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = GRE
+		target_country = DAR
+		value = 99999
+	}
+	ai_strategy = {
+		type = dont_join_wars_with
+		id = MNT
+		target_country = DAR
+		value = 99999
+	}
+
+	ai_strategy = {
+		type = declare_war
+		id = DAR			
+		value = -2000 
+	}
+}
+ENG_occupy_persia = {
+	enable = {
+		tag = ENG
+		OR = {
+			has_war_with = TUR
+			AND = {
+				has_global_flag = kis_war
+				is_in_faction_with = RUS
+				NOT = {
+					is_in_faction_with = TUR
+				}
+			}	
+		}
+		is_subject = no
+		has_civil_war = no
+		surrender_progress < 0.4
+		NOT = {
+			has_global_flag = great_war_ends
+		}	
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = put_unit_buffers
+		
+		order_id = 1
+		
+		states = {
+			412
+			413
+			410
+		}
+		ratio = 0.1
+		area = middle_east
+		subtract_invasions_from_need = no
+	}
+}
+ENG_no_invasions_GER = {
+	enable = {
+		OR = {
+			tag = USA
+			tag = ENG
+			is_subject_of = ENG
+		}
+	}
+	ai_strategy = {
+        type = invasion_unit_request
+        country_trigger = { 
+			OR = {
+				tag = GER
+				is_subject_of = GER 
+			}			
+		}
+        value = -400
+    }
+}	
+
+all_my_homies_hate_russia = {
+	enable = {
+		is_in_faction_with = RUS
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = RUS
+		value = 99999
+	}
+	ai_strategy = {
+		type = ignore
+		id = RUS
+		value = 99999
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = RUS
+		value = -99999
+	}
+	ai_strategy = {
+		type = conquer
+		id = RUS
+		value = -99999
+	}
+	ai_strategy = {
+		type = invade
+		id = RUS
+		value = -99999
+	}
+}	
+
+all_my_homies_hate_romania = {
+	enable = {
+		is_in_faction_with = ROM
+		OR = {	## different rule because the germany and austria hungary can access to romania if romanie is in central powers
+			tag = ENG
+			is_subject_of = ENG
+			is_in_faction_with = ENG
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = ROM
+		value = 1000
+	}
+	ai_strategy = {
+		type = ignore
+		id = ROM
+		value = 1000
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = ROM
+		value = -1000
+	}
+}	
+
+all_my_homies_hate_italy = {
+	enable = {
+		is_in_faction_with = ITA
+	}
+	abort = {
+		ITA = {
+			surrender_progress > 0.25
+		}
+	}
+	ai_strategy = {
+		type = dont_defend_ally_borders
+		id = ITA
+		value = 1000
+	}
+	ai_strategy = {
+		type = ignore
+		id = ITA
+		value = 1000
+	}
+	ai_strategy = {
+		type = front_unit_request
+		tag = ITA
+		value = -1000
+	}
+}
+
+nepal_saves_britain = {
+	allowed = {
+		tag = NEP
+	}
+	enable = {
+		is_subject_of = ENG
+		has_global_flag = kis_war
+		NOT = {
+			has_global_flag = great_war_ends
+		}	
+		ENG = {
+			OR = {
+				has_war_with = FRA
+				has_war_with = GER
+			}	
+			NOT = {
+				has_war_with = RAJ
+			}	
+		}
+	}
+	abort_when_not_enabled = yes
+	ai_strategy = {
+		type = diplo_action_acceptance
+		id = ENG
+		target = call_allies
+		value = 3000
+	}
+}

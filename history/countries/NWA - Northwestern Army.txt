@@ -1,145 +1,364 @@
 ﻿capital = 234
-
 set_country_flag = RSDRP_RKP_VKP_KPSS
 set_country_flag = this_country_is_not_a_nation
-
 set_stability = 1
 set_war_support = 1
-starting_train_buffer = 1.0
+starting_train_buffer = 1
 set_convoys = 1
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
 
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
-
+set_research_slots = 4
 set_technology = {
-
-	# Infantry
-	infantry_weapons0 = 1
-	infantry_weaponsgreat_war = 1
-	infantry_gasmask = 1
-	support_weapons = 1
-		support_weapons1 = 1
-	
-	infantry_binoculars = 1
-	infantry_weapons0 = 1
-	infantry_grenade = 1
-		basic_train = 1
-	motorised_infantry = 1
-	marines = 1
-	marines1 = 1
-	tech_mountaineers = 1
-
-	# Support
+	infantry_weapons = 1
+	infantry_weapons1 = 1
 	tech_support = 1
 	tech_engineers = 1
 	tech_recon = 1
-	tech_military_police = 1
-	tech_field_hospital2 = 1
 	tech_field_hospital = 1
 	tech_logistics_company = 1
-
-	# Armor
-
-	
-
-	# Artillery
+	tech_military_police = 1
+	tech_maintenance_company = 1
+	basic_train = 1
+	armored_train = 1
+	railway_gun = 1
+	wartime_train = 1
 	gw_artillery = 1
-	gw_field_guns = 1
-	pre_gw_artillery = 1
-		on_gw_artillery = 1
-	superheavy_artillerygw = 1
-	superheavy_artillerylategw = 1
-
-	# Land Doctrine
-	linar_infantry = 1
-	battlefield_fortifications = 1
-	battle_column = 1
-	riflemans_chain_or_skirmish_line = 1
-	flank_coverage = 1
-	trench_system = 1
-	intermediate_warehouses = 1
-	layered_defense = 1
-	artillery_preparation = 1
-
-	# Navy
-	early_destroyer = 1
-	basic_destroyer = 1
-	improved_destroyer = 1
-	early_light_cruiser = 1
-	basic_light_cruiser = 1
-	early_battlecruiser = 1
-	early_battlecruiser = 1
-	basic_battlecruiser = 1
-	early_battleship = 1
-	basic_battleship = 1
-	early_submarine = 1
-	early_submarine = 1
-	transport = 1
-
-	# Engineering
-	electronic_mechanical_engineering = 1
-	simple_electronics = 1
-	
-	gw_encryption = 1
-	
-	electric_motor = 1
-	convey_tech = 1
-
-	# Industry
-	basic_manual_machine_tools = 1
-	improved_manual_machine_tools = 1
-	high_volume_industrial_production = 1
-	basic_machine_tools = 1
-	industrial_railways = 1
-	construction0 = 1
-	construction0_5 = 1
-	bunkers1 = 1
-	
-
-	tanktraks = 1
-	tank_armor = 1
-	aerodynamics_theory = 1
+	artillery1 = 1
+	early_fighter = 1
+	fighter1 = 1
+	airship_bomber = 1
+	early_bomber = 1
+	scout_plane = 1
 	aircraft_engine = 1
-	aircraft_guns = 1
-	chemical_research = 1
-	
-	camera1 = 1
+	tank_design = 1
+	mechanical_engineering = 1
+	interwar_artillery = 1
+	howitzer1 = 1
+	infantry_weapons2 = 1
+	improved_infantry_weapons = 1
+	support_weapons = 1
+	support_weapons2 = 1
+	motorised_infantry = 1
+	#doctrines
+	# trench_warfare = 1
+	# machine_gun_defence = 1
+	# cavalry_support = 1
+	# mobile_support = 1
+	# trade_interdiction = 1
+	# convoy_interdiction_ti = 1
+	# unrestricted_submarine_warfare = 1
+	# raider_patrols = 1
+	#air
+	# formation_flying = 1
+	#electronics
+	electrical_engineering = 1
+	radio = 1
+	analytical_engine = 1
+	generator_battery = 1
+	basic_cryptography = 1
+	basic_cryptanalysis = 1
+	#industry
+	early_machine_tools = 1
+	machine_tools2 = 1
+	fortification1 = 1
+	fortification2 = 1
+	excavation1 = 1
+	excavation2 = 1
+	oil_production1 = 1
+	oil_production2 = 1
+	fuel_silos = 1
+	construction1 = 1
+	construction2 = 1
+	industrial_complex1 = 1
+	dispersed_industry = 1
+	dispersed_industry2 = 1
 }
-	# Air
-	if = {
-		limit = { has_dlc = "By Blood Alone" }
-		set_technology = {
-			scout_fighter_2 = 1
-			biplane_fighter1_2 = 1
-			biplane_fighter2_2 = 1
-		}
-		else = {
-			set_technology = {
-				scout_fighter = 1
-				biplane_fighter1 = 1
-				biplane_fighter2 = 1
-			}
+
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		early_armored_car = 1
+		basic_armored_car = 1
+	}
+}
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
 		}
 	}
+	set_technology = {
+		legacy_early_armored_car = 1
+		legacy_basic_armored_car = 1
+	}
+}
 
-create_country_leader = { name = "Pavel Dybenko" desc = SOV_Pavel_Dybenko_DESC picture = "gfx/leaders/SOV/Portrait_Pavel_Dybenko_leader.dds" ideology = anarchist_communism traits = { } }
-create_country_leader = { name = "Grigoriy Aleksinsky" desc = RUS_Grigoriy_Aleksinsky_DESC picture = "gfx/leaders/RUS/Portrait_Grigoriy_Aleksinsky.dds" expire = "1935.1.1" ideology = leninism traits = { anti_communist } }
-create_country_leader = { name = "Vasily Horn" desc = RUS_Vasily_Horn_DESC picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds" expire = "1935.1.1" ideology = social_democracy_ideology traits = { } }
-create_country_leader = { name = "Manuel Margulies" desc = RUS_Manuel_Margulies_DESC picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds" expire = "1935.1.1" ideology = social_liberalism_ideology traits = { } }
-create_country_leader = { name = "Stepan Lianozov" desc = RUS_Stepan_Lianozov_DESC picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds" expire = "1935.1.1" ideology = market_liberalism_ideology traits = { } }
-create_country_leader = { name = "Yevgeny Kedrin" desc = RUS_Yevgeny_Kedrin_DESC picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds" expire = "1935.1.1" ideology = social_conservatism_ideology traits = { } }
-create_country_leader = { name = "Nikolay Yudenich" desc = RUS_Nikolay_Yudenich_DESC picture = "gfx/leaders/RUS/Portrait_Nikolay_Yudenich.dds" expire = "1935.1.1" ideology = authoritarism_ideology traits = { warmonger_old_general victor_on_turks } }
-create_country_leader = { name = "Alexandr Rodzyanko" desc = RUS_Alexandr_Rodzyanko_DESC picture = "gfx/leaders/RUS/Portrait_Alexandr_Rodzyanko.dds" expire = "1935.1.1" ideology = despotism_ideology traits = { warmonger_old_general olympian_rider } }
-create_country_leader = { name = "Nikolay Markov" desc = RUS_Nikolay_Markov_DESC picture = "gfx/leaders/RUS/Portrait_Nikolay_Markov.dds" expire = "1935.1.1" ideology = fascism_ideology traits = { } }
-create_country_leader = { name = "Stanislav Bulak-Balakhovich" desc = RUS_Bulak-Balakhovich_DESC picture = "gfx/leaders/POL/Portrait_Bulak_Balahovich.dds" expire = "1935.1.1" ideology = national_syndicalism_ideology traits = { warmonger min_1_local_tyrant partisan_raider } }
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_technology = {
+		early_destroyer = 1
+		early_heavy_cruiser = 1
+		early_battleship = 1
+		early_light_cruiser = 1
+		early_submarine = 1
+		basic_destroyer = 1
+		basic_heavy_cruiser = 1
+		basic_heavy_cruiser = 1
+		basic_battleship = 1
+		basic_light_cruiser = 1
+		basic_submarine = 1
+	}
+}
 
-create_corps_commander = {  name = "Alexey Palen" id = 88171 portrait_path = "gfx/leaders/RUS/Portrait_Alexey_Palen.dds" traits = { cavalry_officer urban_assault_specialist } skill = 2 attack_skill = 2 defense_skill = 2 planning_skill = 1 logistics_skill = 2 }
-create_corps_commander = {  name = "Pyotr von Glazenap" id = 88172 portrait_path = "gfx/leaders/RUS/Portrait_Pyotr_von_Glazenap.dds" traits = { cavalry_officer war_hero inflexible_strategist } skill = 3 attack_skill = 2 defense_skill = 3 planning_skill = 3 logistics_skill = 2 }
-create_field_marshal = {  name = "Alexandr Rodzyanko" id = 88173 portrait_path = "gfx/leaders/RUS/Portrait_Alexandr_Rodzyanko.dds" traits = { harsh_leader cavalry_officer trait_reckless } skill = 2 attack_skill = 3 defense_skill = 1 planning_skill = 2 logistics_skill = 1 }
-create_corps_commander = {  name = "Stanislav Bulak-Balahovich" id = 88174 portrait_path = "gfx/leaders/POL/Portrait_Bulak_Balahovich.dds" traits = { cavalry_officer cavalry_expert trait_cautious trait_reckless } skill = 3 attack_skill = 2 defense_skill = 4 planning_skill = 2 logistics_skill = 1 }
-create_corps_commander = { name = "Genrikh fon Nef" id = 77469 portrait_path = "gfx/leaders/RUS/Portrait_Genrikh_fon_Nef.dds" traits = { guerilla_fighter trait_reckless } skill = 1 attack_skill = 3 defense_skill = 3 planning_skill = 3 logistics_skill = 3 }
-create_corps_commander = { name = "Daniil Vetrenko" id = 77470 portrait_path = "gfx/leaders/RUS/Portrait_Daniil_Vetrenko.dds" traits = { guerilla_fighter trait_reckless } skill = 1 attack_skill = 3 defense_skill = 3 planning_skill = 3 logistics_skill = 3 }
-create_corps_commander = { name = "Fyodor Georg" id = 77471 portrait_path = "gfx/leaders/RUS/Portrait_Fyodor_Georg.dds" traits = { guerilla_fighter trait_reckless } skill = 1 attack_skill = 3 defense_skill = 3 planning_skill = 3 logistics_skill = 3 }
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		early_ship_hull_light = 1
+		basic_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		basic_cruiser_armor_scheme = 1
+		early_ship_hull_heavy = 1
+		basic_ship_hull_heavy = 1
+		basic_heavy_armor_scheme = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_medium_battery = 1
+		basic_heavy_battery = 1
+		basic_secondary_battery = 1
+		basic_torpedo = 1
+	}
+}
+
+create_country_leader = {
+	name = "Pavel Dybenko"
+	desc = SOV_Pavel_Dybenko_DESC
+	picture = "gfx/leaders/SOV/Portrait_Pavel_Dybenko_leader.dds"
+	ideology = anarchist_communism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Grigoriy Aleksinsky"
+	desc = RUS_Grigoriy_Aleksinsky_DESC
+	picture = "gfx/leaders/RUS/Portrait_Grigoriy_Aleksinsky.dds"
+	expire = "1935.1.1"
+	ideology = leninism
+	traits = {
+		anti_communist
+	}
+}
+
+create_country_leader = {
+	name = "Vasily Horn"
+	desc = RUS_Vasily_Horn_DESC
+	picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds"
+	expire = "1935.1.1"
+	ideology = social_democracy_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Manuel Margulies"
+	desc = RUS_Manuel_Margulies_DESC
+	picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds"
+	expire = "1935.1.1"
+	ideology = social_liberalism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Stepan Lianozov"
+	desc = RUS_Stepan_Lianozov_DESC
+	picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds"
+	expire = "1935.1.1"
+	ideology = market_liberalism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Yevgeny Kedrin"
+	desc = RUS_Yevgeny_Kedrin_DESC
+	picture = "gfx/leaders/GER/Portrait_Rudige_von_der_Goltz.dds"
+	expire = "1935.1.1"
+	ideology = social_conservatism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Nikolay Yudenich"
+	desc = RUS_Nikolay_Yudenich_DESC
+	picture = "gfx/leaders/RUS/Portrait_Nikolay_Yudenich.dds"
+	expire = "1935.1.1"
+	ideology = authoritarism_ideology
+	traits = {
+		warmonger_old_general
+		victor_on_turks
+	}
+}
+
+create_country_leader = {
+	name = "Alexandr Rodzyanko"
+	desc = RUS_Alexandr_Rodzyanko_DESC
+	picture = "gfx/leaders/RUS/Portrait_Alexandr_Rodzyanko.dds"
+	expire = "1935.1.1"
+	ideology = despotism_ideology
+	traits = {
+		warmonger_old_general
+		olympian_rider
+	}
+}
+
+create_country_leader = {
+	name = "Nikolay Markov"
+	desc = RUS_Nikolay_Markov_DESC
+	picture = "gfx/leaders/RUS/Portrait_Nikolay_Markov.dds"
+	expire = "1935.1.1"
+	ideology = fascism_ideology
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Stanislav Bulak-Balakhovich"
+	desc = RUS_Bulak-Balakhovich_DESC
+	picture = "gfx/leaders/POL/Portrait_Bulak_Balahovich.dds"
+	expire = "1935.1.1"
+	ideology = national_syndicalism_ideology
+	traits = {
+		warmonger
+		min_1_local_tyrant
+		partisan_raider
+	}
+}
+
+create_corps_commander = {
+	name = "Alexey Palen"
+	id = 88171
+	portrait_path = "gfx/leaders/RUS/Portrait_Alexey_Palen.dds"
+	traits = {
+		cavalry_officer
+		urban_assault_specialist
+	}
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Pyotr von Glazenap"
+	id = 88172
+	portrait_path = "gfx/leaders/RUS/Portrait_Pyotr_von_Glazenap.dds"
+	traits = {
+		cavalry_officer
+		war_hero
+		inflexible_strategist
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+create_field_marshal = {
+	name = "Alexandr Rodzyanko"
+	id = 88173
+	portrait_path = "gfx/leaders/RUS/Portrait_Alexandr_Rodzyanko.dds"
+	traits = {
+		harsh_leader
+		cavalry_officer
+		trait_reckless
+	}
+	skill = 2
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Stanislav Bulak-Balahovich"
+	id = 88174
+	portrait_path = "gfx/leaders/POL/Portrait_Bulak_Balahovich.dds"
+	traits = {
+		cavalry_officer
+		cavalry_expert
+		trait_cautious
+		trait_reckless
+	}
+	skill = 3
+	attack_skill = 2
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Genrikh fon Nef"
+	id = 77469
+	portrait_path = "gfx/leaders/RUS/Portrait_Genrikh_fon_Nef.dds"
+	traits = {
+		guerilla_fighter
+		trait_reckless
+	}
+	skill = 1
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Daniil Vetrenko"
+	id = 77470
+	portrait_path = "gfx/leaders/RUS/Portrait_Daniil_Vetrenko.dds"
+	traits = {
+		guerilla_fighter
+		trait_reckless
+	}
+	skill = 1
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+}
+
+create_corps_commander = {
+	name = "Fyodor Georg"
+	id = 77471
+	portrait_path = "gfx/leaders/RUS/Portrait_Fyodor_Georg.dds"
+	traits = {
+		guerilla_fighter
+		trait_reckless
+	}
+	skill = 1
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 3
+}
 
 add_ideas = {
 	military_dictatorship_gov_form
@@ -147,14 +366,18 @@ add_ideas = {
 	decrees_of_ruler_b_law
 	poliparty_system_law
 	neutral_foreign_policy_law
-	
-	landlordism steel_agricultural_tools
+	landlordism
+	steel_agricultural_tools
 	cities_averange_education
 }
+
 set_politics = {
-	ruling_party = despotism last_election = "1912.9.1"
-	election_frequency = 60 elections_allowed = no
+	ruling_party = despotism
+	last_election = "1912.9.1"
+	election_frequency = 60
+	elections_allowed = no
 }
+
 set_popularities = {
 	authoritarism = 50
 	despotism = 50
@@ -162,7 +385,6 @@ set_popularities = {
 
 1917.1.1 = {
 	oob = "NWA_1917"
-
 	add_ideas = {
 		service_by_requirement
 		limited_exports

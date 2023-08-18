@@ -1,19 +1,20 @@
 ﻿capital = 923
-
 set_country_flag = RSDRP_RKP_VKP_KPSS
-
 set_stability = 0.5
 set_war_support = 0.5
-country_event = { id = npt.kostili.5 hours = 2 }
-set_research_slots = 2
-starting_train_buffer = 1.0
+country_event = {
+	id = npt.kostili.5
+	hours = 2
+}
+
+set_research_slots = 4
+starting_train_buffer = 1
 set_convoys = 1
-
-
-
 set_politics = {
-	ruling_party = authoritarism last_election = "1912.9.1"
-	election_frequency = 60 elections_allowed = yes
+	ruling_party = authoritarism
+	last_election = "1912.9.1"
+	election_frequency = 60
+	elections_allowed = yes
 }
 
 set_popularities = {
@@ -22,12 +23,12 @@ set_popularities = {
 	fascism = 5
 	communism = 10
 }
+
 add_ideas = {
 	limited_conscription
 	partial_economic_mobilisation
-	limited_exports 
+	limited_exports
 }
-
 
 1914.1.1 = {
 	set_politics = {
@@ -36,24 +37,22 @@ add_ideas = {
 		election_frequency = 36
 		elections_allowed = no
 	}
-	
 	set_popularities = {
-			national_syndicalism = 0 
-			despotism = 0
-			fascism = 0
-			radical_socialism = 10
-			authoritarism = 0
-			social_democracy = 40
-			social_liberalism = 0
-			market_liberalism = 0
-			social_conservatism = 0
-			communism = 50
+		national_syndicalism = 0
+		despotism = 0
+		fascism = 0
+		radical_socialism = 10
+		authoritarism = 0
+		social_democracy = 40
+		social_liberalism = 0
+		market_liberalism = 0
+		social_conservatism = 0
+		communism = 50
 	}
-
 	add_ideas = {
 		limited_conscription
 		partial_economic_mobilisation
-		limited_exports 
+		limited_exports
 	}
 }
 
