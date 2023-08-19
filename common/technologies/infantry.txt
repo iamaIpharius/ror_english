@@ -18,6 +18,7 @@ technologies = {
 		}		
 		enable_subunits = {
 			infantry
+			blackshirt_assault_battalion
 		}		
 		path = {
 			leads_to_tech = infantry_weapons1

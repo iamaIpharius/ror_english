@@ -17,7 +17,6 @@ sub_units = {
 		
 		categories = {
 			category_army
-			category_support_battalions
 		}
 
 		combat_width = 1.5
