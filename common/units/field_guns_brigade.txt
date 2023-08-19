@@ -17,8 +17,7 @@ sub_units = {
 		
 		categories = {
 			category_army
-			category_line_artillery
-			category_artillery
+			category_support_battalions
 		}
 
 		combat_width = 1.5
@@ -41,7 +40,7 @@ sub_units = {
 		# soft_attack = 0.25
 		
 		plains = {
-			attack = 0.2
+			defence = 0.1
 		}
 
 		forest = {
@@ -55,6 +54,7 @@ sub_units = {
 		}
 
 		forest_hills = {
+			defence = 0.1
 			attack = -0.3
 			movement = -0.2
 		}
@@ -62,31 +62,30 @@ sub_units = {
 		mountain = {
 			attack = -0.2
 			movement = -0.2
+			defence = 0.1
 		}
 
 		jungle = {
 			attack = -0.2
 			movement = -0.2
+			defence = 0.1
 		}
 
 		marsh = {
 			movement = -0.3
+			defence = 0.1
 		}
 		urban = {
 			defence = 0.1
 		}
 
 		fort = {
-			attack = 0.1
+			defence = 0.1
 		}
 
 		river = {
-			attack = 0.2
+			defence = 0.1
 			movement = -0.2
-		}
-
-		amphibious = {
-			attack = 0.2
 		}
 	}
 

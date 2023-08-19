@@ -43,7 +43,7 @@ technologies = {
 	infantry_weapons1 = {
 		enable_equipments = {
 			infantry_equipment_1
-			field_guns_equipment_1
+			
 		}
 		path = {
 			leads_to_tech = infantry_weapons2
@@ -392,6 +392,9 @@ technologies = {
 		}
 	}
 	support_weapons = {		
+		enable_equipments = {
+			field_guns_equipment_1
+		}
 		category_light_infantry = {
 			defense = 0.02
 			breakthrough = 0.02
@@ -502,6 +505,9 @@ technologies = {
 		}
 	}	
 	support_weapons3 = {
+		enable_equipments = {
+			field_guns_equipment_1_5
+		}
 		category_light_infantry = {
 			defense = 0.02
 			breakthrough = 0.02
@@ -615,6 +621,9 @@ technologies = {
 		}
 	}
 	support_weapons5 = {
+		enable_equipments = {
+			field_guns_equipment_1_7
+		}
 		category_light_infantry = {
 			defense = 0.05
 			breakthrough = 0.05
