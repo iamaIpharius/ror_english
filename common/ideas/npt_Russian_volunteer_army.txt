@@ -76,6 +76,26 @@ ideas = {
 				out_of_supply_factor = -0.3
 				training_time_army_factor = -0.2
 				equipment_capture_factor = 0.3
+				weekly_manpower = 1000
+			}
+			removal_cost = -1
+		}
+		RVA_white_light_idea_small = {
+			picture = kuban_pohod
+			allowed = {
+				always = no
+			}
+			on_add = {
+				set_variable = { additional_wounded_chance = 0.005 }
+			}
+			modifier = {
+				planning_speed = 3
+				army_speed_factor = 0.1
+				army_org_factor = 0.2
+				army_morale_factor = 0.5
+				offence = 0.1
+				defence = 0.1
+				equipment_capture_factor = 0.2
 			}
 			removal_cost = -1
 		}

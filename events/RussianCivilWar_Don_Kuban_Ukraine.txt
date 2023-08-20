@@ -11693,7 +11693,7 @@ country_event = {
 		tag = RVA
 		has_idea = RVA_white_light_idea
 		has_army_manpower = {
-			size > 14999
+			size > 100000
 		}
 	}
 	mean_time_to_happen = {
@@ -11702,7 +11702,7 @@ country_event = {
 	fire_only_once = yes
 	immediate = {
 		remove_ideas = RVA_white_light_idea
-		clear_variable = additional_wounded_chance
+		add_ideas = RVA_white_light_idea_small
 	}
 }
 
