@@ -1,0 +1,14 @@
+# ideas = {
+# 	country = {
+# 		ammo_from_allies = {
+# 			picture = RVA_steel_discipline_idea
+# 			allowed = {
+# 				always = no
+# 			}
+# 			modifier = {
+# 				daily_ammunition_gain = 1000
+# 			}
+# 			removal_cost = -1
+# 		}
+# 	}
+# }

@@ -1,0 +1,17 @@
+# ammo_from_allies_cat = {
+# 	ammo_from_allies_decision = {
+# 		icon = generic_political_discourse
+# 		available = {
+# 		}
+# 		visible = {
+# 		}
+# 		cost = 25
+# 		fire_only_once = yes
+# 		ai_will_do = {
+# 			factor = 1
+# 		}
+# 		complete_effect = {
+# 			add_ideas = ammo_from_allies
+# 		}
+# 	}
+# }
