@@ -1,3 +1,6 @@
 ﻿l_english:
 blackshirt_assault_battalion:0 "Assault Battalion"
 blackshirt_assault_battalion_desc:0 "Assault Battalion"
+ field_guns:0 "MG Support"
+ field_guns_brigade:0 "MG Battalion"
+ mot_field_guns_brigade:0 "Motorised MG Battalion"
