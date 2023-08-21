@@ -17,7 +17,7 @@ equipments = {
 		maximum_speed = 5
 
 		#Offensive Abilities
-		railway_gun_attack = 25
+
 		
 		manpower = 1000
 	}
@@ -29,8 +29,35 @@ equipments = {
 		priority = 50
 		visual_level = 0
 		active = no
+		railway_gun_attack = 20
+		build_cost_ic = 500
+		resources = {
+			steel = 4
+		}		
+	}
+	railway_gun_equipment_2 = {
+		year = 1918
 
-		build_cost_ic = 800.0
+		archetype = railway_gun_equipment
+		priority = 50
+		visual_level = 0
+		active = no
+		railway_gun_attack = 35
+		build_cost_ic = 800
+		resources = {
+			steel = 4
+			chromium = 2
+		}		
+	}
+	railway_gun_equipment_3 = {
+		year = 1920
+
+		archetype = railway_gun_equipment
+		priority = 50
+		visual_level = 0
+		active = no
+		railway_gun_attack = 50
+		build_cost_ic = 1000
 		resources = {
 			steel = 4
 			tungsten = 2
