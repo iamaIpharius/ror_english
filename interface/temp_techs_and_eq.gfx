@@ -24,4 +24,16 @@ spriteTypes = {
 		name = "GFX_RUS_railway_gun_3_medium"
 		texturefile = "gfx/interface/technologies/armored_train/RUS_railway_gun_3.dds"
 	}
+	SpriteType = {
+		name = "GFX_RVA_railway_gun_medium"
+		texturefile = "gfx/interface/technologies/armored_train/RVA_railway_gun.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_railway_gun_2_medium"
+		texturefile = "gfx/interface/technologies/armored_train/RVA_railway_gun_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_railway_gun_3_medium"
+		texturefile = "gfx/interface/technologies/armored_train/RVA_railway_gun_3.dds"
+	}
 }
