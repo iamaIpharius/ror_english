@@ -37,9 +37,9 @@
  interwar_artillery0:0 "Interwar howitzer"
  interwar_artillery0_desc:0 "Lessons learned from mistakes made when designing different types of artillery can be applied to other vehicles."
  
- field_guns:0 "Gun support"
- field_guns_brigade:0 "Cannon Artillery"
- mot_field_guns_brigade:0 "Motorized Cannon Artillery"
+#  field_guns:0 "Gun support"
+#  field_guns_brigade:0 "Cannon Artillery"
+#  mot_field_guns_brigade:0 "Motorized Cannon Artillery"
  superheavy_artillery_brigade:0 "Superheavy Artillery"
  mot_superheavy_artillery_brigade:0 "Motorized Super Heavy Artillery"
  ARTILLERY_TITLE_FIELD_GUNS:0 "GUNS"
