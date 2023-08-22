@@ -1,6 +1,5 @@
 # ammo_from_allies_cat = {
 # 	visible = {
-		 
 # 		any_enemy_country = {
 # 			tag = RUS
 # 		}
@@ -25,10 +24,37 @@
 # 			tag = BKL
 # 		}
 # 	}
-	
 # 	visible = {
-
 # 	}
-	
 # 	icon = rcw_RVA_savinkov_missions_decisions
+# }
+# white_armored_trains_cat = {
+# 	visible = {
+# 		any_enemy_country = {
+# 			tag = RUS
+# 		}
+# 		OR = {
+# 			tag = CCA
+# 			tag = ACH
+# 			tag = DON
+# 			tag = IZH
+# 			tag = NRR
+# 			tag = NVA
+# 			tag = NWA
+# 			tag = OCH
+# 			tag = RSS
+# 			tag = RVA
+# 			tag = TCH
+# 			tag = UCH
+# 			tag = URL
+# 			tag = WVA
+# 			tag = SIB
+# 			tag = CRI
+# 			tag = PRM
+# 			tag = BKL
+# 		}
+# 	}
+# 	visible = {
+# 	}
+# 	icon = mobilization_of_rva_corps_icon
 # }

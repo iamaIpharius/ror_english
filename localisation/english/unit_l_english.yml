@@ -10,7 +10,6 @@
  CLICK_NAVY_SEE_DETAILS:0 "§GLICK to get details.§!"
  UNIT_STATS:0 "Unit details."
  SHIP_UNIT_STATS:0 "Ship Details"
- RAILWAY_GUN_UNIT_STATS:0 "Railway Gun Information"
  UNIT_LEADER_SKILL_LAND_DESC:0 "A higher skill score than the enemy general gives the warlord another opportunity to implement tactical countermeasures and defeat the enemy. The general's skill increases as he gains experience. \n\n"
  UNIT_LEADER_SKILL_NAVY_DESC:1 "The admiral's skill increases as he gains experience. \n\n"
  UNIT_LEADER_SKILL_OPERATIVE_DESC:0 "An agent's skill increases as they gain experience. \n\n"
@@ -586,8 +585,7 @@
  DECOMMISSIONED_TEMPLATE_WARNING_TOOLTIP:0 "§RThis template has been decommissioned!§!"
  DIVISION:0 "division"
  DIVISION_PLURAL:0 "divisions"
- RAILWAY_GUN:0 "railway gun"
- RAILWAY_GUN_PLURAL:0 "railway guns"
+
  ARMY_COMPOSITION_HEADER:0 "§YComposition§!\n"
  ARMY_COMPOSITION_SPECIAL_HEADER:0 "\nAlso gets bonuses, base:\n"
  ARMY_COMPOSITION_DELAYED:0 "The composition of the division determines the applied advisor and commander bonuses. Under-equipped battalions add less value than fully equipped battalions."

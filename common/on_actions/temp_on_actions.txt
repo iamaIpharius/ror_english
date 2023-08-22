@@ -1,0 +1,70 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			# NEVER FORGET! Important to include this line to distinguish it from random_events = { ... }
+			RVA = {
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "General Alekseev"
+					location = 775
+				}
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "Forward for the Motherland"
+					location = 775
+				}
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "United Russia"
+					location = 775
+				}
+			}
+			NRR = {
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "Admiral Nepenin"
+					location = 13357
+				}
+			}
+			SIB = {
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "Orlik"
+					location = 10696
+				}
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "Death to Bolshevism"
+					location = 10696
+				}
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "Ataman"
+					location = 10696
+				}
+			}
+			RUS = {
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "All power to Soviets!"
+					location = 6380
+				}
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "In the name of com. Lenin"
+					location = 6380
+				}
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "Stenka Razin"
+					location = 6380
+				}
+				create_railway_gun = {
+					equipment = railway_gun_equipment_1
+					name = "In the name of Rosa Luxemburg"
+					location = 6380
+				}
+			}
+		}
+	}
+}

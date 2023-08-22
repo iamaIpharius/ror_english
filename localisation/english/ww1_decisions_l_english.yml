@@ -212,8 +212,8 @@
  back_in_60_days:0 "\nThis §Ydecision§! will be back in §Y60 days§!.\n\n"
  back_in_180_days:0 "\nThis §Ydecision§! will be back in §Y180 days§!.\n\n"
 
- FRA_railway_guns:0 "Railway Guns"
- FRA_railway_guns_desc:0 "In order to break through the enemy lines and shatter the nightmare of trench warfare, it is necessary to make use of super-heavy "rupture" artillery. The use of rail-mounted guns is an important step in the transition of our armies to the east."
+#  FRA_railway_guns:0 "Railway Guns"
+#  FRA_railway_guns_desc:0 "In order to break through the enemy lines and shatter the nightmare of trench warfare, it is necessary to make use of super-heavy "rupture" artillery. The use of rail-mounted guns is an important step in the transition of our armies to the east."
 
  FRA_fortifications:0 "French Fortifications"
  FRA_fortifications_desc:0 "Many forts were built following the Séré de Rivières defense plan between 1870 and 1890. Most of these fortresses are no longer in use or obsolete due to lack of maintenance or outdated equipment. With some renovations, these structures could be used again."

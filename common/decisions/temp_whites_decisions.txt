@@ -15,3 +15,35 @@
 # 		}
 # 	}
 # }
+# white_armored_trains_cat = {
+# 	RVA_white_armored_trains_decision = {
+# 		icon = mobilization_of_rva_corps_icon
+# 		available = {
+# 		}
+# 		visible = {
+# 			tag = RVA
+# 		}
+# 		cost = 25
+# 		fire_only_once = yes
+# 		ai_will_do = {
+# 			factor = 1
+# 		}
+# 		complete_effect = {
+# 			create_railway_gun = {
+# 				equipment = railway_gun_equipment_1
+# 				name = "General Alekseev"
+# 				location = 775
+# 			}
+# 			create_railway_gun = {
+# 				equipment = railway_gun_equipment_1
+# 				name = "Forward for the Motherland"
+# 				location = 775
+# 			}
+# 			create_railway_gun = {
+# 				equipment = railway_gun_equipment_1
+# 				name = "United Russia"
+# 				location = 775
+# 			}
+# 		}
+# 	}
+# }
