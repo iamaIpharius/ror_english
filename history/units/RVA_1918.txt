@@ -367,17 +367,87 @@ units = {
 		start_experience_factor = 0.7
 		start_equipment_factor = 1
 	}
+	division = {
+		name = "1-y Dobrovol'cheskiy polk"
+		location = 6768
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "2-y Dobrovol'cheskiy polk"
+		location = 6768
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "3-y Dobrovol'cheskiy polk"
+		location = 6768
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "4-y Dobrovol'cheskiy polk"
+		location = 6768
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "5-y Dobrovol'cheskiy polk"
+		location = 15132
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "6-y Dobrovol'cheskiy polk"
+		location = 765
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "7-y Dobrovol'cheskiy polk"
+		location = 748
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "8-y Dobrovol'cheskiy polk"
+		location = 3748
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "9-y Dobrovol'cheskiy polk"
+		location = 15129
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
+	division = {
+		name = "10-y Dobrovol'cheskiy polk"
+		location = 11681
+		division_template = "Dobrovol'cheskiy pekhotnyy polk"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+	}
 }
 
 instant_effect = {
 	add_equipment_to_stockpile = {
 		type = infantry_equipment_0
-		amount = 6000
+		amount = 10000
 		producer = RUS
 	}
 	add_equipment_to_stockpile = {
 		type = support_equipment_1
-		amount = 300
+		amount = 3000
 		producer = RUS
 	}
 }
