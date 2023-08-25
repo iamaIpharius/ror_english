@@ -112,6 +112,12 @@
  rcw_bfk.32.a:0 "Give them away to the Latvians."
  rcw_bfk.32.b:0 "We cannot allow soldiers to scatter, organize state farms."
  
+ rcw_bfk.102.t:0 "Russian Northern Corp call!"
+ rcw_bfk.102.d:0 "Russian Northern Corp backed by Germany attack from Pskov."
+ rcw_bfk.102.a:0 "LMAO do not press that."
+ rcw_bfk.102.b:0 "We will face those reactionary dogs. (Stay as Soviet Russia)"
+ rcw_bfk.102.c:0 "Forward, on Petrograd! (Play as Northern Corp)"
+
  rcw_bfk.104.t:0 "Treaty with the Northern Corps"
  rcw_bfk.104.d:0 "Russian troops formed by the German administration remain on Estonian territory. It is possible to seek their help to strengthen the young people's army."
  rcw_bfk.104.a:0 "The Northern Corps will become part of the Estonian army."

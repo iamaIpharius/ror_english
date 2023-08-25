@@ -2379,12 +2379,12 @@ country_event = {
 	
 	is_triggered_only = yes
 	
-	option = {
-		name = rcw_bfk.102.a
-		ai_chance = {
-			factor = 0
-		}
-	}
+	# option = {
+	# 	name = rcw_bfk.102.a
+	# 	ai_chance = {
+	# 		factor = 0
+	# 	}
+	# }
 	option = {
 		name = rcw_bfk.102.b
 		declare_war_on = {
@@ -2403,6 +2403,20 @@ country_event = {
 			create_unit = {
 				division = "name = \"Krasnaya Gvardiya\" division_template = \"Krasnaya Gvardiya\" start_experience_factor = 0.3 start_equipment_factor = 1"
 				owner = RUS
+			}
+		}
+		NWA = {
+			create_railway_gun = {
+				tag = NWA
+				equipment = railway_gun_equipment_1
+				name = "Admiral Essen"
+				location = 11202
+			}
+			create_railway_gun = {
+				tag = NWA
+				equipment = railway_gun_equipment_1
+				name = "Pskovityanin"
+				location = 11202
 			}
 		}
 		ai_chance = {
@@ -2430,7 +2444,23 @@ country_event = {
 				owner = RUS
 			}
 		}
-		NWA = { change_tag_from = ROOT }
+		NWA = {
+			create_railway_gun = {
+				tag = NWA
+				equipment = railway_gun_equipment_1
+				name = "Admiral Essen"
+				location = 11202
+			}
+			create_railway_gun = {
+				tag = NWA
+				equipment = railway_gun_equipment_1
+				name = "Pskovityanin"
+				location = 11202
+			}
+		}
+		NWA = { 
+			change_tag_from = ROOT
+	 	}
 	}
 }
 
