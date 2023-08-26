@@ -1,0 +1,6 @@
+spread_of_revolution_cat = {
+	icon = SOV_mobilization_of_red_guard_desisions
+	visible = {
+		tag = RUS
+	}
+}

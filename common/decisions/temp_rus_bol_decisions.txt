@@ -1,0 +1,22 @@
+spread_of_revolution_cat = {
+	spread_of_revolution_former_empire = {
+		visible = {
+			tag = RUS
+		}
+		available = {
+			always = no
+		}
+		activation = {
+			has_global_flag = WWI_GER_HAS_CAPITULATED
+		}
+		is_good = no
+		fire_only_once = yes
+		priority = 100
+		days_mission_timeout = 45
+		timeout_effect = {
+			RUS = {
+				complete_national_focus = RUS_break_brest_peace
+			}
+		}
+	}
+}
