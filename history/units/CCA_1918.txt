@@ -213,22 +213,102 @@ units = {
 		division_template = "Kavaleriyskaya Brigada"
 		start_experience_factor = 0.2
 	}
+	division = {
+		name = "10-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "4-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "5-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "6-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "7-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "8-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "9-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "11-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "12-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
+	division = {
+		name = "13-ya Dobrovolcheskaya Brigada"
+		location = 11225		# Tambov
+		division_template = "Dobrovolcheskaya Brigada"
+		start_experience_factor = 0.05
+		start_equipment_factor = 0.3
+		start_manpower_factor = 0.3
+	}
 }
 
 instant_effect = {
 	add_equipment_to_stockpile = {
 		type = infantry_equipment_0
-		amount = 2000
+		amount = 8000
 		producer = RUS
 	}
 	add_equipment_to_stockpile = {
 		type = artillery_equipment_2
-		amount = 50
+		amount = 500
 		producer = RUS
 	}
 	add_equipment_to_stockpile = {
 		type = field_guns_equipment
-		amount = 50
+		amount = 500
 		producer = RUS
 	}
 	add_equipment_to_stockpile = {
@@ -238,7 +318,7 @@ instant_effect = {
 	}
 	add_equipment_to_stockpile = {
 		type = support_equipment_1
-		amount = 100
+		amount = 1000
 		producer = RUS
 	}
 }

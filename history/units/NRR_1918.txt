@@ -351,6 +351,36 @@ units = {
 		division_template = "Severniy Strelkoviy Polk"
 		start_experience_factor = 0.5
 	}
+	division = {
+		name = "1. Dobrovolvheskiy polk"
+		location = 3338
+		division_template = "Severniy Strelkoviy Polk"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "2. Dobrovolvheskiy polk"
+		location = 3338
+		division_template = "Severniy Strelkoviy Polk"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "3. Dobrovolvheskiy polk"
+		location = 3338
+		division_template = "Severniy Strelkoviy Polk"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "4. Dobrovolvheskiy polk"
+		location = 3338
+		division_template = "Severniy Strelkoviy Polk"
+		start_experience_factor = 0.5
+	}
+	division = {
+		name = "5. Dobrovolvheskiy polk"
+		location = 3338
+		division_template = "Severniy Strelkoviy Polk"
+		start_experience_factor = 0.5
+	}
 }
 
 instant_effect = {
@@ -361,7 +391,7 @@ instant_effect = {
 	}
 	add_equipment_to_stockpile = {
 		type = infantry_equipment_0
-		amount = 3000
+		amount = 5000
 		producer = ENG
 	}
 	add_equipment_to_stockpile = {
