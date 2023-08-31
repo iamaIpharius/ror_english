@@ -96,3 +96,16 @@
  
  MODIFIER_LOCAL_NON_CORE_MANPOWER:0 "Human resources from non-national provinces"
  MODIFIER_GLOBAL_NON_CORE_MANPOWER:0 "Human resources from non-national provinces"
+
+ elevated_engineering_corps_spirit:0 "Hell on Tracks"
+elevated_engineering_corps_spirit_desc:0 "Railways are veins of Empire, thus must be controlled."
+relief_of_command_spirit:0 "Democratic Army"
+relief_of_command_spirit_desc:0 "Army must work on democratic principles, so every soldier could know what his duty."
+mobile_warfare_army_spirit:0 "New War Machines"
+mobile_warfare_army_spirit_desc:0 "Theese new machines will bring victory for us, we must divert every production work to them."
+
+ tactic_banzai_charge:0 "Bayonet Assault"
+mass_assault_army_spirit:0 "The bullet is a fool, the bayonet is a fine chap"
+mass_assault_army_spirit_desc:0 "Alexander Suvorov."
+ideological_loyalty_spirit:0 "Extended conscription network"
+ideological_loyalty_spirit_desc:0 "We can draft more recruits using effective networks of conscription."

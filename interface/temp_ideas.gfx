@@ -1,0 +1,18 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_mobile_warfare_army_spirit"
+		texturefile = "gfx/interface/officer_corp/spirits/spirit_idea_new_war_machines.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_volounteurs_spirit"
+		texturefile = "gfx/interface/officer_corp/spirits/spirit_idea_volunteers_of_wm.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ideological_loyalty_spirit"
+		texturefile = "gfx/interface/officer_corp/spirits/spirit_idea_modernism.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_elevated_engineering_corps_spirit"
+		texturefile = "gfx/interface/officer_corp/spirits/spirit_idea_hell_on_tracks.dds"
+	}
+}

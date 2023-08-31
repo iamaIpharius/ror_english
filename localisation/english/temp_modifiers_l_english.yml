@@ -1,0 +1,6 @@
+﻿l_english:
+ modifier_unit_howitzer_brigade_design_cost_factor:0 "Howitzer Unit Design Cost"
+ modifier_unit_howitzer_design_cost_factor:0 "Howitzer Support Unit Design Cost"
+ modifier_unit_rocket_artillery_brigade_design_cost_factor:0 "Mortar Unit Design Cost"
+ modifier_unit_rocket_artillery_design_cost_factor:0 "Mortar Support Unit Design Cost"
+ modifier_tactic_banzai_charge_preferred_weight_factor:0 "Additional §YBayonet Assault§! Tactic Chance if it is Preferred tactic"
