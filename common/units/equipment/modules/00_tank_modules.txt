@@ -1307,13 +1307,17 @@ equipment_modules = {
 		abbreviation = "shc"
 		category = tank_special_module
 		sfx = sfx_ui_sd_module_turret
-
-		xp_cost = 5
 		add_stats = {
+			soft_attack = 5
+			hard_attack = 3
+			build_cost_ic = 4
+			maximum_speed = -0.25
+			reliability = -0.05
 			breakthrough = 4
 			defense = 4
 			build_cost_ic = 3
 		}
+		xp_cost = 5
 	}
 
 	expanded_hull = {

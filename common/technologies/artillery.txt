@@ -9,7 +9,7 @@ technologies = {
 		start_year = 1910
 
 		enable_equipment_modules = {
-			tank_small_cannon
+			
 		}
 		
 		path = {
@@ -98,9 +98,7 @@ technologies = {
 		}
 		
 		enable_equipment_modules = {
-			tank_medium_howitzer
-			tank_small_cannon_2
-			tank_close_support_gun
+
 		}
 
 		research_cost = 1
@@ -164,9 +162,6 @@ technologies = {
 		}
 
 		enable_equipment_modules = {
-			tank_medium_howitzer_2
-			tank_medium_cannon
-
 		}
 		
 		path = {
@@ -256,6 +251,7 @@ technologies = {
 	
 		enable_equipments = {
 			artillery_equipment_3
+			
 		}
 
 		#artillery = { 
@@ -266,7 +262,8 @@ technologies = {
 		#}
 		
 		enable_equipment_modules = {
-			tank_medium_cannon_2
+			tank_small_cannon
+			tank_medium_howitzer
 		}
 
 		path = {
@@ -314,7 +311,7 @@ technologies = {
 		}
 
 		enable_equipment_modules = {
-			tank_heavy_howitzer
+
 		}
 		
 		start_year = 1910
@@ -775,11 +772,7 @@ technologies = {
 
 		static_anti_air_damage_factor = 0.1
 
-		enable_equipment_modules = { 
-			ship_anti_air_3
-			tank_auto_cannon
-			tank_anti_air_cannon
-		}
+		
 		
 		path = {
 			leads_to_tech = antiair3
@@ -819,6 +812,11 @@ technologies = {
 	
 	antiair3 = {
 
+		enable_equipment_modules = { 
+			ship_anti_air_3
+			tank_auto_cannon
+			tank_anti_air_cannon
+		}
 		anti_air = {
 			air_attack = 0.1
 		}
@@ -874,7 +872,7 @@ technologies = {
 		}
 
 		enable_equipment_modules = {
-			tank_heavy_cannon
+
 		}
 		
 		research_cost = 2.0
@@ -1000,10 +998,7 @@ technologies = {
 			research_cost_coeff = 1
 		}
 		
-		enable_equipment_modules = {
-			tank_medium_cannon
-			squeezebore_adaptor
-		}
+		
 
 		research_cost = 2.0
 
@@ -1064,7 +1059,9 @@ technologies = {
 	}
 	
 	antitank3 = {
-
+		enable_equipment_modules = {
+			squeezebore_adaptor
+		}
 		anti_tank = {
 			hard_attack = 0.1
 			ap_attack = 0.1
