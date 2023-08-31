@@ -220,3 +220,14 @@
  rcw_bfk.201.desc:0 "[FROM.GetAdjective] troops were able to put up serious resistance to our armies, a number of regions were lost. Against this background, we received a peace offering."
  rcw_bfk.201.a:0 "Limitrof overestimates his forces."
  rcw_bfk.201.b:0 "Probably no forceful solution yet."
+
+rcw_bfk.1918.t:0 "Fall of United Baltic Duchy"
+rcw_bfk.1918.d:0 "What we should do?"
+rcw_bfk.1918.a:0 "Play as Latvia"
+rcw_bfk.1918.b:0 "Play as Estonia"
+rcw_bfk.1918.c:0 "Stay as it is"
+
+rcw_bfk.1021.t:0 "Northern Copr Call"
+rcw_bfk.1021.d:0 "What's our answer?"
+rcw_bfk.1021.a:0 "Nah"
+rcw_bfk.1021.b:0 "Play as Northern Corp"

@@ -2275,7 +2275,10 @@ country_event = {
 				producer = NWA
 			}
 		}
-		hidden_effect = { RUS = { country_event = rcw_bfk.102 } }
+		hidden_effect = { 
+			RUS = { country_event = rcw_bfk.102 } 
+			EST = { country_event = rcw_bfk.1021 } 
+		}
 	}
 	option = {
 		trigger = { is_ai = no }
@@ -2365,7 +2368,28 @@ country_event = {
 				producer = NWA
 			}
 		}
-		hidden_effect = { RUS = { country_event = rcw_bfk.102 } }
+		hidden_effect = { 
+			RUS = { country_event = rcw_bfk.102 } 
+			EST = { country_event = rcw_bfk.1021 } 
+		}
+		NWA = { change_tag_from = ROOT }
+	}
+}
+# start as NWA from Estonia
+country_event = {
+	id = rcw_bfk.1021
+	title = rcw_bfk.1021.t
+	desc = rcw_bfk.1021.d
+	picture = GFX_report_event_north_corps_Pskov
+	is_triggered_only = yes
+	option = {
+		name = rcw_bfk.1021.a
+		ai_chance = {
+			factor = 1
+		}
+	}
+	option = {
+		name = rcw_bfk.1021.b
 		NWA = { change_tag_from = ROOT }
 	}
 }
@@ -4127,7 +4151,7 @@ country_event = {
 	
 	# Играть за Балтику (смэрт)
 	option = {
-		name = rcw_bfk.1918.b
+		name = rcw_bfk.1918.c
 		if = {
 			limit = { OR = { LIT = { exists = yes } owns_state = 11 owns_state = 189 owns_state = 814 owns_state = 784 owns_state = 815 } }
 			every_state = {
