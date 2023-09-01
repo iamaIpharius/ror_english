@@ -25,7 +25,7 @@
  ENG_artillery_equipment_1:0 "QF18pdr"
  FRA_artillery_equipment_1:0 "Canon de 75 modèle 1897"
  ITA_artillery_equipment_1:0 "75/25 model 6"
- RUS_artillery_equipment_1:0 "76 mm gun model 1900"
+
  GER_artillery_equipment_1:0 "77mm FK96 "
  AUH_artillery_equipment_1:0 "8 cm Feldkanone M. 99"
  TUR_artillery_equipment_1:0 "Krupp 75mm M1903"
@@ -34,7 +34,7 @@
  ENG_artillery_equipment_2:0 "QF 4.7inch gun"
  FRA_artillery_equipment_2:0 "Canon de 105 modele 1913 Schneider"
  ITA_artillery_equipment_2:0 "75/27 model 12"
- RUS_artillery_equipment_2:0 "76.2 mm divisional gun model 1902"
+
  GER_artillery_equipment_2:0 "Krupp 75mm M1903"
  AUH_artillery_equipment_2:0 "Skoda 75mm Mountain Gun M1909"
  TUR_artillery_equipment_2:0 "Krupp 76.2mm "
@@ -43,18 +43,18 @@
  ENG_artillery_equipment_3:0 "2.7in Mountain Gun"
  FRA_artillery_equipment_3:0 "Canon de 105 mle 1913 Schneider"
  ITA_artillery_equipment_3:0 "65/17 model 13"
- RUS_artillery_equipment_3:0 "Krupp/Schnider 107mm"
+
  GER_artillery_equipment_3:0 "7.7 cm Feldkanone 16"
  AUH_artillery_equipment_3:0 "100mm Feldkanone M. 14"
  ENG_howitzer_equipment_1:0 "BL 5-inch howitzer"
  FRA_howitzer_equipment_1:0 "155 mm Rimailho Howitzer Model 1904TR"
  GER_howitzer_equipment_1:0 "Krupp 120mm M1905"
  AUH_howitzer_equipment_1:0 "15 cm schwere Feldhaubitze M 94"
- RUS_howitzer_equipment_1:0 "152mm How 1909/30"
+
  TUR_howitzer_equipment_1:0 "Krupp 120mm Howitzer Model 1905"
  JAP_howitzer_equipment_1:0 "Type 38 15 cm Howitzer"
  ENG_howitzer_equipment_2:0 "BL 9.2inch howitzer"
- RUS_howitzer_equipment_2:0 "Krupp 155mm How"
+
  GER_howitzer_equipment_2:0 "150mm sFH 13"
  AUH_howitzer_equipment_2:0 "15 cm schwere Feldhaubitze M 14"
  TUR_howitzer_equipment_2:0 "Krupp 150mm Howitzer Model 1913"

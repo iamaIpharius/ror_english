@@ -1,5 +1,5 @@
 spriteTypes = {
-	### generic equipment archetypes ###
+	### ARMORED TRAINS ###
 	SpriteType = {
 		name = "GFX_railway_gun_medium"
 		texturefile = "gfx/interface/technologies/armored_train/generic_railway_gun.dds"
@@ -35,5 +35,2087 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_RVA_railway_gun_3_medium"
 		texturefile = "gfx/interface/technologies/armored_train/RVA_railway_gun_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_railway_gun_medium"
+		texturefile = "gfx/interface/technologies/armored_train/RVA_railway_gun.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_railway_gun_2_medium"
+		texturefile = "gfx/interface/technologies/armored_train/RVA_railway_gun_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_railway_gun_3_medium"
+		texturefile = "gfx/interface/technologies/armored_train/RVA_railway_gun_3.dds"
+	}
+	# ╔══╗╔═══╗╔════╗╔══╗╔╗──╔╗──╔═══╗╔═══╗╔╗╔╗
+	# ║╔╗║║╔═╗║╚═╗╔═╝╚╗╔╝║║──║║──║╔══╝║╔═╗║║║║║
+	# ║╚╝║║╚═╝║──║║───║║─║║──║║──║╚══╗║╚═╝║║╚╝║
+	# ║╔╗║║╔╗╔╝──║║───║║─║║──║║──║╔══╝║╔╗╔╝╚═╗║
+	# ║║║║║║║║───║║──╔╝╚╗║╚═╗║╚═╗║╚══╗║║║║──╔╝║
+	# ╚╝╚╝╚╝╚╝───╚╝──╚══╝╚══╝╚══╝╚═══╝╚╝╚╝──╚═╝
+	SpriteType = {
+		name = "GFX_RUS_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_RUS_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_CCA_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CCA_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_ACH_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_ACH_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_ACH_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_DON_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_DON_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_DON_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_IZH_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_IZH_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_IZH_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_NRR_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_NRR_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NRR_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_NVA_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_NVA_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NVA_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_NWA_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_NWA_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_NWA_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_OCH_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_OCH_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_OCH_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_RSS_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_RSS_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RSS_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_RVA_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_RVA_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RVA_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_TCH_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_TCH_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TCH_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_UCH_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_UCH_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UCH_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_URL_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_URL_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_URL_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_WVA_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_WVA_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_WVA_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_SIB_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_SIB_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_SIB_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_CRI_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_CRI_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CRI_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_PRM_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_PRM_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_PRM_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_BKL_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_BKL_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_BKL_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_TRK_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_TRK_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_TRK_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_UKR_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_UKR_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_UKR_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_CPG_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_CPG_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_CPG_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_AMR_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_AMR_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_AMR_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
+	}
+SpriteType = {
+		name = "GFX_FER_gw_artillery_medium"
+		texturefile = "gfx/interface/technologies/artillery/art0.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_artillery1_medium"
+		texturefile = "gfx/interface/technologies/artillery/art1.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_artillery4_medium"
+		texturefile = "gfx/interface/technologies/artillery/art2.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_howitzer1_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer1.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_howitzer4_medium"
+		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
+	}
+	
+	#TO CHANGE#
+	SpriteType = {
+		name = "GFX_FER_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_armored_car_equipment_1_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_armored_car_equipment_2_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_armored_car_equipment_3_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_armored_car_equipment_4_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_legacy_early_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_legacy_basic_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_legacy_improved_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_3.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_legacy_advanced_armored_car_medium"
+		texturefile = "gfx/interface/technologies/armor/RUS_ww1_armored_car_4.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_infantry_weapons1_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_improved_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_2.dds"
+	}
+	SpriteType = {
+		name = "GFX_FER_advanced_infantry_weapons_medium"
+		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
 }
