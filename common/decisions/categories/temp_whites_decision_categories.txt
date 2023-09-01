@@ -1,33 +1,25 @@
-# ammo_from_allies_cat = {
-# 	visible = {
-# 		any_enemy_country = {
-# 			tag = RUS
-# 		}
-# 		OR = {
-# 			tag = CCA
-# 			tag = ACH
-# 			tag = DON
-# 			tag = IZH
-# 			tag = NRR
-# 			tag = NVA
-# 			tag = NWA
-# 			tag = OCH
-# 			tag = RSS
-# 			tag = RVA
-# 			tag = TCH
-# 			tag = UCH
-# 			tag = URL
-# 			tag = WVA
-# 			tag = SIB
-# 			tag = CRI
-# 			tag = PRM
-# 			tag = BKL
-# 		}
-# 	}
-# 	visible = {
-# 	}
-# 	icon = rcw_RVA_savinkov_missions_decisions
-# }
+ammo_from_allies_cat = {
+	visible = {
+		NOT = { has_global_flag = RUS_civil_war_over }
+		is_socialist_country = no
+		OR = {
+			has_country_flag = rcw_country_asks_foreing_help
+			AND = {
+				NOT = { has_focus_tree = Don_white_cossaks_focus }
+				NOT = { has_focus_tree = Crimea_focus_tree }
+				NOT = { has_focus_tree = His_Imperial_Majesty_Military_Committee_focus }
+				NOT = { has_focus_tree = Russia_Northern_Volunteer_army_focus }
+				NOT = { has_focus_tree = Russia_Northwestern_army_focus }
+				NOT = { has_focus_tree = Russia_Volunteer_army_focus }
+				NOT = { has_focus_tree = Siberia_focus }
+				NOT = { has_focus_tree = Transbaikal_white_cossaks_focus }
+				NOT = { has_focus_tree = Orenburg_white_cossaks_focus }
+				NOT = { has_focus_tree = Orenburg_other_white_cossaks_focus }
+			}
+		}
+	}
+	picture = GFX_decision_cat_picture_rcw_intervention_desisions
+}
 # white_armored_trains_cat = {
 # 	visible = {
 # 		any_enemy_country = {

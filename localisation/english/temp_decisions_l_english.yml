@@ -1,0 +1,11 @@
+﻿l_english:
+ ammo_from_allies_cat:0 "Buy Armaments from Allies"
+ammo_from_allies_decision:0 "Buy Guns"
+support_from_allies_decision:0 "Buy Support Equipment"
+mg_from_allies_decision:0 "Buy Machineguns"
+arty_from_allies_decision:0 "Buy Artillery"
+mortars_from_allies_decision:0 "Buy Mortars"
+armored_cars_from_allies_decision:0 "Buy Armored Cars"
+light_tanks_from_allies_decision:0 "Buy Light Tanks"
+medium_tanks_from_allies_decision:0 "Buy Medium Tanks"
+planes_from_allies_decision:0 "Buy Planes"

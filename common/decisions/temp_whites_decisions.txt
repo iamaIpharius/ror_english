@@ -1,20 +1,233 @@
-# ammo_from_allies_cat = {
-# 	ammo_from_allies_decision = {
-# 		icon = generic_political_discourse
-# 		available = {
-# 		}
-# 		visible = {
-# 		}
-# 		cost = 25
-# 		fire_only_once = yes
-# 		ai_will_do = {
-# 			factor = 1
-# 		}
-# 		complete_effect = {
-# 			add_ideas = ammo_from_allies
-# 		}
-# 	}
-# }
+ammo_from_allies_cat = {
+	ammo_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 0
+		}
+		visible = {
+		}
+		days_remove = 20
+		days_re_enable = 20
+		cost = 25
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 1
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = infantry_equipment_1
+				amount = 200
+			}
+		}
+	}
+	support_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 0
+		}
+		visible = {
+		}
+		days_remove = 20
+		days_re_enable = 20
+		cost = 25
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 1
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = support_equipment
+				amount = 100
+			}
+		}
+	}
+	mg_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 1
+		}
+		visible = {
+		}
+		days_remove = 30
+		days_re_enable = 30
+		cost = 35
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 2
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = field_guns_equipment
+				amount = 100
+			}
+		}
+	}
+	arty_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 1
+		}
+		visible = {
+		}
+		days_remove = 40
+		days_re_enable = 40
+		cost = 40
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 2
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = artillery_equipment_2
+				amount = 100
+			}
+		}
+	}
+	mortars_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 0
+		}
+		visible = {
+		}
+		days_remove = 30
+		days_re_enable = 30
+		cost = 30
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 1
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = rocket_artillery_equipment
+				amount = 100
+			}
+		}
+	}
+	armored_cars_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 2
+		}
+		visible = {
+		}
+		days_remove = 40
+		days_re_enable = 40
+		cost = 40
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 3
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = armored_car_equipment_2
+				amount = 100
+			}
+		}
+	}
+	light_tanks_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 4
+		}
+		visible = {
+		}
+		days_remove = 60
+		days_re_enable = 40
+		cost = 60
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 5
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = light_tank_chassis_1
+				amount = 100
+				producer = FRA
+				variant_name = "FT-17"
+			}
+		}
+	}
+	medium_tanks_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 4
+		}
+		visible = {
+		}
+		days_remove = 60
+		days_re_enable = 40
+		cost = 60
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 5
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = medium_tank_chassis_0
+				amount = 50
+				producer = ENG
+				variant_name = "Whippet"
+			}
+			add_equipment_to_stockpile = {
+				type = medium_tank_chassis_1
+				amount = 25
+				producer = ENG
+				variant_name = "Tank Mk. IV (f)"
+			}
+			add_equipment_to_stockpile = {
+				type = medium_tank_chassis_1
+				amount = 25
+				producer = ENG
+				variant_name = "Tank Mk. IV (m)"
+			}
+		}
+	}
+	planes_from_allies_decision = {
+		icon = GFX_decision_category_generic_arms_trade
+		available = {
+			num_of_civilian_factories > 4
+		}
+		visible = {
+		}
+		days_remove = 60
+		days_re_enable = 40
+		cost = 60
+		ai_will_do = {
+			factor = 1
+		}
+		modifier = {
+			civilian_factory_use = 5
+		}
+		remove_effect = {
+			add_equipment_to_stockpile = {
+				type = fighter_equipment_1
+				amount = 50
+			}
+			add_equipment_to_stockpile = {
+				type = tac_bomber_equipment_0
+				amount = 50
+			}
+		}
+	}
+}
+
 # white_armored_trains_cat = {
 # 	RVA_white_armored_trains_decision = {
 # 		icon = mobilization_of_rva_corps_icon
