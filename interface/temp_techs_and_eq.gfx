@@ -74,7 +74,36 @@ spriteTypes = {
 		name = "GFX_RUS_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
+	# ╔═══╗╔╗──╔══╗╔╗─╔╗╔═══╗╔══╗
+	# ║╔═╗║║║──║╔╗║║╚═╝║║╔══╝║╔═╝
+	# ║╚═╝║║║──║╚╝║║╔╗─║║╚══╗║╚═╗
+	# ║╔══╝║║──║╔╗║║║╚╗║║╔══╝╚═╗║
+	# ║║───║╚═╗║║║║║║─║║║╚══╗╔═╝║
+	# ╚╝───╚══╝╚╝╚╝╚╝─╚╝╚═══╝╚══╝
+	SpriteType = {
+		name = "GFX_RUS_early_fighter_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_ww1_fighter0.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_fighter1_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_fighter1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_fighter2_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_fighter2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_fighter3_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_fighter3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_cv_fighter2_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_fighter2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_cv_fighter3_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_fighter3.dds"
+	}
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_RUS_early_armored_car_medium"
@@ -160,7 +189,6 @@ spriteTypes = {
 		name = "GFX_CCA_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_CCA_early_armored_car_medium"
@@ -226,7 +254,7 @@ spriteTypes = {
 		name = "GFX_CCA_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_ACH_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -246,7 +274,6 @@ SpriteType = {
 		name = "GFX_ACH_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_ACH_early_armored_car_medium"
@@ -312,7 +339,7 @@ SpriteType = {
 		name = "GFX_ACH_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_DON_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -332,7 +359,6 @@ SpriteType = {
 		name = "GFX_DON_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_DON_early_armored_car_medium"
@@ -398,7 +424,7 @@ SpriteType = {
 		name = "GFX_DON_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_IZH_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -418,7 +444,6 @@ SpriteType = {
 		name = "GFX_IZH_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_IZH_early_armored_car_medium"
@@ -484,7 +509,7 @@ SpriteType = {
 		name = "GFX_IZH_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_NRR_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -504,7 +529,6 @@ SpriteType = {
 		name = "GFX_NRR_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_NRR_early_armored_car_medium"
@@ -570,7 +594,7 @@ SpriteType = {
 		name = "GFX_NRR_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_NVA_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -590,7 +614,6 @@ SpriteType = {
 		name = "GFX_NVA_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_NVA_early_armored_car_medium"
@@ -656,7 +679,7 @@ SpriteType = {
 		name = "GFX_NVA_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_NWA_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -676,7 +699,6 @@ SpriteType = {
 		name = "GFX_NWA_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_NWA_early_armored_car_medium"
@@ -742,7 +764,7 @@ SpriteType = {
 		name = "GFX_NWA_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_OCH_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -762,7 +784,6 @@ SpriteType = {
 		name = "GFX_OCH_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_OCH_early_armored_car_medium"
@@ -828,7 +849,7 @@ SpriteType = {
 		name = "GFX_OCH_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_RSS_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -848,7 +869,6 @@ SpriteType = {
 		name = "GFX_RSS_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_RSS_early_armored_car_medium"
@@ -914,7 +934,7 @@ SpriteType = {
 		name = "GFX_RSS_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_RVA_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -934,7 +954,6 @@ SpriteType = {
 		name = "GFX_RVA_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_RVA_early_armored_car_medium"
@@ -1000,7 +1019,7 @@ SpriteType = {
 		name = "GFX_RVA_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_TCH_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1020,7 +1039,6 @@ SpriteType = {
 		name = "GFX_TCH_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_TCH_early_armored_car_medium"
@@ -1086,7 +1104,7 @@ SpriteType = {
 		name = "GFX_TCH_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_UCH_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1106,7 +1124,6 @@ SpriteType = {
 		name = "GFX_UCH_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_UCH_early_armored_car_medium"
@@ -1172,7 +1189,7 @@ SpriteType = {
 		name = "GFX_UCH_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_URL_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1192,7 +1209,6 @@ SpriteType = {
 		name = "GFX_URL_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_URL_early_armored_car_medium"
@@ -1258,7 +1274,7 @@ SpriteType = {
 		name = "GFX_URL_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_WVA_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1278,7 +1294,6 @@ SpriteType = {
 		name = "GFX_WVA_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_WVA_early_armored_car_medium"
@@ -1344,7 +1359,7 @@ SpriteType = {
 		name = "GFX_WVA_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_SIB_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1364,7 +1379,6 @@ SpriteType = {
 		name = "GFX_SIB_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_SIB_early_armored_car_medium"
@@ -1430,7 +1444,7 @@ SpriteType = {
 		name = "GFX_SIB_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_CRI_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1450,7 +1464,6 @@ SpriteType = {
 		name = "GFX_CRI_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_CRI_early_armored_car_medium"
@@ -1516,7 +1529,7 @@ SpriteType = {
 		name = "GFX_CRI_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_PRM_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1536,7 +1549,6 @@ SpriteType = {
 		name = "GFX_PRM_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_PRM_early_armored_car_medium"
@@ -1602,7 +1614,7 @@ SpriteType = {
 		name = "GFX_PRM_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_BKL_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1622,7 +1634,6 @@ SpriteType = {
 		name = "GFX_BKL_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_BKL_early_armored_car_medium"
@@ -1688,7 +1699,7 @@ SpriteType = {
 		name = "GFX_BKL_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_TRK_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1708,7 +1719,6 @@ SpriteType = {
 		name = "GFX_TRK_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_TRK_early_armored_car_medium"
@@ -1774,7 +1784,7 @@ SpriteType = {
 		name = "GFX_TRK_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_UKR_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1794,7 +1804,6 @@ SpriteType = {
 		name = "GFX_UKR_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_UKR_early_armored_car_medium"
@@ -1860,7 +1869,7 @@ SpriteType = {
 		name = "GFX_UKR_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_CPG_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1880,7 +1889,6 @@ SpriteType = {
 		name = "GFX_CPG_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_CPG_early_armored_car_medium"
@@ -1946,7 +1954,7 @@ SpriteType = {
 		name = "GFX_CPG_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_AMR_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -1966,7 +1974,6 @@ SpriteType = {
 		name = "GFX_AMR_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_AMR_early_armored_car_medium"
@@ -2032,7 +2039,7 @@ SpriteType = {
 		name = "GFX_AMR_advanced_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/SOV_infantry_equipment_3.dds"
 	}
-SpriteType = {
+	SpriteType = {
 		name = "GFX_FER_gw_artillery_medium"
 		texturefile = "gfx/interface/technologies/artillery/art0.dds"
 	}
@@ -2052,7 +2059,6 @@ SpriteType = {
 		name = "GFX_FER_howitzer4_medium"
 		texturefile = "gfx/interface/technologies/artillery/RUS_howitzer2.dds"
 	}
-	
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_FER_early_armored_car_medium"

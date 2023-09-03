@@ -64,6 +64,21 @@ RUS_artillery_equipment_3_short:0 "M1910 107 mm"
  RUS_infantry_equipment_3:0 "Fedorov Avtomat M1916"
  RUS_infantry_equipment_3_short:0 "Fedorov Avtomat"
 
+
+ RUS_fighter_equipment_0:0 "Sikorsky 16"
+ RUS_fighter_equipment_0_short:0 "Sikorsky 16"
+ RUS_fighter_equipment_1:0 "Newport 10"
+ RUS_fighter_equipment_1_short:0 "Newport 10"
+ RUS_fighter_equipment_2:0 "Newport 25"
+ RUS_fighter_equipment_2_short:0 "Newport 25"
+ RUS_fighter_equipment_3:0 "Vikkers"
+ RUS_fighter_equipment_3_short:0 "Vikkers"
+ RUS_fighter_cv_equipment_2:0 "Carrier Newport 25"
+ RUS_fighter_cv_equipment_2_short:0 "Carrier Newport 25"
+ RUS_fighter_cv_equipment_3:0 "Carrier Vikkers"
+ RUS_fighter_cv_equipment_3_short:0 "Carrier Vikkers"
+
+
 CCA_howitzer_equipment_1:0 "122 mm Howitzer"
 CCA_howitzer_equipment_2:0 "152 mm Howitzer"
 CCA_artillery_equipment_1:0 "M1900 76 mm"
