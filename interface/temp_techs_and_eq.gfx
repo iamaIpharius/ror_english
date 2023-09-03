@@ -104,6 +104,26 @@ spriteTypes = {
 		name = "GFX_RUS_cv_fighter3_medium"
 		texturefile = "gfx/interface/technologies/air/RUS_fighter3.dds"
 	}
+	SpriteType = {
+		name = "GFX_RUS_CAS1_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_cas1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_CAS2_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_cas2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_CAS3_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_cas3.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_cv_CAS2_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_cas2.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_cv_CAS3_medium"
+		texturefile = "gfx/interface/technologies/air/RUS_cas3.dds"
+	}
 	#TO CHANGE#
 	SpriteType = {
 		name = "GFX_RUS_early_armored_car_medium"
