@@ -17,6 +17,9 @@ ammo_from_allies_cat = {
 				NOT = { has_focus_tree = Orenburg_other_white_cossaks_focus }
 			}
 		}
+		any_enemy_country = {
+			tag = RUS
+		}
 	}
 	picture = GFX_decision_cat_picture_rcw_intervention_desisions
 }

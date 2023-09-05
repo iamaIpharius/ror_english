@@ -2,7 +2,7 @@ ammo_from_allies_cat = {
 	ammo_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 0
+			num_of_civilian_factories_available_for_projects > 0
 		}
 		visible = {
 		}
@@ -25,7 +25,7 @@ ammo_from_allies_cat = {
 	support_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 0
+			num_of_civilian_factories_available_for_projects > 0
 		}
 		visible = {
 		}
@@ -48,7 +48,7 @@ ammo_from_allies_cat = {
 	mg_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 1
+			num_of_civilian_factories_available_for_projects > 1
 		}
 		visible = {
 		}
@@ -71,7 +71,7 @@ ammo_from_allies_cat = {
 	arty_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 1
+			num_of_civilian_factories_available_for_projects > 1
 		}
 		visible = {
 		}
@@ -94,7 +94,7 @@ ammo_from_allies_cat = {
 	mortars_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 0
+			num_of_civilian_factories_available_for_projects > 0
 		}
 		visible = {
 		}
@@ -117,7 +117,7 @@ ammo_from_allies_cat = {
 	armored_cars_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 2
+			num_of_civilian_factories_available_for_projects > 2
 		}
 		visible = {
 		}
@@ -140,7 +140,7 @@ ammo_from_allies_cat = {
 	light_tanks_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 4
+			num_of_civilian_factories_available_for_projects > 4
 		}
 		visible = {
 		}
@@ -165,7 +165,7 @@ ammo_from_allies_cat = {
 	medium_tanks_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 4
+			num_of_civilian_factories_available_for_projects > 4
 		}
 		visible = {
 		}
@@ -202,7 +202,7 @@ ammo_from_allies_cat = {
 	planes_from_allies_decision = {
 		icon = GFX_decision_category_generic_arms_trade
 		available = {
-			num_of_available_civilian_factories > 4
+			num_of_civilian_factories_available_for_projects > 4
 		}
 		visible = {
 		}
