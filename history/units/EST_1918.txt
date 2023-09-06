@@ -32,4 +32,40 @@ units = {
 		division_template = "Jalaväediviisi"
 		start_experience_factor = 0.1
 	}
+	division = {
+		name = "I Jalaväediviisi"
+		location = 3152
+		division_template = "Jalaväediviisi"
+		start_experience_factor = 0.1
+	}
+	division = {
+		name = "V Jalaväediviisi"
+		location = 3152
+		division_template = "Jalaväediviisi"
+		start_experience_factor = 0.1
+	}
+	division = {
+		name = "VI Jalaväediviisi"
+		location = 3152
+		division_template = "Jalaväediviisi"
+		start_experience_factor = 0.1
+	}
+	division = {
+		name = "VII Jalaväediviisi"
+		location = 3152
+		division_template = "Jalaväediviisi"
+		start_experience_factor = 0.1
+	}
+	division = {
+		name = "VIII Jalaväediviisi"
+		location = 3152
+		division_template = "Jalaväediviisi"
+		start_experience_factor = 0.1
+	}
+	division = {
+		name = "IX Jalaväediviisi"
+		location = 3152
+		division_template = "Jalaväediviisi"
+		start_experience_factor = 0.1
+	}
 }
