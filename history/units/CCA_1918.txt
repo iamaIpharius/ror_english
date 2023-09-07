@@ -116,7 +116,7 @@ units = {
 		location = 11225		# Samara
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -124,7 +124,7 @@ units = {
 		location = 9299		# Stavropol_na_Volge
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -132,7 +132,7 @@ units = {
 		location = 9243		# Sizran
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -140,7 +140,7 @@ units = {
 		location = 1278		# Ufa
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -148,7 +148,7 @@ units = {
 		location = 9299		# Stavropol_na_Volge
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -156,7 +156,7 @@ units = {
 		location = 11225		# Samara
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -164,7 +164,7 @@ units = {
 		location = 9243		# Sizran
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -172,7 +172,7 @@ units = {
 		location = 3382		# Pod Simbirskom
 		division_template = "Uralskaya Strelkovaya Diviziya"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -180,7 +180,7 @@ units = {
 		location = 11319		# Pod Simbirskom
 		division_template = "Uralskaya Strelkovaya Diviziya"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -218,7 +218,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -226,7 +226,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -234,7 +234,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -242,7 +242,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -250,7 +250,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -258,7 +258,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -266,7 +266,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -274,7 +274,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -282,7 +282,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 	division = {
@@ -290,7 +290,7 @@ units = {
 		location = 11225		# Tambov
 		division_template = "Dobrovolcheskaya Brigada"
 		start_experience_factor = 0.05
-		start_equipment_factor = 0.3
+		start_equipment_factor = 1
 		start_manpower_factor = 0.3
 	}
 }
