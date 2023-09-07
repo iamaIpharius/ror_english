@@ -2046,3 +2046,101 @@ country_event = {
 		}
 	}
 }
+country_event = {
+	id = poland.22
+	title = poland.22.t
+	desc = poland.22.d
+
+	picture = GFX_report_event_greece_civil_war_soldiers
+	fire_only_once = yes
+	trigger = {
+		date > 1919.04.01
+		tag = POL
+	}
+	option = {
+		name = poland.22.a
+		hidden_effect = {
+			division_template = {
+				name = "Haller's army Brigade"
+				regiments = {
+					infantry = {
+						x = 0
+						y = 0
+					}
+					infantry = {
+						x = 0
+						y = 1
+					}
+					infantry = {
+						x = 0
+						y = 2
+					}
+					infantry = {
+						x = 0
+						y = 3
+					}
+					infantry = {
+						x = 1
+						y = 0
+					}
+					infantry = {
+						x = 1
+						y = 1
+					}
+				}
+				support = {
+					recon = {
+						x = 0
+						y = 0
+					}
+					engineer = {
+						x = 0
+						y = 1
+					}
+					field_hospital = {
+						x = 0
+						y = 2
+					}
+					artillery = {
+						x = 0
+						y = 3
+					}
+				}
+			}
+		}
+		capital_scope = {
+			create_unit = {
+				division = "name = \"1. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+			create_unit = {
+				division = "name = \"2. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+			create_unit = {
+				division = "name = \"3. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+			create_unit = {
+				division = "name = \"4. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+			create_unit = {
+				division = "name = \"5. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+			create_unit = {
+				division = "name = \"6. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+			create_unit = {
+				division = "name = \"7. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+			create_unit = {
+				division = "name = \"8. Haller's army Brigade\" division_template = \"Haller's army Brigade\" start_experience_factor = 0.5 start_equipment_factor = 1"
+				owner = ROOT
+			}
+		}
+	}
+}
