@@ -228,35 +228,99 @@ ammo_from_allies_cat = {
 	}
 }
 
-# white_armored_trains_cat = {
-# 	RVA_white_armored_trains_decision = {
-# 		icon = mobilization_of_rva_corps_icon
-# 		available = {
-# 		}
-# 		visible = {
-# 			tag = RVA
-# 		}
-# 		cost = 25
-# 		fire_only_once = yes
-# 		ai_will_do = {
-# 			factor = 1
-# 		}
-# 		complete_effect = {
-# 			create_railway_gun = {
-# 				equipment = railway_gun_equipment_1
-# 				name = "General Alekseev"
-# 				location = 775
-# 			}
-# 			create_railway_gun = {
-# 				equipment = railway_gun_equipment_1
-# 				name = "Forward for the Motherland"
-# 				location = 775
-# 			}
-# 			create_railway_gun = {
-# 				equipment = railway_gun_equipment_1
-# 				name = "United Russia"
-# 				location = 775
-# 			}
-# 		}
-# 	}
-# }
+ukr_gather_troops = {
+	gather_troops_221 = {
+		fire_only_once = yes
+		available = {
+			has_war = yes
+		}
+		visible = {
+			has_country_leader = {
+				name = "Simon Petlura"
+				ruling_only = yes
+			}
+			221 = {
+				is_fully_controlled_by = ROOT
+				is_core_of = ROOT
+			}
+		}
+		highlight_states = {
+			highlight_state_targets = {
+				state = 221
+			}
+		}
+		ai_will_do = {
+			factor = 100			#0
+			modifier = {
+				add = 10
+				#				divisions_in_state = {
+				#					size < 1
+				#					state = 221
+				#				}
+				221 = {
+					any_neighbor_state = {
+						CONTROLLER = {
+							has_war_with = ROOT
+						}
+					}
+				}
+			}
+		}
+		complete_effect = {
+			221 = {
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+				create_unit = {
+					division = "name = \"Strelecka divizya\" division_template = \"Nationalynaya Pekhotnaya Diviziya\" start_experience_factor = 0.2 start_equipment_factor = 1 start_manpower_factor = 1"
+					owner = ROOT
+				}
+			}
+		}
+	}
+}
