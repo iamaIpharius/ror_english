@@ -2144,3 +2144,44 @@ country_event = {
 		}
 	}
 }
+country_event = {
+	id = poland.23
+	title = poland.23.t
+	desc = poland.23.d
+
+	picture = GFX_report_event_greece_civil_war_soldiers
+	fire_only_once = yes
+	trigger = {
+		tag = POL
+		has_global_flag = WWI_GER_HAS_CAPITULATED
+	}
+	option = {
+		name = poland.23.a
+		if = {
+			limit = { 
+				POL = { 
+					owns_state = 10 
+					OR = { 
+						owns_state = 87 
+						owns_state = 90 
+					} 
+					NOT = { owns_state = 807 } 
+					NOT = { owns_state = 85 } 
+					NOT = { owns_state = 1000 } 
+					NOT = { owns_state = 1271 } 
+				} 
+			}
+			POL = { 
+				transfer_state = 807 
+				transfer_state = 85 
+				transfer_state = 1000 
+				transfer_state = 1271
+				add_state_core = 807
+				add_state_core = 85
+				add_state_core = 1000
+				add_state_core = 1271
+			}
+		}
+		
+	}
+}
